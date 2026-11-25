@@ -13,6 +13,7 @@
 ![Requires Harmony](https://img.shields.io/badge/requires-Harmony-8a2be2?style=flat-square)
 ![No DLC needed](https://img.shields.io/badge/DLC-not_required-2e7d32?style=flat-square)
 ![Languages](https://img.shields.io/badge/languages-English_%7C_Türkçe-1565c0?style=flat-square)
+[![License: MIT and CC BY-NC-SA 4.0](https://img.shields.io/badge/license-MIT_%2B_CC_BY--NC--SA_4.0-555555?style=flat-square)](#license)
 [![Subscribers](https://img.shields.io/steam/subscriptions/3845334110?style=flat-square&label=subscribers&color=1b2838)](https://steamcommunity.com/sharedfiles/filedetails/?id=3845334110)
 
 </div>
@@ -186,6 +187,17 @@ The current version is **4.2.1**. See [CHANGELOG.md](CHANGELOG.md) for every rel
 ## Feedback
 
 Bug reports and ideas are welcome on the [Steam Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3845334110) or in the [issues](https://github.com/keremtrgl/heirsofearth/issues). For a bug, please add your mod list and a log ([HugsLib](https://steamcommunity.com/sharedfiles/filedetails/?id=818773962) or the `Player.log` file helps a lot).
+
+## License
+
+Heirs of Earth uses two licenses, so that modders can learn from and reuse the code while the art and writing stay credited and non-commercial.
+
+| What | License | File |
+|---|---|---|
+| **Code**: the C# source, the Python, PowerShell and test scripts, and the XML structure | [MIT](https://opensource.org/license/mit) | [LICENSE](LICENSE) |
+| **Creative assets**: textures, music and sounds, names, descriptions, stories and other in-game text, Steam texts and screenshots | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [LICENSE-ASSETS](LICENSE-ASSETS) |
+
+In short: use the code freely, credit "Heirs of Earth by Kerem" when you use the art or text, don't sell them, and share your changes under the same terms. Translations and compatibility patches are welcome. Please don't re-upload the whole mod to the Steam Workshop; link to the original instead.
 
 ## Credits
 
