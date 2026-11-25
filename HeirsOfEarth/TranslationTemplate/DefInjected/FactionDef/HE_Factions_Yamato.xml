@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Yamato.label>Yamato Shogunate</HE_Faction_Yamato.label>
+  <HE_Faction_Yamato.description>The clans of Yamato, heirs of the colony ship Takamagahara. Their warrior houses serve the shogun with unbending loyalty, and their smiths fold steel into the finest blades in the world.</HE_Faction_Yamato.description>
+  <HE_Faction_Yamato.fixedName>Yamato Shogunate</HE_Faction_Yamato.fixedName>
+  <HE_Faction_Yamato.pawnSingular>Yamato</HE_Faction_Yamato.pawnSingular>
+  <HE_Faction_Yamato.pawnsPlural>Yamato people</HE_Faction_Yamato.pawnsPlural>
+  <HE_Faction_Yamato.leaderTitle>shogun</HE_Faction_Yamato.leaderTitle>
+  <HE_Player_Yamato.label>Yamato settlers</HE_Player_Yamato.label>
+  <HE_Player_Yamato.description>A small household of Yamato settlers clearing new land for their clan.</HE_Player_Yamato.description>
+  <HE_Player_Yamato.pawnSingular>colonist</HE_Player_Yamato.pawnSingular>
+  <HE_Player_Yamato.pawnsPlural>colonists</HE_Player_Yamato.pawnsPlural>
+</LanguageData>

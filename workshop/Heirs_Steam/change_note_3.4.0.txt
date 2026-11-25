@@ -1,0 +1,45 @@
+Heirs of Earth 3.4.0 "Palace and Treaty"
+
+The nations now have courts. Every nation is ruled by a ruler with a temperament, crowns pass from ruler to ruler, you can sign treaties with them, earn their titles, and the world has its own events.
+
+RULERS AND SUCCESSION (NEW)
+- Every heir nation is ruled by its faction leader, shown with title, name and epithet, for example "Consul Gaius Valerius, the Bold".
+- Every ruler has a temperament. Each nation leans toward its own (Nordheim toward warlike rulers, Hellas toward scholarly and mercantile ones, the Inti toward pious and cautious ones), but any temperament is possible.
+- Warlike: seeks quarrels with rivals, demands half again as much tribute, offers defensive alliances.
+- Mercantile: warms to every nation, offers trade treaties, likes to host great fairs.
+- Scholarly: shares learning freely (a quarter more culture knowledge from that nation), offers science exchanges.
+- Pious: keeps the festivals, may host the Games, offers peace.
+- Cautious: often holds back from war, warms slowly to others, offers peace.
+- A reign lasts four to ten years, then the crown passes to a new ruler with a new temperament. If a leader dies or is killed, the successor is noticed at once.
+- A new ruler may revoke treaties with you when relations are poor, and a warlike rival may use the change of crown to start a war.
+
+TREATIES (NEW)
+- The Diplomacy page now shows every nation's court: its ruler, your standing there and the treaties you hold or can sign. Hover for the details.
+- Peace (200 silver, goodwill 0+): the nation demands no tribute from you, and its goodwill rises a little every month.
+- Trade (300 silver, goodwill 20+): a trade caravan from the nation visits every twenty days or so.
+- Science exchange (500 silver, goodwill 30+, needs an embassy): 8 culture knowledge of the nation every month.
+- Defensive alliance (800 silver, goodwill 60+, needs an embassy): when raiders attack your home, the nation often sends warriors to help (at most every ten days).
+- Rulers sometimes offer the treaty that suits their temperament for free.
+- A treaty ends when the nation turns hostile, or when a new ruler revokes it. You can cancel a treaty yourself, but the nation loses 15 goodwill and every other nation 3: word of a broken oath travels fast.
+
+EMBASSY (NEW)
+- New shared research "embassies" and a 3x3 embassy building: a hall with a desk for letters and seals, chairs for the envoys and a banner for every nation.
+- Needed for science exchanges and defensive alliances. With an embassy, every nation you hold a treaty with grows a little fonder of you each month.
+
+TITLES (NEW)
+- Your standing with each nation: stranger, guest, friend (40 goodwill), honoured friend (60 goodwill and two treaties).
+- The highest honour is the nation's own: honorary citizen of Nova Roma, honoured guest of the shogun, sworn friend of the jarls, proxenos of the League, marquis of the outer realm, knight of the Commonwealth, friend of the Pharaoh, benefactor of the Satrap, kin of the Sun. It needs 80 goodwill, a defensive alliance and an embassy, is proclaimed in a letter and brings 4 culture knowledge every month.
+
+WORLD EVENTS (NEW)
+- The Games: Hellas (or a pious court) holds the Games. Send your best fighter: a win (the chance follows their melee or shooting skill) raises your goodwill with every nation and gives the champion a strong good mood; even taking part pleases the hosts.
+- Great fair: a nation, often one with a mercantile ruler, opens a great fair, and caravans of several nations pass by your colony over the next days.
+- Famine: a nation asks for food. Sending it brings goodwill and some of their knowledge.
+- Plague: a nation asks for medicine. If you trade with them (a trade treaty or trade road), the sickness may travel your roads whatever you answer.
+- New setting: "World events between the nations" to turn them off.
+
+ENCYCLOPEDIA
+- Each nation's page now shows its ruler and temperament.
+
+TECHNICAL
+- New automatic tests: courts and honorary titles for every nation, succession (natural, after a death, after a long reign), temperament effects, signing all four treaties with their fees, the embassy requirement, monthly benefits (knowledge, caravans), allied help against a raid, cancelling and voiding treaties, a ruler's treaty offer, all four world events and their answers, and treaties and rulers surviving save and load.
+- Save compatible. Rulers are crowned when an older save is first loaded.

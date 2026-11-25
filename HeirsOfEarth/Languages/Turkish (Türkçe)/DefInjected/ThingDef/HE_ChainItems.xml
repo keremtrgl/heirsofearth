@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_LostEagle.label>kararmış kartal</HE_Roma_LostEagle.label>
+  <HE_Roma_LostEagle.description>Kuşaklar önce kohortuyla birlikte kaybolan Dokuzuncu Lejyon'un bronz kartalı. Bir kanadı çatlak, yaldızı neredeyse silinmiş, ama her Nova Romalı onu bir bakışta tanır.</HE_Roma_LostEagle.description>
+  <HE_Yamato_Regalia.label>kutsal ayna</HE_Yamato_Regalia.label>
+  <HE_Yamato_Regalia.description>İpek bir yastık üzerinde duran bronz bir ayna; kayıp imparatorluk soyunun hükümranlık eşyalarından biri. Onu elinde tutan, gerçek varisi ilan edebilir.</HE_Yamato_Regalia.description>
+  <HE_Nord_BarrowHorn.label>höyük boynuzu</HE_Nord_BarrowHorn.label>
+  <HE_Nord_BarrowHorn.description>Donmuş bir mezar höyüğünden alınmış, demir bilezikli bir boynuz. Üzerindeki kırağı hiç erimez; eski şarkılar onun fırtınayı çağırabildiğini söyler.</HE_Nord_BarrowHorn.description>
+  <HE_Roma_Artifact_Eagle.label>Kartal Sancağı</HE_Roma_Artifact_Eagle.label>
+  <HE_Roma_Artifact_Eagle.description>Kırmızı bir sancağın tepesinde, onarılmış Dokuzuncu Lejyon kartalı. Kaldırıldığında yakındaki her kolonist sanki bütün lejyon arkasındaymış gibi dövüşür. Her kullanımdan sonra on gün dinlenmesi gerekir.</HE_Roma_Artifact_Eagle.description>
+  <HE_Roma_Artifact_Eagle.comps.1.useLabel>Kartalı kaldır</HE_Roma_Artifact_Eagle.comps.1.useLabel>
+  <HE_Nord_Artifact_StormHorn.label>Fırtına Boynuzu</HE_Nord_Artifact_StormHorn.label>
+  <HE_Nord_Artifact_StormHorn.description>Uyanmış höyük boynuzu. Sesi halkını coşturur, birçok düşmanı kaçırır ve açık gökten bir gök gürültülü fırtına çeker. Her kullanımdan sonra on iki gün dinlenmesi gerekir.</HE_Nord_Artifact_StormHorn.description>
+  <HE_Nord_Artifact_StormHorn.comps.1.useLabel>Boynuzu üfle</HE_Nord_Artifact_StormHorn.comps.1.useLabel>
+  <HE_Yamato_Artifact_SkySword.label>Gök Kılıcı</HE_Yamato_Artifact_SkySword.label>
+  <HE_Yamato_Artifact_SkySword.description>Söylendiğine göre gökten düşen demirden dövülmüş ilk şogunun kılıcı. Ağzı belli belirsiz mavidir ve hiç körelmez. Her elde bir şaheserdir; eğitimli bir elde ise bir efsane.</HE_Yamato_Artifact_SkySword.description>
+  <HE_Yamato_Artifact_SkySword.tools.0.label>kabza</HE_Yamato_Artifact_SkySword.tools.0.label>
+  <HE_Yamato_Artifact_SkySword.tools.1.label>uç</HE_Yamato_Artifact_SkySword.tools.1.label>
+  <HE_Yamato_Artifact_SkySword.tools.2.label>ağız</HE_Yamato_Artifact_SkySword.tools.2.label>
+  <HE_Hellas_LibraryScrolls.label>mühürlü kütüphane tomarları</HE_Hellas_LibraryScrolls.label>
+  <HE_Hellas_LibraryScrolls.description>Argo'nun kayıp kütüphanesinden, iki yüzyıldır balmumuyla mühürlü tomarlarla dolu bir sedir sandık. İçinde, kitapların arasında küçük bronz bir aegis duruyor.</HE_Hellas_LibraryScrolls.description>
+  <HE_Tianxia_JadeSeal.label>çatlak yeşim mühür</HE_Tianxia_JadeSeal.label>
+  <HE_Tianxia_JadeSeal.description>Tek bir yeşil yeşim bloğundan oyulmuş, tepesinde kıvrılmış bir ejder olan Tianxia imparatorluk mührü. Bir köşesinden bir çatlak geçiyor. Onunla bir fermanı mühürleyen göğün adına konuşur.</HE_Tianxia_JadeSeal.description>
+  <HE_Albion_DentedDrum.label>ezik alay davulu</HE_Albion_DentedDrum.label>
+  <HE_Albion_DentedDrum.description>İlk alayı karaya çıkaran Avalon Muhafızları'nın davulu. Pirinci ezilmiş, derisi yarılmış, ama boyalı aslan hâlâ seçilebiliyor.</HE_Albion_DentedDrum.description>
+  <HE_Hellas_Artifact_Aegis.label>Baykuş Aegisi</HE_Hellas_Artifact_Aegis.label>
+  <HE_Hellas_Artifact_Aegis.description>Kayıp kütüphanenin tomarları arasında bulunan, bilgelik baykuşunu taşıyan bronz bir kalkan-pelerin. Yukarı kaldırıldığında dostları güçlendirir ve birçok düşmanı kaçırır. Her kullanımdan sonra on gün dinlenmesi gerekir.</HE_Hellas_Artifact_Aegis.description>
+  <HE_Hellas_Artifact_Aegis.comps.1.useLabel>Aegisi kaldır</HE_Hellas_Artifact_Aegis.comps.1.useLabel>
+  <HE_Tianxia_Artifact_DragonSeal.label>Ejder Mührü</HE_Tianxia_Artifact_DragonSeal.label>
+  <HE_Tianxia_Artifact_DragonSeal.description>Altınla onarılmış yeşim mühür. Bir savaş fermanına basıldığında halkın cesaret bulur, bazı düşmanlar cesaretini yitirir ve bulutlar yumuşak bir yağmura dönüşür. Her kullanımdan sonra on bir gün dinlenmesi gerekir.</HE_Tianxia_Artifact_DragonSeal.description>
+  <HE_Tianxia_Artifact_DragonSeal.comps.1.useLabel>Fermanı mühürle</HE_Tianxia_Artifact_DragonSeal.comps.1.useLabel>
+  <HE_Albion_Artifact_WarDrum.label>Avalon Muhafızları'nın Davulu</HE_Albion_Artifact_WarDrum.label>
+  <HE_Albion_Artifact_WarDrum.description>Yeni pirinç ve taze deriyle onarılmış eski alay davulu. İlerleme marşını çaldığında halkın tek vücut olarak saf tutar ve düşmanlar bütün bir ordunun geldiğini duyar. Her kullanımdan sonra on gün dinlenmesi gerekir.</HE_Albion_Artifact_WarDrum.description>
+  <HE_Albion_Artifact_WarDrum.comps.1.useLabel>İlerleme marşını çal</HE_Albion_Artifact_WarDrum.comps.1.useLabel>
+  <HE_Kemet_BuriedDisc.label>kumla aşınmış güneş diski</HE_Kemet_BuriedDisc.label>
+  <HE_Kemet_BuriedDisc.description>İki yüzyıllık kumla matlaşmış, kenarında oyma saatlerden bir halka bulunan büyük, yaldızlı bronz bir disk. Bütün bir şehrin saatiydi.</HE_Kemet_BuriedDisc.description>
+  <HE_Kemet_Artifact_SunDisc.label>Iteru Güneş Diski</HE_Kemet_Artifact_SunDisc.label>
+  <HE_Kemet_Artifact_SunDisc.description>Şehrin büyük güneş saati, alev gibi parlayana dek cilalanmış. Göğe kaldırıldığında bulutları dağıtır, halkının yüreğini ısıtır ve birçok düşmanı gözünü kamaştırarak kaçırır. Her kullanımdan sonra on gün dinlenmesi gerekir.</HE_Kemet_Artifact_SunDisc.description>
+  <HE_Kemet_Artifact_SunDisc.comps.1.useLabel>Güneş diskini kaldır</HE_Kemet_Artifact_SunDisc.comps.1.useLabel>
+  <HE_Pars_TarnishedEye.label>kararmış altın göz</HE_Pars_TarnishedEye.label>
+  <HE_Pars_TarnishedEye.description>Yanmış bir menzilin isiyle kararmış, kanatlı bir çerçeveye oturtulmuş, avuç büyüklüğünde altın ve lacivert taştan bir göz. Kralın müfettişleri onu bir zamanlar yetki belgesi olarak taşırdı.</HE_Pars_TarnishedEye.description>
+  <HE_Pars_Artifact_KingsEye.label>Kralın Gözü</HE_Pars_Artifact_KingsEye.label>
+  <HE_Pars_Artifact_KingsEye.description>Kralın müfettişlerinin yetki belgesi, temizlenip bir asaya takılmış. Gösterildiğinde seninle savaşta olmayan her mirasçı devlet yolun eski nezaketini hatırlar ve senin hakkında daha iyi düşünür, dost bir kervan koloninin yolunu tutar ve halkın biraz daha dik durur. Her kullanımdan sonra on beş gün dinlenmesi gerekir.</HE_Pars_Artifact_KingsEye.description>
+  <HE_Pars_Artifact_KingsEye.comps.1.useLabel>Kralın Gözü'nü göster</HE_Pars_Artifact_KingsEye.comps.1.useLabel>
+  <HE_Inti_TangledQuipu.label>dolaşmış büyük quipu</HE_Inti_TangledQuipu.label>
+  <HE_Inti_TangledQuipu.description>Kalın bir ana ipten sarkan, çamur ve yıllarla keçeleşmiş, renkleri solmuş yüzlerce ip. Aralarında hâlâ altın iplikler parlıyor.</HE_Inti_TangledQuipu.description>
+  <HE_Inti_Artifact_GoldenThread.label>Altın İp</HE_Inti_Artifact_GoldenThread.label>
+  <HE_Inti_Artifact_GoldenThread.description>Kayıp eyaletin büyük quipusu, çözülüp altın bir ipe yeniden dizilmiş: bir halkın eksiksiz sayımı. Düğümleri yüksek sesle okunduğunda teraslara yağmur yağar, halkın tek vücut olup dövüşür ve birçok düşman yüreğini yitirip kaçar. Her kullanımdan sonra on gün dinlenmesi gerekir.</HE_Inti_Artifact_GoldenThread.description>
+  <HE_Inti_Artifact_GoldenThread.comps.1.useLabel>Altın İp'i oku</HE_Inti_Artifact_GoldenThread.comps.1.useLabel>
+  <HE_Roma_BurnedCodex.label>kavrulmuş kodeks</HE_Roma_BurnedCodex.label>
+  <HE_Roma_BurnedCodex.description>Eski arşivi yakan ateşten kurtarılmış, kurucuların kendi yasa kopyası. Kenarları kararmış ve cildi gitmiş, ama büyük kısmı hâlâ okunabiliyor.</HE_Roma_BurnedCodex.description>
+  <HE_Yamato_SilentChronicle.label>sessiz vakayiname</HE_Yamato_SilentChronicle.label>
+  <HE_Yamato_SilentChronicle.description>Son saray tarihçisinin kendi el yazması, yağlı ipeğe sarılı. Ateş gecesini anlatan son bölüm hiç kimseye gösterilmedi.</HE_Yamato_SilentChronicle.description>
+  <HE_Nord_SkaldStaff.label>skaldın run asası</HE_Nord_SkaldStaff.label>
+  <HE_Nord_SkaldStaff.description>Baştan aşağı runlarla oyulmuş bir asa: bildiği her destan için bir satır oyan son büyük skaldın hafıza dayanağı.</HE_Nord_SkaldStaff.description>
+  <HE_Hellas_SunkenScroll.label>deniz lekeli tomar</HE_Hellas_SunkenScroll.label>
+  <HE_Hellas_SunkenScroll.description>Batık kütüphaneden, mumla mühürlenmiş kurşun bir tomar kutusu. İçindeki papirüs deniz lekeli ama bütün.</HE_Hellas_SunkenScroll.description>
+  <HE_Tianxia_HiddenRecords.label>saklı kayıtlar</HE_Tianxia_HiddenRecords.label>
+  <HE_Tianxia_HiddenRecords.description>Büyük tarihçinin kızının bir dağ mağarasına sakladığı, ipekle bağlanmış bambu şeritler. Kuru, düzenli ve eksiksizler.</HE_Tianxia_HiddenRecords.description>
+  <HE_Albion_LostCharter.label>kayıp ferman</HE_Albion_LostCharter.label>
+  <HE_Albion_LostCharter.description>Altından yüz mühür sarkan büyük bir parşömen. Mürekkep solmuş, ama lonca ustalarının imzaları hâlâ okunabiliyor.</HE_Albion_LostCharter.description>
+  <HE_Kemet_TombScroll.label>mezar tomarı</HE_Kemet_TombScroll.label>
+  <HE_Kemet_TombScroll.description>Siyah ve kırmızıyla boyanmış, sedir bir kutuya mühürlenmiş uzun bir papirüs. İkinci gündoğumunun ilk firavunuyla birlikte gömüldü.</HE_Kemet_TombScroll.description>
+  <HE_Pars_PoetsBook.label>şairin yol kitabı</HE_Pars_PoetsBook.label>
+  <HE_Pars_PoetsBook.description>Yaşlı şairin otuz yıl boyunca yolda yazdığı kendi kopyası. Sayfalar şarap ve tozla lekeli ve son beyit yarım kalmış.</HE_Pars_PoetsBook.description>
+  <HE_Inti_GreatKhipu.label>büyük kipu</HE_Inti_GreatKhipu.label>
+  <HE_Inti_GreatKhipu.description>Lama yünü bir battaniyeye sarılmış bin iplik bir kipu. Düğümler sıkı ve renkler hâlâ parlak.</HE_Inti_GreatKhipu.description>
+</LanguageData>

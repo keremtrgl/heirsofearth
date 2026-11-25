@@ -1,0 +1,10 @@
+Heirs of Earth - translation template
+
+This folder holds every text of the mod in English, ready to translate. The game does not load it.
+
+1. Copy the folders DefInjected and Keyed into HeirsOfEarth/Languages/<YourLanguage>/, using the language folder name the game
+   uses (for example "French (Français)" or "German (Deutsch)"; see RimWorld/Data/Core/Languages).
+2. Translate the text between the tags. Keep the tags, the keys and anything in curly braces such as {0} or {PAWN_nameDef}.
+3. Start the game in your language. Dev mode -> "Translation report" lists anything missing.
+
+The Turkish translation in Languages/Turkish (Türkçe) is a complete example. Translations are welcome as separate mods.

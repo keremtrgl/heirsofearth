@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Albion_SteamEngine</defName>
+    <label>steam engine</label>
+    <description>A wood-fired boiler driving a beam engine and a dynamo. It produces more power than a simple generator, and plenty of noise and smoke.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_SteamEngine</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.9</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>160</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+      <BlocksGranite>30</BlocksGranite>
+    </costList>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>4500</WorkToBuild>
+      <Mass>40</Mass>
+      <Beauty>-10</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <designationCategory>Power</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_SteamEngine</li>
+    </researchPrerequisites>
+    <building>
+      <destroySound>BuildingDestroyed_Metal_Medium</destroySound>
+    </building>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerPlant</compClass>
+        <basePowerConsumption>-1400</basePowerConsumption>
+        <transmitsPower>true</transmitsPower>
+        <soundAmbientProducingPower>WoodFiredGenerator_Ambience</soundAmbientProducingPower>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>26</fuelConsumptionRate>
+        <fuelCapacity>90</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+        <canEjectFuel>true</canEjectFuel>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>5</glowRadius>
+        <glowColor>(217,112,33,0)</glowColor>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>6</heatPerSecond>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <blockWind>true</blockWind>
+    <castEdgeShadows>false</castEdgeShadows>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Albion_PubTable</defName>
+    <label>pub table</label>
+    <description>A long, scarred oak table with tankards of ale, a game of cards and a dartboard on the post. Colonists gather here to drink, argue and lose at darts.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_PubTable</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(3,2)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>90</costStuffCount>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToBuild>3000</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>4</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_Pub</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Social</joyKind>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>HE_Albion_TextileMill</defName>
+    <label>textile mill</label>
+    <description>A powered loom with an iron frame, a belt wheel and a roll of cloth. It weaves any wool into tweed, a warm and hard-wearing fabric.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_TextileMill</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,1)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.2</staticSunShadowHeight>
+    <costList>
+      <Steel>120</Steel>
+      <WoodLog>60</WoodLog>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <WorkToBuild>3500</WorkToBuild>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>1</Flammability>
+      <Cleanliness>-2</Cleanliness>
+      <Mass>40</Mass>
+    </statBases>
+    <size>(3,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>true</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <researchPrerequisites>
+      <li>HE_Albion_TextileMill</li>
+    </researchPrerequisites>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>300</basePowerConsumption>
+        <shortCircuitInRain>true</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Breakdownable" />
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef>
+    <defName>HE_Albion_WeaveTweed</defName>
+    <label>weave tweed</label>
+    <description>Weave 50 wool of any kind into 50 tweed.</description>
+    <jobString>Weaving tweed.</jobString>
+    <workAmount>1600</workAmount>
+    <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+    <workSkill>Crafting</workSkill>
+    <effectWorking>Tailor</effectWorking>
+    <soundWorking>Recipe_Tailor</soundWorking>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>Wools</li>
+          </categories>
+        </filter>
+        <count>50</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>Wools</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Albion_Tweed>50</HE_Albion_Tweed>
+    </products>
+    <skillRequirements>
+      <Crafting>4</Crafting>
+    </skillRequirements>
+    <recipeUsers>
+      <li>HE_Albion_TextileMill</li>
+    </recipeUsers>
+    <researchPrerequisite>HE_Albion_TextileMill</researchPrerequisite>
+  </RecipeDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Albion_GasLamp</defName>
+    <label>gas lamp</label>
+    <description>A cast-iron street lamp with a glass lantern. In the cities gas from the works keeps it burning all night; here a small burner fed from the power grid does the same.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_GasLamp</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.8)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.2</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <costList>
+      <Steel>45</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>1500</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>4</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_SteamPower</li>
+    </researchPrerequisites>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>30</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Glower">
+        <glowRadius>11</glowRadius>
+        <glowColor>(255,214,140,0)</glowColor>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Albion_GrandfatherClock</defName>
+    <label>grandfather clock</label>
+    <description>A tall case clock of carved oak with a brass pendulum, wound once a week. Its slow tick is the sound of a well-run house.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_GrandfatherClock</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.8)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.3</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>90</costStuffCount>
+    <costList>
+      <Steel>20</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <WorkToBuild>3000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>14</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_JointStock</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>HE_Albion_FieldCannon_Gun</defName>
+    <label>cannon</label>
+    <description>The turning top of the field cannon.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_FieldCannon_Top</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <AccuracyTouch>0.2</AccuracyTouch>
+      <AccuracyShort>0.5</AccuracyShort>
+      <AccuracyMedium>0.55</AccuracyMedium>
+      <AccuracyLong>0.45</AccuracyLong>
+      <RangedWeapon_Cooldown>7</RangedWeapon_Cooldown>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>30</Mass>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <defaultProjectile>HE_Shell_FieldCannon</defaultProjectile>
+        <warmupTime>0</warmupTime>
+        <range>40.9</range>
+        <minRange>7.9</minRange>
+        <burstShotCount>1</burstShotCount>
+        <soundCast>HE_Shot_Cannon</soundCast>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+        <forcedMissRadius>1.9</forcedMissRadius>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Albion_FieldCannon</defName>
+    <label>field cannon</label>
+    <description>A bronze cannon on a wooden carriage behind a ring of sandbags. Each shell bursts where it lands. It cannot fire at anything closer than eight cells, and the gunners need time to swab and reload. Steel is cast into shells: four steel make one shell.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <drawHighlight>true</drawHighlight>
+    <drawHighlightOnlyForHostile>true</drawHighlightOnlyForHostile>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_FieldCannon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+      <shadowData>
+        <volume>(1.5,0.35,1.4)</volume>
+        <offset>(0,0,-0.05)</offset>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+      <WorkToBuild>12000</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>-4</Beauty>
+      <ShootingAccuracyTurret>0.9</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.5</fillPercent>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <Steel>160</Steel>
+      <WoodLog>60</WoodLog>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HE_Albion_FieldCannon_Gun</turretGunDef>
+      <turretBurstCooldownTime>7</turretBurstCooldownTime>
+      <turretTopDrawSize>2</turretTopDrawSize>
+      <turretTopOffset>(0, 0.05)</turretTopOffset>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>HE_Albion_FieldCannon</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Shells</fuelLabel>
+        <fuelGizmoLabel>Shells</fuelGizmoLabel>
+        <outOfFuelMessage>Needs steel for shells</outOfFuelMessage>
+        <fuelFilter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>20</fuelCapacity>
+        <fuelMultiplier>0.25</fuelMultiplier>
+        <initialFuelPercent>0</initialFuelPercent>
+        <autoRefuelPercent>0.5</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

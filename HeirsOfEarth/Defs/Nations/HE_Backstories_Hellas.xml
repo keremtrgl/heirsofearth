@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Hoplite</defName>
+    <title>citizen hoplite</title>
+    <titleShort>hoplite</titleShort>
+    <description>Like every free citizen, [PAWN_nameDef] bought [PAWN_possessive] own shield and spear and took [PAWN_possessive] place in the line when the city called. Between wars [PAWN_pronoun] worked a small farm of olives and barley.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>6</Melee>
+      <Plants>3</Plants>
+      <Construction>1</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Physician</defName>
+    <title>Asklepian physician</title>
+    <titleShort>physician</titleShort>
+    <description>[PAWN_nameDef] trained at a temple of healing, where the sick slept in quiet halls and the physicians wrote down every symptom. [PAWN_pronoun] swore to do no harm and has kept the oath.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>8</Medicine>
+      <Intellectual>4</Intellectual>
+    </skillGains>
+    <requiredWorkTags>
+      <li>Intellectual</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Philosopher</defName>
+    <title>wandering philosopher</title>
+    <titleShort>philosopher</titleShort>
+    <description>[PAWN_nameDef] walked from city to city asking awkward questions in the market. Some paid to listen, some paid [PAWN_objective] to leave. [PAWN_pronoun] still believes no question should go unasked.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>7</Intellectual>
+      <Social>5</Social>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Sculptor</defName>
+    <title>temple sculptor</title>
+    <titleShort>sculptor</titleShort>
+    <description>[PAWN_nameDef] spent years in the marble yards beside a great temple, carving gods and athletes so lifelike that visitors spoke to them.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Artistic>8</Artistic>
+      <Construction>4</Construction>
+      <Crafting>2</Crafting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Athlete</defName>
+    <title>games champion</title>
+    <titleShort>champion</titleShort>
+    <description>[PAWN_nameDef] won the long race at the games and was given an olive wreath, a statue and free meals for life. [PAWN_pronoun] still trains every morning before dawn.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>5</Melee>
+      <Social>3</Social>
+      <Animals>2</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Orator</defName>
+    <title>assembly orator</title>
+    <titleShort>orator</titleShort>
+    <description>In the assembly [PAWN_nameDef] could turn a vote with a single speech. [PAWN_pronoun] has argued for war, for peace and, once, for both in the same afternoon.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>8</Social>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <workDisables>
+      <li>Violent</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Strategos</defName>
+    <title>elected general</title>
+    <titleShort>general</titleShort>
+    <description>Three times the citizens elected [PAWN_nameDef] as their general. [PAWN_pronoun] led the phalanx from the front rank and never asked anyone to stand where [PAWN_pronoun] would not.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>7</Melee>
+      <Social>5</Social>
+      <Shooting>2</Shooting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Merchant</defName>
+    <title>olive merchant</title>
+    <titleShort>merchant</titleShort>
+    <description>[PAWN_nameDef] shipped oil and wine from island to island, knew every harbour master by name and never paid a full harbour fee in [PAWN_possessive] life.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Intellectual>2</Intellectual>
+      <Cooking>1</Cooking>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_Gymnasium</defName>
+    <title>gymnasium pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] spent [PAWN_possessive] mornings wrestling and running, and [PAWN_possessive] afternoons reciting poems to a strict old teacher.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>2</Melee>
+      <Intellectual>2</Intellectual>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_OliveGrove</defName>
+    <title>olive grove child</title>
+    <titleShort>farm child</titleShort>
+    <description>[PAWN_nameDef] grew up beating olives from the branches each autumn and treading grapes each summer on a hillside farm.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>3</Plants>
+      <Cooking>1</Cooking>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_HarbourChild</defName>
+    <title>harbour child</title>
+    <titleShort>harbour child</titleShort>
+    <description>[PAWN_nameDef] ran errands on the busy quays of a port city, learning to haggle in three dialects before [PAWN_pronoun] could write.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>2</Social>
+      <Crafting>1</Crafting>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Hellas_BS_TempleChild</defName>
+    <title>temple servant</title>
+    <titleShort>temple servant</titleShort>
+    <description>[PAWN_nameDef] grew up sweeping a temple of healing, carrying water for the sick and listening to the physicians argue about cures.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Hellas</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>2</Medicine>
+      <Intellectual>1</Intellectual>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

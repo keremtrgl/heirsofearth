@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Longhouse</defName>
+    <label>longhouse hearth</label>
+    <description>A long stone-lined fire pit that warms a whole hall and cooks the evening meal.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Planks</defName>
+    <label>split planks</label>
+    <description>Split logs along the grain into wide planks for floors and benches.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>9.8</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_HuntBow</defName>
+    <label>hunting bow</label>
+    <description>A simple elm bow for deer in the pine forests, quick to make and quick to draw.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Fur</defName>
+    <label>fur and wool</label>
+    <description>Sew heavy fur cloaks and thick woollen tunics for the long winters.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Longhouse</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Skyr</defName>
+    <label>skyr</label>
+    <description>Curdle skimmed milk into skyr, a thick sour dairy that keeps through the winter.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>9.8</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Runes</defName>
+    <label>rune stones</label>
+    <description>Carve runes into standing stones to remember the dead and boast of the living.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Planks</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Blood</defName>
+    <label>northern blood</label>
+    <description>Children who bathe in icy rivers grow into adults who do not notice the cold.
+
+Tradition: Colonists are comfortable at temperatures 8°C colder.
+
+Requires 15 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Fur</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ComfyTemperatureMin</stat>
+            <offset>-8</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Hunting</defName>
+    <label>hunting lore</label>
+    <description>Read tracks in snow and move downwind: the hunters' lore is passed from parent to child.
+
+Tradition: Colonists gain +10% hunting stealth and +1 shooting accuracy.
+
+Requires 15 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>9.8</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_HuntBow</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>HuntingStealth</stat>
+            <offset>0.1</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>1</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Saga</defName>
+    <label>saga telling</label>
+    <description>On winter nights the skalds recite the deeds of the ancestors. Everyone listens, and everyone learns.
+
+Tradition: Colonists learn 5% faster and gain +5% social impact.
+
+Requires 20 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>850</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Runes</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Smithing</defName>
+    <label>Nordheim smithing</label>
+    <description>Pattern-welded swords and the long-hafted Dane axe, forged from bog iron.
+
+Requires 10 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>850</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Byrnie</defName>
+    <label>byrnie and round shield</label>
+    <description>Thousands of riveted rings make a byrnie. With a spangenhelm and a painted round shield, a warrior is ready for the shield wall.
+
+Requires 25 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_MeadHall</defName>
+    <label>mead hall</label>
+    <description>Long tables, drinking horns and a jarl's seat: the mead hall is where the people of Nordheim feast, boast and make peace.
+
+Requires 15 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>9.8</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Longhouse</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Sauna</defName>
+    <label>sauna</label>
+    <description>A small log house with a stone stove. Steam, birch branches and a roll in the snow keep the body strong.
+
+Tradition: Unlocks the sauna. Colonists gain immunity 10% faster.
+
+Requires 20 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Planks</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ImmunityGainSpeed</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Thing</defName>
+    <label>the Thing</label>
+    <description>Free people gather to settle disputes by law instead of the axe. Their voices carry far.
+
+Tradition: Colonists gain +8% negotiation ability.
+
+Requires 25 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>9.8</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_MeadHall</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.08</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Longships</defName>
+    <label>longship crews</label>
+    <description>Rowing crews learn to travel light and fast, whether over waves or over land.
+
+Tradition: Your caravans travel 12% faster.
+
+Requires 30 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Sauna</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>30</knowledge>
+        <tradition>true</tradition>
+        <caravanSpeed>0.12</caravanSpeed>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Berserk</defName>
+    <label>berserkergang</label>
+    <description>Some warriors fight in a fury that ignores wounds and caution alike.
+
+Tradition: Colonists deal 10% more melee damage but have -2 melee dodge chance.
+
+Requires 40 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Byrnie</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>40</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MeleeDamageFactor</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MeleeDodgeChance</stat>
+            <offset>-2</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Valhalla</defName>
+    <label>road to Valhalla</label>
+    <description>Those who have seen the winter rite no longer fear death, only a dull one.
+
+Tradition: Colonists gain +8% pain shock threshold and +1 melee hit chance.
+
+Requires 50 Nordheim knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>9.8</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Berserk</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>PainShockThreshold</stat>
+            <offset>0.08</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MeleeHitChance</stat>
+            <offset>1</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Nord</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_HarpoonGun</defName>
+    <label>harpoon gun</label>
+    <description>A whaler's gun that throws a barbed iron harpoon on a line. It was made for whales; it works on raiders too.
+
+Requires 35 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.8</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>HE_Nord_Berserk</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_FolkSchools</defName>
+    <label>folk high schools</label>
+    <description>Schools without exams where farmers, fishers and smiths learn history, song and the law of the Thing together.
+
+Tradition: Colonists learn 8% faster and research 4% faster.
+
+Requires 45 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_Longships</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.08</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>ResearchSpeed</stat>
+            <factor>1.04</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_BowLoft</defName>
+    <label>bow loft</label>
+    <description>Hunters and shipwrights put their skills together: a bow too big to draw by hand, spanned with a winch.
+
+Requires 40 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_HuntBow</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_PowderArms</defName>
+    <label>Nordic powder arms</label>
+    <description>The Nordheim way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Age of Powder.
+
+Requires 30 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>30</knowledge>
+        <age>2</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_SteamArmy</defName>
+    <label>Nordic steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Nordheim raised when the factories came.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Age of Steam.
+
+Requires 45 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>11.8</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+      <li>HE_Nord_PowderArms</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Bolt_Manuballista.label>manuballista bolt</HE_Bolt_Manuballista.label>
+  <HE_Arrow_Yumi.label>yumi arrow</HE_Arrow_Yumi.label>
+  <HE_Arrow_HuntBow.label>hunting arrow</HE_Arrow_HuntBow.label>
+  <HE_Arrow_Toxon.label>toxon arrow</HE_Arrow_Toxon.label>
+  <HE_Bolt_Repeater.label>repeater bolt</HE_Bolt_Repeater.label>
+  <HE_Bullet_FireLance.label>fire lance blast</HE_Bullet_FireLance.label>
+  <HE_Bullet_Musket.label>musket ball</HE_Bullet_Musket.label>
+  <HE_Bullet_Rifle.label>rifle bullet</HE_Bullet_Rifle.label>
+  <HE_Arrow_Kemet.label>reed arrow</HE_Arrow_Kemet.label>
+  <HE_Bullet_DesertRifle.label>desert rifle bullet</HE_Bullet_DesertRifle.label>
+  <HE_Arrow_Pars.label>cane arrow</HE_Arrow_Pars.label>
+  <HE_Bullet_Jezail.label>jezail ball</HE_Bullet_Jezail.label>
+  <HE_Stone_Inti.label>sling stone</HE_Stone_Inti.label>
+  <HE_Bullet_MountainCarbine.label>carbine bullet</HE_Bullet_MountainCarbine.label>
+  <HE_Bullet_Carbine.label>carbine bullet</HE_Bullet_Carbine.label>
+  <HE_Bullet_Tanegashima.label>matchlock ball</HE_Bullet_Tanegashima.label>
+  <HE_Projectile_Harpoon.label>harpoon</HE_Projectile_Harpoon.label>
+  <HE_Arrow_Fire.label>fire arrow</HE_Arrow_Fire.label>
+  <HE_Bolt_Scorpio.label>scorpio bolt</HE_Bolt_Scorpio.label>
+  <HE_Arrow_Yagura.label>tower arrow</HE_Arrow_Yagura.label>
+  <HE_Arrow_BowLoft.label>great arrow</HE_Arrow_BowLoft.label>
+  <HE_Stone_Lithobolos.label>hurled stone</HE_Stone_Lithobolos.label>
+  <HE_Shell_FieldCannon.label>cannon shell</HE_Shell_FieldCannon.label>
+  <HE_Arrow_Pylon.label>pylon arrow</HE_Arrow_Pylon.label>
+  <HE_Naft_Pars.label>naft spray</HE_Naft_Pars.label>
+  <HE_Stone_SlingStand.label>sling stone</HE_Stone_SlingStand.label>
+  <HE_Bolt_Gastraphetes.label>gastraphetes bolt</HE_Bolt_Gastraphetes.label>
+  <HE_Bolas_Inti.label>bolas</HE_Bolas_Inti.label>
+  <HE_Bullet_Blunderbuss.label>blunderbuss shot</HE_Bullet_Blunderbuss.label>
+  <HE_Bullet_FlintPistol.label>pistol ball</HE_Bullet_FlintPistol.label>
+  <HE_Boulder_Trebuchet.label>trebuchet boulder</HE_Boulder_Trebuchet.label>
+  <HE_Bullet_Cartridge.label>rifle cartridge</HE_Bullet_Cartridge.label>
+  <HE_Bullet_HeavyBall.label>heavy ball</HE_Bullet_HeavyBall.label>
+</LanguageData>

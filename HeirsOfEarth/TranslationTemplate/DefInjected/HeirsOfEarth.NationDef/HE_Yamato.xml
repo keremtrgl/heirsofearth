@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato.label>Yamato Shogunate</HE_Yamato.label>
+  <HE_Yamato.description>Descendants of the colony ship Takamagahara, the clans of Yamato rebuilt the old order of their islands: an emperor who reigns in silence, a shogun who rules in his name and warrior houses bound by duty. They value craft above wealth and patience above speed, and their swordsmiths are the finest in the world.</HE_Yamato.description>
+  <HE_Yamato.rulerTitle>Shogun</HE_Yamato.rulerTitle>
+  <HE_Yamato.adjective>Yamato</HE_Yamato.adjective>
+  <HE_Yamato.doctrine.label>bushido</HE_Yamato.doctrine.label>
+  <HE_Yamato.doctrine.description>Samurai attack in small bands from several sides at once and pick their targets with care. Calm in the face of death, they fight on through wounds.</HE_Yamato.doctrine.description>
+  <HE_Yamato.honoraryTitle>honoured guest of the shogun</HE_Yamato.honoraryTitle>
+</LanguageData>

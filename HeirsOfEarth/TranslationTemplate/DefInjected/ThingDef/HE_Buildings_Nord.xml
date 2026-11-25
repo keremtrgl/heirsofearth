@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Hearth.label>longhouse hearth</HE_Nord_Hearth.label>
+  <HE_Nord_Hearth.description>A long fire pit lined with stones. It heats a large hall, lights it, and keeps a pot of stew warm.</HE_Nord_Hearth.description>
+  <HE_Nord_RuneStone.label>rune stone</HE_Nord_RuneStone.label>
+  <HE_Nord_RuneStone.description>A tall grey stone carved with a serpent of runes that tells of a hero's deeds.</HE_Nord_RuneStone.description>
+  <HE_Nord_ShieldWall.label>round shield display</HE_Nord_ShieldWall.label>
+  <HE_Nord_ShieldWall.description>A painted round shield with an iron boss, hung where everyone can see it.</HE_Nord_ShieldWall.description>
+  <HE_Nord_MeadTable.label>mead table</HE_Nord_MeadTable.label>
+  <HE_Nord_MeadTable.description>A long oak table set with drinking horns and a bowl of mead. Colonists gather here to drink and boast.</HE_Nord_MeadTable.description>
+  <HE_Nord_Sauna.label>sauna</HE_Nord_Sauna.label>
+  <HE_Nord_Sauna.description>A small pine bath house with a stone stove and benches. Colonists sweat out their worries here.</HE_Nord_Sauna.description>
+  <HE_Nord_BowLoft_Gun.label>twin bow</HE_Nord_BowLoft_Gun.label>
+  <HE_Nord_BowLoft_Gun.description>The turning top of the bow loft.</HE_Nord_BowLoft_Gun.description>
+  <HE_Nord_BowLoft.label>bow loft</HE_Nord_BowLoft.label>
+  <HE_Nord_BowLoft.description>A log platform with a huge twin bow on a pivot, the kind that once guarded the fjord gates. It shoots two great arrows at a time over long range. Wood for new arrows: one log makes two.</HE_Nord_BowLoft.description>
+  <HE_Nord_BowLoft.comps.1.fuelLabel>Arrows</HE_Nord_BowLoft.comps.1.fuelLabel>
+  <HE_Nord_BowLoft.comps.1.fuelGizmoLabel>Arrows</HE_Nord_BowLoft.comps.1.fuelGizmoLabel>
+  <HE_Nord_BowLoft.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Nord_BowLoft.comps.1.outOfFuelMessage>
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Vase.label>porselen vazo</HE_Tianxia_Vase.label>
+  <HE_Tianxia_Vase.description>Bulutlar arasında ejderlerle kobalt maviye boyanmış uzun beyaz bir vazo. Tüccarlar bir tane almak için dünyanın yarısını dolaşır.</HE_Tianxia_Vase.description>
+  <HE_Tianxia_MoonGate.label>ay kapısı</HE_Tianxia_MoonGate.label>
+  <HE_Tianxia_MoonGate.description>Bir bahçe duvarında kusursuz yuvarlak bir açıklık. İçinden geçmenin şans getirdiğine inanılır.</HE_Tianxia_MoonGate.description>
+  <HE_Tianxia_Lantern.label>kâğıt fener</HE_Tianxia_Lantern.label>
+  <HE_Tianxia_Lantern.description>Lake bir direğin üzerinde, içinde küçük bir kandil olan kırmızı bir kâğıt fener.</HE_Tianxia_Lantern.description>
+  <HE_Tianxia_TeaTable.label>gongfu çay masası</HE_Tianxia_TeaTable.label>
+  <HE_Tianxia_TeaTable.description>Kil bir demlik ve minik fincanlarla donatılmış oymalı ahşap bir tepsi masa. Çay her seferinde biraz daha koyu olarak tekrar tekrar demlenir.</HE_Tianxia_TeaTable.description>
+  <HE_Tianxia_FireArrowBattery_Gun.label>ateşli ok rafı</HE_Tianxia_FireArrowBattery_Gun.label>
+  <HE_Tianxia_FireArrowBattery_Gun.description>Dönen bir arabaya oturtulmuş altıgen bir roket ok sandığı.</HE_Tianxia_FireArrowBattery_Gun.description>
+  <HE_Tianxia_FireArrowBattery.label>ateşli ok bataryası</HE_Tianxia_FireArrowBattery.label>
+  <HE_Tianxia_FireArrowBattery.description>Menzildeki her düşmana tek yaylımda sekiz ateşli ok salan tekerlekli bir 'arı kovanı'. Elektrik istemez, sadece yeni oklar için odun ister: bir kütük iki ok olur. Oklar isabetli değildir ama düşmanı tutuşturur.</HE_Tianxia_FireArrowBattery.description>
+  <HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>Ateşli oklar</HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>
+  <HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>Oklar</HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>
+  <HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>
+</LanguageData>

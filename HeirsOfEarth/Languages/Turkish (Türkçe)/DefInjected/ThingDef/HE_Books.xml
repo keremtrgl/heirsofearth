@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Book_Roma_Annals.label>Nova Roma Yıllıkları</HE_Book_Roma_Annals.label>
+  <HE_Book_Roma_Annals.description>Yıl yıl ve konsül konsül, rahiplerin tuttuğu şehir kaydı: yıkıntılar arasında kuruluşu, savaşları, yasaları ve hepsinden önce gelen alametler.</HE_Book_Roma_Annals.description>
+  <HE_Book_Roma_Building.label>Yapı Üzerine On Kitap</HE_Book_Roma_Building.label>
+  <HE_Book_Roma_Building.description>Yollar, su kemerleri, hamamlar ve iyi betonun sırrı üzerine bir mühendis incelemesi. Yarısı matematik; diğer yarısı tembel duvarcılardan şikâyet.</HE_Book_Roma_Building.description>
+  <HE_Book_Yamato_BrushBlade.label>Fırça ve Kılıç</HE_Book_Yamato_BrushBlade.label>
+  <HE_Book_Yamato_BrushBlade.description>Aynı zamanda hattat olan bir kılıç ustasının kısa denemeleri. Tek bir mürekkep darbesiyle tek bir kılıç vuruşunun aynı yolla öğrenildiğini yazar: on bin kez, sonra bir kez.</HE_Book_Yamato_BrushBlade.description>
+  <HE_Book_Yamato_TeaDiary.label>Sakai Çay Ustalarının Günlüğü</HE_Book_Yamato_TeaDiary.label>
+  <HE_Book_Yamato_TeaDiary.description>Bu günlüğü üç kuşak çay ustası tuttu: konuklar, kâseler, köşedeki çiçekler ve Sakai tüccarlarının çaydanlık başında fısıldadıkları.</HE_Book_Yamato_TeaDiary.description>
+  <HE_Book_Nord_FirstJarl.label>İlk Jarl'ın Destanı</HE_Book_Nord_FirstJarl.label>
+  <HE_Book_Nord_FirstJarl.description>İlk jarlın halkını buzun üzerinden nasıl geçirdiği, ayaz devlerinin fiyortlar üzerindeki hâkimiyetini nasıl kırdığı ve boynuzuyla nasıl gömüldüğü. Skaldlar hangi kısımların doğru olduğunu hâlâ tartışıyor.</HE_Book_Nord_FirstJarl.description>
+  <HE_Book_Nord_LongWinter.label>Uzun Kış Türküsü</HE_Book_Nord_LongWinter.label>
+  <HE_Book_Nord_LongWinter.description>Üç yıl süren kış üzerine uzun bir şiir: kim yiyeceğini paylaştı, kim paylaşmadı ve baharda ayakta kalan salonların neden yalnızca birlik olanlar olduğu.</HE_Book_Nord_LongWinter.description>
+  <HE_Book_Hellas_Dialogues.label>Akademi Diyalogları</HE_Book_Hellas_Dialogues.label>
+  <HE_Book_Hellas_Dialogues.description>Bir öğretmen ve öğrencileri bir zeytin ağacının altında adalet, cesaret ve bir şehrin en bilgeleri tarafından yönetilip yönetilemeyeceği üzerine tartışır. Kimse kazanmaz, herkes öğrenir.</HE_Book_Hellas_Dialogues.description>
+  <HE_Book_Hellas_Elements.label>Geometricilerin Öğeleri</HE_Book_Hellas_Elements.label>
+  <HE_Book_Hellas_Elements.description>Beş basit doğrudan yola çıkarak, satır satır kanıtlanmış bütün bir geometri. Birliğin inşaatçıları, denizcileri ve gökbilimcileri hep bu kitabın bir kopyasından öğrendi.</HE_Book_Hellas_Elements.description>
+  <HE_Book_Tianxia_Analects.label>Sınav Salonu Sözleri</HE_Book_Tianxia_Analects.label>
+  <HE_Book_Tianxia_Analects.description>İmparatorluk sınavlarına giren her adayın ezberlediği eski ustaların sözleri: evlat görevi, tören ve sözleri işlerinin önüne geçince utanan erdemli kişi üzerine.</HE_Book_Tianxia_Analects.description>
+  <HE_Book_Tianxia_Strategy.label>Strateji Üzerine On Üç Bölüm</HE_Book_Tianxia_Strategy.label>
+  <HE_Book_Tianxia_Strategy.description>Bir generalin savaş, casuslar, arazi ve ateş üzerine on üç bölümü. İlk dersi, en iyi zaferin hiç savaşmak zorunda kalmadığın muharebe olduğudur.</HE_Book_Tianxia_Strategy.description>
+  <HE_Book_Albion_Almanac.label>Devletler Topluluğu Almanağı</HE_Book_Albion_Almanac.label>
+  <HE_Book_Albion_Almanac.description>Gelgitler, bayram günleri, ürün fiyatları, ayın evreleri ve yüz yararlı tarif; Devletler Topluluğu'nun ilk matbaalarından beri her yıl basılır.</HE_Book_Albion_Almanac.description>
+  <HE_Book_Albion_Steam.label>Buhar Makinesi Üzerine Bir İnceleme</HE_Book_Albion_Steam.label>
+  <HE_Book_Albion_Steam.description>Silindirler, valfler, kazanlar ve kömürün aritmetiği, gravür levhalarla. Yazar, bir emniyet valfinin asla bağlanmaması gerektiği konusunda birden çok kez uyarır.</HE_Book_Albion_Steam.description>
+  <HE_Book_Kemet_Instructions.label>Kâtibin Öğütleri</HE_Book_Kemet_Instructions.label>
+  <HE_Book_Kemet_Instructions.description>Yaşlı bir kâtibin oğluna öğütleri: sabırlı ol, hesaplarını dürüst tut, büyük bir adamın sofrasında az konuş ve yükü taşımayanın kâtip olduğunu asla unutma.</HE_Book_Kemet_Instructions.description>
+  <HE_Book_Kemet_SecondSunrise.label>İkinci Gündoğumu Kitabı</HE_Book_Kemet_SecondSunrise.label>
+  <HE_Book_Kemet_SecondSunrise.description>Kemet kumdan yeniden yükseldiğinde yazılmış güneş rahiplerinin ilahileri ve takvimleri: ne zaman ekileceği, nehrin ne zaman yükseldiği ve şafağa ne söyleneceği.</HE_Book_Kemet_SecondSunrise.description>
+  <HE_Book_Pars_Garden.label>Bahçe Dizeleri</HE_Book_Pars_Garden.label>
+  <HE_Book_Pars_Garden.description>Güller, şarap, dostluk ve hayatın kısalığı üzerine dörtlükler; çok iyi bir bahçıvan da olan bir şairin bahçe defterinin kenarlarına yazdıkları.</HE_Book_Pars_Garden.description>
+  <HE_Book_Pars_KingsRoad.label>Kral Yolu Kitabı</HE_Book_Pars_KingsRoad.label>
+  <HE_Book_Pars_KingsRoad.description>Satrapların büyük yolu üzerindeki her posta istasyonu, kuyu, köprü ve kervansaray; aralarındaki mesafeler ve onları işletenlerin adlarıyla.</HE_Book_Pars_KingsRoad.description>
+  <HE_Book_Inti_Harvests.label>Hasatlar Kipusu</HE_Book_Inti_Harvests.label>
+  <HE_Book_Inti_Harvests.description>Bütün bir vadinin elli yıllık hasatlarını sayan düğümlü ipler: mısır, patates, kinoa, iyi yıllar ve kıtlıklar. Bir düğüm bekçisi onu bir kitap gibi okuyabilir.</HE_Book_Inti_Harvests.description>
+  <HE_Book_Inti_SunSongs.label>Güneş Şarkıları Kipusu</HE_Book_Inti_SunSongs.label>
+  <HE_Book_Inti_SunSongs.description>Güneş bayramında söylenen şarkılar, renkli iplerde saklanır. Düğümler sözleri tutar; renkler ise ezgiyi, ya da düğüm bekçileri öyle söyler.</HE_Book_Inti_SunSongs.description>
+  <HE_Book_Roma_FoundersCodex.label>Kurucuların Kodeksi</HE_Book_Roma_FoundersCodex.label>
+  <HE_Book_Roma_FoundersCodex.description>Nova Roma'nın yasası, kurucularının yazdığı hâliyle; kavrulmuş asıldan kâtiplerinin temize çektiği kopya. Okumak en derin Roma bilgisini öğretir ve her sayfa okura şehrin neden kurulmaya değer olduğunu hatırlatır.</HE_Book_Roma_FoundersCodex.description>
+  <HE_Book_Yamato_EightIslands.label>Sekiz Ada Vakayinamesi</HE_Book_Yamato_EightIslands.label>
+  <HE_Book_Yamato_EightIslands.description>Yamato'nun ilk imparatordan ateş gecesine kadar tarihi, sarayın son tarihçisinin elinden, kâtiplerinin kopyasıyla. Onu okuyanın hayatını onursuz bitirmeyeceği söylenir.</HE_Book_Yamato_EightIslands.description>
+  <HE_Book_Nord_Edda.label>Nordheim Eddası</HE_Book_Nord_Edda.label>
+  <HE_Book_Nord_Edda.description>İlk jarldan uzun kışa kadar Nordheim'in her destanı, son skaldın hafızasından toplanıp oymacıların tarafından tahtalara kazındı. Onu okuyan bir skald bir yıl boyunca tek dizeyi tekrarlamadan şarkı söyleyebilir.</HE_Book_Nord_Edda.description>
+  <HE_Book_Hellas_LongVoyage.label>Uzun Yolculuğun Şarkısı</HE_Book_Hellas_LongVoyage.label>
+  <HE_Book_Hellas_LongVoyage.description>Birliğin kayıp destanı: ilk kolonistlerin ölü bir denizi aşıp Hellas'ın yeniden doğduğu adalara yolculuğu. Altı ölçülü dizelerle yirmi dört kitap, kütüphanenin son tomarından onarıldı.</HE_Book_Hellas_LongVoyage.description>
+  <HE_Book_Tianxia_HeavenlyCourt.label>Göksel Saray Kayıtları</HE_Book_Tianxia_HeavenlyCourt.label>
+  <HE_Book_Tianxia_HeavenlyCourt.description>Bir imparatoru memnun etmek için tek kelime değiştirmeyen büyük bir tarihçinin yazdığı ve kâtiplerinin kopyaladığı hanedanların gerçek tarihi. Tianxia memurları üstlerine karşı çıktıklarında hâlâ ondan alıntı yapar.</HE_Book_Tianxia_HeavenlyCourt.description>
+  <HE_Book_Albion_GreatCharter.label>Büyük Ferman</HE_Book_Albion_GreatCharter.label>
+  <HE_Book_Albion_GreatCharter.description>Devletler Topluluğu özgürlüklerinin fermanı, loncaların imzaladığı asıldan temize çekildi. Her okur özgür bir uyruğun haklarını ve bunlar için ödenen bedeli öğrenir.</HE_Book_Albion_GreatCharter.description>
+  <HE_Book_Kemet_ComingForth.label>Gün Işığına Çıkış Kitabı</HE_Book_Kemet_ComingForth.label>
+  <HE_Book_Kemet_ComingForth.description>Kemet rahiplerinin büyük kitabı: ölüleri gece boyunca yönlendiren sözler, kapıların adları ve onları açan kelimeler. Kâtiplerin onu mezarın kendi tomarından kopyaladı.</HE_Book_Kemet_ComingForth.description>
+  <HE_Book_Pars_BookOfKings.label>Krallar Kitabı</HE_Book_Pars_BookOfKings.label>
+  <HE_Book_Pars_BookOfKings.description>Pars'ın kralları ve kahramanları üzerine, ilk ateşten son satrapa kadar elli bin beyit; yolda yaşlı bir şair tarafından bitirildi ve kâtiplerin tarafından kopyalandı. Pars'ın her çocuğu bir kısmını ezbere bilir.</HE_Book_Pars_BookOfKings.description>
+  <HE_Book_Inti_RoyalKhipu.label>Kraliyet Kipusu</HE_Book_Inti_RoyalKhipu.label>
+  <HE_Book_Inti_RoyalKhipu.description>Güneş imparatorluğunun büyük sayımı: her vadi, her ambar, her aile ve her şarkı, bir sandığı dolduracak kadar büyük bir kipuda. Düğüm bekçilerin onu asıldan yeniden bağladı.</HE_Book_Inti_RoyalKhipu.description>
+</LanguageData>

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Standard</defName>
+    <label>legion standards</label>
+    <description>Weave the red standards of the legions and raise them over your halls.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Concrete</defName>
+    <label>Roman concrete</label>
+    <description>Mix lime, volcanic ash and rubble into a concrete that hardens even under water. Unlocks concrete floors.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Smithing</defName>
+    <label>legion smithing</label>
+    <description>Forge the gladius, the short sword of the legions.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Pilum</defName>
+    <label>pilum</label>
+    <description>Make the pilum, a heavy spear with a long iron shank that punches through shields and armor.
+
+Requires 10 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Roads</defName>
+    <label>Roman roads</label>
+    <description>Build paved roads that let people walk quickly and caravans travel far.
+
+Tradition: Unlocks Roman road floors. Your caravans travel 10% faster.
+
+Requires 20 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Concrete</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <caravanSpeed>0.1</caravanSpeed>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Engineers</defName>
+    <label>castrum engineers</label>
+    <description>Every legionary is also a builder. Each night the legion raises a fortified camp; your colonists learn to build just as quickly.
+
+Tradition: Colonists build 15% faster but mine 5% slower: the legion's tools are made for building, not digging. Unlocks the legion brazier.
+
+Requires 30 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Concrete</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>30</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ConstructionSpeed</stat>
+            <factor>1.15</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MiningSpeed</stat>
+            <factor>0.95</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Aqueduct</defName>
+    <label>aqueducts</label>
+    <description>Raise arched aqueducts, the pride of every Roman town.
+
+Requires 40 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Roads</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Senate</defName>
+    <label>senate records</label>
+    <description>Keep careful records of everything your scholars learn about Nova Roma.
+
+Tradition: Studying Nova Roman items gives 25% more knowledge.
+
+Requires 25 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Standard</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <studyFactor>0.25</studyFactor>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Garum</defName>
+    <label>garum and puls</label>
+    <description>Learn the kitchen of the legions: thick puls porridge and the fermented fish sauce garum that every Roman table expects.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Cursus</defName>
+    <label>cursus honorum</label>
+    <description>The ladder of public offices: every citizen who wants to lead must first serve, learn and be judged.
+
+Tradition: Colonists learn 8% faster, but the pressure of office raises their mental break threshold by 2%.
+
+Requires 10 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Standard</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>10</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.08</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>0.02</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Forum</defName>
+    <label>the forum</label>
+    <description>Raise marble statues of great citizens around an open forum.
+
+Requires 10 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Concrete</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Lorica</defName>
+    <label>lorica segmentata</label>
+    <description>Forge the banded plate armour of the legions and the bronze galea helmet with its red crest. Also teaches the simple wool tunic.
+
+Requires 20 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>20</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Thermae</defName>
+    <label>thermae</label>
+    <description>Heated public baths fed by the aqueducts, where citizens wash, gossip and forget their troubles. Also teaches mosaic floors.
+
+Requires 35 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Aqueduct</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Testudo</defName>
+    <label>testudo</label>
+    <description>The tortoise formation: shields locked above and around, the legion advances slowly but almost nothing gets through.
+
+Tradition: Colonists gain +5% sharp armour but move 3% slower. Unlocks the scutum display.
+
+Requires 40 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Lorica</li>
+      <li>HE_Roma_Pilum</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>40</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ArmorRating_Sharp</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MoveSpeed</stat>
+            <factor>0.97</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Manuballista</defName>
+    <label>manuballista</label>
+    <description>A hand-held torsion crossbow that throws heavy iron bolts.
+
+Requires 30 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Pilum</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>30</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Drill</defName>
+    <label>legion drill</label>
+    <description>Endless practice with wooden swords twice as heavy as real ones. When the real fight comes, every thrust lands.
+
+Tradition: Colonists gain +2 melee hit chance.
+
+Requires 35 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Engineers</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MeleeHitChance</stat>
+            <offset>2</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Pax</defName>
+    <label>pax romana</label>
+    <description>Peace through law, trade and the quiet threat of the legions. Nova Roma's envoys are listened to.
+
+Tradition: Colonists gain +10% negotiation ability and +5% social impact.
+
+Requires 45 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>6.48</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Senate</li>
+      <li>HE_Roma_Roads</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.1</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Aquila</defName>
+    <label>the eagle's pride</label>
+    <description>With the eagle found, every citizen stands a little taller.
+
+Tradition: Colonists gain +2 melee hit chance, +1 shooting accuracy and a 2% lower mental break threshold.
+
+Requires 50 Nova Roman knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>3.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Pax</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MeleeHitChance</stat>
+            <offset>2</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>1</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>-0.02</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Roma</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Carbine</defName>
+    <label>legion carbine</label>
+    <description>A short breech-loading carbine for the new legions: quick to load, light to carry and easy to fire from behind a shield wall.
+
+Requires 35 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>HE_Roma_Pilum</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_CivilCode</defName>
+    <label>civil code</label>
+    <description>Every right and duty written down in one book, from inheritance to the price of grain. Disputes end sooner, though every request now needs a form.
+
+Tradition: Colonists gain +6% negotiation ability and +6% social impact, but work 2% slower.
+
+Requires 45 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1700</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Pax</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.06</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.06</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>WorkSpeedGlobal</stat>
+            <factor>0.98</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_Scorpio</defName>
+    <label>scorpio</label>
+    <description>The legion's artillery: a bolt thrower small enough to set on a wall, strong enough to pin a man to a tree at three hundred paces.
+
+Requires 40 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>6.48</researchViewY>
+    <prerequisites>
+      <li>HE_Roma_Manuballista</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_PowderArms</defName>
+    <label>Roman powder arms</label>
+    <description>The Nova Roma way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Nova Roma has reached the Age of Powder.
+
+Requires 30 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>30</knowledge>
+        <age>2</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Roma_SteamArmy</defName>
+    <label>Roman steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Nova Roma raised when the factories came.
+
+Outside your heritage, this can be researched only once Nova Roma has reached the Age of Steam.
+
+Requires 45 Nova Roman knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+      <li>HE_Roma_PowderArms</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Roma</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

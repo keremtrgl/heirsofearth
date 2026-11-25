@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Heirs of Earth 3.3: heir caravans walk with horses, donkeys and yaks. Vanilla only lets muffalo, alpacas, dromedaries and
+     elephants carry caravan goods in each biome, so these animals are allowed where they belong. Vanilla factions do not use them
+     as carriers, so nothing changes for them. -->
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/BiomeDef[defName="BorealForest"]/allowedPackAnimals</xpath>
+    <value><li>Yak</li><li>Horse</li></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/BiomeDef[defName="Tundra" or defName="ColdBog"]/allowedPackAnimals</xpath>
+    <value><li>Yak</li></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/BiomeDef[defName="TemperateForest" or defName="TemperateSwamp"]/allowedPackAnimals</xpath>
+    <value><li>Horse</li><li>Donkey</li></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/BiomeDef[defName="AridShrubland"]/allowedPackAnimals</xpath>
+    <value><li>Horse</li><li>Donkey</li></value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <success>Always</success>
+    <xpath>Defs/BiomeDef[defName="Desert" or defName="TropicalRainforest" or defName="TropicalSwamp"]/allowedPackAnimals</xpath>
+    <value><li>Donkey</li></value>
+  </Operation>
+</Patch>

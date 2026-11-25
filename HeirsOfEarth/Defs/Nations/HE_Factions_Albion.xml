@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Albion</defName>
+    <label>Commonwealth of Albion</label>
+    <description>The commonwealth of Albion, heir of the colony ship Avalon: coal pits, steam engines, red-coated regiments and a parliament that argues late into the night.</description>
+    <fixedName>Commonwealth of Albion</fixedName>
+    <pawnSingular>Albioner</pawnSingular>
+    <pawnsPlural>Albioners</pawnsPlural>
+    <leaderTitle>Lord Protector</leaderTitle>
+    <categoryTag>HE_Albion</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Industrial</techLevel>
+    <basicMemberKind>HE_Albion_Fusilier</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Albion_LordProtector</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Albion</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Albion</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.55, 0.10, 0.12)</li>
+      <li>(0.20, 0.24, 0.38)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Albion_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Albion</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Albion_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Albion_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Albion_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-40~40</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>35</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Albion_Fusilier>14</HE_Albion_Fusilier>
+          <HE_Albion_Rifleman>8</HE_Albion_Rifleman>
+          <HE_Albion_Dragoon>8</HE_Albion_Dragoon>
+          <HE_Albion_Colonel>2</HE_Albion_Colonel>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Albion_Fusilier>8</HE_Albion_Fusilier>
+          <HE_Albion_Engineer>6</HE_Albion_Engineer>
+          <HE_Albion_Dragoon>3</HE_Albion_Dragoon>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Albion_Trader>1</HE_Albion_Trader>
+        </traders>
+        <carriers>
+          <Horse>6</Horse>
+          <Muffalo>2</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Albion_Fusilier>10</HE_Albion_Fusilier>
+          <HE_Albion_Rifleman>5</HE_Albion_Rifleman>
+          <HE_Albion_Dragoon>4</HE_Albion_Dragoon>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Albion_Fusilier>12</HE_Albion_Fusilier>
+          <HE_Albion_Rifleman>6</HE_Albion_Rifleman>
+          <HE_Albion_Dragoon>6</HE_Albion_Dragoon>
+          <HE_Albion_Colonel>2</HE_Albion_Colonel>
+          <HE_Albion_Engineer>3</HE_Albion_Engineer>
+          <HE_Albion_LordProtector>1</HE_Albion_LordProtector>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Albion</defName>
+    <label>Albion settlers</label>
+    <description>A small company of Albion settlers, chartered to claim and work a new land.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Albion_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Industrial</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Albion_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Albion</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Albion</factionIconPath>
+    <startingResearchTags>
+      <li>ClassicStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.55, 0.10, 0.12)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Albion</defName>
+    <label>Heirs of Albion</label>
+    <description>Five chartered settlers of Albion claim a new land for the commonwealth. They start with the Albion heritage, a flintlock musket, a sabre, steel, components and the parliamentary papers.</description>
+    <scenario>
+      <summary>Five chartered Albion settlers claim a new land. Albion heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Albion</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Albion</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Albion_Musket</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Albion_Sabre</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>500</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Steel</thingDef>
+          <count>150</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>ComponentIndustrial</thingDef>
+          <count>8</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MealSurvivalPack</thingDef>
+          <count>35</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineIndustrial</thingDef>
+          <count>15</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Albion_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Horse</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartAlbionDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

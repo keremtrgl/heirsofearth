@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Spear.label>immortal's spear</HE_Pars_Spear.label>
+  <HE_Pars_Spear.description>A long spear with a leaf blade at one end and a silver pomegranate at the other, the weapon of the royal guard.</HE_Pars_Spear.description>
+  <HE_Pars_Kaftan.label>silk kaftan</HE_Pars_Kaftan.label>
+  <HE_Pars_Kaftan.description>Cut the long open coat of the court, lined, embroidered and belted with a sash.</HE_Pars_Kaftan.description>
+  <HE_Pars_Garden.label>paradise garden</HE_Pars_Garden.label>
+  <HE_Pars_Garden.description>Wall a square of ground, split it in four with water channels and plant it with roses, cypress and fruit trees. The old word for it was paradise.</HE_Pars_Garden.description>
+  <HE_Pars_Bow.label>recurve bow</HE_Pars_Bow.label>
+  <HE_Pars_Bow.description>A short recurve bow carried in a combined case with its arrows, light enough to shoot from the saddle.</HE_Pars_Bow.description>
+  <HE_Pars_Pilaf.label>saffron pilaf</HE_Pars_Pilaf.label>
+  <HE_Pars_Pilaf.description>Rice steamed with saffron, barberries and butter until the bottom turns to a golden crust, the best part.</HE_Pars_Pilaf.description>
+  <HE_Pars_GardenCulture.label>culture of gardens</HE_Pars_GardenCulture.label>
+  <HE_Pars_GardenCulture.description>Every house has a courtyard, every courtyard a pool and every pool a bench beside it. Parsians go into the garden to cool their tempers.
+
+Tradition: The mental break threshold of colonists drops by 3%.
+
+Requires 15 Parsian knowledge unless this is your heritage.</HE_Pars_GardenCulture.description>
+  <HE_Pars_SatrapLaw.label>law of the satraps</HE_Pars_SatrapLaw.label>
+  <HE_Pars_SatrapLaw.description>One law for every province, written down, read aloud in the market and enforced by the satrap's own men. People know where they stand.
+
+Tradition: Colonists make arrests 15% more successfully and negotiate 5% better.
+
+Requires 15 Parsian knowledge unless this is your heritage.</HE_Pars_SatrapLaw.description>
+  <HE_Pars_RoyalPost.label>royal post</HE_Pars_RoyalPost.label>
+  <HE_Pars_RoyalPost.description>A station every day's ride, a fresh horse in every station and a rider who does not stop for snow, rain, heat or night.
+
+Tradition: Caravans travel 10% faster and colonists get 5% better trade prices.
+
+Requires 20 Parsian knowledge unless this is your heritage.</HE_Pars_RoyalPost.description>
+  <HE_Pars_Qanats.label>qanats</HE_Pars_Qanats.label>
+  <HE_Pars_Qanats.description>Tunnels dug from the foot of the mountains to bring cold, clean water to every village without losing a drop to the sun.
+
+Tradition: Colonists gain immunity 6% faster.
+
+Requires 20 Parsian knowledge unless this is your heritage.</HE_Pars_Qanats.description>
+  <HE_Pars_Akinakes.label>akinakes</HE_Pars_Akinakes.label>
+  <HE_Pars_Akinakes.description>Forge the short straight sword of the guard, worn on the right hip in a gold-capped scabbard.
+
+Requires 10 Parsian knowledge unless this is your heritage.</HE_Pars_Akinakes.description>
+  <HE_Pars_CarpetLoom.label>carpet loom</HE_Pars_CarpetLoom.label>
+  <HE_Pars_CarpetLoom.description>An upright loom, a hundred colours of wool and a pattern held in the weaver's head. A good carpet takes a season and outlives its maker.
+
+Requires 15 Parsian knowledge unless this is your heritage.</HE_Pars_CarpetLoom.description>
+  <HE_Pars_Polo.label>polo</HE_Pars_Polo.label>
+  <HE_Pars_Polo.description>Riders, mallets and a wooden ball on a long field. The princes play it to learn horsemanship, and the horses learn too.
+
+Tradition: Colonists train and tame animals 10% more successfully.
+
+Requires 25 Parsian knowledge unless this is your heritage.</HE_Pars_Polo.description>
+  <HE_Pars_Immortals.label>the Immortals</HE_Pars_Immortals.label>
+  <HE_Pars_Immortals.description>The scale coat and the winged helmet of the royal guard. Their number never drops: when one falls, another steps into the empty place.
+
+Requires 25 Parsian knowledge unless this is your heritage.</HE_Pars_Immortals.description>
+  <HE_Pars_KingsEars.label>ears of the king</HE_Pars_KingsEars.label>
+  <HE_Pars_KingsEars.description>Officials who travel the provinces, listen to everyone and report only to the court. Envoys of Pars always know whom they are talking to.
+
+Tradition: Colonists negotiate 8% better and have 4% more social impact.
+
+Requires 25 Parsian knowledge unless this is your heritage.</HE_Pars_KingsEars.description>
+  <HE_Pars_TenThousand.label>the ten thousand</HE_Pars_TenThousand.label>
+  <HE_Pars_TenThousand.description>Drill until the line holds by itself. A wounded guard holds the line until the one behind can take the place.
+
+Tradition: Colonists withstand 5% more pain and hit 1 point more often in melee.
+
+Requires 35 Parsian knowledge unless this is your heritage.</HE_Pars_TenThousand.description>
+  <HE_Pars_Jezail.label>jezail</HE_Pars_Jezail.label>
+  <HE_Pars_Jezail.description>A long-barrelled flintlock with a sharply curved stock, inlaid with bone and brass. Mountain shots swear by it.
+
+Requires 35 Parsian knowledge unless this is your heritage.</HE_Pars_Jezail.description>
+  <HE_Pars_GrandBazaar.label>grand bazaar</HE_Pars_GrandBazaar.label>
+  <HE_Pars_GrandBazaar.description>A covered street of a thousand shops, its guilds, its money changers and its tea houses. Everything has a price and everyone knows it.
+
+Tradition: Colonists get 4% better trade prices and negotiate 3% better.
+
+Requires 45 Parsian knowledge unless this is your heritage.</HE_Pars_GrandBazaar.description>
+  <HE_Pars_RoadOfKings.label>road of kings</HE_Pars_RoadOfKings.label>
+  <HE_Pars_RoadOfKings.description>With the western road open again, Parsian caravans move like the post and Parsian envoys are welcome everywhere.
+
+Tradition: Caravans travel 8% faster, and colonists negotiate 5% better and have 5% more social impact.
+
+Requires 50 Parsian knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Pars_RoadOfKings.description>
+  <HE_Pars_NaftThrower.label>naft thrower</HE_Pars_NaftThrower.label>
+  <HE_Pars_NaftThrower.description>The kings' engineers learn to pump naft through a bronze pipe and light it at the mouth.
+
+Requires 40 Parsian knowledge unless this is your heritage.</HE_Pars_NaftThrower.description>
+  <HE_Pars_SteamArmy.label>Persian steam army</HE_Pars_SteamArmy.label>
+  <HE_Pars_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Pars raised when the factories came.
+
+Outside your heritage, this can be researched only once Pars has reached the Age of Steam.
+
+Requires 45 Parsian knowledge unless this is your heritage.</HE_Pars_SteamArmy.description>
+</LanguageData>

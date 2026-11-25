@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <LetterDef>
+    <defName>HE_FealtyLetter</defName>
+    <letterClass>HeirsOfEarth.ChoiceLetter_HeirsFealty</letterClass>
+    <color>(196, 160, 72)</color>
+    <flashColor>(220, 180, 80)</flashColor>
+    <flashInterval>90</flashInterval>
+  </LetterDef>
+  <LetterDef>
+    <defName>HE_EventLetter</defName>
+    <letterClass>HeirsOfEarth.ChoiceLetter_HeirsEvent</letterClass>
+    <color>(170, 140, 90)</color>
+    <flashInterval>-1</flashInterval>
+  </LetterDef>
+  <LetterDef>
+    <defName>HE_ErrandLetter</defName>
+    <letterClass>HeirsOfEarth.ChoiceLetter_HeirsErrand</letterClass>
+    <color>(150, 170, 110)</color>
+    <flashInterval>-1</flashInterval>
+  </LetterDef>
+</Defs>

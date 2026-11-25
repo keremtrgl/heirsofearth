@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Meander.label>menderes zemin</HE_Hellas_Meander.label>
+  <HE_Hellas_Meander.description>Sonsuz anahtar deseninden koyu bir kenarla çerçevelenmiş açık renkli kireçtaşı levhalar.</HE_Hellas_Meander.description>
+  <HE_Hellas_Marble.label>mermer levhalar</HE_Hellas_Marble.label>
+  <HE_Hellas_Marble.description>Gri damarlı, pürüzsüz cilalanmış büyük beyaz mermer levhalar. Hellas'taki her tapınak ve her zengin ev bunların üstünde durur.</HE_Hellas_Marble.description>
+  <HE_Hellas_Pebbles.label>çakıl mozaik</HE_Hellas_Pebbles.label>
+  <HE_Hellas_Pebbles.description>Harca dalga deseninde gömülmüş siyah ve beyaz dere çakılları; Hellas mozaiğinin en eski türü.</HE_Hellas_Pebbles.description>
+</LanguageData>

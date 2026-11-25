@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Inti_Terraces</defName>
+    <label>stone terraces</label>
+    <description>Stepped beds of carried soil held up by dry-stone walls. Plants grow on them as on good soil. They can be laid on any diggable ground, so even gravel and stony slopes can be farmed.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Inti_Terraces</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>2200</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>-0.5</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>2</WoodLog>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_Terraces</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+    <fertility>1</fertility>
+    <terrainAffordanceNeeded>Diggable</terrainAffordanceNeeded>
+    <affordances Inherit="False">
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>Walkable</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <takeFootprints>true</takeFootprints>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Inti_FittedStone</defName>
+    <label>fitted stone</label>
+    <description>Many-sided stones cut to fit each other so tightly that no blade slips between them. Earthquakes cannot shake them loose.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Inti_FittedStone</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1600</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksGranite>4</BlocksGranite>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_Mita</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Inti_Adobe</defName>
+    <label>adobe tiles</label>
+    <description>Sun-dried tiles of clay and straw, warm in colour and cheap to make. Storehouses and village homes use them.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Inti_Adobe</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>500</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>1</WoodLog>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_Qullqa</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

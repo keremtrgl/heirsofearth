@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Sling.label>sling</HE_Inti_Sling.label>
+  <HE_Inti_Sling.description>A braided wool sling and a pouch of river stones. A good slinger can break a helmet at a hundred paces.</HE_Inti_Sling.description>
+  <HE_Inti_Unku.label>unku tunic</HE_Inti_Unku.label>
+  <HE_Inti_Unku.description>Weave the knee-length tunic of alpaca wool, its squares of tocapu patterns telling who the wearer is.</HE_Inti_Unku.description>
+  <HE_Inti_Terraces.label>terraces</HE_Inti_Terraces.label>
+  <HE_Inti_Terraces.description>Cut the hillside into steps, wall each one with stone and fill it with carried soil. A slope becomes a field.</HE_Inti_Terraces.description>
+  <HE_Inti_Chaski.label>chaski runners</HE_Inti_Chaski.label>
+  <HE_Inti_Chaski.description>Relay runners posted along every road, a conch to announce themselves and a quipu to carry. A message crosses the empire in days.
+
+Tradition: Colonists move 3% faster.
+
+Requires 15 Inti knowledge unless this is your heritage.</HE_Inti_Chaski.description>
+  <HE_Inti_Pachamanca.label>pachamanca</HE_Inti_Pachamanca.label>
+  <HE_Inti_Pachamanca.description>Heat stones in a pit, lay meat, potatoes and maize on them, cover everything with herbs and earth and wait.</HE_Inti_Pachamanca.description>
+  <HE_Inti_Ayni.label>ayni</HE_Inti_Ayni.label>
+  <HE_Inti_Ayni.description>Today I help you dig your field, tomorrow you help me roof my house. Work is lent and always repaid.
+
+Tradition: Colonists work 3% faster.
+
+Requires 15 Inti knowledge unless this is your heritage.</HE_Inti_Ayni.description>
+  <HE_Inti_Mita.label>mita labour</HE_Inti_Mita.label>
+  <HE_Inti_Mita.description>Every household sends workers to the state for part of the year: roads, bridges, temples and storehouses rise as if by themselves.
+
+Tradition: Colonists build 5% faster and mine 5% faster.
+
+Requires 20 Inti knowledge unless this is your heritage.</HE_Inti_Mita.description>
+  <HE_Inti_Qullqa.label>qullqa storehouses</HE_Inti_Qullqa.label>
+  <HE_Inti_Qullqa.description>Round stone storehouses on windy slopes, vented at the floor and roofed with thatch. Grain and dried food keep in them for years.
+
+Requires 10 Inti knowledge unless this is your heritage.</HE_Inti_Qullqa.description>
+  <HE_Inti_HighAltitude.label>children of the heights</HE_Inti_HighAltitude.label>
+  <HE_Inti_HighAltitude.description>Broad chests, coca tea, wool and the habit of cold mornings. Inti people work where lowlanders shiver.
+
+Tradition: Colonists are comfortable in 6°C more cold.
+
+Requires 20 Inti knowledge unless this is your heritage.</HE_Inti_HighAltitude.description>
+  <HE_Inti_Champi.label>star mace</HE_Inti_Champi.label>
+  <HE_Inti_Champi.description>Cast a bronze head with six points and set it on a hardwood staff: the champi of the imperial army.
+
+Requires 10 Inti knowledge unless this is your heritage.</HE_Inti_Champi.description>
+  <HE_Inti_Quipu.label>quipu</HE_Inti_Quipu.label>
+  <HE_Inti_Quipu.description>Cords of coloured wool knotted in tens, hundreds and thousands, hung from a main cord. Census, tribute and history in one bundle.
+
+Requires 15 Inti knowledge unless this is your heritage.</HE_Inti_Quipu.description>
+  <HE_Inti_MountainFarming.label>mountain farming</HE_Inti_MountainFarming.label>
+  <HE_Inti_MountainFarming.description>A hundred kinds of potato, each for its own height and season, and fields rotated so the soil never tires.
+
+Tradition: Colonists harvest 5% more and sow and harvest 3% faster.
+
+Requires 25 Inti knowledge unless this is your heritage.</HE_Inti_MountainFarming.description>
+  <HE_Inti_RoyalGuard.label>royal guard</HE_Inti_RoyalGuard.label>
+  <HE_Inti_RoyalGuard.description>The quilted war tunic and the plumed helmet of the guard who carry the emperor's litter.
+
+Requires 25 Inti knowledge unless this is your heritage.</HE_Inti_RoyalGuard.description>
+  <HE_Inti_KnotKeepers.label>keepers of the knots</HE_Inti_KnotKeepers.label>
+  <HE_Inti_KnotKeepers.description>The khipukamayuq, trained from childhood to tie and read the cords. Nothing counted in the empire is ever forgotten.
+
+Tradition: Colonists research 6% faster.
+
+Requires 25 Inti knowledge unless this is your heritage.</HE_Inti_KnotKeepers.description>
+  <HE_Inti_Kallawaya.label>kallawaya healers</HE_Inti_Kallawaya.label>
+  <HE_Inti_Kallawaya.description>Wandering herbalists who know a thousand plants of the mountains and the forest below them.
+
+Tradition: Colonists tend wounds and illness 5% better.
+
+Requires 25 Inti knowledge unless this is your heritage.</HE_Inti_Kallawaya.description>
+  <HE_Inti_Slingers.label>slingers of the heights</HE_Inti_Slingers.label>
+  <HE_Inti_Slingers.description>Boys and girls of the mountains learn to sling before they learn to herd. In battle the stones come down like hail.
+
+Tradition: Colonists shoot 1 point more accurately and aim 4% faster.
+
+Requires 35 Inti knowledge unless this is your heritage.</HE_Inti_Slingers.description>
+  <HE_Inti_Carbine.label>mountain carbine</HE_Inti_Carbine.label>
+  <HE_Inti_Carbine.description>A short, light carbine for steep ground, with a leather sling and a condor stamped on the lock.
+
+Requires 35 Inti knowledge unless this is your heritage.</HE_Inti_Carbine.description>
+  <HE_Inti_QhapaqNan.label>great road</HE_Inti_QhapaqNan.label>
+  <HE_Inti_QhapaqNan.description>Paved roads along the ridges, rope bridges over the gorges and a resting house every day's walk. Caravans move as fast as runners.
+
+Tradition: Caravans travel 8% faster and colonists build 3% faster.
+
+Requires 45 Inti knowledge unless this is your heritage.</HE_Inti_QhapaqNan.description>
+  <HE_Inti_CountedEmpire.label>the counted empire</HE_Inti_CountedEmpire.label>
+  <HE_Inti_CountedEmpire.description>With Hatun Qulla counted again, the empire knows itself to the last llama and plans as if it could see the future.
+
+Tradition: Colonists research 4% faster, learn 5% faster and work 2% faster.
+
+Requires 50 Inti knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Inti_CountedEmpire.description>
+  <HE_Inti_SlingStand.label>sling stand</HE_Inti_SlingStand.label>
+  <HE_Inti_SlingStand.description>The slingers of the empire teach the mountain forts to whirl stones without a hand on the cord.
+
+Requires 40 Inti knowledge unless this is your heritage.</HE_Inti_SlingStand.description>
+  <HE_Inti_PowderArms.label>Inti powder arms</HE_Inti_PowderArms.label>
+  <HE_Inti_PowderArms.description>The Inti way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Inti has reached the Age of Powder.
+
+Requires 30 Inti knowledge unless this is your heritage.</HE_Inti_PowderArms.description>
+  <HE_Inti_SteamArmy.label>Inti steam army</HE_Inti_SteamArmy.label>
+  <HE_Inti_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Inti raised when the factories came.
+
+Outside your heritage, this can be researched only once Inti has reached the Age of Steam.
+
+Requires 45 Inti knowledge unless this is your heritage.</HE_Inti_SteamArmy.description>
+</LanguageData>

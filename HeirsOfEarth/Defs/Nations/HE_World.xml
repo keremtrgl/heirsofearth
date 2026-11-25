@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef Name="HE_RenegadeBase" Abstract="True">
+    <race>Human</race>
+    <defaultFactionDef>HE_Renegades</defaultFactionDef>
+    <chemicalAddictionChance>0.12</chemicalAddictionChance>
+    <backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+    <invNutrition>2</invNutrition>
+    <initialResistanceRange>14~22</initialResistanceRange>
+    <initialWillRange>1~3</initialWillRange>
+    <gearHealthRange>0.4~1.2</gearHealthRange>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_RenegadeBase">
+    <defName>HE_Renegade_Cutthroat</defName>
+    <label>cutthroat</label>
+    <combatPower>45</combatPower>
+    <weaponTags>
+      <li>MedievalMeleeBasic</li>
+      <li>NeolithicMeleeBasic</li>
+    </weaponTags>
+    <weaponMoney>80~200</weaponMoney>
+    <apparelTags>
+      <li>IndustrialBasic</li>
+      <li>Neolithic</li>
+    </apparelTags>
+    <apparelMoney>150~350</apparelMoney>
+    <apparelAllowHeadgearChance>0.5</apparelAllowHeadgearChance>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_RenegadeBase">
+    <defName>HE_Renegade_Brigand</defName>
+    <label>brigand</label>
+    <combatPower>70</combatPower>
+    <weaponTags>
+      <li>MedievalMeleeDecent</li>
+      <li>NeolithicMeleeDecent</li>
+    </weaponTags>
+    <weaponMoney>200~380</weaponMoney>
+    <apparelTags>
+      <li>IndustrialBasic</li>
+      <li>Neolithic</li>
+    </apparelTags>
+    <apparelMoney>250~500</apparelMoney>
+    <apparelAllowHeadgearChance>0.5</apparelAllowHeadgearChance>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_RenegadeBase">
+    <defName>HE_Renegade_Bowman</defName>
+    <label>renegade bowman</label>
+    <combatPower>60</combatPower>
+    <weaponTags>
+      <li>NeolithicRangedDecent</li>
+      <li>NeolithicRangedBasic</li>
+    </weaponTags>
+    <weaponMoney>150~300</weaponMoney>
+    <apparelTags>
+      <li>IndustrialBasic</li>
+      <li>Neolithic</li>
+    </apparelTags>
+    <apparelMoney>200~450</apparelMoney>
+    <apparelAllowHeadgearChance>0.5</apparelAllowHeadgearChance>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_RenegadeBase">
+    <defName>HE_Renegade_Warlord</defName>
+    <label>warlord</label>
+    <combatPower>140</combatPower>
+    <weaponTags>
+      <li>MedievalMeleeAdvanced</li>
+    </weaponTags>
+    <weaponMoney>400~700</weaponMoney>
+    <apparelTags>
+      <li>MedievalMilitary</li>
+      <li>IndustrialBasic</li>
+    </apparelTags>
+    <apparelMoney>900~1600</apparelMoney>
+    <apparelAllowHeadgearChance>0.5</apparelAllowHeadgearChance>
+    <factionLeader>true</factionLeader>
+    <minGenerationAge>30</minGenerationAge>
+    <itemQuality>Good</itemQuality>
+  </PawnKindDef>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Renegades</defName>
+    <label>renegade bands</label>
+    <description>Deserters, exiles and oath-breakers from every old nation, bound together by nothing but plunder. They honor no treaty and speak for no people. When an old nation has no army to send, it is often the renegades who answer for it.</description>
+    <pawnSingular>renegade</pawnSingular>
+    <pawnsPlural>renegades</pawnsPlural>
+    <leaderTitle>warlord</leaderTitle>
+    <categoryTag>HE_Renegades</categoryTag>
+    <listOrderPriority>34</listOrderPriority>
+    <settlementGenerationWeight>0.6</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>2</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>70</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <permanentEnemy>true</permanentEnemy>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Renegade_Cutthroat</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Renegade_Warlord</li>
+    </fixedLeaderKinds>
+    <factionNameMaker>NamerFactionPirate</factionNameMaker>
+    <settlementNameMaker>NamerSettlementPirate</settlementNameMaker>
+    <factionIconPath>HeirsOfEarth/UI/HE_Renegades</factionIconPath>
+    <settlementTexturePath>World/WorldObjects/DefaultSettlement</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.25, 0.23, 0.21)</li>
+      <li>(0.40, 0.34, 0.28)</li>
+    </colorSpectrum>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>Pirate</li>
+          <li>Offworld</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <allowedArrivalTemperatureRange>-40~45</allowedArrivalTemperatureRange>
+    <raidLootMaker>PirateRaidLootMaker</raidLootMaker>
+    <earliestRaidDays>20</earliestRaidDays>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Renegade_Cutthroat>10</HE_Renegade_Cutthroat>
+          <HE_Renegade_Brigand>8</HE_Renegade_Brigand>
+          <HE_Renegade_Bowman>7</HE_Renegade_Bowman>
+          <HE_Renegade_Warlord>1</HE_Renegade_Warlord>
+        </options>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Renegade_Cutthroat>10</HE_Renegade_Cutthroat>
+          <HE_Renegade_Brigand>8</HE_Renegade_Brigand>
+          <HE_Renegade_Bowman>7</HE_Renegade_Bowman>
+          <HE_Renegade_Warlord>1</HE_Renegade_Warlord>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Independent</defName>
+    <label>Heirs of no one</label>
+    <description>Five settlers who owe nothing to any old nation. They start neutral with everyone and know a little of every culture (15 knowledge of each nation), but no research comes for free.</description>
+    <scenario>
+      <summary>Five independent settlers. No heritage, a little knowledge of every nation.</summary>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>600</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>200</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>35</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MeleeWeapon_Spear</thingDef>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Bow_Recurve</thingDef>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartIndependentDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

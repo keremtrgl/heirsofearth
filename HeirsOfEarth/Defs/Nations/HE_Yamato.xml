@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Yamato</defName>
+    <label>Yamato Shogunate</label>
+    <description>Descendants of the colony ship Takamagahara, the clans of Yamato rebuilt the old order of their islands: an emperor who reigns in silence, a shogun who rules in his name and warrior houses bound by duty. They value craft above wealth and patience above speed, and their swordsmiths are the finest in the world.</description>
+    <color>(0.20, 0.22, 0.33)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Yamato</iconPath>
+    <rulerTitle>Shogun</rulerTitle>
+    <adjective>Yamato</adjective>
+    <release>1</release>
+    <faction>HE_Faction_Yamato</faction>
+    <playerFaction>HE_Player_Yamato</playerFaction>
+    <scenario>HE_Start_Yamato</scenario>
+    <archive>HE_Yamato_Archive</archive>
+    <doctrine>
+      <label>bushido</label>
+      <description>Samurai attack in small bands from several sides at once and pick their targets with care. Calm in the face of death, they fight on through wounds.</description>
+      <hediff>HE_Doctrine_Yamato</hediff>
+      <strategy>ImmediateAttackSmart</strategy>
+      <arrival>EdgeWalkInGroups</arrival>
+      <chance>0.75</chance>
+    </doctrine>
+    <animal>Horse</animal>
+    <temperamentBias>
+      <li>Warlike</li>
+      <li>Pious</li>
+    </temperamentBias>
+    <honoraryTitle>honoured guest of the shogun</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

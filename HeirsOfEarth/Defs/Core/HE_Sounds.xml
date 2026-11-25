@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <SoundDef>
+    <defName>HE_Sound_Horn</defName>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <onCamera>true</onCamera>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>HeirsOfEarth/HE_Horn</clipPath>
+          </li>
+        </grains>
+        <volumeRange>45~45</volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>HE_Sound_Bugle</defName>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <onCamera>true</onCamera>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>HeirsOfEarth/HE_Bugle</clipPath>
+          </li>
+        </grains>
+        <volumeRange>40~40</volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>HE_Sound_Gong</defName>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <onCamera>true</onCamera>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>HeirsOfEarth/HE_Gong</clipPath>
+          </li>
+        </grains>
+        <volumeRange>42~42</volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <SoundDef>
+    <defName>HE_Sound_Drum</defName>
+    <maxSimultaneous>1</maxSimultaneous>
+    <subSounds>
+      <li>
+        <onCamera>true</onCamera>
+        <grains>
+          <li Class="AudioGrain_Clip">
+            <clipPath>HeirsOfEarth/HE_Drum</clipPath>
+          </li>
+        </grains>
+        <volumeRange>42~42</volumeRange>
+      </li>
+    </subSounds>
+  </SoundDef>
+  <LetterDef>
+    <defName>HE_WarLetter</defName>
+    <color>(196, 120, 96)</color>
+    <flashColor>(206, 110, 90)</flashColor>
+    <flashInterval>90</flashInterval>
+    <arriveSound>HE_Sound_Horn</arriveSound>
+  </LetterDef>
+</Defs>

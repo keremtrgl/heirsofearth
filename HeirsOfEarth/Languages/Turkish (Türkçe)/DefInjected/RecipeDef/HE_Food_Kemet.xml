@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Kemet_Bread.label>date bread pişir</HE_Cook_Kemet_Bread.label>
+  <HE_Cook_Kemet_Bread.description>Hurmalı ekmek pişir.</HE_Cook_Kemet_Bread.description>
+  <HE_Cook_Kemet_Bread.jobString>Hurmalı ekmek pişiriyor.</HE_Cook_Kemet_Bread.jobString>
+  <HE_Cook_Kemet_Ful.label>ful pişir</HE_Cook_Kemet_Ful.label>
+  <HE_Cook_Kemet_Ful.description>Ful pişir.</HE_Cook_Kemet_Ful.description>
+  <HE_Cook_Kemet_Ful.jobString>Ful pişiriyor.</HE_Cook_Kemet_Ful.jobString>
+  <HE_Cook_Kemet_DateCake.label>date cakes pişir</HE_Cook_Kemet_DateCake.label>
+  <HE_Cook_Kemet_DateCake.description>Hurma kekleri pişir.</HE_Cook_Kemet_DateCake.description>
+  <HE_Cook_Kemet_DateCake.jobString>Hurma kekleri pişiriyor.</HE_Cook_Kemet_DateCake.jobString>
+</LanguageData>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Standard.label>lejyon sancakları</HE_Roma_Standard.label>
+  <HE_Roma_Standard.description>Lejyonların kırmızı sancaklarını doku ve salonlarının üzerine dik.</HE_Roma_Standard.description>
+  <HE_Roma_Concrete.label>Roma betonu</HE_Roma_Concrete.label>
+  <HE_Roma_Concrete.description>Kireç, volkanik kül ve molozu su altında bile sertleşen bir betona dönüştür. Beton zemini açar.</HE_Roma_Concrete.description>
+  <HE_Roma_Smithing.label>lejyon demirciliği</HE_Roma_Smithing.label>
+  <HE_Roma_Smithing.description>Lejyonların kısa kılıcı gladiusu döv.</HE_Roma_Smithing.description>
+  <HE_Roma_Pilum.label>pilum</HE_Roma_Pilum.label>
+  <HE_Roma_Pilum.description>Kalkan ve zırhı delen uzun demir saplı ağır mızrak pilumu yap.
+
+Mirasın bu değilse 10 Nova Roma bilgisi gerekir.</HE_Roma_Pilum.description>
+  <HE_Roma_Roads.label>Roma yolları</HE_Roma_Roads.label>
+  <HE_Roma_Roads.description>İnsanların hızlı yürümesini ve kervanların uzağa gitmesini sağlayan taş döşeli yollar yap.
+
+Gelenek: Roma yolu zeminini açar. Kervanların %10 daha hızlı yolculuk eder.
+
+Mirasın bu değilse 20 Nova Roma bilgisi gerekir.</HE_Roma_Roads.description>
+  <HE_Roma_Engineers.label>castrum mühendisleri</HE_Roma_Engineers.label>
+  <HE_Roma_Engineers.description>Her lejyoner aynı zamanda bir inşaatçıdır. Lejyon her gece tahkimatlı bir kamp kurar; kolonistlerin de o hızla inşa etmeyi öğrenir.
+
+Gelenek: Kolonistler %15 daha hızlı inşa eder ama %5 daha yavaş kazar: lejyonun aletleri kazmak için değil, inşa için yapılmıştır. Lejyon mangalını açar.
+
+Mirasın bu değilse 30 Nova Roma bilgisi gerekir.</HE_Roma_Engineers.description>
+  <HE_Roma_Aqueduct.label>su kemerleri</HE_Roma_Aqueduct.label>
+  <HE_Roma_Aqueduct.description>Her Roma kentinin gururu olan kemerli su kemerlerini yükselt.
+
+Mirasın bu değilse 40 Nova Roma bilgisi gerekir.</HE_Roma_Aqueduct.description>
+  <HE_Roma_Senate.label>senato kayıtları</HE_Roma_Senate.label>
+  <HE_Roma_Senate.description>Âlimlerinin Nova Roma hakkında öğrendiği her şeyi titizlikle kaydet.
+
+Gelenek: Nova Roma eşyalarını incelemek %25 daha fazla bilgi verir.
+
+Mirasın bu değilse 25 Nova Roma bilgisi gerekir.</HE_Roma_Senate.description>
+  <HE_Roma_Garum.label>garum ve puls</HE_Roma_Garum.label>
+  <HE_Roma_Garum.description>Lejyonların mutfağını öğren: koyu puls lapası ve her Roma sofrasının beklediği fermente balık sosu garum.</HE_Roma_Garum.description>
+  <HE_Roma_Cursus.label>cursus honorum</HE_Roma_Cursus.label>
+  <HE_Roma_Cursus.description>Kamu görevlerinin merdiveni: yönetmek isteyen her yurttaş önce hizmet etmeli, öğrenmeli ve yargılanmalıdır.
+
+Gelenek: Kolonistler %8 daha hızlı öğrenir, ama görev baskısı zihinsel çöküş eşiklerini %2 yükseltir.
+
+Mirasın bu değilse 10 Nova Roma bilgisi gerekir.</HE_Roma_Cursus.description>
+  <HE_Roma_Forum.label>forum</HE_Roma_Forum.label>
+  <HE_Roma_Forum.description>Açık bir forumun çevresine büyük yurttaşların mermer heykellerini dik.
+
+Mirasın bu değilse 10 Nova Roma bilgisi gerekir.</HE_Roma_Forum.description>
+  <HE_Roma_Lorica.label>lorica segmentata</HE_Roma_Lorica.label>
+  <HE_Roma_Lorica.description>Lejyonların şeritli plaka zırhını ve kırmızı sorguçlu bronz galea miğferini döv. Basit yün tunikayı da öğretir.
+
+Mirasın bu değilse 20 Nova Roma bilgisi gerekir.</HE_Roma_Lorica.description>
+  <HE_Roma_Thermae.label>thermae</HE_Roma_Thermae.label>
+  <HE_Roma_Thermae.description>Su kemerlerinden beslenen, yurttaşların yıkandığı, dedikodu yaptığı ve dertlerini unuttuğu ısıtmalı hamamlar. Mozaik zemini de öğretir.
+
+Mirasın bu değilse 35 Nova Roma bilgisi gerekir.</HE_Roma_Thermae.description>
+  <HE_Roma_Testudo.label>testudo</HE_Roma_Testudo.label>
+  <HE_Roma_Testudo.description>Kaplumbağa düzeni: kalkanlar üstte ve çevrede kenetlenir, lejyon yavaş ilerler ama neredeyse hiçbir şey içeri giremez.
+
+Gelenek: Kolonistler +%5 kesici zırh kazanır ama %3 daha yavaş yürür. Scutum sergisini açar.
+
+Mirasın bu değilse 40 Nova Roma bilgisi gerekir.</HE_Roma_Testudo.description>
+  <HE_Roma_Manuballista.label>manuballista</HE_Roma_Manuballista.label>
+  <HE_Roma_Manuballista.description>Ağır demir oklar fırlatan, elde taşınan burulmalı arbalet.
+
+Mirasın bu değilse 30 Nova Roma bilgisi gerekir.</HE_Roma_Manuballista.description>
+  <HE_Roma_Drill.label>lejyon talimi</HE_Roma_Drill.label>
+  <HE_Roma_Drill.description>Gerçeklerinin iki katı ağır tahta kılıçlarla bitmeyen talim. Gerçek dövüş geldiğinde her hamle yerini bulur.
+
+Gelenek: Kolonistler +2 yakın dövüş isabeti kazanır.
+
+Mirasın bu değilse 35 Nova Roma bilgisi gerekir.</HE_Roma_Drill.description>
+  <HE_Roma_Pax.label>pax romana</HE_Roma_Pax.label>
+  <HE_Roma_Pax.description>Hukuk, ticaret ve lejyonların sessiz tehdidiyle gelen barış. Nova Roma elçileri dinlenir.
+
+Gelenek: Kolonistler +%10 müzakere yeteneği ve +%5 sosyal etki kazanır.
+
+Mirasın bu değilse 45 Nova Roma bilgisi gerekir.</HE_Roma_Pax.description>
+  <HE_Roma_Aquila.label>kartalın gururu</HE_Roma_Aquila.label>
+  <HE_Roma_Aquila.description>Kartal bulunduğundan beri her yurttaş biraz daha dik duruyor.
+
+Gelenek: Kolonistler +2 yakın dövüş isabeti, +1 atış isabeti kazanır ve zihinsel çöküş eşikleri %2 düşer.
+
+Mirasın bu değilse 50 Nova Roma bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Roma_Aquila.description>
+  <HE_Roma_Carbine.label>lejyon karabinası</HE_Roma_Carbine.label>
+  <HE_Roma_Carbine.description>Yeni lejyonlar için kısa, kuyruktan dolma bir karabina: çabuk dolar, hafif taşınır ve kalkan duvarının arkasından kolayca ateşlenir.
+
+Mirasın bu değilse 35 Nova Roma bilgisi gerekir.</HE_Roma_Carbine.description>
+  <HE_Roma_CivilCode.label>medeni kanun</HE_Roma_CivilCode.label>
+  <HE_Roma_CivilCode.description>Mirastan tahıl fiyatına kadar her hak ve görev tek bir kitapta yazılı. Anlaşmazlıklar daha çabuk biter, ama artık her istek için bir dilekçe gerekir.
+
+Gelenek: Kolonistler +%6 müzakere yeteneği ve +%6 sosyal etki kazanır, ama %2 daha yavaş çalışır.
+
+Mirasın bu değilse 45 Nova Roma bilgisi gerekir.</HE_Roma_CivilCode.description>
+  <HE_Roma_Scorpio.label>skorpio</HE_Roma_Scorpio.label>
+  <HE_Roma_Scorpio.description>Lejyonun topçusu: bir surun üstüne konacak kadar küçük, üç yüz adımdan bir adamı ağaca çivileyecek kadar güçlü bir ok atıcı.
+
+Mirasın bu değilse 40 Nova Roma bilgisi gerekir.</HE_Roma_Scorpio.description>
+  <HE_Roma_PowderArms.label>Roma barutlu silahlar</HE_Roma_PowderArms.label>
+  <HE_Roma_PowderArms.description>Nova Roma'nın usulü bir fitilli ya da çakmaklı tüfek yapmak: namlu, kilit, dipçik ve kullanma talimi.
+
+Mirasın bu değilse, ancak Nova Roma Barut Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 30 Nova Roma bilgisi gerekir.</HE_Roma_PowderArms.description>
+  <HE_Roma_SteamArmy.label>Roma buhar ordusu</HE_Roma_SteamArmy.label>
+  <HE_Roma_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Nova Roma'nın kurduğu ordu.
+
+Mirasın bu değilse, ancak Nova Roma Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Nova Roma bilgisi gerekir.</HE_Roma_SteamArmy.description>
+</LanguageData>

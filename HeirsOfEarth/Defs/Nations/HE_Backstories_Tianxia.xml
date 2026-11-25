@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Militia</defName>
+    <title>frontier militiaman</title>
+    <titleShort>militia</titleShort>
+    <description>[PAWN_nameDef] farmed a plot on the northern frontier and drilled with the village militia every tenth day. When the raiders came, [PAWN_pronoun] held the gate.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>4</Melee>
+      <Plants>4</Plants>
+      <Shooting>2</Shooting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Scholar</defName>
+    <title>examination scholar</title>
+    <titleShort>scholar</titleShort>
+    <description>[PAWN_nameDef] studied the classics for fifteen years and passed the provincial examination on the third attempt. [PAWN_pronoun] can quote a sage for every situation and calculate taxes in [PAWN_possessive] head.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>8</Intellectual>
+      <Social>4</Social>
+    </skillGains>
+    <workDisables>
+      <li>ManualDumb</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Potter</defName>
+    <title>porcelain master</title>
+    <titleShort>potter</titleShort>
+    <description>[PAWN_nameDef] fired imperial porcelain in a town of kilns, where a single flaw meant the piece was smashed. [PAWN_pronoun] has smashed thousands.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>8</Crafting>
+      <Artistic>4</Artistic>
+    </skillGains>
+    <requiredWorkTags>
+      <li>ManualSkilled</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Physician</defName>
+    <title>needle physician</title>
+    <titleShort>physician</titleShort>
+    <description>[PAWN_nameDef] learned the meridians and the hundred herbs from an old court physician. [PAWN_pronoun] can read an illness in a pulse.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>8</Medicine>
+      <Plants>3</Plants>
+      <Intellectual>2</Intellectual>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Crossbowman</defName>
+    <title>wall crossbowman</title>
+    <titleShort>crossbowman</titleShort>
+    <description>For ten years [PAWN_nameDef] stood on the great wall with a repeating crossbow, counting the dust clouds of the steppe.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>8</Shooting>
+      <Construction>2</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Silkweaver</defName>
+    <title>silk weaver</title>
+    <titleShort>weaver</titleShort>
+    <description>[PAWN_nameDef] tended mulberry trees and silkworms and wove brocade for the court. [PAWN_possessive] fingers are quick and [PAWN_possessive] patience is endless.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>6</Crafting>
+      <Plants>3</Plants>
+      <Artistic>2</Artistic>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Bannerman</defName>
+    <title>banner officer</title>
+    <titleShort>officer</titleShort>
+    <description>[PAWN_nameDef] commanded a hundred men under the red banner and was promoted for holding a river crossing for three days.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>6</Melee>
+      <Shooting>4</Shooting>
+      <Social>4</Social>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Merchant</defName>
+    <title>caravan master</title>
+    <titleShort>caravan master</titleShort>
+    <description>[PAWN_nameDef] led camel caravans along the silk road, trading tea for horses and silk for silver. [PAWN_pronoun] speaks a little of every language on the road.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Animals>3</Animals>
+      <Intellectual>1</Intellectual>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Schoolboy</defName>
+    <title>village school pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] copied characters with a brush every morning in a cold village school, dreaming of the examination halls.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>3</Intellectual>
+      <Artistic>1</Artistic>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_RiceTerrace</defName>
+    <title>terrace farm child</title>
+    <titleShort>farm child</titleShort>
+    <description>[PAWN_nameDef] grew up on mountain rice terraces, carrying water and herding ducks through the paddies.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>3</Plants>
+      <Animals>1</Animals>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Kitchen</defName>
+    <title>tea house child</title>
+    <titleShort>tea house child</titleShort>
+    <description>[PAWN_nameDef] grew up in a busy tea house, folding dumplings in the kitchen and listening to storytellers in the hall.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Cooking>3</Cooking>
+      <Social>1</Social>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Tianxia_BS_Martial</defName>
+    <title>temple martial pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] was sent to a mountain temple where the monks taught [PAWN_objective] to stand in a horse stance for an hour and strike without anger.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Tianxia</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>3</Melee>
+      <Medicine>1</Medicine>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

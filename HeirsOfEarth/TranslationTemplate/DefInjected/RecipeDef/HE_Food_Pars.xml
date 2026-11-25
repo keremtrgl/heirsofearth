@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Pars_Pilaf.label>cook saffron pilaf</HE_Cook_Pars_Pilaf.label>
+  <HE_Cook_Pars_Pilaf.description>Cook saffron pilaf.</HE_Cook_Pars_Pilaf.description>
+  <HE_Cook_Pars_Pilaf.jobString>Cooking saffron pilaf.</HE_Cook_Pars_Pilaf.jobString>
+  <HE_Cook_Pars_Kebab.label>cook kebab and saffron rice</HE_Cook_Pars_Kebab.label>
+  <HE_Cook_Pars_Kebab.description>Cook kebab and saffron rice.</HE_Cook_Pars_Kebab.description>
+  <HE_Cook_Pars_Kebab.jobString>Cooking kebab and saffron rice.</HE_Cook_Pars_Kebab.jobString>
+  <HE_Cook_Pars_Sholeh.label>cook sholeh zard</HE_Cook_Pars_Sholeh.label>
+  <HE_Cook_Pars_Sholeh.description>Cook sholeh zard.</HE_Cook_Pars_Sholeh.description>
+  <HE_Cook_Pars_Sholeh.jobString>Cooking sholeh zard.</HE_Cook_Pars_Sholeh.jobString>
+</LanguageData>

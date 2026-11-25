@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_SettingsKnowledgeGain>Culture Knowledge gain: {0}</HE_SettingsKnowledgeGain>
+  <HE_SettingsResearchCost>Heritage research cost: {0} (needs a restart)</HE_SettingsResearchCost>
+  <HE_SettingsPolitics>Living world politics</HE_SettingsPolitics>
+  <HE_SettingsPoliticsInterval>Politics update every {0} days</HE_SettingsPoliticsInterval>
+  <HE_SettingsInterStateWar>Nations may go to war with each other</HE_SettingsInterStateWar>
+  <HE_SettingsRaidStrength>Strength of nation raids and story battles: {0}</HE_SettingsRaidStrength>
+  <HE_SettingsTraditions>Traditions of {0}</HE_SettingsTraditions>
+  <HE_SettingsPatches>Game rule changes (Harmony)</HE_SettingsPatches>
+  <HE_PatchOn>active</HE_PatchOn>
+  <HE_PatchOff>disabled</HE_PatchOff>
+  <HE_NeedKnowledge>Needs {0} {1} knowledge (you have {2}).</HE_NeedKnowledge>
+  <HE_NeedChain>Finish the story "{0}" first.</HE_NeedChain>
+  <HE_StudyMessage>{0} studied the item and gained {1} {2} knowledge.</HE_StudyMessage>
+  <HE_ChronicleStudy>Studying {0} works taught the colony {1} knowledge.</HE_ChronicleStudy>
+  <HE_ChronicleTradition>The colony adopted a new tradition: {0}.</HE_ChronicleTradition>
+  <HE_ChronicleHeritage>The colony took up the heritage of {0}.</HE_ChronicleHeritage>
+  <HE_ChronicleIndependent>The colony chose to stand on its own, heir to no single nation.</HE_ChronicleIndependent>
+  <HE_TraditionStat>Tradition: {0}</HE_TraditionStat>
+  <HE_CaravanTradition>Traditions: travel {0} faster</HE_CaravanTradition>
+  <HE_EffectQuality>{0} chance to craft one quality level higher</HE_EffectQuality>
+  <HE_EffectCaravan>caravans travel {0} faster</HE_EffectCaravan>
+  <HE_EffectStudy>{0} more knowledge from study</HE_EffectStudy>
+  <HE_ScopeBuildings>workbenches</HE_ScopeBuildings>
+  <HE_TabHeritage>Heritage</HE_TabHeritage>
+  <HE_TabKnowledge>Culture Knowledge</HE_TabKnowledge>
+  <HE_TabDiplomacy>Diplomacy</HE_TabDiplomacy>
+  <HE_TabTraditions>Traditions</HE_TabTraditions>
+  <HE_TabStories>Stories</HE_TabStories>
+  <HE_TabChronicle>Chronicle</HE_TabChronicle>
+  <HE_HeritageIntro>Centuries ago the colony ships of Earth scattered across the rim. Their descendants founded nations that still carry the heritage of old cultures. Your colony can be the heir of one of them, or stand on its own.</HE_HeritageIntro>
+  <HE_HeritageNotChosen>Your colony has not chosen a heritage yet. You can choose once: the heritage's research branch needs no Culture Knowledge, and its nation starts friendly.</HE_HeritageNotChosen>
+  <HE_HeritageIndependent>An independent colony, heir to no single nation.</HE_HeritageIndependent>
+  <HE_ChooseHeritage>Choose your heritage</HE_ChooseHeritage>
+  <HE_ChooseHeritageWarn>This choice is made once and cannot be changed later.</HE_ChooseHeritageWarn>
+  <HE_ChooseIndependent>Stay independent (+15 knowledge of every culture)</HE_ChooseIndependent>
+  <HE_Choose>Choose</HE_Choose>
+  <HE_RulerTitle>Ruler: {0}</HE_RulerTitle>
+  <HE_YourHeritage>your heritage</HE_YourHeritage>
+  <HE_KnowledgeIntro>Research from another nation's branch needs that nation's Culture Knowledge. Your own heritage needs none.</HE_KnowledgeIntro>
+  <HE_KnowledgeNext>{0} / {1} for {2}</HE_KnowledgeNext>
+  <HE_KnowledgeAll>{0}, every project open</HE_KnowledgeAll>
+  <HE_KnowledgeSources>Ways to gain knowledge: study the nation's goods at a Culture Table, let colonists from that culture do research, finish projects of its branch, receive archives from allies and story rewards, and loot archives from its settlements.</HE_KnowledgeSources>
+  <HE_DiplomacyIntro>How the heir nations stand with you and with each other. Relations change every month; nations go to war, make peace and form alliances.</HE_DiplomacyIntro>
+  <HE_DiplomacyOff>World politics are turned off in the mod settings.</HE_DiplomacyOff>
+  <HE_NoNations>No heir nation exists in this world.</HE_NoNations>
+  <HE_You>You</HE_You>
+  <HE_AtWar>war</HE_AtWar>
+  <HE_Allied>allied</HE_Allied>
+  <HE_TraditionsIntro>Traditions are research projects that change the rules of the game for your colony.</HE_TraditionsIntro>
+  <HE_StoriesIntro>Each nation has a story. It begins when your colony knows the culture well enough, or at once for your heritage.</HE_StoriesIntro>
+  <HE_ChainLocked>Begins at {0} {1} knowledge.</HE_ChainLocked>
+  <HE_ChainDone>Finished.</HE_ChainDone>
+  <HE_ChainGoal>Step {0}/{1}: {2}</HE_ChainGoal>
+  <HE_Deliver>Deliver</HE_Deliver>
+  <HE_ChainStartedLabel>Story: {0}</HE_ChainStartedLabel>
+  <HE_ChainStartedChronicle>The story "{0}" began.</HE_ChainStartedChronicle>
+  <HE_ChainStepLabel>{0}: next step</HE_ChainStepLabel>
+  <HE_ChainDoneLabel>{0} complete</HE_ChainDoneLabel>
+  <HE_ChainDoneChronicle>The story "{0}" came to its end.</HE_ChainDoneChronicle>
+  <HE_ChronicleIntro>The history of your colony and the heir nations.</HE_ChronicleIntro>
+  <HE_SiteEnter>Enter {0}</HE_SiteEnter>
+  <HE_SiteEntering>Entering {0}.</HE_SiteEntering>
+  <HE_ScenHeritage>Heritage: {0}.</HE_ScenHeritage>
+  <HE_ScenIndependent>Heritage: independent colony.</HE_ScenIndependent>
+  <HE_WarLabel>War: {0} and {1}</HE_WarLabel>
+  <HE_WarText>{0} has declared war on {1}. Their armies will clash, and settlements may change hands.</HE_WarText>
+  <HE_PeaceLabel>Peace: {0} and {1}</HE_PeaceLabel>
+  <HE_PeaceText>After a long war, {0} and {1} have signed a peace.</HE_PeaceText>
+  <HE_AllianceText>{0} and {1} have formed an alliance.</HE_AllianceText>
+  <HE_AllianceEndText>The alliance between {0} and {1} has ended.</HE_AllianceEndText>
+  <HE_CaptureLabel>{0} has fallen</HE_CaptureLabel>
+  <HE_CaptureText>{0} has captured {1} from {2}.</HE_CaptureText>
+  <HE_CollapseLabel>{0} has collapsed</HE_CollapseLabel>
+  <HE_CollapseText>With its last settlement lost, {0} has collapsed. Its people scatter across the world.</HE_CollapseText>
+  <HE_GiftLabel>Gift from {0}</HE_GiftLabel>
+  <HE_GiftText>Your allies of {0} have sent you a gift: {1}. Study it at a Culture Table to learn more of their ways.</HE_GiftText>
+  <HE_NotEnoughSilver>You need {0} silver.</HE_NotEnoughSilver>
+  <HE_SettingsAddMissing>Add new nations to existing saves</HE_SettingsAddMissing>
+  <HE_SettingsAddMissingTip>When a save made with an older version is loaded, nations that did not exist yet arrive with their own settlements.</HE_SettingsAddMissingTip>
+  <HE_NationArrivedLabel>New nations arrive</HE_NationArrivedLabel>
+  <HE_NationArrivedLetter>Ships of the old world have found this planet at last. New heir nations have founded their first settlements: {0}.
+
+They start neutral toward you. Their research branches, traders and stories are now open.</HE_NationArrivedLetter>
+  <HE_NationArrivedText>{0} founded its first settlements on this world.</HE_NationArrivedText>
+  <HE_EnvoyLabel>Envoy of {0}</HE_EnvoyLabel>
+  <HE_EnvoyText>An envoy of {0} arrives with gifts worth {2} silver and a letter from the {3}, offering friendship between your peoples.</HE_EnvoyText>
+  <HE_EnvoyAccept>Accept the gifts and the friendship</HE_EnvoyAccept>
+  <HE_EnvoyRefuse>Send the envoy away</HE_EnvoyRefuse>
+  <HE_TributeLabel>Tribute demanded by {0}</HE_TributeLabel>
+  <HE_TributeText>The {3} of {0} demands a tribute of {2} silver. If you refuse, relations will sour and raiders paid by them will come within two days.</HE_TributeText>
+  <HE_TributeAccept>Pay {0} silver</HE_TributeAccept>
+  <HE_TributeRefuse>Refuse</HE_TributeRefuse>
+  <HE_WarCallLabel>{0} calls you to war</HE_WarCallLabel>
+  <HE_WarCallText>{0} is at war with {1} and asks you to stand with them. If you join, {1} will become hostile to you, and {0} will send you two archives of its knowledge.</HE_WarCallText>
+  <HE_WarCallAccept>Join the war</HE_WarCallAccept>
+  <HE_WarCallRefuse>Stay out of it</HE_WarCallRefuse>
+  <HE_MarriageLabel>Marriage offer from {0}</HE_MarriageLabel>
+  <HE_MarriageText>To bind your peoples together, the {3} of {0} offers that one of their own join your colony and marry into it.</HE_MarriageText>
+  <HE_MarriageAccept>Welcome them</HE_MarriageAccept>
+  <HE_MarriageRefuse>Decline politely</HE_MarriageRefuse>
+  <HE_MarriageChronicle>{0} of {1} joined the colony through a marriage alliance.</HE_MarriageChronicle>
+  <HE_MediationLabel>Mediate between {0} and {1}</HE_MediationLabel>
+  <HE_MediationText>{0} and {1} are at war. Both trust you enough to accept your mediation. For {2} silver in gifts and travel costs, your envoys can bring them to the table.</HE_MediationText>
+  <HE_MediationAccept>Pay {0} silver and mediate</HE_MediationAccept>
+  <HE_MediationRefuse>Let them fight</HE_MediationRefuse>
+  <HE_HeritageReminderLabel>Choose your heritage</HE_HeritageReminderLabel>
+  <HE_HeritageReminderText>Your colony has not yet chosen which old nation it descends from.
+
+Open the Heirs tab at the bottom of the screen and pick a heritage: its research needs no Culture Knowledge, its people start friendly and its traditions are yours from the start. You can also stay independent and learn a little of every culture.
+
+The choice can be made only once.</HE_HeritageReminderText>
+  <HE_StartIndependentDialog>No banner flies over your camp and no senate, shogun or jarl expects your tribute. The old nations will judge you by what you do, not by whose blood you carry. Learn from all of them, and owe none of them anything.</HE_StartIndependentDialog>
+  <HE_StartRomaDialog>The standard is planted. Far from the senate and the paved roads of home, you and your companions will build a colonia worthy of Nova Roma. Remember the law, keep the roads straight, and never let the eagle fall.</HE_StartRomaDialog>
+  <HE_StartYamatoDialog>The clan has given you its blessing and a little rice. Far from the castle towns of home you will build a household the shogun can be proud of. Work with patience, keep your blade sharp and your word sharper.</HE_StartYamatoDialog>
+  <HE_StartNordDialog>The boat is pulled up on the shore and the gods are watching. Raise a longhouse, keep the hearth burning and make a saga worth telling. And if the Romans come, show them how the north answers.</HE_StartNordDialog>
+  <HE_StartHellasDialog>The oracle has spoken, the omens were good and the assembly voted to send you. Now, far from the league, you must found a city worth the name. Build it with reason, defend it together and argue about everything else.</HE_StartHellasDialog>
+  <HE_StartTianxiaDialog>The edict has been sealed: you are to settle this distant land in the name of the emperor. Build granaries before walls and schools before palaces, and the mandate of heaven will be with you.</HE_StartTianxiaDialog>
+  <HE_StartAlbionDialog>The charter is signed and the company has paid for your passage. Out here there is coal to dig, iron to forge and a fortune to be made, if you keep your powder dry and your accounts in order.</HE_StartAlbionDialog>
+  <HE_StartKemetDialog>The flood has been measured, the scribes have written your name in the land register and the pharaoh has granted you an estate upriver. It is empty, it is far, and it is yours. Dig the canals, build in stone and write everything down.</HE_StartKemetDialog>
+  <HE_StartParsDialog>The satrap has sealed your charter: build a post station where the road ends, keep fresh horses and let no rider wait. The road will come to you. Make sure that when it does, it finds a garden.</HE_StartParsDialog>
+  <HE_StartIntiDialog>The knot keepers have tied your names into the cords of a new valley. It is steep, cold and empty. Cut the slopes into terraces, fill a storehouse before the first winter and keep count of everything.</HE_StartIntiDialog>
+  <HE_ArtifactCooldown>Resting: ready again in {0}.</HE_ArtifactCooldown>
+  <HE_ArtifactReady>Ready to use.</HE_ArtifactReady>
+  <HE_ArtifactUsed>{0} used {1}: {2} allies rallied, {3} enemies fled.</HE_ArtifactUsed>
+  <HE_TabRoutes>Trade routes</HE_TabRoutes>
+  <HE_RoutesIntro>Open a trade road to a nation that likes you (goodwill {0} or more) by paying silver once. Every {1} days a route caravan brings that nation's goods and silver worth {2} of what the road cost, raises relations a little and teaches you something of their culture. A nation at war may lose a caravan to raiders. If the nation turns hostile or collapses, the road closes.</HE_RoutesIntro>
+  <HE_RoutesOpen>Open roads: {0} / {1}</HE_RoutesOpen>
+  <HE_RoutesNone>You have no trade roads yet.</HE_RoutesNone>
+  <HE_RoutesAvailable>Nations</HE_RoutesAvailable>
+  <HE_RouteInfo>next caravan in {0} days · worth {1} silver · {2} trips, {3} raided</HE_RouteInfo>
+  <HE_RouteWarRisk>At war: caravans may be raided.</HE_RouteWarRisk>
+  <HE_RouteOffer>costs {0} silver · {1} tiles away · relations {2}</HE_RouteOffer>
+  <HE_RouteOpen>Open the road</HE_RouteOpen>
+  <HE_RouteClose>Close the road</HE_RouteClose>
+  <HE_RouteCloseConfirm>Close the trade road to {0}? The silver you paid is not returned.</HE_RouteCloseConfirm>
+  <HE_RouteDisabled>Trade routes are turned off in the mod settings.</HE_RouteDisabled>
+  <HE_RouteNoNation>this nation is gone</HE_RouteNoNation>
+  <HE_RouteAlreadyOpen>already open</HE_RouteAlreadyOpen>
+  <HE_RouteHostile>hostile to you</HE_RouteHostile>
+  <HE_RouteGoodwill>needs relations {0}</HE_RouteGoodwill>
+  <HE_RouteNoSettlement>no settlement to trade with</HE_RouteNoSettlement>
+  <HE_RouteFull>at most {0} roads</HE_RouteFull>
+  <HE_RouteOpenedChronicle>A trade road to {0} was opened for {1} silver.</HE_RouteOpenedChronicle>
+  <HE_RouteTripLabel>Road caravan from {0}</HE_RouteTripLabel>
+  <HE_RouteTripText>The road caravan from {0} has arrived and unloaded near your trade spot: {1}.
+
+Relations with them rise by {2}. The next caravan is due in {3} days.</HE_RouteTripText>
+  <HE_RouteTripChronicle>Caravan number {1} arrived on the road from {0}.</HE_RouteTripChronicle>
+  <HE_RouteRaidedLabel>Road caravan of {0} raided</HE_RouteRaidedLabel>
+  <HE_RouteRaidedText>{0} is at war, and raiders fell on its road caravan before it reached you. Nothing arrives this time. The road stays open.</HE_RouteRaidedText>
+  <HE_RouteClosedLabel>Road to {0} closed</HE_RouteClosedLabel>
+  <HE_RouteClosedHostile>{0} has turned hostile and closed its trade road to you.</HE_RouteClosedHostile>
+  <HE_RouteClosedCollapse>{0} has collapsed. Its trade road falls silent.</HE_RouteClosedCollapse>
+  <HE_RouteClosedByPlayer>You closed the trade road to {0}.</HE_RouteClosedByPlayer>
+  <HE_SettingsTradeRoutes>Trade routes</HE_SettingsTradeRoutes>
+  <HE_SettingsTradeRoutesTip>Lets you open trade roads to friendly nations in the Heirs tab. When off, open roads send no caravans.</HE_SettingsTradeRoutesTip>
+  <HE_TabCouncil>World Council</HE_TabCouncil>
+  <HE_CouncilIntro>The end goal of the heirs. The council opens after you finish {0} nation stories or keep {1} trade roads open for a full year. Then research the World Council and build its hall. Once per {3} days you can call a meeting.
+
+Unity: two thirds of the living nations vote yes. A nation votes yes if it is your ally, has sworn you fealty or likes you ({2} relations or more), but says no if a nation it is at war with votes yes.
+Dominion: every living nation has sworn you fealty. A nation hostile to you that has lost half of its settlements offers fealty; a nation you wipe out collapses.
+
+After the victory the game goes on.</HE_CouncilIntro>
+  <HE_CouncilDisabled>The World Council is turned off in the mod settings.</HE_CouncilDisabled>
+  <HE_CouncilAlreadyWon>the council has already decided</HE_CouncilAlreadyWon>
+  <HE_CouncilLocked>the council has not opened yet</HE_CouncilLocked>
+  <HE_CouncilNeedHall>build the council hall first</HE_CouncilNeedHall>
+  <HE_CouncilWait>next meeting possible in {0} days</HE_CouncilWait>
+  <HE_CouncilProgress>Road to the council</HE_CouncilProgress>
+  <HE_CouncilStepUnlock>Council opened: {0}/{1} stories finished or {2}/{3} trade roads open for a year</HE_CouncilStepUnlock>
+  <HE_CouncilStepHall>Council hall built (research the World Council first)</HE_CouncilStepHall>
+  <HE_CouncilCall>Call the World Council</HE_CouncilCall>
+  <HE_CouncilVotes>How the nations would vote today</HE_CouncilVotes>
+  <HE_CouncilSettlements>{0} settlements</HE_CouncilSettlements>
+  <HE_CouncilTally>Yes votes: {0} of {1}. Unity needs {2}.</HE_CouncilTally>
+  <HE_CouncilDominion>Nations sworn to you: {0} of {1}. Dominion needs all of them.</HE_CouncilDominion>
+  <HE_CouncilWonNote>The heirs of Earth have their answer. Your colony goes on; the world remembers.</HE_CouncilWonNote>
+  <HE_VoteYes>Yes</HE_VoteYes>
+  <HE_VoteNo>No</HE_VoteNo>
+  <HE_VoteGone>gone</HE_VoteGone>
+  <HE_VoteVassal>has sworn you fealty</HE_VoteVassal>
+  <HE_VoteAlly>your ally</HE_VoteAlly>
+  <HE_VoteHostile>hostile to you</HE_VoteHostile>
+  <HE_VoteGoodwill>needs relations {0}, has {1}</HE_VoteGoodwill>
+  <HE_VoteEnemyYes>will not sit beside {0}, its enemy in war</HE_VoteEnemyYes>
+  <HE_VoteFriend>trusts you (relations {0})</HE_VoteFriend>
+  <HE_NeedCouncil>The World Council opens after {0} finished nation stories or {1} trade roads kept open for a year.</HE_NeedCouncil>
+  <HE_CouncilUnlockedLabel>The World Council can gather</HE_CouncilUnlockedLabel>
+  <HE_CouncilUnlockedText>Word of your colony has travelled along every road of this world. The heir nations now speak of a council where all of them would have a voice, and many expect you to call it.
+
+Research the World Council, build the council hall and call the meeting from the Heirs tab. You can unite the heirs by vote, or make them swear fealty to you.</HE_CouncilUnlockedText>
+  <HE_CouncilUnlockedChronicle>The nations began to speak of a World Council.</HE_CouncilUnlockedChronicle>
+  <HE_CouncilFailedLabel>The council did not agree</HE_CouncilFailedLabel>
+  <HE_CouncilFailedText>The envoys sat around the great table, argued long into the night and voted. {0} of {1} said yes; unity needs {2}.
+
+{3}
+
+You can call the council again in {4} days.</HE_CouncilFailedText>
+  <HE_CouncilFailedChronicle>The World Council met: {0} of {1} voted for unity, not enough.</HE_CouncilFailedChronicle>
+  <HE_VictoryUnityLabel>Victory: the heirs united</HE_VictoryUnityLabel>
+  <HE_VictoryUnityText>The envoys rose one by one and laid their banners on the great table. Centuries after the ships left Earth, its heirs have chosen to stand together, and it was {0} that brought them to the table.
+
+The old quarrels are not gone, but from today they are settled in council, not on the battlefield. Your colony lives on, and the world will tell its story for a long time.</HE_VictoryUnityText>
+  <HE_VictoryUnityChronicle>The World Council voted for unity. The heirs of Earth stand together.</HE_VictoryUnityChronicle>
+  <HE_VictoryDominionLabel>Victory: dominion over the heirs</HE_VictoryDominionLabel>
+  <HE_VictoryDominionText>Every nation still standing has knelt. Their envoys came to the council hall not to vote but to swear, and the banners of the heirs now hang beneath the banner of {0}.
+
+It was not won gently, and some will not forget. But no one on this world now doubts who leads it. Your colony lives on.</HE_VictoryDominionText>
+  <HE_VictoryDominionChronicle>Every living nation swore fealty. The World Council bowed to one power.</HE_VictoryDominionChronicle>
+  <HE_FealtyLabel>{0} offers fealty</HE_FealtyLabel>
+  <HE_FealtyText>{0} has lost {1} of its {2} settlements to its wars, and it is still at war with you. The {3} sends an envoy under a white banner: they will swear fealty to you, end the war and pay a tribute of {4} silver every {5} days.
+
+A nation sworn to you counts toward dominion over the heirs and always votes yes in the World Council. If it ever turns hostile again, the oath is broken.</HE_FealtyText>
+  <HE_FealtyAccept>Accept their fealty</HE_FealtyAccept>
+  <HE_FealtyRefuse>Refuse: the war goes on</HE_FealtyRefuse>
+  <HE_FealtyAcceptedChronicle>{0} swore fealty to your colony.</HE_FealtyAcceptedChronicle>
+  <HE_FealtyRefusedChronicle>You refused the fealty of {0}. The war goes on.</HE_FealtyRefusedChronicle>
+  <HE_FealtyBrokenLabel>{0} broke its oath</HE_FealtyBrokenLabel>
+  <HE_FealtyBrokenText>{0} has turned hostile and broken its oath of fealty to you. It no longer pays tribute.</HE_FealtyBrokenText>
+  <HE_TributeArrivesLabel>Tribute from your vassals</HE_TributeArrivesLabel>
+  <HE_TributeArrivesText>The nations sworn to you have sent their tribute: {0} silver ({1}).</HE_TributeArrivesText>
+  <HE_SettingsCouncil>World Council (end goal)</HE_SettingsCouncil>
+  <HE_SettingsCouncilTip>The World Council, fealty offers and the two victories. When off, none of them happen.</HE_SettingsCouncilTip>
+  <HE_TabResearch>Research</HE_TabResearch>
+  <HE_AtlasIntro>Every research project of the heir nations in one list. Filter by nation, age and state, see why a project is locked, and start one with a single click. Hover over a row for its description and effects.</HE_AtlasIntro>
+  <HE_AtlasAllNations>All nations</HE_AtlasAllNations>
+  <HE_AtlasCommon>Shared (no nation)</HE_AtlasCommon>
+  <HE_AtlasAllAges>All ages</HE_AtlasAllAges>
+  <HE_AtlasStateAll>All</HE_AtlasStateAll>
+  <HE_AtlasStateAvailable>Can start</HE_AtlasStateAvailable>
+  <HE_AtlasStateLocked>Locked</HE_AtlasStateLocked>
+  <HE_AtlasStateFinished>Finished</HE_AtlasStateFinished>
+  <HE_AtlasCount>{0} projects, {1} finished</HE_AtlasCount>
+  <HE_AtlasEmpty>No project matches these filters.</HE_AtlasEmpty>
+  <HE_AtlasTradition>tradition</HE_AtlasTradition>
+  <HE_AtlasKnowledge>needs {0} knowledge</HE_AtlasKnowledge>
+  <HE_AtlasDone>Finished</HE_AtlasDone>
+  <HE_AtlasCurrent>Researching</HE_AtlasCurrent>
+  <HE_AtlasResearch>Research</HE_AtlasResearch>
+  <HE_AtlasNeeds>Needs: {0}</HE_AtlasNeeds>
+  <HE_AtlasNeedsBench>Needs a {0}</HE_AtlasNeedsBench>
+  <HE_AtlasLocked>Not available yet</HE_AtlasLocked>
+  <HE_TabEncyclopedia>Encyclopedia</HE_TabEncyclopedia>
+  <HE_EncyclopediaIntro>Everything about each heir nation on one page: its story, neighbours, buildings, weapons, clothes, food, traditions and tales. Click any entry to open its full information card.</HE_EncyclopediaIntro>
+  <HE_EncyclopediaGone>this nation has fallen</HE_EncyclopediaGone>
+  <HE_EncyclopediaRelations>relations with you {0} ({1})</HE_EncyclopediaRelations>
+  <HE_EncyclopediaProgress>Your knowledge: {0} · research {1} / {2} finished {3}</HE_EncyclopediaProgress>
+  <HE_EncyclopediaNeighbours>Friends and rivals</HE_EncyclopediaNeighbours>
+  <HE_EncyclopediaFriends>Natural friends: {0}
+Old rivals: {1}</HE_EncyclopediaFriends>
+  <HE_EncyclopediaHowTo>How to learn from them: trade with their caravans and visit their towns, open a trade road, study {0} goods at a culture table, take in {0} colonists as teachers, answer their envoys, and follow their story once your knowledge is high enough. Their friends think better of you when you help them; their rivals do not.</HE_EncyclopediaHowTo>
+  <HE_EncyclopediaBuilding>Buildings ({0})</HE_EncyclopediaBuilding>
+  <HE_EncyclopediaWeapon>Weapons ({0})</HE_EncyclopediaWeapon>
+  <HE_EncyclopediaApparel>Clothes and armour ({0})</HE_EncyclopediaApparel>
+  <HE_EncyclopediaFood>Food and drink ({0})</HE_EncyclopediaFood>
+  <HE_EncyclopediaItem>Goods and treasures ({0})</HE_EncyclopediaItem>
+  <HE_EncyclopediaFloor>Floors ({0})</HE_EncyclopediaFloor>
+  <HE_EncyclopediaTraditions>Traditions ({0})</HE_EncyclopediaTraditions>
+  <HE_EncyclopediaStories>Story and legendary work</HE_EncyclopediaStories>
+  <HE_EncyclopediaChainOn>in progress (see Stories)</HE_EncyclopediaChainOn>
+  <HE_EncyclopediaInfoTip>Click for the full information card.</HE_EncyclopediaInfoTip>
+  <HE_SettingsPresets>Difficulty presets (set the sliders below at once):</HE_SettingsPresets>
+  <HE_SettingsPreset0>Relaxed</HE_SettingsPreset0>
+  <HE_SettingsPreset1>Standard</HE_SettingsPreset1>
+  <HE_SettingsPreset2>Hard</HE_SettingsPreset2>
+  <HE_SettingsTributeDemand>Silver demanded by nations: {0}</HE_SettingsTributeDemand>
+  <HE_DoctrineLetter>War doctrine: {0}. {1}</HE_DoctrineLetter>
+  <HE_SettingsDoctrines>Nations raid with their war doctrines</HE_SettingsDoctrines>
+  <HE_SettingsDoctrinesTip>Each heir nation prefers its own raid plan and way of arriving, and its raiders fight with a drill (for example the Roman testudo or the Hellenic phalanx). Off: heir raids behave like vanilla raids.</HE_SettingsDoctrinesTip>
+  <HE_AtlasDoctrine>War doctrine</HE_AtlasDoctrine>
+  <HE_AtlasAnimal>Pack and herd animal</HE_AtlasAnimal>
+  <HE_TemperamentWarlike>Warlike</HE_TemperamentWarlike>
+  <HE_TemperamentWarlikeDesc>seeks quarrels with rivals, demands half again as much tribute and offers defensive alliances.</HE_TemperamentWarlikeDesc>
+  <HE_TemperamentMercantile>Mercantile</HE_TemperamentMercantile>
+  <HE_TemperamentMercantileDesc>warms to every nation, offers trade treaties and likes to host great fairs.</HE_TemperamentMercantileDesc>
+  <HE_TemperamentScholarly>Scholarly</HE_TemperamentScholarly>
+  <HE_TemperamentScholarlyDesc>shares learning freely (a quarter more culture knowledge from this nation) and offers science exchanges.</HE_TemperamentScholarlyDesc>
+  <HE_TemperamentPious>Pious</HE_TemperamentPious>
+  <HE_TemperamentPiousDesc>keeps the festivals, may host the Games and offers peace treaties.</HE_TemperamentPiousDesc>
+  <HE_TemperamentCautious>Cautious</HE_TemperamentCautious>
+  <HE_TemperamentCautiousDesc>often holds back from war, warms slowly to others and offers peace treaties.</HE_TemperamentCautiousDesc>
+  <HE_EpithetWarlike>the Bold</HE_EpithetWarlike>
+  <HE_EpithetMercantile>the Rich</HE_EpithetMercantile>
+  <HE_EpithetScholarly>the Wise</HE_EpithetScholarly>
+  <HE_EpithetPious>the Pious</HE_EpithetPious>
+  <HE_EpithetCautious>the Prudent</HE_EpithetCautious>
+  <HE_RulerLine>{0} {1}, {2}</HE_RulerLine>
+  <HE_ReignYears>Reigning for {0} years.</HE_ReignYears>
+  <HE_AtlasRuler>Ruler</HE_AtlasRuler>
+  <HE_SuccessionLabel>New ruler of {0}</HE_SuccessionLabel>
+  <HE_SuccessionText>The reign of {1} is over: the crown of {0} has passed to {2}.
+
+The new ruler is {3}
+
+A new ruler may review the treaties made with you, and rivals may test the young reign.</HE_SuccessionText>
+  <HE_SuccessionChronicle>{0} now rules {1}.</HE_SuccessionChronicle>
+  <HE_SuccessionMessage>{0} now rules {1}.</HE_SuccessionMessage>
+  <HE_CourtsHeading>Courts and treaties</HE_CourtsHeading>
+  <HE_CourtsIntro>Every nation is ruled by a ruler with a temperament that shapes what the court offers and demands. Sign treaties for a gift of silver; a ruler may also offer one for free. Your title with a nation grows with goodwill and treaties.</HE_CourtsIntro>
+  <HE_EmbassyYes>You have an embassy: science exchanges and defensive alliances are possible, and every nation you hold a treaty with grows a little fonder of you each month.</HE_EmbassyYes>
+  <HE_EmbassyNo>Build an embassy (research: embassies) for science exchanges and defensive alliances.</HE_EmbassyNo>
+  <HE_TreatyPeace>Peace</HE_TreatyPeace>
+  <HE_TreatyPeaceDesc>The nation will not demand tribute from you, and its goodwill rises a little every month.</HE_TreatyPeaceDesc>
+  <HE_TreatyTrade>Trade</HE_TreatyTrade>
+  <HE_TreatyTradeDesc>A trade caravan of the nation visits your colony every twenty days or so.</HE_TreatyTradeDesc>
+  <HE_TreatyScience>Science</HE_TreatyScience>
+  <HE_TreatyScienceDesc>Scholars visit each other: you gain 8 culture knowledge of the nation every month.</HE_TreatyScienceDesc>
+  <HE_TreatyAlliance>Alliance</HE_TreatyAlliance>
+  <HE_TreatyAllianceDesc>A defensive alliance: when raiders attack your home, the nation often sends warriors to help (at most every ten days).</HE_TreatyAllianceDesc>
+  <HE_TreatyFee>A gift of {0} silver seals it. Needs at least {1} goodwill.</HE_TreatyFee>
+  <HE_TreatyNeedsEmbassy>Needs an embassy in your colony.</HE_TreatyNeedsEmbassy>
+  <HE_TreatyClickCancel>Click to cancel this treaty.</HE_TreatyClickCancel>
+  <HE_TreatyCancelConfirm>Cancel the {0} treaty with {1}? They will lose {2} goodwill toward you, and every other nation {3}: word of a broken oath travels fast.</HE_TreatyCancelConfirm>
+  <HE_TreatyNoNation>This nation is gone.</HE_TreatyNoNation>
+  <HE_TreatyAlready>Already signed.</HE_TreatyAlready>
+  <HE_TreatyHostile>{0} is hostile to you.</HE_TreatyHostile>
+  <HE_TreatyGoodwill>Needs at least {0} goodwill.</HE_TreatyGoodwill>
+  <HE_TreatyEmbassy>Needs an embassy in your colony.</HE_TreatyEmbassy>
+  <HE_TreatySigned>A {0} treaty was signed with {1}.</HE_TreatySigned>
+  <HE_TreatyEnded>The {0} treaty with {1} was cancelled.</HE_TreatyEnded>
+  <HE_TreatyVoid>The {0} treaty with {1} became void when they turned hostile.</HE_TreatyVoid>
+  <HE_TreatyRevoked>The new ruler of {1} revoked the {0} treaty.</HE_TreatyRevoked>
+  <HE_TreatyVoidLabel>Treaties with {0} void</HE_TreatyVoidLabel>
+  <HE_TreatyVoidText>{0} has turned hostile to you. Every treaty you held with them is void.</HE_TreatyVoidText>
+  <HE_TreatyRevokedLabel>{0} revokes a treaty</HE_TreatyRevokedLabel>
+  <HE_TreatyRevokedText>{0} does not hold with the agreements of the old court: the {1} treaty with {2} is revoked.
+
+Win back their goodwill and you can sign it again.</HE_TreatyRevokedText>
+  <HE_TreatyOfferLabel>{0} offers a {1} treaty</HE_TreatyOfferLabel>
+  <HE_TreatyOfferText>{0} of {1} sends a sealed letter offering a {2} treaty, without the usual gifts.
+
+{3}</HE_TreatyOfferText>
+  <HE_TreatyOfferAccept>Sign the {0} treaty</HE_TreatyOfferAccept>
+  <HE_TreatyOfferRefuse>Decline</HE_TreatyOfferRefuse>
+  <HE_AllyAnswers>{0} honours the alliance: its warriors are marching to help you.</HE_AllyAnswers>
+  <HE_YourTitle>Your standing: {0}</HE_YourTitle>
+  <HE_Title0>stranger</HE_Title0>
+  <HE_Title1>guest</HE_Title1>
+  <HE_Title2>friend</HE_Title2>
+  <HE_Title3>honoured friend</HE_Title3>
+  <HE_TitleTip>Guest: goodwill 0 or more. Friend: 40 or more. Honoured friend: 60 or more and two treaties. The nation's own high honour ({0}): 80 or more, a defensive alliance and an embassy; it brings {1} culture knowledge every month.</HE_TitleTip>
+  <HE_HonourLabel>Honoured by {0}</HE_HonourLabel>
+  <HE_HonourText>{0} of {1} proclaims your colony {2} before the whole court. From now on their scholars share {3} culture knowledge with you every month.</HE_HonourText>
+  <HE_HonourChronicle>The colony was named {0} by {1}.</HE_HonourChronicle>
+  <HE_SettingsWorldEvents>World events between the nations</HE_SettingsWorldEvents>
+  <HE_SettingsWorldEventsTip>The Games, great fairs, famines and plagues among the heir nations, some of which ask for your help.</HE_SettingsWorldEventsTip>
+  <HE_GamesLabel>The Games of {0}</HE_GamesLabel>
+  <HE_GamesText>{1} invites every nation to the Games of {0}: footraces, wrestling and the bow, before crowds from the whole world.
+
+Your best fighter, {2} (skill {3}), could compete for the colony. Chance to win: {4}.
+
+A victory makes every nation think better of you; even taking part pleases the hosts.</HE_GamesText>
+  <HE_GamesAccept>Send {1} to compete</HE_GamesAccept>
+  <HE_GamesRefuse>Stay home</HE_GamesRefuse>
+  <HE_GamesMissing>Cannot compete.</HE_GamesMissing>
+  <HE_GamesNoChampion>The champion cannot travel.</HE_GamesNoChampion>
+  <HE_GamesWonLabel>{0} wins the Games</HE_GamesWonLabel>
+  <HE_GamesWon>{0} won the Games of {1}. The whole world now knows the name of your colony.</HE_GamesWon>
+  <HE_GamesLost>{0} competed well at the Games of {1} but did not win.</HE_GamesLost>
+  <HE_FairLabel>Great fair of {0}</HE_FairLabel>
+  <HE_FairText>{1} opens a great fair, and merchants of the whole world take to the roads. Over the next days, caravans of {2} will pass by your colony.</HE_FairText>
+  <HE_FairChronicle>{0} held a great fair.</HE_FairChronicle>
+  <HE_FamineLabel>Famine in {0}</HE_FamineLabel>
+  <HE_FamineText>The harvest has failed in {0}, and {1} asks every friend for food. Could you spare food worth {2} nutrition (about {2} simple meals)?</HE_FamineText>
+  <HE_FamineAccept>Send food worth {0} nutrition</HE_FamineAccept>
+  <HE_FamineRefuse>We have none to spare</HE_FamineRefuse>
+  <HE_FamineMissing>You do not have {0} nutrition of food.</HE_FamineMissing>
+  <HE_FamineHelped>The colony sent food to {0} in a famine.</HE_FamineHelped>
+  <HE_PlagueLabel>Plague in {0}</HE_PlagueLabel>
+  <HE_PlagueText>A plague is spreading in {0}. {1} asks for {2} medicine.
+
+If you trade with them, the sickness may travel your roads whatever you answer.</HE_PlagueText>
+  <HE_PlagueAccept>Send {0} medicine</HE_PlagueAccept>
+  <HE_PlagueRefuse>Keep our medicine</HE_PlagueRefuse>
+  <HE_PlagueMissing>You do not have {0} medicine.</HE_PlagueMissing>
+  <HE_PlagueHelped>The colony sent medicine to {0} in a plague.</HE_PlagueHelped>
+  <HE_PlagueSpreads>The plague of {0} has travelled the trade roads: sickness may reach the colony within days.</HE_PlagueSpreads>
+  <HE_BookBenefit>{0} culture knowledge: {1} per hour of reading, up to {2}</HE_BookBenefit>
+  <HE_BookLearned>your colony already knows all this book can teach</HE_BookLearned>
+  <HE_Book_Roma_Annals_Title>Annals of Nova Roma</HE_Book_Roma_Annals_Title>
+  <HE_Book_Roma_Annals_Desc>Year by year and consul by consul, the pontiffs' record of the city: its founding among the ruins, its wars, its laws and the omens that came before each of them.</HE_Book_Roma_Annals_Desc>
+  <HE_Book_Roma_Building_Title>Ten Books on Building</HE_Book_Roma_Building_Title>
+  <HE_Book_Roma_Building_Desc>An engineer's treatise on roads, aqueducts, baths and the secret of good concrete. Half of it is mathematics; the other half is complaints about lazy masons.</HE_Book_Roma_Building_Desc>
+  <HE_Book_Yamato_BrushBlade_Title>The Brush and the Blade</HE_Book_Yamato_BrushBlade_Title>
+  <HE_Book_Yamato_BrushBlade_Desc>Short essays by a swordsman who was also a calligrapher. He writes that a single stroke of ink and a single cut of the sword are learned in the same way: ten thousand times, then once.</HE_Book_Yamato_BrushBlade_Desc>
+  <HE_Book_Yamato_TeaDiary_Title>Diary of the Sakai Tea Masters</HE_Book_Yamato_TeaDiary_Title>
+  <HE_Book_Yamato_TeaDiary_Desc>Three generations of tea masters kept this diary: the guests, the bowls, the flowers in the alcove and what the merchants of Sakai whispered over the kettle.</HE_Book_Yamato_TeaDiary_Desc>
+  <HE_Book_Nord_FirstJarl_Title>Saga of the First Jarl</HE_Book_Nord_FirstJarl_Title>
+  <HE_Book_Nord_FirstJarl_Desc>How the first jarl led his people over the ice, broke the frost giants' hold on the fjords and was buried with his horn. The skalds still argue over which parts are true.</HE_Book_Nord_FirstJarl_Desc>
+  <HE_Book_Nord_LongWinter_Title>Lay of the Long Winter</HE_Book_Nord_LongWinter_Title>
+  <HE_Book_Nord_LongWinter_Desc>A long poem about the winter that lasted three years: who shared their food, who did not, and how the halls that stood together were the only ones still standing in spring.</HE_Book_Nord_LongWinter_Desc>
+  <HE_Book_Hellas_Dialogues_Title>Dialogues of the Academy</HE_Book_Hellas_Dialogues_Title>
+  <HE_Book_Hellas_Dialogues_Desc>A teacher and his pupils argue under an olive tree about justice, courage and whether a city can be governed by its wisest. No one wins, and everyone learns.</HE_Book_Hellas_Dialogues_Desc>
+  <HE_Book_Hellas_Elements_Title>Elements of the Geometers</HE_Book_Hellas_Elements_Title>
+  <HE_Book_Hellas_Elements_Desc>From five simple truths, the whole of geometry, proved line by line. Builders, navigators and astronomers of the League all learned from a copy of this book.</HE_Book_Hellas_Elements_Desc>
+  <HE_Book_Tianxia_Analects_Title>Analects of the Examination Hall</HE_Book_Tianxia_Analects_Title>
+  <HE_Book_Tianxia_Analects_Desc>Sayings of the old masters, learned by heart by every candidate for the imperial examinations: on filial duty, on ritual, on the gentleman who is ashamed when his words outrun his deeds.</HE_Book_Tianxia_Analects_Desc>
+  <HE_Book_Tianxia_Strategy_Title>Thirteen Chapters on Strategy</HE_Book_Tianxia_Strategy_Title>
+  <HE_Book_Tianxia_Strategy_Desc>A general's thirteen chapters on war, spies, terrain and fire. Its first lesson is that the best victory is the battle you never had to fight.</HE_Book_Tianxia_Strategy_Desc>
+  <HE_Book_Albion_Almanac_Title>The Commonwealth Almanac</HE_Book_Albion_Almanac_Title>
+  <HE_Book_Albion_Almanac_Desc>Tides, feast days, crop prices, the phases of the moon and a hundred useful recipes, printed every year since the first presses of the Commonwealth.</HE_Book_Albion_Almanac_Desc>
+  <HE_Book_Albion_Steam_Title>A Treatise on the Steam Engine</HE_Book_Albion_Steam_Title>
+  <HE_Book_Albion_Steam_Desc>Cylinders, valves, boilers and the arithmetic of coal, with engraved plates. The author warns, more than once, never to tie down a safety valve.</HE_Book_Albion_Steam_Desc>
+  <HE_Book_Kemet_Instructions_Title>Instructions of the Scribe</HE_Book_Kemet_Instructions_Title>
+  <HE_Book_Kemet_Instructions_Desc>An old scribe's advice to his son: be patient, keep your accounts honest, speak little at the table of a great man, and never forget that the scribe is the one who does not carry the load.</HE_Book_Kemet_Instructions_Desc>
+  <HE_Book_Kemet_SecondSunrise_Title>Book of the Second Sunrise</HE_Book_Kemet_SecondSunrise_Title>
+  <HE_Book_Kemet_SecondSunrise_Desc>Hymns and calendars of the priests of the sun, written when Kemet rose again from the sand: when to sow, when the river rises, and what to say to the dawn.</HE_Book_Kemet_SecondSunrise_Desc>
+  <HE_Book_Pars_Garden_Title>Verses of the Garden</HE_Book_Pars_Garden_Title>
+  <HE_Book_Pars_Garden_Desc>Four-line verses about roses, wine, friendship and the shortness of life, written in the margins of a gardener's ledger by a poet who was also a very good gardener.</HE_Book_Pars_Garden_Desc>
+  <HE_Book_Pars_KingsRoad_Title>Book of the King's Road</HE_Book_Pars_KingsRoad_Title>
+  <HE_Book_Pars_KingsRoad_Desc>Every post station, well, bridge and caravanserai on the great road of the satraps, with the distances between them and the names of the men who keep them.</HE_Book_Pars_KingsRoad_Desc>
+  <HE_Book_Inti_Harvests_Title>Khipu of the Harvests</HE_Book_Inti_Harvests_Title>
+  <HE_Book_Inti_Harvests_Desc>Knotted cords that count the harvests of a whole valley over fifty years: maize, potatoes, quinoa, the good years and the lean. A knot-keeper can read it like a book.</HE_Book_Inti_Harvests_Desc>
+  <HE_Book_Inti_SunSongs_Title>Khipu of the Sun Songs</HE_Book_Inti_SunSongs_Title>
+  <HE_Book_Inti_SunSongs_Desc>The songs sung at the feast of the sun, kept in coloured cords. The knots hold the words; the colours hold the melody, or so the knot-keepers say.</HE_Book_Inti_SunSongs_Desc>
+  <HE_Book_Roma_FoundersCodex_Title>The Founders' Codex</HE_Book_Roma_FoundersCodex_Title>
+  <HE_Book_Roma_FoundersCodex_Desc>The law of Nova Roma as its founders wrote it, copied fair by your scribes from the scorched original. Reading it teaches the deepest Roman knowledge, and every page reminds the reader why the city was worth founding.</HE_Book_Roma_FoundersCodex_Desc>
+  <HE_Book_Yamato_EightIslands_Title>Chronicle of the Eight Islands</HE_Book_Yamato_EightIslands_Title>
+  <HE_Book_Yamato_EightIslands_Desc>The history of Yamato from the first emperor to the night of fire, in the hand of the court's last historian, copied by your scribes. It is said that no one who reads it ends their life without honour.</HE_Book_Yamato_EightIslands_Desc>
+  <HE_Book_Nord_Edda_Title>The Edda of Nordheim</HE_Book_Nord_Edda_Title>
+  <HE_Book_Nord_Edda_Desc>Every saga of Nordheim, from the first jarl to the long winter, gathered from the last skald's memory and cut onto boards by your carvers. A skald who reads it can sing for a year without repeating a verse.</HE_Book_Nord_Edda_Desc>
+  <HE_Book_Hellas_LongVoyage_Title>The Song of the Long Voyage</HE_Book_Hellas_LongVoyage_Title>
+  <HE_Book_Hellas_LongVoyage_Desc>The lost epic of the League: the voyage of the first colonists across a dead sea to the islands where Hellas was born again. Twenty-four books in hexameter, restored from the library's last scroll.</HE_Book_Hellas_LongVoyage_Desc>
+  <HE_Book_Tianxia_HeavenlyCourt_Title>Records of the Heavenly Court</HE_Book_Tianxia_HeavenlyCourt_Title>
+  <HE_Book_Tianxia_HeavenlyCourt_Desc>The true history of the dynasties, written by a grand historian who would not change a word to please an emperor, and copied by your scribes. Officials of Tianxia still quote it when they disagree with their superiors.</HE_Book_Tianxia_HeavenlyCourt_Desc>
+  <HE_Book_Albion_GreatCharter_Title>The Great Charter</HE_Book_Albion_GreatCharter_Title>
+  <HE_Book_Albion_GreatCharter_Desc>The charter of the Commonwealth's liberties, copied fair from the original the guilds signed. Every reader learns the rights of a free subject, and the price that was paid for them.</HE_Book_Albion_GreatCharter_Desc>
+  <HE_Book_Kemet_ComingForth_Title>The Book of Coming Forth</HE_Book_Kemet_ComingForth_Title>
+  <HE_Book_Kemet_ComingForth_Desc>The great book of the priests of Kemet: the spells that guide the dead through the night, the names of the gates and the words that open them. Your scribes copied it from the tomb's own scroll.</HE_Book_Kemet_ComingForth_Desc>
+  <HE_Book_Pars_BookOfKings_Title>The Book of Kings</HE_Book_Pars_BookOfKings_Title>
+  <HE_Book_Pars_BookOfKings_Desc>Fifty thousand couplets on the kings and heroes of Pars, from the first fire to the last satrap, finished by an old poet on the road and copied by your scribes. Every child of Pars knows some of it by heart.</HE_Book_Pars_BookOfKings_Desc>
+  <HE_Book_Inti_RoyalKhipu_Title>The Royal Khipu</HE_Book_Inti_RoyalKhipu_Title>
+  <HE_Book_Inti_RoyalKhipu_Desc>The great census of the empire of the sun: every valley, every storehouse, every family and every song, in a khipu so large it fills a chest. Your knot-keepers retied it from the original.</HE_Book_Inti_RoyalKhipu_Desc>
+  <HE_ChainAfter>Begins after the story "{0}" is finished.</HE_ChainAfter>
+  <HE_ErrandLabel>{0} asks a favour</HE_ErrandLabel>
+  <HE_ErrandSupplyText>{1} sends word from {0}: the storehouses are short, and a friend of the nation could help.
+
+Wanted: {2}, within {3} days.
+Reward: {4} silver, {5} {0} culture knowledge and goodwill.
+
+Accepted errands are on the Stories page of the Heirs tab, where you deliver them.</HE_ErrandSupplyText>
+  <HE_ErrandCraftText>From {0}, {1} wants a fine piece of the nation's own craft, made by foreign hands, as a gift for the court.
+
+Wanted: {2}, within {3} days.
+Reward: {4} silver, {5} {0} culture knowledge and goodwill.
+
+Accepted errands are on the Stories page of the Heirs tab, where you deliver them.</HE_ErrandCraftText>
+  <HE_ErrandLoreText>From {0}, {1} wishes to read the wisdom of another nation and asks you to find a copy.
+
+Wanted: {2}, within {3} days. The nation that wrote it sells its books through its caravans and settlements.
+Reward: {4} silver, {5} {0} culture knowledge and goodwill.
+
+Accepted errands are on the Stories page of the Heirs tab, where you deliver them.</HE_ErrandLoreText>
+  <HE_ErrandWantCraft>{0} of {1} quality or better</HE_ErrandWantCraft>
+  <HE_ErrandAccept>Accept the errand</HE_ErrandAccept>
+  <HE_ErrandRefuse>Politely refuse</HE_ErrandRefuse>
+  <HE_ErrandTooMany>You already have {0} errands</HE_ErrandTooMany>
+  <HE_ErrandDone>{0} thanks you for the favour: {1} silver and {2} culture knowledge.</HE_ErrandDone>
+  <HE_ErrandFailed>You did not bring {0} what you promised ({1}). They will remember.</HE_ErrandFailed>
+  <HE_ErrandsHeading>Errands</HE_ErrandsHeading>
+  <HE_ErrandsNone>No errands. Friendly nations ask small favours by letter from time to time. Errands done so far: {0}.</HE_ErrandsNone>
+  <HE_ErrandLine>{0}: {1} ({2} days left; {3} silver, {4} knowledge)</HE_ErrandLine>
+  <HE_ErrandReady>You have everything: deliver now.</HE_ErrandReady>
+  <HE_ErrandMissing>Not enough in your home stockpiles yet (forbidden items do not count).</HE_ErrandMissing>
+  <HE_SettingsNationMusic>Music and calls of the nations</HE_SettingsNationMusic>
+  <HE_SettingsNationMusicTip>Every nation has its own music and a short call. The call sounds when its news arrives; its music plays when one of its stories ends or it honours you, and now and then among the usual songs (your heritage, and nations that honoured you). All of it was made for this mod.</HE_SettingsNationMusicTip>
+  <HE_SettingsNationActive>{0} takes part in the world</HE_SettingsNationActive>
+  <HE_SettingsNationActiveTip>Switched off, the nation keeps its faction, towns, goods and research, but it is not added to saves that lack it, starts no stories, sends no errands or letters, plays no music and leaves the politics of the world. Useful with many faction mods.</HE_SettingsNationActiveTip>
+  <HE_Age1>Age of Founding</HE_Age1>
+  <HE_Age2>Age of Powder</HE_Age2>
+  <HE_Age3>Age of Steam</HE_Age3>
+  <HE_AgeLabel>{0}: {1}</HE_AgeLabel>
+  <HE_AgeText2>{0} has entered the Age of Powder.
+
+{1} has opened arsenals and gunpowder mills. From now on their troops carry firearms, their traders sell them, and your colony may research them even if {0} is not your heritage.
+
+New: {2}.</HE_AgeText2>
+  <HE_AgeText3>{0} has entered the Age of Steam.
+
+{1} has built factories and raised a new army in uniform. Their troops now carry breech-loading rifles and wear the national coat, their traders sell both, and your colony may research them.
+
+New: {2}.</HE_AgeText3>
+  <HE_AgeChronicle>{0} entered the {1}.</HE_AgeChronicle>
+  <HE_AgeRateBase>Steady progress</HE_AgeRateBase>
+  <HE_AgeRateScholarly>Scholarly ruler</HE_AgeRateScholarly>
+  <HE_AgeRateAllies>Allies</HE_AgeRateAllies>
+  <HE_AgeRateWar>At war</HE_AgeRateWar>
+  <HE_AgeRateScience>Science treaty with you</HE_AgeRateScience>
+  <HE_AgeRateTrade>Trade link with you</HE_AgeRateTrade>
+  <HE_AgeRateTowns>Many towns</HE_AgeRateTowns>
+  <HE_AgesHeading>Ages of the nations</HE_AgesHeading>
+  <HE_AgesIntro>Every nation moves from the Age of Founding through the Age of Powder to the Age of Steam as the years pass. Each new age arms its troops with its own guns and, in the Age of Steam, dresses them in its uniform. Its traders sell these, and you may research them once the nation has reached that age. Peace, allies, treaties and trade with you speed a nation up; war, famine and plague hold it back. Hover over a nation to see why.</HE_AgesIntro>
+  <HE_AgesOff>Ages are turned off in the mod settings: every nation keeps its old arms and every item can be researched as before.</HE_AgesOff>
+  <HE_AgesLast>the last age</HE_AgesLast>
+  <HE_AgesToward>{1} toward the {0}</HE_AgesToward>
+  <HE_AgesPace>Pace: {0} of the usual speed.</HE_AgesPace>
+  <HE_AgesItems>Arms and uniforms of its ages: {0}</HE_AgesItems>
+  <HE_AtlasAge>Age</HE_AtlasAge>
+  <HE_NeedAge>{0} has not reached the {1} yet.</HE_NeedAge>
+  <HE_SettingsFourthSpeed>Fourth game speed button</HE_SettingsFourthSpeed>
+  <HE_SettingsFourthSpeedTip>Adds a fourth speed button (the game's fastest speed, normally hidden) next to the other three. Its key is 4 by default and can be changed in the keyboard settings.</HE_SettingsFourthSpeedTip>
+  <HE_SpeedFourthTip>Fastest speed. It slows down by itself when something needs your attention, like the third speed.</HE_SpeedFourthTip>
+  <HE_SettingsAges>Ages of progress</HE_SettingsAges>
+  <HE_SettingsAgesTip>Nations move through the Age of Founding, Powder and Steam, getting new guns and uniforms. Turn off to keep the nations as they were before 4.2.</HE_SettingsAgesTip>
+  <HE_SettingsAgeSpeed>Pace of the ages: {0}</HE_SettingsAgeSpeed>
+</LanguageData>

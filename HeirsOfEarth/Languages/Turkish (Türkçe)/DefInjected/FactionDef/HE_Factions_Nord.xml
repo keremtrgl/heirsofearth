@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Nord.label>Nordheim Jarllığı</HE_Faction_Nord.label>
+  <HE_Faction_Nord.description>Yggdrasil koloni gemisinin mirasçıları, Nordheim'ın özgür insanları. Karda avlanır, bal şarabı salonlarında ziyafet çeker ve jarllarını ancak kazandığı sürece izlerler.</HE_Faction_Nord.description>
+  <HE_Faction_Nord.fixedName>Nordheim Jarllığı</HE_Faction_Nord.fixedName>
+  <HE_Faction_Nord.pawnSingular>Nordheimlı</HE_Faction_Nord.pawnSingular>
+  <HE_Faction_Nord.pawnsPlural>Nordheimlılar</HE_Faction_Nord.pawnsPlural>
+  <HE_Faction_Nord.leaderTitle>jarl</HE_Faction_Nord.leaderTitle>
+  <HE_Player_Nord.label>Nordheim yerleşimcileri</HE_Player_Nord.label>
+  <HE_Player_Nord.description>Jarllarından uzakta yeni bir uzun ev kuran küçük bir Nordheim tayfası.</HE_Player_Nord.description>
+  <HE_Player_Nord.pawnSingular>kolonist</HE_Player_Nord.pawnSingular>
+  <HE_Player_Nord.pawnsPlural>kolonistler</HE_Player_Nord.pawnsPlural>
+</LanguageData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Doctrine_Roma.label>testudo talimi</HE_Doctrine_Roma.label>
+  <HE_Doctrine_Roma.description>Lejyonerler saflarını sıklaştırır ve kalkanlarını bir çatı gibi birbirine kilitler. Sık durdukça oklara ve darbelere aldırmazlar ama yavaş yürürler.
+
+Üç kare içinde ne kadar çok yoldaş durursa o kadar güçlüdür.</HE_Doctrine_Roma.description>
+  <HE_Doctrine_Roma.stages.0.label>dağınık saf</HE_Doctrine_Roma.stages.0.label>
+  <HE_Doctrine_Roma.stages.1.label>gevşek saf</HE_Doctrine_Roma.stages.1.label>
+  <HE_Doctrine_Roma.stages.2.label>kalkan çatısı</HE_Doctrine_Roma.stages.2.label>
+  <HE_Doctrine_Hellas.label>falanks talimi</HE_Doctrine_Hellas.label>
+  <HE_Doctrine_Hellas.description>Hoplitler omuz omuza dövüşür, her kalkan soldakini korur. Safta vurulmaları da kaçılmaları da zordur; yalnız kaldıklarında sıradan adamlardır.
+
+Üç kare içinde ne kadar çok yoldaş durursa o kadar güçlüdür.</HE_Doctrine_Hellas.description>
+  <HE_Doctrine_Hellas.stages.0.label>dağılmış saf</HE_Doctrine_Hellas.stages.0.label>
+  <HE_Doctrine_Hellas.stages.1.label>gevşek falanks</HE_Doctrine_Hellas.stages.1.label>
+  <HE_Doctrine_Hellas.stages.2.label>kapalı falanks</HE_Doctrine_Hellas.stages.2.label>
+  <HE_Doctrine_Nord.label>strandhogg talimi</HE_Doctrine_Nord.label>
+  <HE_Doctrine_Nord.description>Kıyı baskını: kuşatma yok, bekleme yok. Akıncılar duvarları baltayla yarar ve düşmana koşar; hızlı, öfkeli ve acıyla durdurulması zor.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Nord.description>
+  <HE_Doctrine_Nord.stages.0.label>akıncı öfkesi</HE_Doctrine_Nord.stages.0.label>
+  <HE_Doctrine_Yamato.label>bushido talimi</HE_Doctrine_Yamato.label>
+  <HE_Doctrine_Yamato.description>Samuraylar aynı anda birkaç yandan küçük gruplar halinde saldırır ve hedeflerini dikkatle seçer. Ölüm karşısında sakindirler, yaralarına rağmen dövüşmeyi sürdürürler.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Yamato.description>
+  <HE_Doctrine_Yamato.stages.0.label>savaşçının yolu</HE_Doctrine_Yamato.stages.0.label>
+  <HE_Doctrine_Tianxia.label>savaş sanatı talimi</HE_Doctrine_Tianxia.label>
+  <HE_Doctrine_Tianxia.description>Her savaş, yapılmadan önce kazanılır. Tianxia orduları menzil dışında toplanır, doğru anı bekler ve sonra talimli arbalet yaylımlarıyla vurur.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Tianxia.description>
+  <HE_Doctrine_Tianxia.stages.0.label>talimli yaylım</HE_Doctrine_Tianxia.stages.0.label>
+  <HE_Doctrine_Albion.label>kuşatma kolu talimi</HE_Doctrine_Albion.label>
+  <HE_Doctrine_Albion.description>Albion kürek ve topla gelir. Orduları çoğu zaman saldırmadan önce siper kazar ve bir batarya kurar; tüfekçileri sakin, ölçülü yaylımlar atar.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Albion.description>
+  <HE_Doctrine_Albion.stages.0.label>yaylım ateşi</HE_Doctrine_Albion.stages.0.label>
+  <HE_Doctrine_Kemet.label>savaş arabası öncüsü talimi</HE_Doctrine_Kemet.label>
+  <HE_Doctrine_Kemet.description>Kemet'in saldırısı hızla başlar: öncü birlik bir zamanlar savaş arabalarının yaptığı gibi öne koşar ve savunanlar hazır olmadan surlara varır.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Kemet.description>
+  <HE_Doctrine_Kemet.stages.0.label>öncü hızı</HE_Doctrine_Kemet.stages.0.label>
+  <HE_Doctrine_Pars.label>süvari kanatları talimi</HE_Doctrine_Pars.label>
+  <HE_Doctrine_Pars.description>Pars orduları kanatlardan saldırır: aynı anda birkaç hızlı grup, eyerden dövüşmeye ve hızla yaklaşmaya alışkın.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Pars.description>
+  <HE_Doctrine_Pars.stages.0.label>atlı hücumu</HE_Doctrine_Pars.stages.0.label>
+  <HE_Doctrine_Inti.label>dağ lağımcıları talimi</HE_Doctrine_Inti.label>
+  <HE_Doctrine_Inti.description>And Dağları'nın yol yapıcıları kayanın etrafından değil içinden geçer. Inti akıncıları surlarına doğru tünel kazar ve dağda eğitilmiş bir nişanla taş atar.
+
+Akıncı baskın için dövüştüğü sürece sürer.</HE_Doctrine_Inti.description>
+  <HE_Doctrine_Inti.stages.0.label>dağ adımı</HE_Doctrine_Inti.stages.0.label>
+</LanguageData>

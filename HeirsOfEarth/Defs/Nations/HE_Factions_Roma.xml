@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Roma</defName>
+    <label>Nova Roma Republic</label>
+    <description>The citizens of Nova Roma, heirs of the colony ship Aeternitas. Their legions march in step, their roads run straight and their senate never forgets an insult or a debt.</description>
+    <fixedName>Nova Roma Republic</fixedName>
+    <pawnSingular>citizen</pawnSingular>
+    <pawnsPlural>citizens</pawnsPlural>
+    <leaderTitle>consul</leaderTitle>
+    <categoryTag>HE_Roma</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Roma_Hastatus</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Roma_Consul</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Roma</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Roma</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.56, 0.16, 0.14)</li>
+      <li>(0.70, 0.24, 0.18)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Roma_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Roma</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Roma_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Roma_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Roma_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-40~45</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>30</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Roma_Hastatus>10</HE_Roma_Hastatus>
+          <HE_Roma_Legionary>10</HE_Roma_Legionary>
+          <HE_Roma_Sagittarius>7</HE_Roma_Sagittarius>
+          <HE_Roma_Centurion>3</HE_Roma_Centurion>
+          <HE_Roma_Medicus>2</HE_Roma_Medicus>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Roma_Hastatus>10</HE_Roma_Hastatus>
+          <HE_Roma_Medicus>5</HE_Roma_Medicus>
+          <HE_Roma_Legionary>5</HE_Roma_Legionary>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Roma_Mercator>1</HE_Roma_Mercator>
+        </traders>
+        <carriers>
+          <Horse>5</Horse>
+          <Donkey>2</Donkey>
+          <Muffalo>1</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Roma_Legionary>10</HE_Roma_Legionary>
+          <HE_Roma_Hastatus>6</HE_Roma_Hastatus>
+          <HE_Roma_Sagittarius>4</HE_Roma_Sagittarius>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Roma_Hastatus>10</HE_Roma_Hastatus>
+          <HE_Roma_Legionary>10</HE_Roma_Legionary>
+          <HE_Roma_Sagittarius>7</HE_Roma_Sagittarius>
+          <HE_Roma_Centurion>3</HE_Roma_Centurion>
+          <HE_Roma_Medicus>3</HE_Roma_Medicus>
+          <HE_Roma_Consul>1</HE_Roma_Consul>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Roma</defName>
+    <label>Nova Roman settlers</label>
+    <description>A small band of Nova Roman citizens founding a new colonia far from the senate.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Roma_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Medieval</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Roma_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Roma</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Roma</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.56, 0.16, 0.14)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Roma</defName>
+    <label>Heirs of Nova Roma</label>
+    <description>Five citizens of Nova Roma march out to found a new colonia. They start with the Roman heritage, a gladius, simple tools and a bundle of senate archives.</description>
+    <scenario>
+      <summary>Five Nova Roman settlers found a colonia. Roman heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Roma</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Roma</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Roma_Gladius</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MeleeWeapon_Spear</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Bow_Recurve</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>400</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>200</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>35</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Cloth</thingDef>
+          <count>80</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Roma_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Horse</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartRomaDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

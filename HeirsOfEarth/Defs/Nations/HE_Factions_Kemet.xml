@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Kemet</defName>
+    <label>Kingdom of New Kemet</label>
+    <description>The river kingdom of New Kemet, heirs of the colony ship Iteru. They measure the flood, farm the black silt, build in stone and keep everything in writing, from the grain in the granary to the debts of their neighbours.</description>
+    <fixedName>Kingdom of New Kemet</fixedName>
+    <pawnSingular>Kemetian</pawnSingular>
+    <pawnsPlural>Kemetians</pawnsPlural>
+    <leaderTitle>pharaoh</leaderTitle>
+    <categoryTag>HE_Kemet</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Kemet_Levy</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Kemet_Pharaoh</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Kemet</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Kemet</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.80, 0.62, 0.24)</li>
+      <li>(0.16, 0.26, 0.52)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Kemet_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Kemet</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Kemet_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Kemet_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Kemet_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-10~60</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>30</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Kemet_Levy>12</HE_Kemet_Levy>
+          <HE_Kemet_Archer>10</HE_Kemet_Archer>
+          <HE_Kemet_Medjay>5</HE_Kemet_Medjay>
+          <HE_Kemet_Charioteer>2</HE_Kemet_Charioteer>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Kemet_Levy>8</HE_Kemet_Levy>
+          <HE_Kemet_Scribe>6</HE_Kemet_Scribe>
+          <HE_Kemet_Archer>3</HE_Kemet_Archer>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Kemet_Merchant>1</HE_Kemet_Merchant>
+        </traders>
+        <carriers>
+          <Dromedary>6</Dromedary>
+          <Donkey>2</Donkey>
+          <Muffalo>1</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Kemet_Levy>8</HE_Kemet_Levy>
+          <HE_Kemet_Archer>8</HE_Kemet_Archer>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Kemet_Levy>12</HE_Kemet_Levy>
+          <HE_Kemet_Archer>8</HE_Kemet_Archer>
+          <HE_Kemet_Medjay>4</HE_Kemet_Medjay>
+          <HE_Kemet_Charioteer>2</HE_Kemet_Charioteer>
+          <HE_Kemet_Scribe>4</HE_Kemet_Scribe>
+          <HE_Kemet_Pharaoh>1</HE_Kemet_Pharaoh>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Kemet</defName>
+    <label>Kemetic settlers</label>
+    <description>A small household of Kemetic settlers who have gone upriver to found a new estate.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Kemet_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Medieval</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Kemet_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Kemet</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Kemet</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.80, 0.62, 0.24)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Kemet</defName>
+    <label>Heirs of Kemet</label>
+    <description>Five Kemetic settlers found a new estate upriver. They start with the Kemetic heritage, a river spear, a composite bow, papyrus, dates and bread, and a papyrus roll of the kingdom.</description>
+    <scenario>
+      <summary>Five Kemetic settlers found a new estate. Kemetic heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Kemet</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Kemet</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Kemet_Spear</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Kemet_CompositeBow</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>450</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Kemet_Papyrus</thingDef>
+          <count>40</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>135</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>40</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Cloth</thingDef>
+          <count>60</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Kemet_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Dromedary</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartKemetDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

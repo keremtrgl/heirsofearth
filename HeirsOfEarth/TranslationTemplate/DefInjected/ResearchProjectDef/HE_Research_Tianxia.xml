@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Jian.label>jian</HE_Tianxia_Jian.label>
+  <HE_Tianxia_Jian.description>The straight double-edged sword, called the gentleman of weapons.</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Silk.label>silk weaving</HE_Tianxia_Silk.label>
+  <HE_Tianxia_Silk.description>Raise silkworms on mulberry leaves and weave their thread into the softest cloth in the world.</HE_Tianxia_Silk.description>
+  <HE_Tianxia_JadeFloor.label>jade courtyards</HE_Tianxia_JadeFloor.label>
+  <HE_Tianxia_JadeFloor.description>Pave courtyards with polished green stone set in patterns of clouds.</HE_Tianxia_JadeFloor.description>
+  <HE_Tianxia_Hanfu.label>hanfu</HE_Tianxia_Hanfu.label>
+  <HE_Tianxia_Hanfu.description>Sew the flowing robes with crossed collars and wide sleeves worn by scholars and officials.</HE_Tianxia_Hanfu.description>
+  <HE_Tianxia_Dumplings.label>dumplings</HE_Tianxia_Dumplings.label>
+  <HE_Tianxia_Dumplings.description>Fold minced meat and greens into thin dough and steam them in bamboo baskets.</HE_Tianxia_Dumplings.description>
+  <HE_Tianxia_PaperLantern.label>paper lanterns</HE_Tianxia_PaperLantern.label>
+  <HE_Tianxia_PaperLantern.description>Stretch oiled paper over bamboo frames and hang red lanterns along every path.</HE_Tianxia_PaperLantern.description>
+  <HE_Tianxia_TeaCulture.label>tea culture</HE_Tianxia_TeaCulture.label>
+  <HE_Tianxia_TeaCulture.description>A cup of tea before sleep, a cup on waking. The body rests better when the mind is calm.
+
+Tradition: Colonists rest 5% faster.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</HE_Tianxia_TeaCulture.description>
+  <HE_Tianxia_Granary.label>ever-normal granary</HE_Tianxia_Granary.label>
+  <HE_Tianxia_Granary.description>Buy grain when it is cheap and store it against bad years: the harvest is worked with care.
+
+Tradition: Colonists harvest 6% more from plants.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Granary.description>
+  <HE_Tianxia_SilkRoad.label>silk road</HE_Tianxia_SilkRoad.label>
+  <HE_Tianxia_SilkRoad.description>From oasis to oasis the caravans of Tianxia carry silk west and silver east, and they know every price.
+
+Tradition: Colonists get 6% better trade prices.
+
+Requires 20 Tianxia knowledge unless this is your heritage.</HE_Tianxia_SilkRoad.description>
+  <HE_Tianxia_Guandao.label>imperial armoury</HE_Tianxia_Guandao.label>
+  <HE_Tianxia_Guandao.description>Forge the heavy guandao glaive and lamellar armour for the imperial guard.
+
+Requires 10 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Guandao.description>
+  <HE_Tianxia_Repeater.label>repeating crossbow</HE_Tianxia_Repeater.label>
+  <HE_Tianxia_Repeater.description>A crossbow with a magazine of bolts on top: pull the lever, loose, pull again.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Repeater.description>
+  <HE_Tianxia_PorcelainKiln.label>porcelain kiln</HE_Tianxia_PorcelainKiln.label>
+  <HE_Tianxia_PorcelainKiln.description>Fire white clay hotter than any potter in the world and paint it in cobalt blue.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</HE_Tianxia_PorcelainKiln.description>
+  <HE_Tianxia_FireLance.label>fire lance</HE_Tianxia_FireLance.label>
+  <HE_Tianxia_FireLance.description>A tube of black powder tied to a spear. When it is lit, it spits fire and shrapnel at the enemy.
+
+Requires 30 Tianxia knowledge unless this is your heritage.</HE_Tianxia_FireLance.description>
+  <HE_Tianxia_Physicians.label>imperial physicians</HE_Tianxia_Physicians.label>
+  <HE_Tianxia_Physicians.description>Needles, herbs and pulse-reading: the court physicians know a cure for nearly everything.
+
+Tradition: Colonists tend wounds with +10% quality and gain immunity 8% faster.
+
+Requires 25 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Physicians.description>
+  <HE_Tianxia_Examination.label>imperial examination</HE_Tianxia_Examination.label>
+  <HE_Tianxia_Examination.description>Anyone may sit the examination, and anyone who passes may rule. So everyone studies.
+
+Tradition: Colonists learn 10% faster.
+
+Requires 35 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Examination.description>
+  <HE_Tianxia_FireArrows.label>fire arrows</HE_Tianxia_FireArrows.label>
+  <HE_Tianxia_FireArrows.description>Archers drill until the volley lands as one. The enemy line burns before it reaches the wall.
+
+Tradition: Colonists gain +2 shooting accuracy.
+
+Requires 35 Tianxia knowledge unless this is your heritage.</HE_Tianxia_FireArrows.description>
+  <HE_Tianxia_Porcelain.label>porcelain mastery</HE_Tianxia_Porcelain.label>
+  <HE_Tianxia_Porcelain.description>The kilns of Jingdezhen fire a thousand pieces to keep one. Every craftsman learns that patience.
+
+Tradition: Crafted items have a 6% chance to come out one quality level higher.
+
+Requires 40 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Porcelain.description>
+  <HE_Tianxia_Harmony.label>harmonious realm</HE_Tianxia_Harmony.label>
+  <HE_Tianxia_Harmony.description>Heaven's seal is where it belongs, and every household works in calm order.
+
+Tradition: Colonists work 3% faster and their mental break threshold drops by 3%.
+
+Requires 50 Tianxia knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Tianxia_Harmony.description>
+  <HE_Tianxia_FireArrowBattery.label>fire-arrow battery</HE_Tianxia_FireArrowBattery.label>
+  <HE_Tianxia_FireArrowBattery.description>A wheeled box of tubes, each holding a rocket arrow. Light one fuse and the whole nest of bees leaves at once.
+
+Requires 40 Tianxia knowledge unless this is your heritage.</HE_Tianxia_FireArrowBattery.description>
+  <HE_Tianxia_PowderArms.label>Tianxia powder arms</HE_Tianxia_PowderArms.label>
+  <HE_Tianxia_PowderArms.description>The Tianxia way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Tianxia has reached the Age of Powder.
+
+Requires 30 Tianxia knowledge unless this is your heritage.</HE_Tianxia_PowderArms.description>
+  <HE_Tianxia_SteamArmy.label>Tianxia steam army</HE_Tianxia_SteamArmy.label>
+  <HE_Tianxia_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Tianxia raised when the factories came.
+
+Outside your heritage, this can be researched only once Tianxia has reached the Age of Steam.
+
+Requires 45 Tianxia knowledge unless this is your heritage.</HE_Tianxia_SteamArmy.description>
+</LanguageData>

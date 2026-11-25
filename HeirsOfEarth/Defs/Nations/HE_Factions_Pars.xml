@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Pars</defName>
+    <label>Satrapy of Pars</label>
+    <description>The Satrapy of Pars, heirs of the colony ship Pasargad. Its provinces are bound together by the royal road and the royal post, and its court trades in carpets, horses, silk and favours in roughly equal measure.</description>
+    <fixedName>Satrapy of Pars</fixedName>
+    <pawnSingular>Parsian</pawnSingular>
+    <pawnsPlural>Parsians</pawnsPlural>
+    <leaderTitle>satrap</leaderTitle>
+    <categoryTag>HE_Pars</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Pars_Sparabara</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Pars_Satrap</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Pars</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Pars</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.62, 0.12, 0.17)</li>
+      <li>(0.78, 0.62, 0.26)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Pars_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Pars</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Pars_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Pars_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Pars_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-25~45</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>30</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Pars_Sparabara>12</HE_Pars_Sparabara>
+          <HE_Pars_Archer>11</HE_Pars_Archer>
+          <HE_Pars_Immortal>5</HE_Pars_Immortal>
+          <HE_Pars_Asvaran>2</HE_Pars_Asvaran>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Pars_Sparabara>8</HE_Pars_Sparabara>
+          <HE_Pars_Dabir>6</HE_Pars_Dabir>
+          <HE_Pars_Archer>3</HE_Pars_Archer>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Pars_Bazaari>1</HE_Pars_Bazaari>
+        </traders>
+        <carriers>
+          <Dromedary>5</Dromedary>
+          <Horse>3</Horse>
+          <Muffalo>1</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Pars_Sparabara>8</HE_Pars_Sparabara>
+          <HE_Pars_Archer>8</HE_Pars_Archer>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Pars_Sparabara>12</HE_Pars_Sparabara>
+          <HE_Pars_Archer>8</HE_Pars_Archer>
+          <HE_Pars_Immortal>4</HE_Pars_Immortal>
+          <HE_Pars_Asvaran>2</HE_Pars_Asvaran>
+          <HE_Pars_Dabir>4</HE_Pars_Dabir>
+          <HE_Pars_Satrap>1</HE_Pars_Satrap>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Pars</defName>
+    <label>Parsian settlers</label>
+    <description>A small household of Parsian settlers sent to found a new post station on the edge of the known roads.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Pars_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Medieval</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Pars_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Pars</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Pars</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.62, 0.12, 0.17)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Pars</defName>
+    <label>Heirs of Pars</label>
+    <description>Five Parsian settlers found a new post station on the edge of the known roads. They start with the Parsian heritage, an immortal's spear, a recurve bow, a Parsian carpet, silver and the satrapy's book of roads.</description>
+    <scenario>
+      <summary>Five Parsian settlers found a new post station. Parsian heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Pars</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Pars</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Pars_Spear</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Pars_Bow</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>550</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Pars_Carpet</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>135</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>40</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Cloth</thingDef>
+          <count>60</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Pars_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Dromedary</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartParsDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Dory</defName>
+    <label>dory</label>
+    <description>The long thrusting spear of the hoplite, with a leaf-shaped head and a bronze butt-spike.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>12</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Toxon</defName>
+    <label>toxon</label>
+    <description>The Scythian-style recurve bow, short enough to use behind a shield wall.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>13</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Meander</defName>
+    <label>meander floors</label>
+    <description>Lay pale stone floors bordered with the endless key pattern of the old temples.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Chiton</defName>
+    <label>chiton</label>
+    <description>Sew the light pinned tunic worn by every citizen from the agora to the gymnasium.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>12</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Dory</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Maza</defName>
+    <label>maza</label>
+    <description>Barley cakes kneaded with olive oil and honey: plain food that keeps a hoplite marching.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>13</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Columns</defName>
+    <label>fluted columns</label>
+    <description>Carve fluted columns and crown them with statues of the city's heroes.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Meander</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Olympic</defName>
+    <label>olympic games</label>
+    <description>Every fourth summer the cities stop their wars and race each other instead.
+
+Tradition: Colonists move 3% faster.
+
+Requires 15 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>12</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Chiton</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MoveSpeed</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Rhetoric</defName>
+    <label>rhetoric</label>
+    <description>In the assembly a good argument is worth more than a good spear.
+
+Tradition: Colonists gain +12% negotiation ability.
+
+Requires 15 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>13</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Maza</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.12</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Geometry</defName>
+    <label>geometry</label>
+    <description>Let no one ignorant of geometry build here: measured lines make faster, straighter walls.
+
+Tradition: Colonists build 8% faster.
+
+Requires 20 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Columns</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ConstructionSpeed</stat>
+            <factor>1.08</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Bronze</defName>
+    <label>bronze smithing</label>
+    <description>Cast and hammer the short xiphos and the heavy, forward-curved kopis.
+
+Requires 10 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>12</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Theatron</defName>
+    <label>theatron</label>
+    <description>Build a stage and a painted backdrop, and the whole colony will gather to watch the old plays.
+
+Requires 15 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>13</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Columns</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Hippocratic</defName>
+    <label>hippocratic oath</label>
+    <description>First, do no harm. Hellenic physicians wash their hands, take their time and lose fewer patients.
+
+Tradition: Surgery success chance rises by 12%, but tending is 5% slower.
+
+Requires 25 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MedicalSurgerySuccessChance</stat>
+            <factor>1.12</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MedicalTendSpeed</stat>
+            <factor>0.95</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Hoplite</defName>
+    <label>hoplite panoply</label>
+    <description>The Corinthian helmet, the layered linen linothorax and the great round hoplon.
+
+Requires 25 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>12</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Bronze</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Theatre</defName>
+    <label>festival of plays</label>
+    <description>Tragedy in the morning, comedy at night. People leave the theatre lighter and kinder.
+
+Tradition: Colonists gain recreation 10% faster and +5% social impact.
+
+Requires 25 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>13</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Theatron</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>JoyGainFactor</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Academy</defName>
+    <label>the academy</label>
+    <description>A grove where masters walk with their pupils and every question is followed to its end.
+
+Tradition: Colonists research 10% faster.
+
+Requires 35 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Hippocratic</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ResearchSpeed</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Phalanx</defName>
+    <label>phalanx</label>
+    <description>Shield overlapping shield, every man covers the one to his left. The line is slow, and almost unbreakable.
+
+Tradition: Colonists gain +5% blunt and +3% sharp armour but move 3% slower.
+
+Requires 40 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>12</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Hoplite</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>40</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ArmorRating_Blunt</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>ArmorRating_Sharp</stat>
+            <offset>0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MoveSpeed</stat>
+            <factor>0.97</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_GoldenAge</defName>
+    <label>golden age</label>
+    <description>With the library opened, the league enters an age of plays, cures and arguments that will be remembered for centuries.
+
+Tradition: Colonists learn 5% faster and gain +5% social impact and +5% tend quality.
+
+Requires 50 Hellenic knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>13</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Theatre</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MedicalTendQuality</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Hellas</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_Lithobolos</defName>
+    <label>lithobolos</label>
+    <description>The engineers of the city measure springs and angles until a machine throws stones further than any slinger.
+
+Requires 40 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Hellas_Geometry</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_PowderArms</defName>
+    <label>Hellenic powder arms</label>
+    <description>The Hellas way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Hellas has reached the Age of Powder.
+
+Requires 30 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>14</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>30</knowledge>
+        <age>2</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Hellas_SteamArmy</defName>
+    <label>Hellenic steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Hellas raised when the factories came.
+
+Outside your heritage, this can be researched only once Hellas has reached the Age of Steam.
+
+Requires 45 Hellenic knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>15</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+      <li>HE_Hellas_PowderArms</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

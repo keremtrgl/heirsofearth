@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Garden.label>paradise garden</HE_Pars_Garden.label>
+  <HE_Pars_Garden.description>A small walled garden in four parts, split by water channels around a central pool and planted with roses and cypress. Colonists come to sit by the water and calm down.</HE_Pars_Garden.description>
+  <HE_Pars_PostLamp.label>post station lamp</HE_Pars_PostLamp.label>
+  <HE_Pars_PostLamp.description>A pierced bronze lamp on a tall post, the kind hung at every royal post station so riders can find it in the dark.</HE_Pars_PostLamp.description>
+  <HE_Pars_CarpetLoom.label>carpet loom</HE_Pars_CarpetLoom.label>
+  <HE_Pars_CarpetLoom.description>An upright wooden loom strung with warp threads, with balls of dyed wool hanging from its beam. It knots cloth or wool into Parsian carpets.</HE_Pars_CarpetLoom.description>
+  <HE_Pars_FireAltar.label>fire altar</HE_Pars_FireAltar.label>
+  <HE_Pars_FireAltar.description>A stepped altar of white stone whose fire must never go out. The priests feed it fragrant wood day and night, and the household gathers around its warmth.</HE_Pars_FireAltar.description>
+  <HE_Pars_Lamassu.label>lamassu</HE_Pars_Lamassu.label>
+  <HE_Pars_Lamassu.description>A winged bull with a crowned human head, carved in stone to guard the gates of kings. It is carved with five legs, so that it stands still from the front and strides from the side.</HE_Pars_Lamassu.description>
+  <HE_Pars_NaftThrower_Gun.label>naft siphon</HE_Pars_NaftThrower_Gun.label>
+  <HE_Pars_NaftThrower_Gun.description>The turning top of the naft thrower.</HE_Pars_NaftThrower_Gun.description>
+  <HE_Pars_NaftThrower.label>naft thrower</HE_Pars_NaftThrower.label>
+  <HE_Pars_NaftThrower.description>A bronze tank of naft, the burning oil of the eastern wells, with a long siphon that sprays fire in short bursts. Its reach is short, but whatever it touches burns. Fill it with chemfuel: one unit makes one burst.</HE_Pars_NaftThrower.description>
+  <HE_Pars_NaftThrower.comps.1.fuelLabel>Naft</HE_Pars_NaftThrower.comps.1.fuelLabel>
+  <HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>Naft</HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>
+  <HE_Pars_NaftThrower.comps.1.outOfFuelMessage>Needs chemfuel</HE_Pars_NaftThrower.comps.1.outOfFuelMessage>
+</LanguageData>

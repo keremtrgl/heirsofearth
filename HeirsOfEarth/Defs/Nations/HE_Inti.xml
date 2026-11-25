@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Inti</defName>
+    <label>Inti Empire</label>
+    <description>The colony ship Qhapaq came down among high mountains, on a world where the air was thin and the valleys were narrow. Its people cut the slopes into terraces, filled stone storehouses against the bad years and tied every count, census and tribute into knotted cords. The Inti Empire is orderly, hard-working and patient, and no one in it goes hungry. They have an old quarrel with Albion over the mountain mines.</description>
+    <color>(0.78, 0.31, 0.16)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Inti</iconPath>
+    <rulerTitle>Sapa Inti</rulerTitle>
+    <adjective>Inti</adjective>
+    <release>3</release>
+    <rivals>
+      <li>HE_Albion</li>
+    </rivals>
+    <faction>HE_Faction_Inti</faction>
+    <playerFaction>HE_Player_Inti</playerFaction>
+    <scenario>HE_Start_Inti</scenario>
+    <archive>HE_Inti_Archive</archive>
+    <doctrine>
+      <label>mountain sappers</label>
+      <description>The road builders of the Andes go through rock rather than around it. Inti raiders dig toward your walls and throw stones with mountain-trained aim.</description>
+      <hediff>HE_Doctrine_Inti</hediff>
+      <strategy>ImmediateAttackSappers</strategy>
+      <arrival>EdgeWalkIn</arrival>
+      <chance>0.75</chance>
+    </doctrine>
+    <animal>Alpaca</animal>
+    <temperamentBias>
+      <li>Pious</li>
+      <li>Cautious</li>
+    </temperamentBias>
+    <honoraryTitle>kin of the Sun</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

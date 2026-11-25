@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Kemet_Papyrus</defName>
+    <label>papyrus</label>
+    <description>Sheets of pale writing paper made from river reeds. Scribes, traders and every culture table want it.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Kemet_Papyrus</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>100</stackLimit>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>5</MarketValue>
+      <Mass>0.05</Mass>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>1</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_KemetGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+        <knowledge>1</knowledge>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

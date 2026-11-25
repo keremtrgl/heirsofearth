@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Torii.label>torii kapısı</HE_Yamato_Torii.label>
+  <HE_Yamato_Torii.description>İki direk ve iki lentodan oluşan uzun kırmızı bir kapı. Altından geçerken insanlar seslerini alçaltır.</HE_Yamato_Torii.description>
+  <HE_Yamato_Lantern.label>taş fener</HE_Yamato_Lantern.label>
+  <HE_Yamato_Lantern.description>İçinde küçük bir alev olan oyma taş fener. Gece boyunca bir bahçe yolunu yumuşakça aydınlatır.</HE_Yamato_Lantern.description>
+  <HE_Yamato_TeaTable.label>çay masası</HE_Yamato_TeaTable.label>
+  <HE_Yamato_TeaTable.description>Demir bir çaydanlık ve dört fincanla kurulmuş alçak, koyu bir masa. Kolonistler sessiz bir fincan çay için çevresine diz çöker.</HE_Yamato_TeaTable.description>
+  <HE_Yamato_Dojo.label>dojo talim direği</HE_Yamato_Dojo.label>
+  <HE_Yamato_Dojo.description>Saman demetlerine sarılmış bir direk. Kolonistler kılıç kollarını eğitmek için ona tekrar tekrar vurur.</HE_Yamato_Dojo.description>
+  <HE_Yamato_Rack.label>katana rafı</HE_Yamato_Rack.label>
+  <HE_Yamato_Rack.description>Kınlarındaki kılıçları tutan lake bir raf. Bir hanenin kılıçlarının gururlu bir sergisi.</HE_Yamato_Rack.description>
+  <HE_Yamato_Yagura_Gun.label>kule yayları</HE_Yamato_Yagura_Gun.label>
+  <HE_Yamato_Yagura_Gun.description>yagura yapısının dönen üst kısmı.</HE_Yamato_Yagura_Gun.description>
+  <HE_Yamato_Yagura.label>yagura</HE_Yamato_Yagura.label>
+  <HE_Yamato_Yagura.description>Beyaz sıvalı küçük bir ahşap gözcü kulesi. Dönen bir çerçeveye kurulu üç yay aynı anda kısa bir yaylım atar. Yeni oklar için odun: bir kütük iki ok eder.</HE_Yamato_Yagura.description>
+  <HE_Yamato_Yagura.comps.1.fuelLabel>Oklar</HE_Yamato_Yagura.comps.1.fuelLabel>
+  <HE_Yamato_Yagura.comps.1.fuelGizmoLabel>Oklar</HE_Yamato_Yagura.comps.1.fuelGizmoLabel>
+  <HE_Yamato_Yagura.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Yamato_Yagura.comps.1.outOfFuelMessage>
+</LanguageData>

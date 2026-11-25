@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Planks.label>split plank floor</HE_Nord_Planks.label>
+  <HE_Nord_Planks.description>Wide planks split from pine logs and fitted together. Warm underfoot.</HE_Nord_Planks.description>
+  <HE_Nord_Slate.label>slate flagstones</HE_Nord_Slate.label>
+  <HE_Nord_Slate.description>Split slabs of dark slate fitted together like a puzzle. Cold underfoot, but they never rot and they shrug off mud.</HE_Nord_Slate.description>
+  <HE_Nord_CarvedBoards.label>carved boards</HE_Nord_CarvedBoards.label>
+  <HE_Nord_CarvedBoards.description>Heavy oak boards with knotwork carved into them by the hall's craftsmen during the long winters.</HE_Nord_CarvedBoards.description>
+</LanguageData>

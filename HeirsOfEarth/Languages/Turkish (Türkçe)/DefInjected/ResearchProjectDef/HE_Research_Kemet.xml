@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Spear.label>nehir mızrağı</HE_Kemet_Spear.label>
+  <HE_Kemet_Spear.description>Taşkın çekildiğinde yola çıkan her askerin taşıdığı, soketli bronz uçlu hafif bir mızrak.</HE_Kemet_Spear.description>
+  <HE_Kemet_Kalasiris.label>kalasiris</HE_Kemet_Kalasiris.label>
+  <HE_Kemet_Kalasiris.description>İnce keteni nehir vadisinin sıcağında giyilen uzun, dar elbiseye doku.</HE_Kemet_Kalasiris.description>
+  <HE_Kemet_Irrigation.label>sulama</HE_Kemet_Irrigation.label>
+  <HE_Kemet_Irrigation.description>Sığ kanallar kaz, nehrin kara balçığını tarlalara taşı ve gerisini suya bırak.</HE_Kemet_Irrigation.description>
+  <HE_Kemet_CompositeBow.label>kompozit yay</HE_Kemet_CompositeBow.label>
+  <HE_Kemet_CompositeBow.description>Boynuz, ahşap ve siniri yapıştırarak düz bir yaydan daha uzağa atan kısa, köşeli bir yay yap.</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_Bread.label>hurmalı ekmek</HE_Kemet_Bread.label>
+  <HE_Kemet_Bread.description>Kızıl buğday ve hurmadan yuvarlak somunları kil kalıplarda pişir; yanına soğan ve yumuşak peynir koy.</HE_Kemet_Bread.description>
+  <HE_Kemet_RiverSoil.label>nehrin armağanı</HE_Kemet_RiverSoil.label>
+  <HE_Kemet_RiverSoil.description>Her tarla taşkından sonra ölçülür ve aynı hafta ekilir. Kemet'te hiçbir şey şans eseri yetişmez.
+
+Gelenek: Kolonistler her bitkiden %8 daha fazla ürün toplar.
+
+Mirasın bu değilse 15 Kemet bilgisi gerekir.</HE_Kemet_RiverSoil.description>
+  <HE_Kemet_Scribes.label>kâtipler evi</HE_Kemet_Scribes.label>
+  <HE_Kemet_Scribes.description>Yazabilen çocuklara iyi yazmak, tahıl saymak ve eski kitapları tek bir hata yapmadan kopyalamak öğretilir.
+
+Gelenek: Kolonistler %7 daha hızlı öğrenir.
+
+Mirasın bu değilse 15 Kemet bilgisi gerekir.</HE_Kemet_Scribes.description>
+  <HE_Kemet_SunCalendar.label>güneş takvimi</HE_Kemet_SunCalendar.label>
+  <HE_Kemet_SunCalendar.description>Parlak bir yıldızın doğuşundan okunan, dörder aylık üç mevsim. Ekim ve hasat doğru günde yapılır.
+
+Gelenek: Kolonistler %7 daha hızlı eker ve hasat eder.
+
+Mirasın bu değilse 20 Kemet bilgisi gerekir.</HE_Kemet_SunCalendar.description>
+  <HE_Kemet_Obelisk.label>dikili taşlar</HE_Kemet_Obelisk.label>
+  <HE_Kemet_Obelisk.description>Tek parça bir taş iğnesi çıkar, rampalar ve halatlarla dik ve ilk ışığı yakalayan altınla taçlandır.
+
+Mirasın bu değilse 10 Kemet bilgisi gerekir.</HE_Kemet_Obelisk.description>
+  <HE_Kemet_Khopesh.label>hopeş</HE_Kemet_Khopesh.label>
+  <HE_Kemet_Khopesh.description>Kalkanları yana çeken ve balta gibi kesen, savaş arabası birliğinin orak-kılıcını döv.
+
+Mirasın bu değilse 10 Kemet bilgisi gerekir.</HE_Kemet_Khopesh.description>
+  <HE_Kemet_Papyrus.label>papirüs atölyesi</HE_Kemet_Papyrus.label>
+  <HE_Kemet_Papyrus.description>Nehir sazlarını yar, çaprazlama diz, düzleşene kadar döv ve güneşte kurut: bütün bir uygarlığın yazı yaprağı.
+
+Mirasın bu değilse 15 Kemet bilgisi gerekir.</HE_Kemet_Papyrus.description>
+  <HE_Kemet_Stonemasons.label>kraliyet taş ustaları</HE_Kemet_Stonemasons.label>
+  <HE_Kemet_Stonemasons.description>Bakır testereler, kum ve sabır. Kemet ustaları bir duvarı o kadar düzgün yontar ki taşların arasına bıçak ağzı girmez.
+
+Gelenek: Kolonistler taşı %20 daha hızlı düzler ve %5 daha hızlı kazı yapar.
+
+Mirasın bu değilse 25 Kemet bilgisi gerekir.</HE_Kemet_Stonemasons.description>
+  <HE_Kemet_ChariotCorps.label>savaş arabası birliği</HE_Kemet_ChariotCorps.label>
+  <HE_Kemet_ChariotCorps.description>Mavi deriden savaş tacı ve hareket halindeyken okları savuşturmak için yapılmış arabacı pullu göğüslüğü.
+
+Mirasın bu değilse 25 Kemet bilgisi gerekir.</HE_Kemet_ChariotCorps.description>
+  <HE_Kemet_ChildrenOfSun.label>güneşin çocukları</HE_Kemet_ChildrenOfSun.label>
+  <HE_Kemet_ChildrenOfSun.description>Keten, öğlen gölge, sabah su ve sıcakta bir şekerleme. Kemetliler başkalarının bayıldığı yerde çalışır.
+
+Gelenek: Kolonistler 5°C daha sıcakta rahat eder.
+
+Mirasın bu değilse 25 Kemet bilgisi gerekir.</HE_Kemet_ChildrenOfSun.description>
+  <HE_Kemet_RoyalKitchens.label>kraliyet mutfakları</HE_Kemet_RoyalKitchens.label>
+  <HE_Kemet_RoyalKitchens.description>Temiz su, kapalı küpler ve ellerini yıkayan aşçılar. Saray mutfakları bin kişiyi doyurur ve kimseyi zehirlemez.
+
+Gelenek: Kolonistlerin pişirdiği yemeklerin zehirleme ihtimali %40 düşer ve kolonistler %5 daha hızlı pişirir.
+
+Mirasın bu değilse 25 Kemet bilgisi gerekir.</HE_Kemet_RoyalKitchens.description>
+  <HE_Kemet_Medjay.label>medjay devriyeleri</HE_Kemet_Medjay.label>
+  <HE_Kemet_Medjay.description>Bütün gün koşan ve belden ateş eden çöl izcileri. Mezarları, yolları ve sınırları korurlar.
+
+Gelenek: Kolonistler %2 daha hızlı yürür ve %5 daha hızlı nişan alır.
+
+Mirasın bu değilse 35 Kemet bilgisi gerekir.</HE_Kemet_Medjay.description>
+  <HE_Kemet_Senet.label>senet</HE_Kemet_Senet.label>
+  <HE_Kemet_Senet.description>Otuz kareli bir tahta, beşer taş ve dört atma çubuğu. Krallar setleriyle birlikte gömülürdü.
+
+Mirasın bu değilse 10 Kemet bilgisi gerekir.</HE_Kemet_Senet.description>
+  <HE_Kemet_DesertRifle.label>çöl tüfeği</HE_Kemet_DesertRifle.label>
+  <HE_Kemet_DesertRifle.description>Çöl kenarının açık mesafelerine göre gez-arpacığı ayarlanmış, ince ve pirinç bağlı dipçikli uzun bir tüfek.
+
+Mirasın bu değilse 35 Kemet bilgisi gerekir.</HE_Kemet_DesertRifle.description>
+  <HE_Kemet_NileEngineering.label>nehir mühendisliği</HE_Kemet_NileEngineering.label>
+  <HE_Kemet_NileEngineering.description>Barajlar, savaklar ve buharlı pompalar. Eski kanallar demirden yeniden yapılır ve taşkın bir tarifeye uyar.
+
+Gelenek: Kolonistler %5 daha hızlı inşa eder ve %2 daha hızlı çalışır.
+
+Mirasın bu değilse 45 Kemet bilgisi gerekir.</HE_Kemet_NileEngineering.description>
+  <HE_Kemet_SecondSunrise.label>ikinci gün doğumu</HE_Kemet_SecondSunrise.label>
+  <HE_Kemet_SecondSunrise.description>Iteru kumdan çıkarıldığından beri krallık eskiden ne olduğunu hatırlıyor ve dünyanın bütün zamanı kendisininmiş gibi inşa ediyor.
+
+Gelenek: Kolonistler %4 daha fazla hasat eder, %5 daha hızlı inşa eder ve zihinsel çöküş eşikleri %2 düşer.
+
+Mirasın bu değilse 50 Kemet bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Kemet_SecondSunrise.description>
+  <HE_Kemet_ArcherPylon.label>okçu pilonu</HE_Kemet_ArcherPylon.label>
+  <HE_Kemet_ArcherPylon.description>Tapınak kapıları kaleye dönüşür: pilonların üstündeki okçular bütün sfenks yolunu kapsayabilir.
+
+Mirasın bu değilse 40 Kemet bilgisi gerekir.</HE_Kemet_ArcherPylon.description>
+  <HE_Kemet_PowderArms.label>Kemet barutlu silahlar</HE_Kemet_PowderArms.label>
+  <HE_Kemet_PowderArms.description>Yeni Kemet'in usulü bir fitilli ya da çakmaklı tüfek yapmak: namlu, kilit, dipçik ve kullanma talimi.
+
+Mirasın bu değilse, ancak Yeni Kemet Barut Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 30 Kemet bilgisi gerekir.</HE_Kemet_PowderArms.description>
+  <HE_Kemet_SteamArmy.label>Kemet buhar ordusu</HE_Kemet_SteamArmy.label>
+  <HE_Kemet_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Yeni Kemet'in kurduğu ordu.
+
+Mirasın bu değilse, ancak Yeni Kemet Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Kemet bilgisi gerekir.</HE_Kemet_SteamArmy.description>
+</LanguageData>

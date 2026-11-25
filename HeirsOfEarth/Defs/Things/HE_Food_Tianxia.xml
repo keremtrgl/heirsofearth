@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Tianxia_Dumplings</defName>
+    <label>dumplings</label>
+    <description>Thin dough folded around minced meat and greens, steamed in a bamboo basket and served with vinegar.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_Dumplings</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_TianxiaGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Tianxia_Dumplings</defName>
+    <label>cook dumplings</label>
+    <description>Cook dumplings.</description>
+    <jobString>Cooking dumplings.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Tianxia_Dumplings>1</HE_Tianxia_Dumplings>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Tianxia_Dumplings</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Tianxia_Congee</defName>
+    <label>congee</label>
+    <description>Rice simmered for hours into a smooth porridge, topped with ginger and spring onion. Easy on the sick and kind to the poor.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_Congee</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_TianxiaGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Tianxia_Congee</defName>
+    <label>cook congee</label>
+    <description>Cook congee.</description>
+    <jobString>Cooking congee.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Tianxia_Congee>1</HE_Tianxia_Congee>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Tianxia_Dumplings</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Tianxia_Mooncake</defName>
+    <label>mooncakes</label>
+    <description>Round pastries with a sweet bean and yolk filling, pressed with patterns. They are shared under the full moon of autumn. A small treat: eating it is a little joy.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_Mooncake</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+      <joy>0.08</joy>
+      <joyKind>Gluttonous</joyKind>
+    </ingestible>
+    <tradeTags>
+      <li>HE_TianxiaGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Tianxia_Mooncake</defName>
+    <label>cook mooncakes</label>
+    <description>Cook mooncakes.</description>
+    <jobString>Cooking mooncakes.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Tianxia_Mooncake>1</HE_Tianxia_Mooncake>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Tianxia_TeaCulture</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

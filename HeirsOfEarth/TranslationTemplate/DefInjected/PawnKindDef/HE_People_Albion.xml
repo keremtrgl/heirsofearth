@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Colonist.label>colonist</HE_Albion_Colonist.label>
+  <HE_Albion_Fusilier.label>fusilier</HE_Albion_Fusilier.label>
+  <HE_Albion_Rifleman.label>rifleman</HE_Albion_Rifleman.label>
+  <HE_Albion_Dragoon.label>dragoon</HE_Albion_Dragoon.label>
+  <HE_Albion_Engineer.label>engineer</HE_Albion_Engineer.label>
+  <HE_Albion_Colonel.label>colonel</HE_Albion_Colonel.label>
+  <HE_Albion_LordProtector.label>Lord Protector</HE_Albion_LordProtector.label>
+  <HE_Albion_Trader.label>company trader</HE_Albion_Trader.label>
+</LanguageData>

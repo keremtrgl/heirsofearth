@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Colonist.label>colonist</HE_Yamato_Colonist.label>
+  <HE_Yamato_Ashigaru.label>ashigaru</HE_Yamato_Ashigaru.label>
+  <HE_Yamato_Ashigaru.labelPlural>ashigaru</HE_Yamato_Ashigaru.labelPlural>
+  <HE_Yamato_Samurai.label>samurai</HE_Yamato_Samurai.label>
+  <HE_Yamato_Samurai.labelPlural>samurai</HE_Yamato_Samurai.labelPlural>
+  <HE_Yamato_Yumitori.label>yumitori archer</HE_Yamato_Yumitori.label>
+  <HE_Yamato_Monk.label>temple monk</HE_Yamato_Monk.label>
+  <HE_Yamato_Hatamoto.label>hatamoto</HE_Yamato_Hatamoto.label>
+  <HE_Yamato_Shogun.label>shogun</HE_Yamato_Shogun.label>
+  <HE_Yamato_Akindo.label>akindo merchant</HE_Yamato_Akindo.label>
+</LanguageData>

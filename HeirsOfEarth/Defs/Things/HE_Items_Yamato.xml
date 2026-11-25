@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Yamato_Sake</defName>
+    <label>sake flask</label>
+    <description>A white porcelain flask of rice wine, sealed with wax. Sought after by traders everywhere.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Yamato_Sake</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>25</stackLimit>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>16</MarketValue>
+      <Mass>0.6</Mass>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>1</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_YamatoGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

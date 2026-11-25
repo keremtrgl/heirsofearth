@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>HE_Rallied</defName>
+    <label>rallied</label>
+    <description>Inspired by an ancient artifact. Fights harder, feels less pain and keeps a steadier mind.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.95, 0.80, 0.40)</defaultLabelColor>
+    <comps>
+      <li Class="HediffCompProperties_Disappears">
+        <disappearsAfterTicks>60000~60000</disappearsAfterTicks>
+        <showRemainingTime>true</showRemainingTime>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <painFactor>0.8</painFactor>
+        <statOffsets>
+          <MeleeHitChance>3</MeleeHitChance>
+          <ShootingAccuracyPawn>3</ShootingAccuracyPawn>
+          <MentalBreakThreshold>-0.05</MentalBreakThreshold>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <ThingDef>
+    <defName>HE_Roma_LostEagle</defName>
+    <label>tarnished eagle</label>
+    <description>The bronze eagle of the Ninth Legion, lost with its cohort generations ago. One wing is cracked, the gilding is almost gone, but every Nova Roman would know it at a glance.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Roma_LostEagle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>10</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Yamato_Regalia</defName>
+    <label>sacred mirror</label>
+    <description>A bronze mirror on a silk cushion, one of the regalia of the lost imperial line. Whoever holds it may name the true heir.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Yamato_Regalia</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>12</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Nord_BarrowHorn</defName>
+    <label>barrow horn</label>
+    <description>An iron-bound horn taken from a frozen grave mound. Frost never melts from it, and the old songs say it can call the storm.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Nord_BarrowHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>6</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Roma_Artifact_Eagle</defName>
+    <label>Eagle Standard</label>
+    <description>The restored eagle of the Ninth Legion on a red standard. When it is raised, every colonist nearby fights as if the whole legion stood behind them. It must rest for ten days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Roma_Artifact_Eagle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>4</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>30</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Raise the eagle</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.15</fleeChance>
+        <cooldownDays>10</cooldownDays>
+        <sound>HE_Sound_Bugle</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Nord_Artifact_StormHorn</defName>
+    <label>Storm Horn</label>
+    <description>The barrow horn, awakened. Its call rallies your people, sends many enemies running and pulls a thunderstorm out of a clear sky. It must rest for twelve days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Nord_Artifact_StormHorn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>15</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Blow the horn</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.5</fleeChance>
+        <weather>RainyThunderstorm</weather>
+        <cooldownDays>12</cooldownDays>
+        <sound>HE_Sound_Horn</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="BaseMeleeWeapon_Sharp_Quality">
+    <defName>HE_Yamato_Artifact_SkySword</defName>
+    <label>Sky Sword</label>
+    <description>The sword of the first shogun, forged, it is said, from iron that fell from the sky. Its blade is faintly blue and never dulls. In any hand it is a masterpiece; in a trained hand it is a legend.</description>
+    <techLevel>Medieval</techLevel>
+    <tradeability>None</tradeability>
+    <smeltable>false</smeltable>
+    <relicChance>0</relicChance>
+    <recipeMaker IsNull="True" />
+    <graphicData>
+      <texPath>HeirsOfEarth/Weapons/HE_Yamato_Artifact_SkySword</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <uiIconScale>1.1</uiIconScale>
+    <equippedAngleOffset>-45</equippedAngleOffset>
+    <statBases>
+      <Mass>1.1</Mass>
+      <MarketValue>4000</MarketValue>
+      <MaxHitPoints>400</MaxHitPoints>
+      <DeteriorationRate>0</DeteriorationRate>
+    </statBases>
+    <equippedStatOffsets>
+      <MeleeHitChance>4</MeleeHitChance>
+      <MeleeDodgeChance>4</MeleeDodgeChance>
+    </equippedStatOffsets>
+    <tools>
+      <li>
+        <label>handle</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>point</label>
+        <capacities>
+          <li>Stab</li>
+        </capacities>
+        <power>20</power>
+        <cooldownTime>1.8</cooldownTime>
+        <armorPenetration>0.4</armorPenetration>
+      </li>
+      <li>
+        <label>edge</label>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+        <power>24</power>
+        <cooldownTime>1.7</cooldownTime>
+        <armorPenetration>0.45</armorPenetration>
+      </li>
+    </tools>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Hellas_LibraryScrolls</defName>
+    <label>sealed library scrolls</label>
+    <description>A cedar chest of scrolls from the lost library of the Argo, sealed in wax for two centuries. Inside, among the books, lies a small bronze aegis.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_LibraryScrolls</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Tianxia_JadeSeal</defName>
+    <label>cracked jade seal</label>
+    <description>The imperial seal of Tianxia, carved from a single block of green jade with a coiled dragon on top. A crack runs through one corner. Whoever stamps an edict with it speaks for heaven.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_JadeSeal</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>12</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Albion_DentedDrum</defName>
+    <label>dented regimental drum</label>
+    <description>The drum of the Avalon Guard, which beat the first regiment ashore. Its brass is dented and its skin split, but the painted lion can still be made out.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Albion_DentedDrum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>6</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Hellas_Artifact_Aegis</defName>
+    <label>Owl Aegis</label>
+    <description>A bronze shield-cloak bearing the owl of wisdom, found among the scrolls of the lost library. Raised high, it steadies friends and sends many enemies running. It must rest for ten days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_Artifact_Aegis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>3</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>25</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Raise the aegis</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.3</fleeChance>
+        <cooldownDays>10</cooldownDays>
+        <sound>HE_Sound_Bugle</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Tianxia_Artifact_DragonSeal</defName>
+    <label>Dragon Seal</label>
+    <description>The jade seal, mended with gold. When it is stamped on a war edict, your people take heart, some enemies lose theirs and clouds gather into a gentle rain. It must rest for eleven days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_Artifact_DragonSeal</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>30</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Seal the edict</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.25</fleeChance>
+        <weather>FoggyRain</weather>
+        <cooldownDays>11</cooldownDays>
+        <sound>HE_Sound_Gong</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Albion_Artifact_WarDrum</defName>
+    <label>Drum of the Avalon Guard</label>
+    <description>The old regimental drum, restored with new brass and a fresh skin. When it beats the advance, your people stand in line as one and enemies hear a whole army coming. It must rest for ten days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Albion_Artifact_WarDrum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>4</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>15</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Beat the advance</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.35</fleeChance>
+        <cooldownDays>10</cooldownDays>
+        <sound>HE_Sound_Drum</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Kemet_BuriedDisc</defName>
+    <label>sand-scoured sun disc</label>
+    <description>A great disc of gilded bronze, scoured dull by two centuries of sand, with a ring of carved hours around its rim. It was the clock of a whole city.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Kemet_BuriedDisc</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>4</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Kemet_Artifact_SunDisc</defName>
+    <label>Sun Disc of Iteru</label>
+    <description>The city's great sun clock, polished until it blazes. Raised to the sky, it clears the clouds, warms the hearts of your people and dazzles many enemies into running. It must rest for ten days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Kemet_Artifact_SunDisc</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>4</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>30</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Raise the sun disc</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.25</fleeChance>
+        <weather>Clear</weather>
+        <cooldownDays>10</cooldownDays>
+        <sound>HE_Sound_Sistrum</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Pars_TarnishedEye</defName>
+    <label>tarnished gold eye</label>
+    <description>A palm-sized eye of gold and lapis set in a winged frame, black with soot from a burned station. The king's inspectors once carried it as their warrant.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_TarnishedEye</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>1</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Pars_Artifact_KingsEye</defName>
+    <label>King's Eye</label>
+    <description>The warrant of the king's inspectors, cleaned and set on a staff. When it is shown, every heir nation that is not at war with you remembers the old courtesy of the road and thinks better of you, a friendly caravan turns towards your colony and your people stand a little taller. It must rest for fifteen days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_Artifact_KingsEye</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>25</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Show the King's Eye</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <cooldownDays>15</cooldownDays>
+        <sound>HE_Sound_Karnay</sound>
+        <goodwill>6</goodwill>
+        <callCaravan>true</callCaravan>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Inti_TangledQuipu</defName>
+    <label>tangled great quipu</label>
+    <description>Hundreds of cords hanging from a thick main cord, matted with mud and age, their colours faded. Gold threads still glint among them.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Inti_TangledQuipu</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>800</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>6</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Inti_Artifact_GoldenThread</defName>
+    <label>Golden Thread</label>
+    <description>The great quipu of the lost province, untangled and restrung on golden cord: the full count of a people. When its knots are read aloud, rain comes to the terraces, your people fight as one and many enemies lose heart and run. It must rest for ten days between uses.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Inti_Artifact_GoldenThread</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>3500</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>25</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Usable">
+        <useJob>UseItem</useJob>
+        <useLabel>Read the Golden Thread</useLabel>
+        <useDuration>180</useDuration>
+      </li>
+      <li Class="HeirsOfEarth.CompProperties_HeirsArtifact">
+        <allyHediff>HE_Rallied</allyHediff>
+        <fleeChance>0.2</fleeChance>
+        <weather>Rain</weather>
+        <cooldownDays>10</cooldownDays>
+        <sound>HE_Sound_Pututu</sound>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Roma_BurnedCodex</defName>
+    <label>scorched codex</label>
+    <description>The founders' own copy of the law, saved from the fire that took the old archive. The edges are black and the binding is gone, but most of it can still be read.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Roma_BurnedCodex</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Yamato_SilentChronicle</defName>
+    <label>silent chronicle</label>
+    <description>The last court historian's own manuscript, wrapped in oiled silk. The final chapter, about the night of fire, was never shown to anyone.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Yamato_SilentChronicle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Nord_SkaldStaff</defName>
+    <label>skald's rune staff</label>
+    <description>A staff cut all over with runes: the memory aid of the last great skald, who carved a line for every saga he knew.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Nord_SkaldStaff</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Hellas_SunkenScroll</defName>
+    <label>sea-stained scroll</label>
+    <description>A scroll case of lead, sealed with wax, from the sunken library. The papyrus inside is stained by the sea but whole.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_SunkenScroll</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Tianxia_HiddenRecords</defName>
+    <label>hidden records</label>
+    <description>Bamboo slips bound in silk, hidden in a mountain cave by the grand historian's daughter. They are dry, ordered and complete.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_HiddenRecords</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Albion_LostCharter</defName>
+    <label>lost charter</label>
+    <description>A great sheet of vellum with a hundred seals hanging from it. The ink has faded, but the signatures of the guild masters can still be read.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Albion_LostCharter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Kemet_TombScroll</defName>
+    <label>tomb scroll</label>
+    <description>A long papyrus painted in black and red, sealed in a cedar box. It was buried with the first pharaoh of the second sunrise.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Kemet_TombScroll</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Pars_PoetsBook</defName>
+    <label>poet's travelling book</label>
+    <description>The old poet's own copy, written on the road over thirty years. The pages are stained with wine and dust, and the last couplet is unfinished.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_PoetsBook</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+  <ThingDef>
+    <defName>HE_Inti_GreatKhipu</defName>
+    <label>great khipu</label>
+    <description>A khipu of a thousand cords, rolled in a llama-wool blanket. The knots are tight and the colours still bright.</description>
+    <thingClass>ThingWithComps</thingClass>
+    <category>Item</category>
+    <drawerType>MapMeshOnly</drawerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <useHitPoints>true</useHitPoints>
+    <selectable>true</selectable>
+    <alwaysHaulable>true</alwaysHaulable>
+    <rotatable>false</rotatable>
+    <pathCost>14</pathCost>
+    <stackLimit>1</stackLimit>
+    <tradeability>None</tradeability>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Inti_GreatKhipu</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>250</MaxHitPoints>
+      <MarketValue>1200</MarketValue>
+      <Mass>2</Mass>
+      <Flammability>0</Flammability>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Beauty>8</Beauty>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+  </ThingDef>
+</Defs>

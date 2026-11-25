@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas.label>Hellas Birliği</HE_Hellas.label>
+  <HE_Hellas.description>Argo koloni gemisi öğretmenler, hekimler ve filozoflar taşıdı; çocukları tartışmayı hiç bırakmadı. Hellas şehir devletleri ortak bir dil, oyunlar ve derin bir öğrenme sevgisiyle bir arada duran kavgacı bir birliktir. Hoplitleri omuz omuza dövüşür, hekimleri her devletçe aranır ve Nova Romalıları eski dostları sayarlar.</HE_Hellas.description>
+  <HE_Hellas.rulerTitle>Arkon</HE_Hellas.rulerTitle>
+  <HE_Hellas.adjective>Hellas</HE_Hellas.adjective>
+  <HE_Hellas.doctrine.label>falanks</HE_Hellas.doctrine.label>
+  <HE_Hellas.doctrine.description>Hoplitler omuz omuza dövüşür, her kalkan soldakini korur. Safta vurulmaları da kaçılmaları da zordur; yalnız kaldıklarında sıradan adamlardır.</HE_Hellas.doctrine.description>
+  <HE_Hellas.honoraryTitle>Birliğin proksenosu</HE_Hellas.honoraryTitle>
+</LanguageData>

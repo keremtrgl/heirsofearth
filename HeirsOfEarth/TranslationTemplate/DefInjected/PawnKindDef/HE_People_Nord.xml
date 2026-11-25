@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Colonist.label>colonist</HE_Nord_Colonist.label>
+  <HE_Nord_Karl.label>karl</HE_Nord_Karl.label>
+  <HE_Nord_Karl.labelPlural>karls</HE_Nord_Karl.labelPlural>
+  <HE_Nord_Huscarl.label>huscarl</HE_Nord_Huscarl.label>
+  <HE_Nord_Hunter.label>hunter</HE_Nord_Hunter.label>
+  <HE_Nord_Berserker.label>berserker</HE_Nord_Berserker.label>
+  <HE_Nord_Skald.label>skald</HE_Nord_Skald.label>
+  <HE_Nord_Jarl.label>jarl</HE_Nord_Jarl.label>
+  <HE_Nord_Trader.label>amber trader</HE_Nord_Trader.label>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Roma_Puls.label>puls pişir</HE_Cook_Roma_Puls.label>
+  <HE_Cook_Roma_Puls.description>Puls pişir.</HE_Cook_Roma_Puls.description>
+  <HE_Cook_Roma_Puls.jobString>Puls pişiriyor.</HE_Cook_Roma_Puls.jobString>
+  <HE_Cook_Roma_Lucanica.label>lucanica and bread pişir</HE_Cook_Roma_Lucanica.label>
+  <HE_Cook_Roma_Lucanica.description>Lucanica ve ekmek pişir.</HE_Cook_Roma_Lucanica.description>
+  <HE_Cook_Roma_Lucanica.jobString>Lucanica ve ekmek pişiriyor.</HE_Cook_Roma_Lucanica.jobString>
+  <HE_Cook_Roma_Libum.label>libum pişir</HE_Cook_Roma_Libum.label>
+  <HE_Cook_Roma_Libum.description>Libum pişir.</HE_Cook_Roma_Libum.description>
+  <HE_Cook_Roma_Libum.jobString>Libum pişiriyor.</HE_Cook_Roma_Libum.jobString>
+</LanguageData>

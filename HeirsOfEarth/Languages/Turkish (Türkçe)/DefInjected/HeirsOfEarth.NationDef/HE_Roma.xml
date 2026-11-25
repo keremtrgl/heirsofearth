@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma.label>Nova Roma Cumhuriyeti</HE_Roma.label>
+  <HE_Roma.description>Aeternitas koloni gemisinin torunları olan Nova Roma yurttaşları, atalarının cumhuriyetini yeni bir dünyada yeniden kurdu: bir senato, iki konsül, her toprağı dümdüz kesen yollar ve adım adım yürüyen lejyonlar. Usta inşaatçı ve disiplinli askerdirler; hukuklarıyla gurur duyar, kolay affetmezler.</HE_Roma.description>
+  <HE_Roma.rulerTitle>Konsül</HE_Roma.rulerTitle>
+  <HE_Roma.adjective>Nova Roma</HE_Roma.adjective>
+  <HE_Roma.doctrine.label>testudo</HE_Roma.doctrine.label>
+  <HE_Roma.doctrine.description>Lejyonerler saflarını sıklaştırır ve kalkanlarını bir çatı gibi birbirine kilitler. Sık durdukça oklara ve darbelere aldırmazlar ama yavaş yürürler.</HE_Roma.doctrine.description>
+  <HE_Roma.honoraryTitle>Nova Roma fahri yurttaşı</HE_Roma.honoraryTitle>
+</LanguageData>

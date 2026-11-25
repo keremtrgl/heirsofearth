@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Heirs of Earth 3.0.1: the plain shirts and trousers heir pawns may wear under their nation's clothes.
+     Nation pawn kinds use the HE_Base tag instead of IndustrialBasic, so they no longer roll cowboy hats, tuques or parkas.
+     Written by hand (not generated); heirs_build.py does not touch the Patches folder. -->
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="Apparel_BasicShirt" or defName="Apparel_CollarShirt" or defName="Apparel_Pants"]/apparel/tags</xpath>
+    <value>
+      <li>HE_Base</li>
+    </value>
+  </Operation>
+</Patch>

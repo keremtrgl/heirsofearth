@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Sling.label>sapan</HE_Inti_Sling.label>
+  <HE_Inti_Sling.description>Örülü bir beşiği olan, siyah ve beyaz alpaka yününden örgü bir sapan. Ucuz, hafif ve alışkın ellerde tehlikeli.</HE_Inti_Sling.description>
+  <HE_Inti_Sling.tools.0.label>kol</HE_Inti_Sling.tools.0.label>
+  <HE_Inti_Champi.label>yıldız topuz</HE_Inti_Champi.label>
+  <HE_Inti_Champi.description>Sert ağaçtan bir sapın ucunda altı köşeli bronz bir yıldız. Miğferleri de kapitone zırhları da ezer.</HE_Inti_Champi.description>
+  <HE_Inti_Champi.tools.0.label>sap</HE_Inti_Champi.tools.0.label>
+  <HE_Inti_Champi.tools.1.label>baş</HE_Inti_Champi.tools.1.label>
+  <HE_Inti_Carbine.label>dağ karabinası</HE_Inti_Carbine.label>
+  <HE_Inti_Carbine.description>Deri kayışlı ve kilidine kondor damgalı kısa, hafif bir karabina. Dar bir kaya çıkıntısında çabucak omuza alınır.</HE_Inti_Carbine.description>
+  <HE_Inti_Carbine.tools.0.label>dipçik</HE_Inti_Carbine.tools.0.label>
+  <HE_Inti_Carbine.tools.1.label>namlu</HE_Inti_Carbine.tools.1.label>
+  <HE_Inti_Chuki.label>chuki mızrağı</HE_Inti_Chuki.label>
+  <HE_Inti_Chuki.description>Bronz yaprak biçimli uçlu ve renkli yün püsküllü uzun, sert ağaçtan bir mızrak. Kraliyet muhafızları dağ yollarında hattı onunla tutar.</HE_Inti_Chuki.description>
+  <HE_Inti_Chuki.tools.0.label>gövde</HE_Inti_Chuki.tools.0.label>
+  <HE_Inti_Chuki.tools.1.label>uç</HE_Inti_Chuki.tools.1.label>
+  <HE_Inti_Bolas.label>bolas</HE_Inti_Bolas.label>
+  <HE_Inti_Bolas.description>Örgü iplere bağlı, iple sarılmış üç taş. Döndürülüp fırlatıldığında insanın ya da laması bacaklarına dolanır ve nefesini keser.</HE_Inti_Bolas.description>
+  <HE_Inti_Bolas.tools.0.label>kol</HE_Inti_Bolas.tools.0.label>
+  <HE_Inti_Arquebus.label>Inti arkebüzü</HE_Inti_Arquebus.label>
+  <HE_Inti_Arquebus.description>Altınla sarılı, dipçiğindeki tokapu kareleri onu yapan atölyeyi ve hizmet ettiği güneşi söyleyen bir arkebüz. Kısa ve hafiftir; nişana her barutlu silahtan daha çabuk kalkar.</HE_Inti_Arquebus.description>
+  <HE_Inti_Arquebus.tools.0.label>dipçik</HE_Inti_Arquebus.tools.0.label>
+  <HE_Inti_Arquebus.tools.1.label>namlu</HE_Inti_Arquebus.tools.1.label>
+</LanguageData>

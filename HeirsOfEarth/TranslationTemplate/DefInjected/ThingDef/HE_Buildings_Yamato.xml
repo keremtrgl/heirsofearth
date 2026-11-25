@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Torii.label>torii gate</HE_Yamato_Torii.label>
+  <HE_Yamato_Torii.description>A tall red gate of two pillars and two lintels. Walking beneath it, people lower their voices.</HE_Yamato_Torii.description>
+  <HE_Yamato_Lantern.label>stone lantern</HE_Yamato_Lantern.label>
+  <HE_Yamato_Lantern.description>A carved stone lantern with a small flame inside. It lights a garden path softly through the night.</HE_Yamato_Lantern.description>
+  <HE_Yamato_TeaTable.label>tea table</HE_Yamato_TeaTable.label>
+  <HE_Yamato_TeaTable.description>A low dark table set with an iron kettle and four cups. Colonists kneel around it for a quiet cup of tea.</HE_Yamato_TeaTable.description>
+  <HE_Yamato_Dojo.label>dojo training post</HE_Yamato_Dojo.label>
+  <HE_Yamato_Dojo.description>A post wrapped in straw bundles. Colonists strike it again and again to train their sword arm.</HE_Yamato_Dojo.description>
+  <HE_Yamato_Rack.label>katana rack</HE_Yamato_Rack.label>
+  <HE_Yamato_Rack.description>A lacquered rack holding swords in their scabbards. A proud display of a house's blades.</HE_Yamato_Rack.description>
+  <HE_Yamato_Yagura_Gun.label>tower bows</HE_Yamato_Yagura_Gun.label>
+  <HE_Yamato_Yagura_Gun.description>The turning top of the yagura.</HE_Yamato_Yagura_Gun.description>
+  <HE_Yamato_Yagura.label>yagura</HE_Yamato_Yagura.label>
+  <HE_Yamato_Yagura.description>A small timber watchtower with white plaster walls. Three bows set on a turning frame loose a short volley at once. Wood for new arrows: one log makes two.</HE_Yamato_Yagura.description>
+  <HE_Yamato_Yagura.comps.1.fuelLabel>Arrows</HE_Yamato_Yagura.comps.1.fuelLabel>
+  <HE_Yamato_Yagura.comps.1.fuelGizmoLabel>Arrows</HE_Yamato_Yagura.comps.1.fuelGizmoLabel>
+  <HE_Yamato_Yagura.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Yamato_Yagura.comps.1.outOfFuelMessage>
+</LanguageData>

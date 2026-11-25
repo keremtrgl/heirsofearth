@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Inti_Pachamanca.label>pachamanca pişir</HE_Cook_Inti_Pachamanca.label>
+  <HE_Cook_Inti_Pachamanca.description>Paçamanka pişir.</HE_Cook_Inti_Pachamanca.description>
+  <HE_Cook_Inti_Pachamanca.jobString>Paçamanka pişiriyor.</HE_Cook_Inti_Pachamanca.jobString>
+  <HE_Cook_Inti_Locro.label>locro pişir</HE_Cook_Inti_Locro.label>
+  <HE_Cook_Inti_Locro.description>Locro pişir.</HE_Cook_Inti_Locro.description>
+  <HE_Cook_Inti_Locro.jobString>Locro pişiriyor.</HE_Cook_Inti_Locro.jobString>
+  <HE_Cook_Inti_Humita.label>humitas pişir</HE_Cook_Inti_Humita.label>
+  <HE_Cook_Inti_Humita.description>Humita pişir.</HE_Cook_Inti_Humita.description>
+  <HE_Cook_Inti_Humita.jobString>Humita pişiriyor.</HE_Cook_Inti_Humita.jobString>
+</LanguageData>

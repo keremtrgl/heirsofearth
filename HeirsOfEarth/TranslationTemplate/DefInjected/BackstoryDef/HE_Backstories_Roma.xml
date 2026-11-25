@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_BS_Tiro.title>legion recruit</HE_Roma_BS_Tiro.title>
+  <HE_Roma_BS_Tiro.titleShort>recruit</HE_Roma_BS_Tiro.titleShort>
+  <HE_Roma_BS_Tiro.description>[PAWN_nameDef] signed on with the legion at eighteen and marched until [PAWN_possessive] feet bled. The drill sergeants taught [PAWN_objective] to dig a ditch, raise a palisade and hold a line before they ever taught [PAWN_objective] to fight.</HE_Roma_BS_Tiro.description>
+  <HE_Roma_BS_Faber.title>legion smith</HE_Roma_BS_Faber.title>
+  <HE_Roma_BS_Faber.titleShort>smith</HE_Roma_BS_Faber.titleShort>
+  <HE_Roma_BS_Faber.description>For years [PAWN_nameDef] kept the forges of a frontier fort burning, hammering out gladii, mending mail and shoeing the officers' horses. [PAWN_pronoun] can tell good iron from bad by the sound it makes.</HE_Roma_BS_Faber.description>
+  <HE_Roma_BS_Architectus.title>aqueduct architect</HE_Roma_BS_Architectus.title>
+  <HE_Roma_BS_Architectus.titleShort>architect</HE_Roma_BS_Architectus.titleShort>
+  <HE_Roma_BS_Architectus.description>[PAWN_nameDef] designed arches that carried water across valleys. [PAWN_pronoun] checks every wall with a plumb line and cannot pass a crooked one without frowning.</HE_Roma_BS_Architectus.description>
+  <HE_Roma_BS_Senator.title>junior senator</HE_Roma_BS_Senator.title>
+  <HE_Roma_BS_Senator.titleShort>senator</HE_Roma_BS_Senator.titleShort>
+  <HE_Roma_BS_Senator.description>[PAWN_nameDef] spoke in the senate of Nova Roma, argued over grain laws and learned that every friendship has a price. [PAWN_pronoun] considers digging and hauling beneath a citizen of [PAWN_possessive] rank.</HE_Roma_BS_Senator.description>
+  <HE_Roma_BS_Medicus.title>field medicus</HE_Roma_BS_Medicus.title>
+  <HE_Roma_BS_Medicus.titleShort>medicus</HE_Roma_BS_Medicus.titleShort>
+  <HE_Roma_BS_Medicus.description>[PAWN_nameDef] followed the legion from battle to battle with a bag of bronze tools and vinegar-soaked bandages. [PAWN_pronoun] has stitched more wounds than [PAWN_pronoun] can count.</HE_Roma_BS_Medicus.description>
+  <HE_Roma_BS_Agricola.title>villa farmer</HE_Roma_BS_Agricola.title>
+  <HE_Roma_BS_Agricola.titleShort>farmer</HE_Roma_BS_Agricola.titleShort>
+  <HE_Roma_BS_Agricola.description>[PAWN_nameDef] worked the terraced olive groves and wheat fields of a country villa. [PAWN_pronoun] knows the calendar of sowing by heart and distrusts anyone who has never held a plough.</HE_Roma_BS_Agricola.description>
+  <HE_Roma_BS_Centurio.title>veteran centurion</HE_Roma_BS_Centurio.title>
+  <HE_Roma_BS_Centurio.titleShort>centurion</HE_Roma_BS_Centurio.titleShort>
+  <HE_Roma_BS_Centurio.description>[PAWN_nameDef] commanded eighty legionaries for a decade and carries the vine staff of [PAWN_possessive] rank. [PAWN_pronoun] is hard, fair and loud, and [PAWN_possessive] soldiers would follow [PAWN_objective] into a river.</HE_Roma_BS_Centurio.description>
+  <HE_Roma_BS_Mercator.title>road merchant</HE_Roma_BS_Mercator.title>
+  <HE_Roma_BS_Mercator.titleShort>merchant</HE_Roma_BS_Mercator.titleShort>
+  <HE_Roma_BS_Mercator.description>[PAWN_nameDef] drove mule trains along the stone roads, selling wine, oil and gossip from town to town. [PAWN_pronoun] can price a cart of goods at a glance.</HE_Roma_BS_Mercator.description>
+  <HE_Roma_BS_CastraChild.title>camp child</HE_Roma_BS_CastraChild.title>
+  <HE_Roma_BS_CastraChild.titleShort>camp child</HE_Roma_BS_CastraChild.titleShort>
+  <HE_Roma_BS_CastraChild.description>[PAWN_nameDef] grew up among the tents and earthworks of a marching camp, running errands for soldiers and learning the bugle calls before [PAWN_possessive] letters.</HE_Roma_BS_CastraChild.description>
+  <HE_Roma_BS_Scriba.title>scribe's pupil</HE_Roma_BS_Scriba.title>
+  <HE_Roma_BS_Scriba.titleShort>pupil</HE_Roma_BS_Scriba.titleShort>
+  <HE_Roma_BS_Scriba.description>[PAWN_nameDef] spent [PAWN_possessive] childhood copying laws onto wax tablets in the tabularium, where a single blot meant a beating.</HE_Roma_BS_Scriba.description>
+  <HE_Roma_BS_Subura.title>street urchin</HE_Roma_BS_Subura.title>
+  <HE_Roma_BS_Subura.titleShort>urchin</HE_Roma_BS_Subura.titleShort>
+  <HE_Roma_BS_Subura.description>[PAWN_nameDef] grew up in the crowded tenements of the lower city, where [PAWN_pronoun] learned to steal bread, climb roofs and talk [PAWN_possessive] way out of trouble.</HE_Roma_BS_Subura.description>
+  <HE_Roma_BS_Villa.title>villa child</HE_Roma_BS_Villa.title>
+  <HE_Roma_BS_Villa.titleShort>villa child</HE_Roma_BS_Villa.titleShort>
+  <HE_Roma_BS_Villa.description>[PAWN_nameDef] grew up on a country estate among vines, goats and storytelling grandparents.</HE_Roma_BS_Villa.description>
+</LanguageData>

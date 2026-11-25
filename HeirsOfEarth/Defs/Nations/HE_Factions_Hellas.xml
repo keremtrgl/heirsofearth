@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Hellas</defName>
+    <label>League of Hellas</label>
+    <description>The city-states of Hellas, heirs of the colony ship Argo. They argue in their assemblies, race at their games and fight in the phalanx, and their physicians and teachers are welcome in every nation.</description>
+    <fixedName>League of Hellas</fixedName>
+    <pawnSingular>Hellene</pawnSingular>
+    <pawnsPlural>Hellenes</pawnsPlural>
+    <leaderTitle>archon</leaderTitle>
+    <categoryTag>HE_Hellas</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Hellas_Hoplite</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Hellas_Archon</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Hellas</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Hellas</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.18, 0.36, 0.55)</li>
+      <li>(0.85, 0.80, 0.68)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Hellas_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Hellas</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Hellas_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Hellas_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Hellas_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-30~50</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>30</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Hellas_Hoplite>12</HE_Hellas_Hoplite>
+          <HE_Hellas_Ephebe>6</HE_Hellas_Ephebe>
+          <HE_Hellas_Toxotes>8</HE_Hellas_Toxotes>
+          <HE_Hellas_Strategos>2</HE_Hellas_Strategos>
+          <HE_Hellas_Physician>1</HE_Hellas_Physician>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Hellas_Hoplite>8</HE_Hellas_Hoplite>
+          <HE_Hellas_Physician>6</HE_Hellas_Physician>
+          <HE_Hellas_Ephebe>4</HE_Hellas_Ephebe>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Hellas_Emporos>1</HE_Hellas_Emporos>
+        </traders>
+        <carriers>
+          <Donkey>6</Donkey>
+          <Horse>2</Horse>
+          <Muffalo>1</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Hellas_Hoplite>10</HE_Hellas_Hoplite>
+          <HE_Hellas_Toxotes>6</HE_Hellas_Toxotes>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Hellas_Hoplite>12</HE_Hellas_Hoplite>
+          <HE_Hellas_Ephebe>5</HE_Hellas_Ephebe>
+          <HE_Hellas_Toxotes>8</HE_Hellas_Toxotes>
+          <HE_Hellas_Strategos>3</HE_Hellas_Strategos>
+          <HE_Hellas_Physician>3</HE_Hellas_Physician>
+          <HE_Hellas_Archon>1</HE_Hellas_Archon>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Hellas</defName>
+    <label>Hellenic settlers</label>
+    <description>A small company of Hellenic settlers founding a new city, as their ancestors did.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Hellas_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Medieval</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Hellas_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Hellas</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Hellas</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.18, 0.36, 0.55)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Hellas</defName>
+    <label>Heirs of Hellas</label>
+    <description>Five Hellenic settlers found a new city on a distant shore. They start with the Hellenic heritage, a dory, a toxon, olive oil, herbal medicine and a codex of the league.</description>
+    <scenario>
+      <summary>Five Hellenic settlers found a new city. Hellenic heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Hellas</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Hellas</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Hellas_Dory</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Hellas_Toxon</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>450</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Hellas_OliveOil</thingDef>
+          <count>15</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>135</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>50</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Cloth</thingDef>
+          <count>60</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Hellas_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Donkey</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartHellasDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

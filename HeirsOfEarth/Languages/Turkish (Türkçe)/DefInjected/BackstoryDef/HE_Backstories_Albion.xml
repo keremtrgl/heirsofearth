@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_BS_Fusilier.title>hat fuzilyesi</HE_Albion_BS_Fusilier.title>
+  <HE_Albion_BS_Fusilier.titleShort>fuzilye</HE_Albion_BS_Fusilier.titleShort>
+  <HE_Albion_BS_Fusilier.description>[PAWN_nameDef] on dokuzunda askere yazıldı ve yıllarını kırmızı bir ceketle, toplar tepede gürlerken ön safta doldurup ateş ederek geçirdi.</HE_Albion_BS_Fusilier.description>
+  <HE_Albion_BS_Engineer.title>buhar mühendisi</HE_Albion_BS_Engineer.title>
+  <HE_Albion_BS_Engineer.titleShort>mühendis</HE_Albion_BS_Engineer.titleShort>
+  <HE_Albion_BS_Engineer.description>[PAWN_nameDef] kazanlar, kiriş makineleri ve demir köprüler inşa etti; bir keresinde akşam yemeği sırasında bir pompayı menünün arkasında yeniden tasarladı.</HE_Albion_BS_Engineer.description>
+  <HE_Albion_BS_Miner.title>kömür madencisi</HE_Albion_BS_Miner.title>
+  <HE_Albion_BS_Miner.titleShort>madenci</HE_Albion_BS_Miner.titleShort>
+  <HE_Albion_BS_Miner.description>[PAWN_nameDef] on iki yıl boyunca şafakta ocağa indi ve karanlık çökünce çıktı. İyi kayayı kötüsünden çıkardığı sesten ayırt edebilir.</HE_Albion_BS_Miner.description>
+  <HE_Albion_BS_Surgeon.title>alay cerrahı</HE_Albion_BS_Surgeon.title>
+  <HE_Albion_BS_Surgeon.titleShort>cerrah</HE_Albion_BS_Surgeon.titleShort>
+  <HE_Albion_BS_Surgeon.description>[PAWN_nameDef] alayı bir testere, bir şişe alkol ve her şeyi kaynatmaya dair sağlam bir inançla izledi. Hastaları genellikle yaşadı.</HE_Albion_BS_Surgeon.description>
+  <HE_Albion_BS_Clerk.title>kumpanya kâtibi</HE_Albion_BS_Clerk.title>
+  <HE_Albion_BS_Clerk.titleShort>kâtip</HE_Albion_BS_Clerk.titleShort>
+  <HE_Albion_BS_Clerk.description>[PAWN_nameDef] büyük bir ticaret kumpanyasının defterlerini haftada altmış saat yüksek bir masada tuttu. Bin sayfada kayıp bir kuruşu bulabilir.</HE_Albion_BS_Clerk.description>
+  <HE_Albion_BS_Gamekeeper.title>av bekçisi</HE_Albion_BS_Gamekeeper.title>
+  <HE_Albion_BS_Gamekeeper.titleShort>av bekçisi</HE_Albion_BS_Gamekeeper.titleShort>
+  <HE_Albion_BS_Gamekeeper.description>[PAWN_nameDef] büyük bir malikânenin geyiklerine ve sülünlerine baktı, kaçak avcıları bir tüfek ve bir çift sabırlı köpekle onlardan uzak tuttu.</HE_Albion_BS_Gamekeeper.description>
+  <HE_Albion_BS_Officer.title>süvari subayı</HE_Albion_BS_Officer.title>
+  <HE_Albion_BS_Officer.titleShort>subay</HE_Albion_BS_Officer.titleShort>
+  <HE_Albion_BS_Officer.description>[PAWN_nameDef] ejderha süvarilerinde bir rütbe satın aldı ve ünlü bir tabloya konu olan bir hücuma önderlik etti. Tablodakilerin çok azı hayatta kaldı.</HE_Albion_BS_Officer.description>
+  <HE_Albion_BS_Publican.title>meyhaneci</HE_Albion_BS_Publican.title>
+  <HE_Albion_BS_Publican.titleShort>meyhaneci</HE_Albion_BS_Publican.titleShort>
+  <HE_Albion_BS_Publican.description>[PAWN_nameDef] bir köy meyhanesi işletti, birayı yaptı, kavgaları çözdü ve mahalledeki her sırrı duydu.</HE_Albion_BS_Publican.description>
+  <HE_Albion_BS_MillChild.title>fabrika çocuğu</HE_Albion_BS_MillChild.title>
+  <HE_Albion_BS_MillChild.titleShort>fabrika çocuğu</HE_Albion_BS_MillChild.titleShort>
+  <HE_Albion_BS_MillChild.description>[PAWN_nameDef] sekiz yaşından itibaren bir pamuk fabrikasının takırdayan dokuma tezgâhları arasında çalıştı; makinelerin altına girecek kadar küçüktü.</HE_Albion_BS_MillChild.description>
+  <HE_Albion_BS_Schoolboy.title>yatılı okul öğrencisi</HE_Albion_BS_Schoolboy.title>
+  <HE_Albion_BS_Schoolboy.titleShort>öğrenci</HE_Albion_BS_Schoolboy.titleShort>
+  <HE_Albion_BS_Schoolboy.description>[PAWN_nameDef], Latince, kriket ve yüz ifadesini bozmamayı öğrendiği soğuk bir yatılı okula gönderildi.</HE_Albion_BS_Schoolboy.description>
+  <HE_Albion_BS_Farmhand.title>çiftlik yamağı</HE_Albion_BS_Farmhand.title>
+  <HE_Albion_BS_Farmhand.titleShort>yamak</HE_Albion_BS_Farmhand.titleShort>
+  <HE_Albion_BS_Farmhand.description>[PAWN_nameDef] yağmurlu bir tepe çiftliğinde ahırları temizleyerek ve hasadı toplayarak büyüdü.</HE_Albion_BS_Farmhand.description>
+  <HE_Albion_BS_Mudlark.title>nehir çamur avcısı</HE_Albion_BS_Mudlark.title>
+  <HE_Albion_BS_Mudlark.titleShort>çamur avcısı</HE_Albion_BS_Mudlark.titleShort>
+  <HE_Albion_BS_Mudlark.description>[PAWN_nameDef], satmak için alçak gelgitte nehir çamurunda kömür, çivi ve kayıp bozuk para arayarak büyüdü.</HE_Albion_BS_Mudlark.description>
+</LanguageData>

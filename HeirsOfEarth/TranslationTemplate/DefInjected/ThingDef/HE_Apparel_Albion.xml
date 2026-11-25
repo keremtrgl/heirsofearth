@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Shako.label>shako</HE_Albion_Shako.label>
+  <HE_Albion_Shako.description>A tall stiff cap with a brass plate and a short plume. It makes a soldier look half a head taller.</HE_Albion_Shako.description>
+  <HE_Albion_Redcoat.label>redcoat</HE_Albion_Redcoat.label>
+  <HE_Albion_Redcoat.description>A red wool coat with white facings, brass buttons and crossed white belts. Warm, sturdy and impossible to miss.</HE_Albion_Redcoat.description>
+  <HE_Albion_FrockCoat.label>frock coat</HE_Albion_FrockCoat.label>
+  <HE_Albion_FrockCoat.description>A knee-length black wool coat with tails, silk lapels and brass buttons. Bankers, engineers and members of parliament all wear one.</HE_Albion_FrockCoat.description>
+  <HE_Albion_TopHat.label>top hat</HE_Albion_TopHat.label>
+  <HE_Albion_TopHat.description>A tall hat of black silk plush. It adds a head of height and a great deal of respectability.</HE_Albion_TopHat.description>
+  <HE_Albion_Bicorne.label>bicorne</HE_Albion_Bicorne.label>
+  <HE_Albion_Bicorne.description>A two-cornered officer's hat trimmed with gold lace and the national cockade. Admirals and generals wear it sideways; everyone salutes.</HE_Albion_Bicorne.description>
+  <HE_Albion_RifleGreen.label>rifle green jacket</HE_Albion_RifleGreen.label>
+  <HE_Albion_RifleGreen.description>The dark green of the rifle regiments, with black facings, black buttons and a cross belt. It hides in a hedge; it is meant to.</HE_Albion_RifleGreen.description>
+</LanguageData>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Inti</defName>
+    <label>Inti Empire</label>
+    <description>The Inti Empire, heirs of the colony ship Qhapaq. They farm terraced mountainsides, keep their granaries full, count everything in knotted cords and build roads where others would not dare to walk.</description>
+    <fixedName>Inti Empire</fixedName>
+    <pawnSingular>Inti</pawnSingular>
+    <pawnsPlural>Inti</pawnsPlural>
+    <leaderTitle>Sapa Inti</leaderTitle>
+    <categoryTag>HE_Inti</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Inti_Warrior</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Inti_SapaInti</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Inti</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Inti</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.78, 0.31, 0.16)</li>
+      <li>(0.18, 0.42, 0.28)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Inti_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Inti</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Inti_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Inti_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Inti_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-30~38</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>30</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Inti_Warrior>11</HE_Inti_Warrior>
+          <HE_Inti_Slinger>12</HE_Inti_Slinger>
+          <HE_Inti_Guard>5</HE_Inti_Guard>
+          <HE_Inti_Apu>2</HE_Inti_Apu>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Inti_Warrior>7</HE_Inti_Warrior>
+          <HE_Inti_Counter>6</HE_Inti_Counter>
+          <HE_Inti_Slinger>4</HE_Inti_Slinger>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Inti_Trader>1</HE_Inti_Trader>
+        </traders>
+        <carriers>
+          <Alpaca>7</Alpaca>
+          <Muffalo>1</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Inti_Warrior>8</HE_Inti_Warrior>
+          <HE_Inti_Slinger>8</HE_Inti_Slinger>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Inti_Warrior>10</HE_Inti_Warrior>
+          <HE_Inti_Slinger>10</HE_Inti_Slinger>
+          <HE_Inti_Guard>4</HE_Inti_Guard>
+          <HE_Inti_Apu>2</HE_Inti_Apu>
+          <HE_Inti_Counter>4</HE_Inti_Counter>
+          <HE_Inti_SapaInti>1</HE_Inti_SapaInti>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Inti</defName>
+    <label>Inti settlers</label>
+    <description>A small ayllu of Inti settlers sent to terrace a new valley for the empire.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Inti_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Medieval</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Inti_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Inti</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Inti</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.78, 0.31, 0.16)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Inti</defName>
+    <label>Heirs of Inti</label>
+    <description>Five Inti settlers come to terrace a new valley. They start with the Inti heritage, slings, a star mace, cloth, dried food and a quipu bundle of the empire.</description>
+    <scenario>
+      <summary>Five Inti settlers terrace a new valley. Inti heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Inti</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Inti</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Inti_Sling</thingDef>
+          <count>2</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Inti_Champi</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>450</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>200</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>40</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Cloth</thingDef>
+          <count>80</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Inti_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Alpaca</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartIntiDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

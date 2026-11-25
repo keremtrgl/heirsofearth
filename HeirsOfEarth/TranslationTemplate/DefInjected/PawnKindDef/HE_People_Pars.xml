@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Colonist.label>colonist</HE_Pars_Colonist.label>
+  <HE_Pars_Sparabara.label>sparabara</HE_Pars_Sparabara.label>
+  <HE_Pars_Sparabara.labelPlural>sparabara</HE_Pars_Sparabara.labelPlural>
+  <HE_Pars_Archer.label>Parsian archer</HE_Pars_Archer.label>
+  <HE_Pars_Immortal.label>immortal</HE_Pars_Immortal.label>
+  <HE_Pars_Immortal.labelPlural>immortals</HE_Pars_Immortal.labelPlural>
+  <HE_Pars_Dabir.label>dabir</HE_Pars_Dabir.label>
+  <HE_Pars_Dabir.labelPlural>dabirs</HE_Pars_Dabir.labelPlural>
+  <HE_Pars_Asvaran.label>asvaran</HE_Pars_Asvaran.label>
+  <HE_Pars_Asvaran.labelPlural>asvaran</HE_Pars_Asvaran.labelPlural>
+  <HE_Pars_Satrap.label>satrap</HE_Pars_Satrap.label>
+  <HE_Pars_Bazaari.label>bazaari</HE_Pars_Bazaari.label>
+  <HE_Pars_Bazaari.labelPlural>bazaaris</HE_Pars_Bazaari.labelPlural>
+</LanguageData>

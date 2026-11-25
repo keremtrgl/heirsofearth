@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Sling.label>sling</HE_Inti_Sling.label>
+  <HE_Inti_Sling.description>A braided sling of black and white alpaca wool with a woven cradle. Cheap, light and dangerous in practised hands.</HE_Inti_Sling.description>
+  <HE_Inti_Sling.tools.0.label>limb</HE_Inti_Sling.tools.0.label>
+  <HE_Inti_Champi.label>star mace</HE_Inti_Champi.label>
+  <HE_Inti_Champi.description>A six-pointed bronze star on a hardwood staff. It crushes helmets and quilted armour alike.</HE_Inti_Champi.description>
+  <HE_Inti_Champi.tools.0.label>haft</HE_Inti_Champi.tools.0.label>
+  <HE_Inti_Champi.tools.1.label>head</HE_Inti_Champi.tools.1.label>
+  <HE_Inti_Carbine.label>mountain carbine</HE_Inti_Carbine.label>
+  <HE_Inti_Carbine.description>A short, light carbine with a leather sling and a condor stamped on the lock. Quick to bring up on a narrow ledge.</HE_Inti_Carbine.description>
+  <HE_Inti_Carbine.tools.0.label>stock</HE_Inti_Carbine.tools.0.label>
+  <HE_Inti_Carbine.tools.1.label>barrel</HE_Inti_Carbine.tools.1.label>
+  <HE_Inti_Chuki.label>chuki lance</HE_Inti_Chuki.label>
+  <HE_Inti_Chuki.description>A long hardwood lance with a bronze leaf blade and a tuft of coloured wool. The royal guard holds the line with it on the mountain roads.</HE_Inti_Chuki.description>
+  <HE_Inti_Chuki.tools.0.label>shaft</HE_Inti_Chuki.tools.0.label>
+  <HE_Inti_Chuki.tools.1.label>point</HE_Inti_Chuki.tools.1.label>
+  <HE_Inti_Bolas.label>bolas</HE_Inti_Bolas.label>
+  <HE_Inti_Bolas.description>Three cord-wrapped stones on braided cords. Whirled and thrown, they wrap around the legs of man or llama and knock the wind out of them.</HE_Inti_Bolas.description>
+  <HE_Inti_Bolas.tools.0.label>limb</HE_Inti_Bolas.tools.0.label>
+  <HE_Inti_Arquebus.label>Inti arquebus</HE_Inti_Arquebus.label>
+  <HE_Inti_Arquebus.description>An arquebus bound in gold, its stock inlaid with tocapu squares that name the workshop that made it and the sun it serves. Short and light, it comes up to aim faster than any other powder arm.</HE_Inti_Arquebus.description>
+  <HE_Inti_Arquebus.tools.0.label>stock</HE_Inti_Arquebus.tools.0.label>
+  <HE_Inti_Arquebus.tools.1.label>barrel</HE_Inti_Arquebus.tools.1.label>
+</LanguageData>

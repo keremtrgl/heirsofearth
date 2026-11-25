@@ -1,0 +1,47 @@
+[h1]Heirs of Earth[/h1]
+[i]The old nations live on.[/i]
+
+Centuries ago, nine colony ships left Earth. Their descendants founded nine heir nations on the Rim, each carrying the heritage of a real culture. They trade, study, marry, ally and go to war with each other, and with you. In the end, someone has to call them all to one table.
+
+[h2]The nine nations[/h2]
+[list]
+[*][b]Nova Roma[/b] (eagle) - legions, roads, aqueducts and the Pax Romana.
+[*][b]Yamato Shogunate[/b] (sakura) - samurai, ashigaru, tea houses and bushido.
+[*][b]Jarldom of Nordheim[/b] (raven) - raiders, skalds, longhouses and the sagas.
+[*][b]League of Hellas[/b] (owl) - hoplites, philosophers, theatre and the phalanx.
+[*][b]Celestial Tianxia[/b] (dragon) - crossbows, fire lances, porcelain and the imperial examination.
+[*][b]Commonwealth of Albion[/b] (lion) - muskets, redcoats, steam engines and the factory.
+[*][b]New Kemet[/b] (falcon) - river farmers, scribes, obelisks and the composite bow.
+[*][b]Satrapy of Pars[/b] (griffin) - the royal road, paradise gardens, carpets and the Immortals.
+[*][b]Inti Empire[/b] (condor) - mountain terraces, storehouses, slingers and the knotted quipu.
+[/list]
+
+[h2]What each nation brings[/h2]
+[list]
+[*]Its own research branch with seven or more traditions that change how your colony works (some with a price), up to the industrial age.
+[*]Weapons, armour, apparel, buildings, floors, food and trade goods with hand-made art.
+[*]Its own people: soldiers, specialists, leaders and traders, with their own backstories.
+[*]A start scenario: begin as the heir of that nation.
+[*]A story chain that ends with a lost relic, a hard choice and a legendary artifact, and unlocks a capstone project.
+[/list]
+
+[h2]Living politics[/h2]
+The nations run their own politics in the background. They form alliances, declare wars, capture each other's towns, send envoys, ask for tribute, offer marriages, ask you to mediate, and can collapse. You can stay neutral, pick a side or learn from all of them.
+
+[h2]Trade routes[/h2]
+Pay once to open a road to a friendly nation, and every 15 days a road caravan brings its goods and silver. Roads build relations and teach you the nation's culture, but caravans of nations at war may be raided, and a road closes when its nation turns on you.
+
+[h2]The World Council[/h2]
+Finish three nation stories, or keep three trade roads open for a year, and the nations begin to speak of a council. Build the council hall and call them to the table. Win by [b]unity[/b], when two thirds of the living nations vote for it, or by [b]dominion[/b], when every nation still standing has sworn fealty to you. The game goes on after your victory.
+
+[h2]Start your way[/h2]
+Play as the heir of one nation, or as an independent colony that learns the knowledge of the others through trade, study, alliances and war.
+
+[h2]Details[/h2]
+[list]
+[*]Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony[/url].
+[*]RimWorld 1.6. Core only; no DLC needed.
+[*]English and Turkish.
+[*]Can be added to existing saves: nations that are missing arrive with their own settlements.
+[*]Politics, trade routes and the World Council can each be turned off in the mod settings.
+[/list]

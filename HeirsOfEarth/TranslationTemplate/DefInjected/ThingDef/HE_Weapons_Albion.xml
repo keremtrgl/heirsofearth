@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Sabre.label>cavalry sabre</HE_Albion_Sabre.label>
+  <HE_Albion_Sabre.description>A curved single-edged blade with a steel basket guard. It cuts fast and keeps the hand safe.</HE_Albion_Sabre.description>
+  <HE_Albion_Sabre.tools.0.label>guard</HE_Albion_Sabre.tools.0.label>
+  <HE_Albion_Sabre.tools.1.label>point</HE_Albion_Sabre.tools.1.label>
+  <HE_Albion_Sabre.tools.2.label>edge</HE_Albion_Sabre.tools.2.label>
+  <HE_Albion_Musket.label>flintlock musket</HE_Albion_Musket.label>
+  <HE_Albion_Musket.description>A long smoothbore flintlock. Slow to reload and wild at range, but a heavy lead ball stops anything it hits.</HE_Albion_Musket.description>
+  <HE_Albion_Musket.tools.0.label>stock</HE_Albion_Musket.tools.0.label>
+  <HE_Albion_Musket.tools.1.label>barrel</HE_Albion_Musket.tools.1.label>
+  <HE_Albion_Rifle.label>rifled musket</HE_Albion_Rifle.label>
+  <HE_Albion_Rifle.description>A muzzle-loading rifle with a socket bayonet. It hits a man at three hundred paces and still fights when the powder runs out.</HE_Albion_Rifle.description>
+  <HE_Albion_Rifle.tools.0.label>stock</HE_Albion_Rifle.tools.0.label>
+  <HE_Albion_Rifle.tools.1.label>bayonet</HE_Albion_Rifle.tools.1.label>
+  <HE_Albion_Blunderbuss.label>blunderbuss</HE_Albion_Blunderbuss.label>
+  <HE_Albion_Blunderbuss.description>A short gun with a flared brass mouth, loaded with a handful of shot. Useless across a field, terrible across a room. Coachmen and ship's crews swear by it.</HE_Albion_Blunderbuss.description>
+  <HE_Albion_Blunderbuss.tools.0.label>stock</HE_Albion_Blunderbuss.tools.0.label>
+  <HE_Albion_Blunderbuss.tools.1.label>barrel</HE_Albion_Blunderbuss.tools.1.label>
+  <HE_Albion_FlintlockPistol.label>flintlock pistol</HE_Albion_FlintlockPistol.label>
+  <HE_Albion_FlintlockPistol.description>A holster pistol with a brass butt cap: one shot, then a club. Officers carry a pair of them.</HE_Albion_FlintlockPistol.description>
+  <HE_Albion_FlintlockPistol.tools.0.label>grip</HE_Albion_FlintlockPistol.tools.0.label>
+  <HE_Albion_FlintlockPistol.tools.1.label>barrel</HE_Albion_FlintlockPistol.tools.1.label>
+  <HE_Albion_Breechloader.label>breech-loading rifle</HE_Albion_Breechloader.label>
+  <HE_Albion_Breechloader.description>A falling-block rifle: pull the lever, drop in a cartridge, close it and fire. A trained man fires ten aimed rounds a minute.</HE_Albion_Breechloader.description>
+  <HE_Albion_Breechloader.tools.0.label>stock</HE_Albion_Breechloader.tools.0.label>
+  <HE_Albion_Breechloader.tools.1.label>bayonet</HE_Albion_Breechloader.tools.1.label>
+</LanguageData>

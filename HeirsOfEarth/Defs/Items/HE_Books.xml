@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>HE_BookNamer</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>title-&gt;[heirs_title]</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_BookDescriber</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>desc-&gt;[heirs_desc]</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Roma_Annals</defName>
+    <label>Annals of Nova Roma</label>
+    <description>Year by year and consul by consul, the pontiffs' record of the city: its founding among the ruins, its wars, its laws and the omens that came before each of them.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Roma_Annals</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Roma_Annals</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Roma</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Roma_Annals_Title</titleKey>
+            <descKey>HE_Book_Roma_Annals_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Roma</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Roma_Building</defName>
+    <label>Ten Books on Building</label>
+    <description>An engineer's treatise on roads, aqueducts, baths and the secret of good concrete. Half of it is mathematics; the other half is complaints about lazy masons.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Roma_Building</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Roma_Building</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Roma</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Roma_Building_Title</titleKey>
+            <descKey>HE_Book_Roma_Building_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Roma</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Yamato_BrushBlade</defName>
+    <label>The Brush and the Blade</label>
+    <description>Short essays by a swordsman who was also a calligrapher. He writes that a single stroke of ink and a single cut of the sword are learned in the same way: ten thousand times, then once.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Yamato_BrushBlade</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Yamato_BrushBlade</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Yamato</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Yamato_BrushBlade_Title</titleKey>
+            <descKey>HE_Book_Yamato_BrushBlade_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Yamato</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Yamato_TeaDiary</defName>
+    <label>Diary of the Sakai Tea Masters</label>
+    <description>Three generations of tea masters kept this diary: the guests, the bowls, the flowers in the alcove and what the merchants of Sakai whispered over the kettle.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Yamato_TeaDiary</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Yamato_TeaDiary</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Yamato</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Yamato_TeaDiary_Title</titleKey>
+            <descKey>HE_Book_Yamato_TeaDiary_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Yamato</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Nord_FirstJarl</defName>
+    <label>Saga of the First Jarl</label>
+    <description>How the first jarl led his people over the ice, broke the frost giants' hold on the fjords and was buried with his horn. The skalds still argue over which parts are true.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Nord_FirstJarl</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Nord_FirstJarl</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Nord</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Nord_FirstJarl_Title</titleKey>
+            <descKey>HE_Book_Nord_FirstJarl_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Nord</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Nord_LongWinter</defName>
+    <label>Lay of the Long Winter</label>
+    <description>A long poem about the winter that lasted three years: who shared their food, who did not, and how the halls that stood together were the only ones still standing in spring.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Nord_LongWinter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Nord_LongWinter</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Nord</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Nord_LongWinter_Title</titleKey>
+            <descKey>HE_Book_Nord_LongWinter_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Nord</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Hellas_Dialogues</defName>
+    <label>Dialogues of the Academy</label>
+    <description>A teacher and his pupils argue under an olive tree about justice, courage and whether a city can be governed by its wisest. No one wins, and everyone learns.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Hellas_Dialogues</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Hellas_Dialogues</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Hellas</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Hellas_Dialogues_Title</titleKey>
+            <descKey>HE_Book_Hellas_Dialogues_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Hellas</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Hellas_Elements</defName>
+    <label>Elements of the Geometers</label>
+    <description>From five simple truths, the whole of geometry, proved line by line. Builders, navigators and astronomers of the League all learned from a copy of this book.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Hellas_Elements</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Hellas_Elements</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Hellas</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Hellas_Elements_Title</titleKey>
+            <descKey>HE_Book_Hellas_Elements_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Hellas</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Tianxia_Analects</defName>
+    <label>Analects of the Examination Hall</label>
+    <description>Sayings of the old masters, learned by heart by every candidate for the imperial examinations: on filial duty, on ritual, on the gentleman who is ashamed when his words outrun his deeds.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Tianxia_Analects</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Tianxia_Analects</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Tianxia</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Tianxia_Analects_Title</titleKey>
+            <descKey>HE_Book_Tianxia_Analects_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Tianxia</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Tianxia_Strategy</defName>
+    <label>Thirteen Chapters on Strategy</label>
+    <description>A general's thirteen chapters on war, spies, terrain and fire. Its first lesson is that the best victory is the battle you never had to fight.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Tianxia_Strategy</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Tianxia_Strategy</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Tianxia</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Tianxia_Strategy_Title</titleKey>
+            <descKey>HE_Book_Tianxia_Strategy_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Tianxia</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Albion_Almanac</defName>
+    <label>The Commonwealth Almanac</label>
+    <description>Tides, feast days, crop prices, the phases of the moon and a hundred useful recipes, printed every year since the first presses of the Commonwealth.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Albion_Almanac</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Albion_Almanac</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Albion</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Albion_Almanac_Title</titleKey>
+            <descKey>HE_Book_Albion_Almanac_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Albion</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Albion_Steam</defName>
+    <label>A Treatise on the Steam Engine</label>
+    <description>Cylinders, valves, boilers and the arithmetic of coal, with engraved plates. The author warns, more than once, never to tie down a safety valve.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Albion_Steam</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Albion_Steam</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Albion</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Albion_Steam_Title</titleKey>
+            <descKey>HE_Book_Albion_Steam_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Albion</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Kemet_Instructions</defName>
+    <label>Instructions of the Scribe</label>
+    <description>An old scribe's advice to his son: be patient, keep your accounts honest, speak little at the table of a great man, and never forget that the scribe is the one who does not carry the load.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Kemet_Instructions</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Kemet_Instructions</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Kemet</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Kemet_Instructions_Title</titleKey>
+            <descKey>HE_Book_Kemet_Instructions_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Kemet</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Kemet_SecondSunrise</defName>
+    <label>Book of the Second Sunrise</label>
+    <description>Hymns and calendars of the priests of the sun, written when Kemet rose again from the sand: when to sow, when the river rises, and what to say to the dawn.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Kemet_SecondSunrise</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Kemet_SecondSunrise</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Kemet</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Kemet_SecondSunrise_Title</titleKey>
+            <descKey>HE_Book_Kemet_SecondSunrise_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Kemet</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Pars_Garden</defName>
+    <label>Verses of the Garden</label>
+    <description>Four-line verses about roses, wine, friendship and the shortness of life, written in the margins of a gardener's ledger by a poet who was also a very good gardener.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Pars_Garden</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Pars_Garden</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Pars</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Pars_Garden_Title</titleKey>
+            <descKey>HE_Book_Pars_Garden_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Pars</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Pars_KingsRoad</defName>
+    <label>Book of the King's Road</label>
+    <description>Every post station, well, bridge and caravanserai on the great road of the satraps, with the distances between them and the names of the men who keep them.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Pars_KingsRoad</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Pars_KingsRoad</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Pars</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Pars_KingsRoad_Title</titleKey>
+            <descKey>HE_Book_Pars_KingsRoad_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Pars</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Inti_Harvests</defName>
+    <label>Khipu of the Harvests</label>
+    <description>Knotted cords that count the harvests of a whole valley over fifty years: maize, potatoes, quinoa, the good years and the lean. A knot-keeper can read it like a book.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Inti_Harvests</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Inti_Harvests</uiIconPath>
+    <statBases>
+      <MarketValue>260</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Inti</nation>
+            <perHour>0.6</perHour>
+            <cap>80</cap>
+            <titleKey>HE_Book_Inti_Harvests_Title</titleKey>
+            <descKey>HE_Book_Inti_Harvests_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Inti</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Inti_SunSongs</defName>
+    <label>Khipu of the Sun Songs</label>
+    <description>The songs sung at the feast of the sun, kept in coloured cords. The knots hold the words; the colours hold the melody, or so the knot-keepers say.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Inti_SunSongs</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Inti_SunSongs</uiIconPath>
+    <statBases>
+      <MarketValue>420</MarketValue>
+      <Beauty>2</Beauty>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Inti</nation>
+            <perHour>0.8</perHour>
+            <cap>140</cap>
+            <titleKey>HE_Book_Inti_SunSongs_Title</titleKey>
+            <descKey>HE_Book_Inti_SunSongs_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>HE_Books_Inti</li>
+    </tradeTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Roma_FoundersCodex</defName>
+    <label>The Founders' Codex</label>
+    <description>The law of Nova Roma as its founders wrote it, copied fair by your scribes from the scorched original. Reading it teaches the deepest Roman knowledge, and every page reminds the reader why the city was worth founding.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Roma_FoundersCodex</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Roma_FoundersCodex</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Roma</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Roma_FoundersCodex_Title</titleKey>
+            <descKey>HE_Book_Roma_FoundersCodex_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Yamato_EightIslands</defName>
+    <label>Chronicle of the Eight Islands</label>
+    <description>The history of Yamato from the first emperor to the night of fire, in the hand of the court's last historian, copied by your scribes. It is said that no one who reads it ends their life without honour.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Yamato_EightIslands</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Yamato_EightIslands</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Yamato</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Yamato_EightIslands_Title</titleKey>
+            <descKey>HE_Book_Yamato_EightIslands_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Nord_Edda</defName>
+    <label>The Edda of Nordheim</label>
+    <description>Every saga of Nordheim, from the first jarl to the long winter, gathered from the last skald's memory and cut onto boards by your carvers. A skald who reads it can sing for a year without repeating a verse.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Nord_Edda</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Nord_Edda</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Nord</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Nord_Edda_Title</titleKey>
+            <descKey>HE_Book_Nord_Edda_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Hellas_LongVoyage</defName>
+    <label>The Song of the Long Voyage</label>
+    <description>The lost epic of the League: the voyage of the first colonists across a dead sea to the islands where Hellas was born again. Twenty-four books in hexameter, restored from the library's last scroll.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Hellas_LongVoyage</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Hellas_LongVoyage</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Hellas</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Hellas_LongVoyage_Title</titleKey>
+            <descKey>HE_Book_Hellas_LongVoyage_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Tianxia_HeavenlyCourt</defName>
+    <label>Records of the Heavenly Court</label>
+    <description>The true history of the dynasties, written by a grand historian who would not change a word to please an emperor, and copied by your scribes. Officials of Tianxia still quote it when they disagree with their superiors.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Tianxia_HeavenlyCourt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Tianxia_HeavenlyCourt</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Tianxia</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Tianxia_HeavenlyCourt_Title</titleKey>
+            <descKey>HE_Book_Tianxia_HeavenlyCourt_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Albion_GreatCharter</defName>
+    <label>The Great Charter</label>
+    <description>The charter of the Commonwealth's liberties, copied fair from the original the guilds signed. Every reader learns the rights of a free subject, and the price that was paid for them.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Albion_GreatCharter</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Albion_GreatCharter</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Albion</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Albion_GreatCharter_Title</titleKey>
+            <descKey>HE_Book_Albion_GreatCharter_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Kemet_ComingForth</defName>
+    <label>The Book of Coming Forth</label>
+    <description>The great book of the priests of Kemet: the spells that guide the dead through the night, the names of the gates and the words that open them. Your scribes copied it from the tomb's own scroll.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Kemet_ComingForth</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Kemet_ComingForth</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Kemet</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Kemet_ComingForth_Title</titleKey>
+            <descKey>HE_Book_Kemet_ComingForth_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Pars_BookOfKings</defName>
+    <label>The Book of Kings</label>
+    <description>Fifty thousand couplets on the kings and heroes of Pars, from the first fire to the last satrap, finished by an old poet on the road and copied by your scribes. Every child of Pars knows some of it by heart.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Pars_BookOfKings</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Pars_BookOfKings</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Pars</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Pars_BookOfKings_Title</titleKey>
+            <descKey>HE_Book_Pars_BookOfKings_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+  <ThingDef ParentName="BookBase">
+    <defName>HE_Book_Inti_RoyalKhipu</defName>
+    <label>The Royal Khipu</label>
+    <description>The great census of the empire of the sun: every valley, every storehouse, every family and every song, in a khipu so large it fills a chest. Your knot-keepers retied it from the original.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/Books/HE_Book_Inti_RoyalKhipu</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>0.8</drawSize>
+    </graphicData>
+    <uiIconPath>HeirsOfEarth/Items/Books/HE_Book_Inti_RoyalKhipu</uiIconPath>
+    <statBases>
+      <MarketValue>2500</MarketValue>
+      <Beauty>6</Beauty>
+      <DeteriorationRate>0</DeteriorationRate>
+      <MaxHitPoints>160</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Book">
+        <nameMaker>HE_BookNamer</nameMaker>
+        <descriptionMaker>HE_BookDescriber</descriptionMaker>
+        <ageYearsRange>40~400</ageYearsRange>
+        <openGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Open</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>0.7</drawSize>
+        </openGraphic>
+        <verticalGraphic>
+          <texPath>Things/Item/Book/Novel/Novel_Vertical</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <addTopAltitudeBias>true</addTopAltitudeBias>
+        </verticalGraphic>
+        <doers>
+          <li Class="HeirsOfEarth.BookOutcomeProperties_HeirsKnowledge">
+            <nation>HE_Inti</nation>
+            <perHour>1.5</perHour>
+            <cap>300</cap>
+            <titleKey>HE_Book_Inti_RoyalKhipu_Title</titleKey>
+            <descKey>HE_Book_Inti_RoyalKhipu_Desc</descKey>
+          </li>
+          <li Class="BookOutcomeProperties_JoyFactorModifier" />
+        </doers>
+      </li>
+    </comps>
+    <tradeability>None</tradeability>
+    <thingSetMakerTags Inherit="False">
+    </thingSetMakerTags>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord.label>Jarldom of Nordheim</HE_Nord.label>
+  <HE_Nord.description>The crew of the colony ship Yggdrasil landed on a cold coast and never asked for a warmer one. Their jarls are chosen at the Thing, the assembly of free people, and their longhouses stand in the snow like overturned ships. Hardy hunters and fierce raiders, they keep the old sagas alive around the hearth, and they remember every Roman insult.</HE_Nord.description>
+  <HE_Nord.rulerTitle>Jarl</HE_Nord.rulerTitle>
+  <HE_Nord.adjective>Nordheim</HE_Nord.adjective>
+  <HE_Nord.doctrine.label>strandhogg</HE_Nord.doctrine.label>
+  <HE_Nord.doctrine.description>The shore raid: no siege and no waiting. Raiders cut through walls with axes and run at the enemy, fast, fierce and hard to stop with pain.</HE_Nord.doctrine.description>
+  <HE_Nord.honoraryTitle>sworn friend of the jarls</HE_Nord.honoraryTitle>
+</LanguageData>

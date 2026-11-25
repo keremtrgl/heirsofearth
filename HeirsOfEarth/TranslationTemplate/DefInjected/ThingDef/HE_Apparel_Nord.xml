@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Helm.label>spangenhelm</HE_Nord_Helm.label>
+  <HE_Nord_Helm.description>A rounded iron helmet of riveted plates with a broad nose guard and spectacle-shaped eye guards.</HE_Nord_Helm.description>
+  <HE_Nord_Byrnie.label>byrnie</HE_Nord_Byrnie.label>
+  <HE_Nord_Byrnie.description>A knee-length shirt of riveted iron rings over a padded tunic. Heavy, but it stops most cuts.</HE_Nord_Byrnie.description>
+  <HE_Nord_FurCloak.label>fur cloak</HE_Nord_FurCloak.label>
+  <HE_Nord_FurCloak.description>A heavy cloak of thick pelts fastened with a bronze brooch. Nothing keeps out the northern wind better.</HE_Nord_FurCloak.description>
+  <HE_Nord_Tunic.label>wool tunic</HE_Nord_Tunic.label>
+  <HE_Nord_Tunic.description>A thick woollen tunic with woven bands at the cuffs and hem. Warm, sturdy and itchy.</HE_Nord_Tunic.description>
+  <HE_Nord_Circlet.label>jarl's circlet</HE_Nord_Circlet.label>
+  <HE_Nord_Circlet.description>A plain silver band worked with knotwork and set with one red stone. A jarl needs no grander crown: his word at the Thing is enough.</HE_Nord_Circlet.description>
+  <HE_Nord_FieldCoat.label>Nordic greatcoat</HE_Nord_FieldCoat.label>
+  <HE_Nord_FieldCoat.description>A heavy grey-blue greatcoat with a fur collar and two rows of pewter buttons. Made for winters that do not end.</HE_Nord_FieldCoat.description>
+</LanguageData>

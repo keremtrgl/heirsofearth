@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_SettingsKnowledgeGain>Kültür Bilgisi kazanımı: {0}</HE_SettingsKnowledgeGain>
+  <HE_SettingsResearchCost>Miras araştırması maliyeti: {0} (oyunu yeniden başlatmak gerekir)</HE_SettingsResearchCost>
+  <HE_SettingsPolitics>Yaşayan dünya siyaseti</HE_SettingsPolitics>
+  <HE_SettingsPoliticsInterval>Siyaset {0} günde bir güncellenir</HE_SettingsPoliticsInterval>
+  <HE_SettingsInterStateWar>Devletler birbirine savaş açabilir</HE_SettingsInterStateWar>
+  <HE_SettingsRaidStrength>Devlet baskınları ve hikâye savaşlarının gücü: {0}</HE_SettingsRaidStrength>
+  <HE_SettingsTraditions>{0} gelenekleri</HE_SettingsTraditions>
+  <HE_SettingsPatches>Oyun kuralı değişiklikleri (Harmony)</HE_SettingsPatches>
+  <HE_PatchOn>etkin</HE_PatchOn>
+  <HE_PatchOff>kapalı</HE_PatchOff>
+  <HE_NeedKnowledge>{0} {1} bilgisi gerekir (sende {2} var).</HE_NeedKnowledge>
+  <HE_NeedChain>Önce "{0}" hikâyesini bitir.</HE_NeedChain>
+  <HE_StudyMessage>{0} eşyayı inceledi ve {1} {2} bilgisi kazandı.</HE_StudyMessage>
+  <HE_ChronicleStudy>{0} eserlerini incelemek koloniye {1} bilgi kazandırdı.</HE_ChronicleStudy>
+  <HE_ChronicleTradition>Koloni yeni bir gelenek benimsedi: {0}.</HE_ChronicleTradition>
+  <HE_ChronicleHeritage>Koloni {0} mirasını sahiplendi.</HE_ChronicleHeritage>
+  <HE_ChronicleIndependent>Koloni tek bir devletin mirasçısı olmadan kendi yolunu seçti.</HE_ChronicleIndependent>
+  <HE_TraditionStat>Gelenek: {0}</HE_TraditionStat>
+  <HE_CaravanTradition>Gelenekler: {0} daha hızlı yolculuk</HE_CaravanTradition>
+  <HE_EffectQuality>{0} ihtimalle bir kalite seviyesi yüksek üretim</HE_EffectQuality>
+  <HE_EffectCaravan>kervanlar {0} daha hızlı</HE_EffectCaravan>
+  <HE_EffectStudy>incelemeden {0} fazla bilgi</HE_EffectStudy>
+  <HE_ScopeBuildings>tezgâhlar</HE_ScopeBuildings>
+  <HE_TabHeritage>Miras</HE_TabHeritage>
+  <HE_TabKnowledge>Kültür Bilgisi</HE_TabKnowledge>
+  <HE_TabDiplomacy>Diplomasi</HE_TabDiplomacy>
+  <HE_TabTraditions>Gelenekler</HE_TabTraditions>
+  <HE_TabStories>Hikâyeler</HE_TabStories>
+  <HE_TabChronicle>Kronik</HE_TabChronicle>
+  <HE_HeritageIntro>Yüzyıllar önce Dünya'nın koloni gemileri kenar dünyalara dağıldı. Torunları, eski kültürlerin mirasını hâlâ taşıyan devletler kurdu. Kolonin bunlardan birinin mirasçısı olabilir ya da kendi başına durabilir.</HE_HeritageIntro>
+  <HE_HeritageNotChosen>Kolonin henüz bir miras seçmedi. Bir kez seçebilirsin: mirasın araştırma dalı Kültür Bilgisi istemez ve o devlet seninle dost başlar.</HE_HeritageNotChosen>
+  <HE_HeritageIndependent>Tek bir devletin mirasçısı olmayan bağımsız bir koloni.</HE_HeritageIndependent>
+  <HE_ChooseHeritage>Mirasını seç</HE_ChooseHeritage>
+  <HE_ChooseHeritageWarn>Bu seçim bir kez yapılır ve sonradan değiştirilemez.</HE_ChooseHeritageWarn>
+  <HE_ChooseIndependent>Bağımsız kal (her kültürden +15 bilgi)</HE_ChooseIndependent>
+  <HE_Choose>Seç</HE_Choose>
+  <HE_RulerTitle>Yönetici: {0}</HE_RulerTitle>
+  <HE_YourHeritage>mirasın</HE_YourHeritage>
+  <HE_KnowledgeIntro>Başka bir devletin dalındaki araştırma, o devletin Kültür Bilgisini ister. Kendi mirasın istemez.</HE_KnowledgeIntro>
+  <HE_KnowledgeNext>{0} / {1} ({2} için)</HE_KnowledgeNext>
+  <HE_KnowledgeAll>{0}, tüm projeler açık</HE_KnowledgeAll>
+  <HE_KnowledgeSources>Bilgi kazanma yolları: devletin mallarını Kültür Masası'nda incele, o kültürden gelen kolonistlere araştırma yaptır, dalındaki projeleri bitir, müttefiklerden ve hikâyelerden arşiv al, yerleşimlerinden arşiv yağmala.</HE_KnowledgeSources>
+  <HE_DiplomacyIntro>Mirasçı devletlerin seninle ve birbirleriyle ilişkisi. İlişkiler her ay değişir; devletler savaşır, barışır ve ittifak kurar.</HE_DiplomacyIntro>
+  <HE_DiplomacyOff>Dünya siyaseti mod ayarlarından kapatılmış.</HE_DiplomacyOff>
+  <HE_NoNations>Bu dünyada mirasçı devlet yok.</HE_NoNations>
+  <HE_You>Sen</HE_You>
+  <HE_AtWar>savaş</HE_AtWar>
+  <HE_Allied>müttefik</HE_Allied>
+  <HE_TraditionsIntro>Gelenekler, kolonin için oyunun kurallarını değiştiren araştırmalardır.</HE_TraditionsIntro>
+  <HE_StoriesIntro>Her devletin bir hikâyesi vardır. Kolonin o kültürü yeterince tanıdığında, mirasınsa hemen başlar.</HE_StoriesIntro>
+  <HE_ChainLocked>{0} {1} bilgisinde başlar.</HE_ChainLocked>
+  <HE_ChainDone>Tamamlandı.</HE_ChainDone>
+  <HE_ChainGoal>Adım {0}/{1}: {2}</HE_ChainGoal>
+  <HE_Deliver>Teslim et</HE_Deliver>
+  <HE_ChainStartedLabel>Hikâye: {0}</HE_ChainStartedLabel>
+  <HE_ChainStartedChronicle>"{0}" hikâyesi başladı.</HE_ChainStartedChronicle>
+  <HE_ChainStepLabel>{0}: sonraki adım</HE_ChainStepLabel>
+  <HE_ChainDoneLabel>{0} tamamlandı</HE_ChainDoneLabel>
+  <HE_ChainDoneChronicle>"{0}" hikâyesi sona erdi.</HE_ChainDoneChronicle>
+  <HE_ChronicleIntro>Koloninin ve mirasçı devletlerin tarihi.</HE_ChronicleIntro>
+  <HE_SiteEnter>{0} bölgesine gir</HE_SiteEnter>
+  <HE_SiteEntering>{0} bölgesine giriliyor.</HE_SiteEntering>
+  <HE_ScenHeritage>Miras: {0}.</HE_ScenHeritage>
+  <HE_ScenIndependent>Miras: bağımsız koloni.</HE_ScenIndependent>
+  <HE_WarLabel>Savaş: {0} ve {1}</HE_WarLabel>
+  <HE_WarText>{0}, {1} devletine savaş açtı. Orduları çarpışacak, yerleşimler el değiştirebilir.</HE_WarText>
+  <HE_PeaceLabel>Barış: {0} ve {1}</HE_PeaceLabel>
+  <HE_PeaceText>Uzun bir savaşın ardından {0} ile {1} barış imzaladı.</HE_PeaceText>
+  <HE_AllianceText>{0} ile {1} ittifak kurdu.</HE_AllianceText>
+  <HE_AllianceEndText>{0} ile {1} arasındaki ittifak sona erdi.</HE_AllianceEndText>
+  <HE_CaptureLabel>{0} düştü</HE_CaptureLabel>
+  <HE_CaptureText>{0}, {1} yerleşimini {2} devletinden aldı.</HE_CaptureText>
+  <HE_CollapseLabel>{0} çöktü</HE_CollapseLabel>
+  <HE_CollapseText>Son yerleşimini de kaybeden {0} çöktü. Halkı dünyaya dağılıyor.</HE_CollapseText>
+  <HE_GiftLabel>{0} devletinden hediye</HE_GiftLabel>
+  <HE_GiftText>{0} devletindeki müttefiklerin sana bir hediye gönderdi: {1}. Yollarını daha iyi öğrenmek için onu Kültür Masası'nda incele.</HE_GiftText>
+  <HE_NotEnoughSilver>{0} gümüş gerekir.</HE_NotEnoughSilver>
+  <HE_SettingsAddMissing>Yeni devletleri mevcut kayıtlara ekle</HE_SettingsAddMissing>
+  <HE_SettingsAddMissingTip>Eski bir sürümle yapılmış bir kayıt açıldığında, o zaman olmayan devletler kendi yerleşimleriyle dünyaya gelir.</HE_SettingsAddMissingTip>
+  <HE_NationArrivedLabel>Yeni devletler geldi</HE_NationArrivedLabel>
+  <HE_NationArrivedLetter>Eski dünyanın gemileri sonunda bu gezegeni buldu. Yeni mirasçı devletler ilk yerleşimlerini kurdu: {0}.
+
+Sana karşı tarafsız başlıyorlar. Araştırma dalları, tüccarları ve hikâyeleri artık açık.</HE_NationArrivedLetter>
+  <HE_NationArrivedText>{0} bu dünyada ilk yerleşimlerini kurdu.</HE_NationArrivedText>
+  <HE_EnvoyLabel>{0} elçisi</HE_EnvoyLabel>
+  <HE_EnvoyText>{0} elçisi {2} gümüş değerinde hediyeler ve {3} tarafından yazılmış bir mektupla geldi. Halklarınız arasında dostluk öneriyor.</HE_EnvoyText>
+  <HE_EnvoyAccept>Hediyeleri ve dostluğu kabul et</HE_EnvoyAccept>
+  <HE_EnvoyRefuse>Elçiyi geri gönder</HE_EnvoyRefuse>
+  <HE_TributeLabel>{0} haraç istiyor</HE_TributeLabel>
+  <HE_TributeText>{0} {3} senden {2} gümüş haraç istiyor. Reddedersen ilişkiler bozulur ve onların parasıyla tutulmuş akıncılar iki gün içinde gelir.</HE_TributeText>
+  <HE_TributeAccept>{0} gümüş öde</HE_TributeAccept>
+  <HE_TributeRefuse>Reddet</HE_TributeRefuse>
+  <HE_WarCallLabel>{0} seni savaşa çağırıyor</HE_WarCallLabel>
+  <HE_WarCallText>{0}, {1} ile savaşta ve senden yanında durmanı istiyor. Katılırsan {1} sana düşman olur, {0} ise sana bilgisinden iki arşiv gönderir.</HE_WarCallText>
+  <HE_WarCallAccept>Savaşa katıl</HE_WarCallAccept>
+  <HE_WarCallRefuse>Uzak dur</HE_WarCallRefuse>
+  <HE_MarriageLabel>{0} evlilik teklifi</HE_MarriageLabel>
+  <HE_MarriageText>Halklarınızı birbirine bağlamak için {0} {3} kendi halkından birinin kolonine katılmasını ve sizden biriyle evlenmesini öneriyor.</HE_MarriageText>
+  <HE_MarriageAccept>Onu kabul et</HE_MarriageAccept>
+  <HE_MarriageRefuse>Kibarca reddet</HE_MarriageRefuse>
+  <HE_MarriageChronicle>{1} halkından {0}, evlilik ittifakıyla koloniye katıldı.</HE_MarriageChronicle>
+  <HE_MediationLabel>{0} ile {1} arasında arabuluculuk</HE_MediationLabel>
+  <HE_MediationText>{0} ile {1} savaşta. İkisi de arabuluculuğunu kabul edecek kadar sana güveniyor. Hediye ve yol masrafı olarak {2} gümüşle elçilerin onları masaya oturtabilir.</HE_MediationText>
+  <HE_MediationAccept>{0} gümüş öde ve arabuluculuk yap</HE_MediationAccept>
+  <HE_MediationRefuse>Bırak savaşsınlar</HE_MediationRefuse>
+  <HE_HeritageReminderLabel>Mirasını seç</HE_HeritageReminderLabel>
+  <HE_HeritageReminderText>Kolonin henüz hangi eski ulusun soyundan geldiğini seçmedi.
+
+Ekranın altındaki Mirasçılar sekmesini aç ve bir miras seç: o ulusun araştırmaları Kültür Bilgisi gerektirmez, halkı sana dostça başlar ve gelenekleri baştan senindir. İstersen bağımsız kalıp her kültürden biraz öğrenebilirsin.
+
+Bu seçim yalnızca bir kez yapılabilir.</HE_HeritageReminderText>
+  <HE_StartIndependentDialog>Kampının üzerinde hiçbir sancak dalgalanmıyor; hiçbir senato, şogun ya da jarl senden haraç beklemiyor. Eski uluslar seni kimin kanını taşıdığına göre değil, ne yaptığına göre yargılayacak. Hepsinden öğren, hiçbirine borçlanma.</HE_StartIndependentDialog>
+  <HE_StartRomaDialog>Sancak dikildi. Senatodan ve memleketin taş yollarından uzakta, sen ve yoldaşların Nova Roma'ya layık bir colonia kuracaksınız. Hukuku hatırla, yolları düz tut ve kartalın düşmesine asla izin verme.</HE_StartRomaDialog>
+  <HE_StartYamatoDialog>Klan sana kutsamasını ve biraz pirinç verdi. Memleketin kale kasabalarından uzakta şogunun gurur duyacağı bir hane kuracaksın. Sabırla çalış; kılıcını keskin, sözünü daha da keskin tut.</HE_StartYamatoDialog>
+  <HE_StartNordDialog>Tekne kıyıya çekildi ve tanrılar izliyor. Bir uzun ev kur, ocağı yanık tut ve anlatmaya değer bir destan yaz. Romalılar gelirse, onlara kuzeyin nasıl cevap verdiğini göster.</HE_StartNordDialog>
+  <HE_StartHellasDialog>Kâhin konuştu, işaretler iyiydi ve meclis seni göndermeye karar verdi. Şimdi birlikten uzakta adına layık bir şehir kurmalısın. Onu akılla inşa et, birlikte savun ve geri kalan her şeyi tartış.</HE_StartHellasDialog>
+  <HE_StartTianxiaDialog>Ferman mühürlendi: bu uzak toprağa imparator adına yerleşeceksin. Surlardan önce ambarlar, saraylardan önce okullar kur; göğün buyruğu seninle olacak.</HE_StartTianxiaDialog>
+  <HE_StartAlbionDialog>Berat imzalandı ve kumpanya yolculuğunun parasını ödedi. Burada kazılacak kömür, dövülecek demir ve kazanılacak bir servet var; yeter ki barutunu kuru, hesaplarını düzgün tut.</HE_StartAlbionDialog>
+  <HE_StartKemetDialog>Taşkın ölçüldü, kâtipler adını tapu kütüğüne yazdı ve firavun sana nehrin yukarısında bir malikâne bağışladı. Boş, uzak ve senin. Kanalları kaz, taştan inşa et ve her şeyi yazıya geçir.</HE_StartKemetDialog>
+  <HE_StartParsDialog>Satrap fermanını mühürledi: yolun bittiği yerde bir menzil kur, dinç atlar besle ve hiçbir ulağı bekletme. Yol sana gelecek. Geldiğinde bir bahçe bulmasını sağla.</HE_StartParsDialog>
+  <HE_StartIntiDialog>Düğüm bekçileri adlarınızı yeni bir vadinin iplerine bağladı. Dik, soğuk ve boş. Yamaçları teraslara böl, ilk kıştan önce bir ambar doldur ve her şeyin sayısını tut.</HE_StartIntiDialog>
+  <HE_ArtifactCooldown>Dinleniyor: {0} sonra yeniden hazır.</HE_ArtifactCooldown>
+  <HE_ArtifactReady>Kullanıma hazır.</HE_ArtifactReady>
+  <HE_ArtifactUsed>{0}, {1} kullandı: {2} müttefik coştu, {3} düşman kaçtı.</HE_ArtifactUsed>
+  <HE_TabRoutes>Ticaret yolları</HE_TabRoutes>
+  <HE_RoutesIntro>Seni seven bir devlete (ilişki {0} ve üstü) bir kez gümüş ödeyerek ticaret yolu aç. Her {1} günde bir yol kervanı o devletin mallarını ve gümüşünü getirir; değeri yolun bedelinin {2} kadarıdır. Her sefer ilişkiyi biraz artırır ve o kültürden bir şeyler öğretir. Savaştaki bir devletin kervanı yolda yağmalanabilir. Devlet sana düşman olursa ya da çökerse yol kapanır.</HE_RoutesIntro>
+  <HE_RoutesOpen>Açık yollar: {0} / {1}</HE_RoutesOpen>
+  <HE_RoutesNone>Henüz hiç ticaret yolun yok.</HE_RoutesNone>
+  <HE_RoutesAvailable>Devletler</HE_RoutesAvailable>
+  <HE_RouteInfo>sonraki kervan {0} gün sonra · {1} gümüş değerinde · {2} sefer, {3} yağma</HE_RouteInfo>
+  <HE_RouteWarRisk>Savaşta: kervanlar yağmalanabilir.</HE_RouteWarRisk>
+  <HE_RouteOffer>bedel {0} gümüş · {1} kare uzakta · ilişki {2}</HE_RouteOffer>
+  <HE_RouteOpen>Yolu aç</HE_RouteOpen>
+  <HE_RouteClose>Yolu kapat</HE_RouteClose>
+  <HE_RouteCloseConfirm>{0} ile ticaret yolu kapatılsın mı? Ödediğin gümüş geri verilmez.</HE_RouteCloseConfirm>
+  <HE_RouteDisabled>Ticaret yolları mod ayarlarında kapalı.</HE_RouteDisabled>
+  <HE_RouteNoNation>bu devlet artık yok</HE_RouteNoNation>
+  <HE_RouteAlreadyOpen>zaten açık</HE_RouteAlreadyOpen>
+  <HE_RouteHostile>sana düşman</HE_RouteHostile>
+  <HE_RouteGoodwill>{0} ilişki gerekir</HE_RouteGoodwill>
+  <HE_RouteNoSettlement>ticaret yapılacak yerleşim yok</HE_RouteNoSettlement>
+  <HE_RouteFull>en fazla {0} yol</HE_RouteFull>
+  <HE_RouteOpenedChronicle>{0} ile {1} gümüşe bir ticaret yolu açıldı.</HE_RouteOpenedChronicle>
+  <HE_RouteTripLabel>{0} yol kervanı</HE_RouteTripLabel>
+  <HE_RouteTripText>{0} yol kervanı geldi ve yükünü ticaret noktanın yanına indirdi: {1}.
+
+Onlarla ilişkin {2} arttı. Sonraki kervan {3} gün sonra gelecek.</HE_RouteTripText>
+  <HE_RouteTripChronicle>{0} yolundan {1}. kervan geldi.</HE_RouteTripChronicle>
+  <HE_RouteRaidedLabel>{0} yol kervanı yağmalandı</HE_RouteRaidedLabel>
+  <HE_RouteRaidedText>{0} savaşta ve yağmacılar yol kervanına sana ulaşmadan saldırdı. Bu sefer hiçbir şey gelmiyor. Yol açık kalıyor.</HE_RouteRaidedText>
+  <HE_RouteClosedLabel>{0} yolu kapandı</HE_RouteClosedLabel>
+  <HE_RouteClosedHostile>{0} sana düşman oldu ve ticaret yolunu kapattı.</HE_RouteClosedHostile>
+  <HE_RouteClosedCollapse>{0} çöktü. Ticaret yolu sessizliğe gömüldü.</HE_RouteClosedCollapse>
+  <HE_RouteClosedByPlayer>{0} ile ticaret yolunu kapattın.</HE_RouteClosedByPlayer>
+  <HE_SettingsTradeRoutes>Ticaret yolları</HE_SettingsTradeRoutes>
+  <HE_SettingsTradeRoutesTip>Mirasçılar sekmesinden dost devletlere ticaret yolu açmanı sağlar. Kapalıyken açık yollar kervan göndermez.</HE_SettingsTradeRoutesTip>
+  <HE_TabCouncil>Dünya Konseyi</HE_TabCouncil>
+  <HE_CouncilIntro>Mirasçıların son hedefi. Konsey, {0} devlet hikâyesini bitirince ya da {1} ticaret yolunu tam bir yıl açık tutunca açılır. Sonra Dünya Konseyi'ni araştır ve salonunu inşa et. Her {3} günde bir toplantı çağırabilirsin.
+
+Birlik: yaşayan devletlerin üçte ikisi evet der. Bir devlet müttefikinse, sana biat ettiyse ya da seni seviyorsa ({2} ilişki ve üstü) evet der; ama savaşta olduğu bir devlet evet diyorsa hayır der.
+Hükümranlık: yaşayan her devlet sana biat etmiştir. Sana düşman olup yerleşimlerinin yarısını kaybeden bir devlet biat teklif eder; tamamen yok ettiğin bir devlet çöker.
+
+Zaferden sonra oyun devam eder.</HE_CouncilIntro>
+  <HE_CouncilDisabled>Dünya Konseyi mod ayarlarında kapalı.</HE_CouncilDisabled>
+  <HE_CouncilAlreadyWon>konsey kararını çoktan verdi</HE_CouncilAlreadyWon>
+  <HE_CouncilLocked>konsey henüz açılmadı</HE_CouncilLocked>
+  <HE_CouncilNeedHall>önce konsey salonunu inşa et</HE_CouncilNeedHall>
+  <HE_CouncilWait>sonraki toplantı {0} gün sonra yapılabilir</HE_CouncilWait>
+  <HE_CouncilProgress>Konseye giden yol</HE_CouncilProgress>
+  <HE_CouncilStepUnlock>Konsey açıldı: {0}/{1} hikâye bitti ya da {2}/{3} ticaret yolu bir yıldır açık</HE_CouncilStepUnlock>
+  <HE_CouncilStepHall>Konsey salonu inşa edildi (önce Dünya Konseyi'ni araştır)</HE_CouncilStepHall>
+  <HE_CouncilCall>Dünya Konseyi'ni topla</HE_CouncilCall>
+  <HE_CouncilVotes>Devletler bugün nasıl oy verirdi</HE_CouncilVotes>
+  <HE_CouncilSettlements>{0} yerleşim</HE_CouncilSettlements>
+  <HE_CouncilTally>Evet oyu: {0} / {1}. Birlik için {2} gerekir.</HE_CouncilTally>
+  <HE_CouncilDominion>Sana biat eden devletler: {0} / {1}. Hükümranlık için hepsi gerekir.</HE_CouncilDominion>
+  <HE_CouncilWonNote>Dünya'nın mirasçıları cevabını buldu. Kolonin yaşamaya devam ediyor; dünya bunu unutmayacak.</HE_CouncilWonNote>
+  <HE_VoteYes>Evet</HE_VoteYes>
+  <HE_VoteNo>Hayır</HE_VoteNo>
+  <HE_VoteGone>artık yok</HE_VoteGone>
+  <HE_VoteVassal>sana biat etti</HE_VoteVassal>
+  <HE_VoteAlly>müttefikin</HE_VoteAlly>
+  <HE_VoteHostile>sana düşman</HE_VoteHostile>
+  <HE_VoteGoodwill>{0} ilişki gerekir, şu an {1}</HE_VoteGoodwill>
+  <HE_VoteEnemyYes>savaştaki düşmanı {0} ile aynı masaya oturmaz</HE_VoteEnemyYes>
+  <HE_VoteFriend>sana güveniyor (ilişki {0})</HE_VoteFriend>
+  <HE_NeedCouncil>Dünya Konseyi, {0} devlet hikâyesi bitince ya da {1} ticaret yolu bir yıl açık kalınca açılır.</HE_NeedCouncil>
+  <HE_CouncilUnlockedLabel>Dünya Konseyi toplanabilir</HE_CouncilUnlockedLabel>
+  <HE_CouncilUnlockedText>Kolonin adı bu dünyanın bütün yollarında duyuldu. Mirasçı devletler artık hepsinin söz sahibi olacağı bir konseyden söz ediyor ve birçoğu onu senin toplamanı bekliyor.
+
+Dünya Konseyi'ni araştır, konsey salonunu inşa et ve toplantıyı Mirasçılar sekmesinden çağır. Mirasçıları oylamayla birleştirebilir ya da sana biat ettirebilirsin.</HE_CouncilUnlockedText>
+  <HE_CouncilUnlockedChronicle>Devletler bir Dünya Konseyi'nden söz etmeye başladı.</HE_CouncilUnlockedChronicle>
+  <HE_CouncilFailedLabel>Konsey anlaşamadı</HE_CouncilFailedLabel>
+  <HE_CouncilFailedText>Elçiler büyük masanın çevresine oturdu, gece geç saatlere kadar tartıştı ve oy verdi. {1} devletten {0} tanesi evet dedi; birlik için {2} gerekir.
+
+{3}
+
+Konseyi {4} gün sonra yeniden toplayabilirsin.</HE_CouncilFailedText>
+  <HE_CouncilFailedChronicle>Dünya Konseyi toplandı: {1} devletten {0} tanesi birliğe evet dedi, yetmedi.</HE_CouncilFailedChronicle>
+  <HE_VictoryUnityLabel>Zafer: mirasçılar birleşti</HE_VictoryUnityLabel>
+  <HE_VictoryUnityText>Elçiler birer birer ayağa kalktı ve sancaklarını büyük masaya bıraktı. Gemiler Dünya'dan kalkalı yüzyıllar oldu; mirasçıları sonunda birlikte durmayı seçti ve onları bu masaya getiren {0} oldu.
+
+Eski kavgalar bitmedi, ama bugünden sonra savaş alanında değil konseyde çözülecek. Kolonin yaşamaya devam ediyor ve dünya onun hikâyesini uzun süre anlatacak.</HE_VictoryUnityText>
+  <HE_VictoryUnityChronicle>Dünya Konseyi birliğe oy verdi. Dünya'nın mirasçıları artık birlikte.</HE_VictoryUnityChronicle>
+  <HE_VictoryDominionLabel>Zafer: mirasçılar üzerinde hükümranlık</HE_VictoryDominionLabel>
+  <HE_VictoryDominionText>Ayakta kalan her devlet diz çöktü. Elçileri konsey salonuna oy vermeye değil, biat etmeye geldi; mirasçıların sancakları artık {0} sancağının altında asılı.
+
+Bu zafer kolay kazanılmadı ve bazıları bunu unutmayacak. Ama artık bu dünyada kimin önde olduğundan kimse şüphe etmiyor. Kolonin yaşamaya devam ediyor.</HE_VictoryDominionText>
+  <HE_VictoryDominionChronicle>Yaşayan her devlet biat etti. Dünya Konseyi tek bir güce boyun eğdi.</HE_VictoryDominionChronicle>
+  <HE_FealtyLabel>{0} biat teklif ediyor</HE_FealtyLabel>
+  <HE_FealtyText>{0} savaşlarında {2} yerleşiminden {1} tanesini kaybetti ve hâlâ seninle savaşta. {3} beyaz sancakla bir elçi gönderiyor: sana biat edecek, savaşı bitirecek ve her {5} günde {4} gümüş haraç ödeyecekler.
+
+Sana biat eden bir devlet mirasçılar üzerindeki hükümranlığa sayılır ve Dünya Konseyi'nde hep evet der. Bir gün yeniden düşman olursa yemin bozulur.</HE_FealtyText>
+  <HE_FealtyAccept>Biatlarını kabul et</HE_FealtyAccept>
+  <HE_FealtyRefuse>Reddet: savaş sürsün</HE_FealtyRefuse>
+  <HE_FealtyAcceptedChronicle>{0} kolonine biat etti.</HE_FealtyAcceptedChronicle>
+  <HE_FealtyRefusedChronicle>{0} devletinin biatını reddettin. Savaş sürüyor.</HE_FealtyRefusedChronicle>
+  <HE_FealtyBrokenLabel>{0} yeminini bozdu</HE_FealtyBrokenLabel>
+  <HE_FealtyBrokenText>{0} sana düşman oldu ve biat yeminini bozdu. Artık haraç ödemiyor.</HE_FealtyBrokenText>
+  <HE_TributeArrivesLabel>Biat edenlerden haraç</HE_TributeArrivesLabel>
+  <HE_TributeArrivesText>Sana biat eden devletler haraçlarını gönderdi: {0} gümüş ({1}).</HE_TributeArrivesText>
+  <HE_SettingsCouncil>Dünya Konseyi (oyun sonu)</HE_SettingsCouncil>
+  <HE_SettingsCouncilTip>Dünya Konseyi, biat teklifleri ve iki zafer yolu. Kapalıyken hiçbiri olmaz.</HE_SettingsCouncilTip>
+  <HE_TabResearch>Araştırmalar</HE_TabResearch>
+  <HE_AtlasIntro>Mirasçı devletlerin tüm araştırmaları tek listede. Devlete, çağa ve duruma göre süz, bir projenin neden kilitli olduğunu gör ve tek tıkla başlat. Açıklama ve etkiler için fareyi bir satırın üstüne getir.</HE_AtlasIntro>
+  <HE_AtlasAllNations>Tüm devletler</HE_AtlasAllNations>
+  <HE_AtlasCommon>Ortak (devletsiz)</HE_AtlasCommon>
+  <HE_AtlasAllAges>Tüm çağlar</HE_AtlasAllAges>
+  <HE_AtlasStateAll>Hepsi</HE_AtlasStateAll>
+  <HE_AtlasStateAvailable>Başlatılabilir</HE_AtlasStateAvailable>
+  <HE_AtlasStateLocked>Kilitli</HE_AtlasStateLocked>
+  <HE_AtlasStateFinished>Bitti</HE_AtlasStateFinished>
+  <HE_AtlasCount>{0} proje, {1} tanesi bitti</HE_AtlasCount>
+  <HE_AtlasEmpty>Bu filtrelere uyan proje yok.</HE_AtlasEmpty>
+  <HE_AtlasTradition>gelenek</HE_AtlasTradition>
+  <HE_AtlasKnowledge>{0} bilgi gerekir</HE_AtlasKnowledge>
+  <HE_AtlasDone>Bitti</HE_AtlasDone>
+  <HE_AtlasCurrent>Araştırılıyor</HE_AtlasCurrent>
+  <HE_AtlasResearch>Araştır</HE_AtlasResearch>
+  <HE_AtlasNeeds>Gerekenler: {0}</HE_AtlasNeeds>
+  <HE_AtlasNeedsBench>Gerekli yapı: {0}</HE_AtlasNeedsBench>
+  <HE_AtlasLocked>Henüz açılmadı</HE_AtlasLocked>
+  <HE_TabEncyclopedia>Ansiklopedi</HE_TabEncyclopedia>
+  <HE_EncyclopediaIntro>Her mirasçı devlet hakkında her şey tek sayfada: tarihi, komşuları, binaları, silahları, kıyafetleri, yemekleri, gelenekleri ve hikâyeleri. Tam bilgi kartını açmak için herhangi bir öğeye tıkla.</HE_EncyclopediaIntro>
+  <HE_EncyclopediaGone>bu devlet yıkıldı</HE_EncyclopediaGone>
+  <HE_EncyclopediaRelations>seninle ilişkisi {0} ({1})</HE_EncyclopediaRelations>
+  <HE_EncyclopediaProgress>Bilgin: {0} · araştırma {1} / {2} bitti {3}</HE_EncyclopediaProgress>
+  <HE_EncyclopediaNeighbours>Dostlar ve rakipler</HE_EncyclopediaNeighbours>
+  <HE_EncyclopediaFriends>Doğal dostları: {0}
+Eski rakipleri: {1}</HE_EncyclopediaFriends>
+  <HE_EncyclopediaHowTo>Onlardan nasıl öğrenilir: kervanlarıyla ve kasabalarıyla ticaret yap, bir ticaret yolu aç, {0} mallarını kültür masasında incele, {0} kolonistleri öğretmen olarak al, elçilerine cevap ver ve bilgin yeterince yükselince hikâyelerini takip et. Onlara yardım edersen dostları seni daha çok sever; rakipleri sevmez.</HE_EncyclopediaHowTo>
+  <HE_EncyclopediaBuilding>Binalar ({0})</HE_EncyclopediaBuilding>
+  <HE_EncyclopediaWeapon>Silahlar ({0})</HE_EncyclopediaWeapon>
+  <HE_EncyclopediaApparel>Kıyafet ve zırhlar ({0})</HE_EncyclopediaApparel>
+  <HE_EncyclopediaFood>Yiyecek ve içecekler ({0})</HE_EncyclopediaFood>
+  <HE_EncyclopediaItem>Mallar ve hazineler ({0})</HE_EncyclopediaItem>
+  <HE_EncyclopediaFloor>Zeminler ({0})</HE_EncyclopediaFloor>
+  <HE_EncyclopediaTraditions>Gelenekler ({0})</HE_EncyclopediaTraditions>
+  <HE_EncyclopediaStories>Hikâye ve efsanevi eser</HE_EncyclopediaStories>
+  <HE_EncyclopediaChainOn>devam ediyor (Hikâyeler bölümüne bak)</HE_EncyclopediaChainOn>
+  <HE_EncyclopediaInfoTip>Tam bilgi kartı için tıkla.</HE_EncyclopediaInfoTip>
+  <HE_SettingsPresets>Zorluk hazır ayarları (aşağıdaki kaydırıcıları birlikte ayarlar):</HE_SettingsPresets>
+  <HE_SettingsPreset0>Rahat</HE_SettingsPreset0>
+  <HE_SettingsPreset1>Standart</HE_SettingsPreset1>
+  <HE_SettingsPreset2>Zor</HE_SettingsPreset2>
+  <HE_SettingsTributeDemand>Devletlerin istediği gümüş: {0}</HE_SettingsTributeDemand>
+  <HE_DoctrineLetter>Savaş öğretisi: {0}. {1}</HE_DoctrineLetter>
+  <HE_SettingsDoctrines>Devletler savaş öğretileriyle baskın yapar</HE_SettingsDoctrines>
+  <HE_SettingsDoctrinesTip>Her mirasçı devlet kendi baskın planını ve geliş şeklini tercih eder, akıncıları da bir talimle dövüşür (örneğin Roma testudosu ya da Helen falanksı). Kapalı: mirasçı baskınları vanilya baskınları gibi davranır.</HE_SettingsDoctrinesTip>
+  <HE_AtlasDoctrine>Savaş öğretisi</HE_AtlasDoctrine>
+  <HE_AtlasAnimal>Yük ve sürü hayvanı</HE_AtlasAnimal>
+  <HE_TemperamentWarlike>Savaşçı</HE_TemperamentWarlike>
+  <HE_TemperamentWarlikeDesc>rakipleriyle kavga arar, yarısı kadar daha fazla haraç ister ve savunma ittifakı önerir.</HE_TemperamentWarlikeDesc>
+  <HE_TemperamentMercantile>Tüccar</HE_TemperamentMercantile>
+  <HE_TemperamentMercantileDesc>her devlete ısınır, ticaret antlaşması önerir ve büyük panayırlar düzenlemeyi sever.</HE_TemperamentMercantileDesc>
+  <HE_TemperamentScholarly>Bilgin</HE_TemperamentScholarly>
+  <HE_TemperamentScholarlyDesc>bilgisini cömertçe paylaşır (bu devletten dörtte bir daha fazla kültür bilgisi) ve bilim değişimi önerir.</HE_TemperamentScholarlyDesc>
+  <HE_TemperamentPious>Dindar</HE_TemperamentPious>
+  <HE_TemperamentPiousDesc>bayramları gözetir, Oyunlara ev sahipliği yapabilir ve barış antlaşması önerir.</HE_TemperamentPiousDesc>
+  <HE_TemperamentCautious>Temkinli</HE_TemperamentCautious>
+  <HE_TemperamentCautiousDesc>çoğu zaman savaştan kaçınır, başkalarına yavaşça ısınır ve barış antlaşması önerir.</HE_TemperamentCautiousDesc>
+  <HE_EpithetWarlike>Cesur</HE_EpithetWarlike>
+  <HE_EpithetMercantile>Zengin</HE_EpithetMercantile>
+  <HE_EpithetScholarly>Bilge</HE_EpithetScholarly>
+  <HE_EpithetPious>Dindar</HE_EpithetPious>
+  <HE_EpithetCautious>Temkinli</HE_EpithetCautious>
+  <HE_RulerLine>{0} {1}, {2}</HE_RulerLine>
+  <HE_ReignYears>{0} yıldır hüküm sürüyor.</HE_ReignYears>
+  <HE_AtlasRuler>Hükümdar</HE_AtlasRuler>
+  <HE_SuccessionLabel>{0}: yeni hükümdar</HE_SuccessionLabel>
+  <HE_SuccessionText>{1} saltanatı sona erdi: {0} tacı {2} adlı hükümdara geçti.
+
+Yeni hükümdar {3}
+
+Yeni bir hükümdar seninle yapılan antlaşmaları gözden geçirebilir, rakipler de genç saltanatı sınayabilir.</HE_SuccessionText>
+  <HE_SuccessionChronicle>{1} artık {0} tarafından yönetiliyor.</HE_SuccessionChronicle>
+  <HE_SuccessionMessage>{1} artık {0} tarafından yönetiliyor.</HE_SuccessionMessage>
+  <HE_CourtsHeading>Saraylar ve antlaşmalar</HE_CourtsHeading>
+  <HE_CourtsIntro>Her devleti, sarayın ne önerip ne isteyeceğini belirleyen bir mizaca sahip bir hükümdar yönetir. Antlaşmaları bir gümüş hediyesiyle imzala; bir hükümdar da bedava önerebilir. Bir devletteki unvanın iyi niyet ve antlaşmalarla büyür.</HE_CourtsIntro>
+  <HE_EmbassyYes>Bir elçiliğin var: bilim değişimi ve savunma ittifakı mümkün, antlaşma yaptığın her devlet de her ay sana biraz daha ısınır.</HE_EmbassyYes>
+  <HE_EmbassyNo>Bilim değişimi ve savunma ittifakı için bir elçilik inşa et (araştırma: elçilikler).</HE_EmbassyNo>
+  <HE_TreatyPeace>Barış</HE_TreatyPeace>
+  <HE_TreatyPeaceDesc>Devlet senden haraç istemez ve iyi niyeti her ay biraz artar.</HE_TreatyPeaceDesc>
+  <HE_TreatyTrade>Ticaret</HE_TreatyTrade>
+  <HE_TreatyTradeDesc>Devletin bir ticaret kervanı yaklaşık yirmi günde bir koloni ziyaret eder.</HE_TreatyTradeDesc>
+  <HE_TreatyScience>Bilim</HE_TreatyScience>
+  <HE_TreatyScienceDesc>Bilginler birbirini ziyaret eder: her ay devletin kültür bilgisinden 8 kazanırsın.</HE_TreatyScienceDesc>
+  <HE_TreatyAlliance>İttifak</HE_TreatyAlliance>
+  <HE_TreatyAllianceDesc>Savunma ittifakı: akıncılar evine saldırdığında devlet çoğu zaman yardıma savaşçı gönderir (en çok on günde bir).</HE_TreatyAllianceDesc>
+  <HE_TreatyFee>{0} gümüşlük bir hediyeyle mühürlenir. En az {1} iyi niyet gerekir.</HE_TreatyFee>
+  <HE_TreatyNeedsEmbassy>Kolonide bir elçilik gerekir.</HE_TreatyNeedsEmbassy>
+  <HE_TreatyClickCancel>Bu antlaşmayı iptal etmek için tıkla.</HE_TreatyClickCancel>
+  <HE_TreatyCancelConfirm>{1} ile {0} antlaşmasını iptal etmek mi? Sana karşı {2} iyi niyet kaybederler, diğer her devlet de {3}: bozulan yeminin haberi çabuk yayılır.</HE_TreatyCancelConfirm>
+  <HE_TreatyNoNation>Bu devlet yok oldu.</HE_TreatyNoNation>
+  <HE_TreatyAlready>Zaten imzalandı.</HE_TreatyAlready>
+  <HE_TreatyHostile>{0} sana düşman.</HE_TreatyHostile>
+  <HE_TreatyGoodwill>En az {0} iyi niyet gerekir.</HE_TreatyGoodwill>
+  <HE_TreatyEmbassy>Kolonide bir elçilik gerekir.</HE_TreatyEmbassy>
+  <HE_TreatySigned>{1} ile {0} antlaşması imzalandı.</HE_TreatySigned>
+  <HE_TreatyEnded>{1} ile {0} antlaşması iptal edildi.</HE_TreatyEnded>
+  <HE_TreatyVoid>{1} düşmanlaşınca {0} antlaşması geçersiz oldu.</HE_TreatyVoid>
+  <HE_TreatyRevoked>{1} yeni hükümdarı {0} antlaşmasını feshetti.</HE_TreatyRevoked>
+  <HE_TreatyVoidLabel>{0} ile antlaşmalar geçersiz</HE_TreatyVoidLabel>
+  <HE_TreatyVoidText>{0} sana düşman oldu. Onlarla yaptığın bütün antlaşmalar geçersiz.</HE_TreatyVoidText>
+  <HE_TreatyRevokedLabel>{0} bir antlaşmayı feshediyor</HE_TreatyRevokedLabel>
+  <HE_TreatyRevokedText>{0} eski sarayın anlaşmalarına bağlı değil: {2} ile {1} antlaşması feshedildi.
+
+İyi niyetlerini geri kazanırsan yeniden imzalayabilirsin.</HE_TreatyRevokedText>
+  <HE_TreatyOfferLabel>{0} {1} antlaşması öneriyor</HE_TreatyOfferLabel>
+  <HE_TreatyOfferText>{1} hükümdarı {0}, alışılmış hediyeler olmadan {2} antlaşması öneren mühürlü bir mektup gönderdi.
+
+{3}</HE_TreatyOfferText>
+  <HE_TreatyOfferAccept>{0} antlaşmasını imzala</HE_TreatyOfferAccept>
+  <HE_TreatyOfferRefuse>Reddet</HE_TreatyOfferRefuse>
+  <HE_AllyAnswers>{0} ittifaka sadık kalıyor: savaşçıları yardımına geliyor.</HE_AllyAnswers>
+  <HE_YourTitle>Konumun: {0}</HE_YourTitle>
+  <HE_Title0>yabancı</HE_Title0>
+  <HE_Title1>konuk</HE_Title1>
+  <HE_Title2>dost</HE_Title2>
+  <HE_Title3>onurlu dost</HE_Title3>
+  <HE_TitleTip>Konuk: 0 veya daha fazla iyi niyet. Dost: 40 veya daha fazla. Onurlu dost: 60 veya daha fazla ve iki antlaşma. Devletin kendi yüksek onuru ({0}): 80 veya daha fazla, bir savunma ittifakı ve bir elçilik; her ay {1} kültür bilgisi getirir.</HE_TitleTip>
+  <HE_HonourLabel>{0} tarafından onurlandırıldın</HE_HonourLabel>
+  <HE_HonourText>{1} hükümdarı {0}, bütün sarayın önünde koloniyi {2} ilan etti. Bundan sonra bilginleri her ay seninle {3} kültür bilgisi paylaşacak.</HE_HonourText>
+  <HE_HonourChronicle>Koloni {1} tarafından {0} ilan edildi.</HE_HonourChronicle>
+  <HE_SettingsWorldEvents>Devletler arası dünya olayları</HE_SettingsWorldEvents>
+  <HE_SettingsWorldEventsTip>Mirasçı devletler arasında Oyunlar, büyük panayırlar, kıtlıklar ve salgınlar; bazıları senden yardım ister.</HE_SettingsWorldEventsTip>
+  <HE_GamesLabel>{0} Oyunları</HE_GamesLabel>
+  <HE_GamesText>{1}, bütün devletleri {0} Oyunlarına davet ediyor: bütün dünyadan gelen kalabalıklar önünde koşu, güreş ve okçuluk.
+
+En iyi savaşçın {2} (beceri {3}) koloni adına yarışabilir. Kazanma şansı: {4}.
+
+Bir zafer her devletin sana daha iyi bakmasını sağlar; katılmak bile ev sahiplerini memnun eder.</HE_GamesText>
+  <HE_GamesAccept>{1} yarışmaya gitsin</HE_GamesAccept>
+  <HE_GamesRefuse>Evde kal</HE_GamesRefuse>
+  <HE_GamesMissing>Yarışamaz.</HE_GamesMissing>
+  <HE_GamesNoChampion>Şampiyon yola çıkamaz.</HE_GamesNoChampion>
+  <HE_GamesWonLabel>{0} Oyunları kazandı</HE_GamesWonLabel>
+  <HE_GamesWon>{0}, {1} Oyunlarını kazandı. Bütün dünya artık koloninin adını biliyor.</HE_GamesWon>
+  <HE_GamesLost>{0}, {1} Oyunlarında iyi yarıştı ama kazanamadı.</HE_GamesLost>
+  <HE_FairLabel>{0} büyük panayırı</HE_FairLabel>
+  <HE_FairText>{1} büyük bir panayır açtı ve bütün dünyanın tüccarları yola çıktı. Önümüzdeki günlerde {2} kervanları kolonine uğrayacak.</HE_FairText>
+  <HE_FairChronicle>{0} büyük bir panayır düzenledi.</HE_FairChronicle>
+  <HE_FamineLabel>{0}: kıtlık</HE_FamineLabel>
+  <HE_FamineText>{0} topraklarında hasat kötü gitti ve {1} her dosttan yiyecek istiyor. {2} besin değerinde (yaklaşık {2} basit yemek) yiyecek ayırabilir misin?</HE_FamineText>
+  <HE_FamineAccept>{0} besin değerinde yiyecek gönder</HE_FamineAccept>
+  <HE_FamineRefuse>Ayıracak yiyeceğimiz yok</HE_FamineRefuse>
+  <HE_FamineMissing>{0} besin değerinde yiyeceğin yok.</HE_FamineMissing>
+  <HE_FamineHelped>Koloni kıtlık çeken {0} devletine yiyecek gönderdi.</HE_FamineHelped>
+  <HE_PlagueLabel>{0}: salgın</HE_PlagueLabel>
+  <HE_PlagueText>{0} topraklarında bir salgın yayılıyor. {1} {2} ilaç istiyor.
+
+Onlarla ticaret yapıyorsan, cevabın ne olursa olsun hastalık yollarından sana gelebilir.</HE_PlagueText>
+  <HE_PlagueAccept>{0} ilaç gönder</HE_PlagueAccept>
+  <HE_PlagueRefuse>İlacımızı tut</HE_PlagueRefuse>
+  <HE_PlagueMissing>{0} ilacın yok.</HE_PlagueMissing>
+  <HE_PlagueHelped>Koloni salgın yaşayan {0} devletine ilaç gönderdi.</HE_PlagueHelped>
+  <HE_PlagueSpreads>{0} salgını ticaret yollarından yayıldı: hastalık birkaç gün içinde koloniye ulaşabilir.</HE_PlagueSpreads>
+  <HE_BookBenefit>{0} kültür bilgisi: okuma saati başına {1}, en fazla {2}</HE_BookBenefit>
+  <HE_BookLearned>kolonin bu kitabın öğretebileceği her şeyi zaten biliyor</HE_BookLearned>
+  <HE_Book_Roma_Annals_Title>Nova Roma Yıllıkları</HE_Book_Roma_Annals_Title>
+  <HE_Book_Roma_Annals_Desc>Yıl yıl ve konsül konsül, rahiplerin tuttuğu şehir kaydı: yıkıntılar arasında kuruluşu, savaşları, yasaları ve hepsinden önce gelen alametler.</HE_Book_Roma_Annals_Desc>
+  <HE_Book_Roma_Building_Title>Yapı Üzerine On Kitap</HE_Book_Roma_Building_Title>
+  <HE_Book_Roma_Building_Desc>Yollar, su kemerleri, hamamlar ve iyi betonun sırrı üzerine bir mühendis incelemesi. Yarısı matematik; diğer yarısı tembel duvarcılardan şikâyet.</HE_Book_Roma_Building_Desc>
+  <HE_Book_Yamato_BrushBlade_Title>Fırça ve Kılıç</HE_Book_Yamato_BrushBlade_Title>
+  <HE_Book_Yamato_BrushBlade_Desc>Aynı zamanda hattat olan bir kılıç ustasının kısa denemeleri. Tek bir mürekkep darbesiyle tek bir kılıç vuruşunun aynı yolla öğrenildiğini yazar: on bin kez, sonra bir kez.</HE_Book_Yamato_BrushBlade_Desc>
+  <HE_Book_Yamato_TeaDiary_Title>Sakai Çay Ustalarının Günlüğü</HE_Book_Yamato_TeaDiary_Title>
+  <HE_Book_Yamato_TeaDiary_Desc>Bu günlüğü üç kuşak çay ustası tuttu: konuklar, kâseler, köşedeki çiçekler ve Sakai tüccarlarının çaydanlık başında fısıldadıkları.</HE_Book_Yamato_TeaDiary_Desc>
+  <HE_Book_Nord_FirstJarl_Title>İlk Jarl'ın Destanı</HE_Book_Nord_FirstJarl_Title>
+  <HE_Book_Nord_FirstJarl_Desc>İlk jarlın halkını buzun üzerinden nasıl geçirdiği, ayaz devlerinin fiyortlar üzerindeki hâkimiyetini nasıl kırdığı ve boynuzuyla nasıl gömüldüğü. Skaldlar hangi kısımların doğru olduğunu hâlâ tartışıyor.</HE_Book_Nord_FirstJarl_Desc>
+  <HE_Book_Nord_LongWinter_Title>Uzun Kış Türküsü</HE_Book_Nord_LongWinter_Title>
+  <HE_Book_Nord_LongWinter_Desc>Üç yıl süren kış üzerine uzun bir şiir: kim yiyeceğini paylaştı, kim paylaşmadı ve baharda ayakta kalan salonların neden yalnızca birlik olanlar olduğu.</HE_Book_Nord_LongWinter_Desc>
+  <HE_Book_Hellas_Dialogues_Title>Akademi Diyalogları</HE_Book_Hellas_Dialogues_Title>
+  <HE_Book_Hellas_Dialogues_Desc>Bir öğretmen ve öğrencileri bir zeytin ağacının altında adalet, cesaret ve bir şehrin en bilgeleri tarafından yönetilip yönetilemeyeceği üzerine tartışır. Kimse kazanmaz, herkes öğrenir.</HE_Book_Hellas_Dialogues_Desc>
+  <HE_Book_Hellas_Elements_Title>Geometricilerin Öğeleri</HE_Book_Hellas_Elements_Title>
+  <HE_Book_Hellas_Elements_Desc>Beş basit doğrudan yola çıkarak, satır satır kanıtlanmış bütün bir geometri. Birliğin inşaatçıları, denizcileri ve gökbilimcileri hep bu kitabın bir kopyasından öğrendi.</HE_Book_Hellas_Elements_Desc>
+  <HE_Book_Tianxia_Analects_Title>Sınav Salonu Sözleri</HE_Book_Tianxia_Analects_Title>
+  <HE_Book_Tianxia_Analects_Desc>İmparatorluk sınavlarına giren her adayın ezberlediği eski ustaların sözleri: evlat görevi, tören ve sözleri işlerinin önüne geçince utanan erdemli kişi üzerine.</HE_Book_Tianxia_Analects_Desc>
+  <HE_Book_Tianxia_Strategy_Title>Strateji Üzerine On Üç Bölüm</HE_Book_Tianxia_Strategy_Title>
+  <HE_Book_Tianxia_Strategy_Desc>Bir generalin savaş, casuslar, arazi ve ateş üzerine on üç bölümü. İlk dersi, en iyi zaferin hiç savaşmak zorunda kalmadığın muharebe olduğudur.</HE_Book_Tianxia_Strategy_Desc>
+  <HE_Book_Albion_Almanac_Title>Devletler Topluluğu Almanağı</HE_Book_Albion_Almanac_Title>
+  <HE_Book_Albion_Almanac_Desc>Gelgitler, bayram günleri, ürün fiyatları, ayın evreleri ve yüz yararlı tarif; Devletler Topluluğu'nun ilk matbaalarından beri her yıl basılır.</HE_Book_Albion_Almanac_Desc>
+  <HE_Book_Albion_Steam_Title>Buhar Makinesi Üzerine Bir İnceleme</HE_Book_Albion_Steam_Title>
+  <HE_Book_Albion_Steam_Desc>Silindirler, valfler, kazanlar ve kömürün aritmetiği, gravür levhalarla. Yazar, bir emniyet valfinin asla bağlanmaması gerektiği konusunda birden çok kez uyarır.</HE_Book_Albion_Steam_Desc>
+  <HE_Book_Kemet_Instructions_Title>Kâtibin Öğütleri</HE_Book_Kemet_Instructions_Title>
+  <HE_Book_Kemet_Instructions_Desc>Yaşlı bir kâtibin oğluna öğütleri: sabırlı ol, hesaplarını dürüst tut, büyük bir adamın sofrasında az konuş ve yükü taşımayanın kâtip olduğunu asla unutma.</HE_Book_Kemet_Instructions_Desc>
+  <HE_Book_Kemet_SecondSunrise_Title>İkinci Gündoğumu Kitabı</HE_Book_Kemet_SecondSunrise_Title>
+  <HE_Book_Kemet_SecondSunrise_Desc>Kemet kumdan yeniden yükseldiğinde yazılmış güneş rahiplerinin ilahileri ve takvimleri: ne zaman ekileceği, nehrin ne zaman yükseldiği ve şafağa ne söyleneceği.</HE_Book_Kemet_SecondSunrise_Desc>
+  <HE_Book_Pars_Garden_Title>Bahçe Dizeleri</HE_Book_Pars_Garden_Title>
+  <HE_Book_Pars_Garden_Desc>Güller, şarap, dostluk ve hayatın kısalığı üzerine dörtlükler; çok iyi bir bahçıvan da olan bir şairin bahçe defterinin kenarlarına yazdıkları.</HE_Book_Pars_Garden_Desc>
+  <HE_Book_Pars_KingsRoad_Title>Kral Yolu Kitabı</HE_Book_Pars_KingsRoad_Title>
+  <HE_Book_Pars_KingsRoad_Desc>Satrapların büyük yolu üzerindeki her posta istasyonu, kuyu, köprü ve kervansaray; aralarındaki mesafeler ve onları işletenlerin adlarıyla.</HE_Book_Pars_KingsRoad_Desc>
+  <HE_Book_Inti_Harvests_Title>Hasatlar Kipusu</HE_Book_Inti_Harvests_Title>
+  <HE_Book_Inti_Harvests_Desc>Bütün bir vadinin elli yıllık hasatlarını sayan düğümlü ipler: mısır, patates, kinoa, iyi yıllar ve kıtlıklar. Bir düğüm bekçisi onu bir kitap gibi okuyabilir.</HE_Book_Inti_Harvests_Desc>
+  <HE_Book_Inti_SunSongs_Title>Güneş Şarkıları Kipusu</HE_Book_Inti_SunSongs_Title>
+  <HE_Book_Inti_SunSongs_Desc>Güneş bayramında söylenen şarkılar, renkli iplerde saklanır. Düğümler sözleri tutar; renkler ise ezgiyi, ya da düğüm bekçileri öyle söyler.</HE_Book_Inti_SunSongs_Desc>
+  <HE_Book_Roma_FoundersCodex_Title>Kurucuların Kodeksi</HE_Book_Roma_FoundersCodex_Title>
+  <HE_Book_Roma_FoundersCodex_Desc>Nova Roma'nın yasası, kurucularının yazdığı hâliyle; kavrulmuş asıldan kâtiplerinin temize çektiği kopya. Okumak en derin Roma bilgisini öğretir ve her sayfa okura şehrin neden kurulmaya değer olduğunu hatırlatır.</HE_Book_Roma_FoundersCodex_Desc>
+  <HE_Book_Yamato_EightIslands_Title>Sekiz Ada Vakayinamesi</HE_Book_Yamato_EightIslands_Title>
+  <HE_Book_Yamato_EightIslands_Desc>Yamato'nun ilk imparatordan ateş gecesine kadar tarihi, sarayın son tarihçisinin elinden, kâtiplerinin kopyasıyla. Onu okuyanın hayatını onursuz bitirmeyeceği söylenir.</HE_Book_Yamato_EightIslands_Desc>
+  <HE_Book_Nord_Edda_Title>Nordheim Eddası</HE_Book_Nord_Edda_Title>
+  <HE_Book_Nord_Edda_Desc>İlk jarldan uzun kışa kadar Nordheim'in her destanı, son skaldın hafızasından toplanıp oymacıların tarafından tahtalara kazındı. Onu okuyan bir skald bir yıl boyunca tek dizeyi tekrarlamadan şarkı söyleyebilir.</HE_Book_Nord_Edda_Desc>
+  <HE_Book_Hellas_LongVoyage_Title>Uzun Yolculuğun Şarkısı</HE_Book_Hellas_LongVoyage_Title>
+  <HE_Book_Hellas_LongVoyage_Desc>Birliğin kayıp destanı: ilk kolonistlerin ölü bir denizi aşıp Hellas'ın yeniden doğduğu adalara yolculuğu. Altı ölçülü dizelerle yirmi dört kitap, kütüphanenin son tomarından onarıldı.</HE_Book_Hellas_LongVoyage_Desc>
+  <HE_Book_Tianxia_HeavenlyCourt_Title>Göksel Saray Kayıtları</HE_Book_Tianxia_HeavenlyCourt_Title>
+  <HE_Book_Tianxia_HeavenlyCourt_Desc>Bir imparatoru memnun etmek için tek kelime değiştirmeyen büyük bir tarihçinin yazdığı ve kâtiplerinin kopyaladığı hanedanların gerçek tarihi. Tianxia memurları üstlerine karşı çıktıklarında hâlâ ondan alıntı yapar.</HE_Book_Tianxia_HeavenlyCourt_Desc>
+  <HE_Book_Albion_GreatCharter_Title>Büyük Ferman</HE_Book_Albion_GreatCharter_Title>
+  <HE_Book_Albion_GreatCharter_Desc>Devletler Topluluğu özgürlüklerinin fermanı, loncaların imzaladığı asıldan temize çekildi. Her okur özgür bir uyruğun haklarını ve bunlar için ödenen bedeli öğrenir.</HE_Book_Albion_GreatCharter_Desc>
+  <HE_Book_Kemet_ComingForth_Title>Gün Işığına Çıkış Kitabı</HE_Book_Kemet_ComingForth_Title>
+  <HE_Book_Kemet_ComingForth_Desc>Kemet rahiplerinin büyük kitabı: ölüleri gece boyunca yönlendiren sözler, kapıların adları ve onları açan kelimeler. Kâtiplerin onu mezarın kendi tomarından kopyaladı.</HE_Book_Kemet_ComingForth_Desc>
+  <HE_Book_Pars_BookOfKings_Title>Krallar Kitabı</HE_Book_Pars_BookOfKings_Title>
+  <HE_Book_Pars_BookOfKings_Desc>Pars'ın kralları ve kahramanları üzerine, ilk ateşten son satrapa kadar elli bin beyit; yolda yaşlı bir şair tarafından bitirildi ve kâtiplerin tarafından kopyalandı. Pars'ın her çocuğu bir kısmını ezbere bilir.</HE_Book_Pars_BookOfKings_Desc>
+  <HE_Book_Inti_RoyalKhipu_Title>Kraliyet Kipusu</HE_Book_Inti_RoyalKhipu_Title>
+  <HE_Book_Inti_RoyalKhipu_Desc>Güneş imparatorluğunun büyük sayımı: her vadi, her ambar, her aile ve her şarkı, bir sandığı dolduracak kadar büyük bir kipuda. Düğüm bekçilerin onu asıldan yeniden bağladı.</HE_Book_Inti_RoyalKhipu_Desc>
+  <HE_ChainAfter>"{0}" hikâyesi bittikten sonra başlar.</HE_ChainAfter>
+  <HE_ErrandLabel>{0} bir iyilik istiyor</HE_ErrandLabel>
+  <HE_ErrandSupplyText>{0} ülkesinden {1} haber gönderiyor: ambarlar eksik ve ulusun bir dostu yardım edebilir.
+
+İstenen: {2}, {3} gün içinde.
+Ödül: {4} gümüş, {5} {0} kültür bilgisi ve iyi niyet.
+
+Kabul edilen görevler Mirasçılar sekmesinin Hikâyeler sayfasındadır; teslimi oradan yaparsın.</HE_ErrandSupplyText>
+  <HE_ErrandCraftText>{0} ülkesinden {1}, saraya armağan olarak yabancı ellerin yaptığı, ulusun kendi zanaatından güzel bir parça istiyor.
+
+İstenen: {2}, {3} gün içinde.
+Ödül: {4} gümüş, {5} {0} kültür bilgisi ve iyi niyet.
+
+Kabul edilen görevler Mirasçılar sekmesinin Hikâyeler sayfasındadır; teslimi oradan yaparsın.</HE_ErrandCraftText>
+  <HE_ErrandLoreText>{0} ülkesinden {1}, başka bir ulusun bilgeliğini okumak istiyor ve senden bir kopya bulmanı rica ediyor.
+
+İstenen: {2}, {3} gün içinde. Onu yazan ulus kitaplarını kervanları ve yerleşimleri aracılığıyla satar.
+Ödül: {4} gümüş, {5} {0} kültür bilgisi ve iyi niyet.
+
+Kabul edilen görevler Mirasçılar sekmesinin Hikâyeler sayfasındadır; teslimi oradan yaparsın.</HE_ErrandLoreText>
+  <HE_ErrandWantCraft>{1} ya da daha iyi kalitede {0}</HE_ErrandWantCraft>
+  <HE_ErrandAccept>Görevi kabul et</HE_ErrandAccept>
+  <HE_ErrandRefuse>Kibarca reddet</HE_ErrandRefuse>
+  <HE_ErrandTooMany>Zaten {0} görevin var</HE_ErrandTooMany>
+  <HE_ErrandDone>{0} iyiliğin için teşekkür ediyor: {1} gümüş ve {2} kültür bilgisi.</HE_ErrandDone>
+  <HE_ErrandFailed>{0} ulusuna söz verdiğini getirmedin ({1}). Bunu hatırlayacaklar.</HE_ErrandFailed>
+  <HE_ErrandsHeading>Görevler</HE_ErrandsHeading>
+  <HE_ErrandsNone>Görev yok. Dost uluslar zaman zaman mektupla küçük iyilikler ister. Şimdiye kadar yapılan görevler: {0}.</HE_ErrandsNone>
+  <HE_ErrandLine>{0}: {1} ({2} gün kaldı; {3} gümüş, {4} bilgi)</HE_ErrandLine>
+  <HE_ErrandReady>Her şey hazır: şimdi teslim et.</HE_ErrandReady>
+  <HE_ErrandMissing>Ev depolarında henüz yeterli yok (yasaklı eşyalar sayılmaz).</HE_ErrandMissing>
+  <HE_SettingsNationMusic>Devletlerin müzikleri ve çağrıları</HE_SettingsNationMusic>
+  <HE_SettingsNationMusicTip>Her devletin kendi müziği ve kısa bir çağrısı var. Çağrı, devletin haberi geldiğinde çalar; müziği, hikâyelerinden biri bittiğinde ya da seni onurlandırdığında ve ara sıra olağan şarkıların arasında (mirasın ve seni onurlandıran devletler) çalar. Hepsi bu mod için yapıldı.</HE_SettingsNationMusicTip>
+  <HE_SettingsNationActive>{0} dünyada yer alır</HE_SettingsNationActive>
+  <HE_SettingsNationActiveTip>Kapatılan devlet fraksiyonunu, şehirlerini, mallarını ve araştırmasını korur; ama onu içermeyen kayıtlara eklenmez, hikâye başlatmaz, ayak işi ya da mektup göndermez, müzik çalmaz ve dünya siyasetinden çekilir. Çok sayıda fraksiyon modu kullanırken işe yarar.</HE_SettingsNationActiveTip>
+  <HE_Age1>Kuruluş Çağı</HE_Age1>
+  <HE_Age2>Barut Çağı</HE_Age2>
+  <HE_Age3>Buhar Çağı</HE_Age3>
+  <HE_AgeLabel>{0}: {1}</HE_AgeLabel>
+  <HE_AgeText2>{0} Barut Çağı'na girdi.
+
+{1} cephaneler ve barut değirmenleri açtı. Bundan sonra askerleri ateşli silah taşıyor, tüccarları bunları satıyor ve mirasın {0} olmasa da kolonin bunları araştırabilir.
+
+Yeni: {2}.</HE_AgeText2>
+  <HE_AgeText3>{0} Buhar Çağı'na girdi.
+
+{1} fabrikalar kurdu ve üniformalı yeni bir ordu topladı. Askerleri artık kuyruktan dolma tüfekler taşıyor ve ulusal ceketi giyiyor, tüccarları ikisini de satıyor ve kolonin bunları araştırabilir.
+
+Yeni: {2}.</HE_AgeText3>
+  <HE_AgeChronicle>{0}, {1}'na girdi.</HE_AgeChronicle>
+  <HE_AgeRateBase>Doğal ilerleme</HE_AgeRateBase>
+  <HE_AgeRateScholarly>Bilgin hükümdar</HE_AgeRateScholarly>
+  <HE_AgeRateAllies>Müttefikler</HE_AgeRateAllies>
+  <HE_AgeRateWar>Savaşta</HE_AgeRateWar>
+  <HE_AgeRateScience>Seninle bilim antlaşması</HE_AgeRateScience>
+  <HE_AgeRateTrade>Seninle ticaret bağı</HE_AgeRateTrade>
+  <HE_AgeRateTowns>Çok sayıda kasaba</HE_AgeRateTowns>
+  <HE_AgesHeading>Devletlerin çağları</HE_AgesHeading>
+  <HE_AgesIntro>Her devlet yıllar geçtikçe Kuruluş Çağı'ndan Barut Çağı'na, oradan Buhar Çağı'na ilerler. Her yeni çağ askerlerini kendi tüfekleriyle donatır ve Buhar Çağı'nda onları kendi üniformasıyla giydirir. Tüccarları bunları satar ve devlet o çağa ulaştığında sen de bunları araştırabilirsin. Barış, müttefikler, antlaşmalar ve seninle ticaret bir devleti hızlandırır; savaş, kıtlık ve salgın onu geri tutar. Nedenini görmek için bir devletin üstüne gel.</HE_AgesIntro>
+  <HE_AgesOff>Çağlar mod ayarlarında kapalı: her devlet eski silahlarını korur ve her şey eskisi gibi araştırılabilir.</HE_AgesOff>
+  <HE_AgesLast>son çağ</HE_AgesLast>
+  <HE_AgesToward>{0} yolunda: {1}</HE_AgesToward>
+  <HE_AgesPace>Hız: olağan hızın {0} kadarı.</HE_AgesPace>
+  <HE_AgesItems>Çağlarının silahları ve üniformaları: {0}</HE_AgesItems>
+  <HE_AtlasAge>Çağ</HE_AtlasAge>
+  <HE_NeedAge>{0} henüz {1}'na ulaşmadı.</HE_NeedAge>
+  <HE_SettingsFourthSpeed>Dördüncü oyun hızı düğmesi</HE_SettingsFourthSpeed>
+  <HE_SettingsFourthSpeedTip>Diğer üçünün yanına dördüncü bir hız düğmesi (oyunun normalde gizli olan en yüksek hızı) ekler. Tuşu varsayılan olarak 4'tür ve klavye ayarlarından değiştirilebilir.</HE_SettingsFourthSpeedTip>
+  <HE_SpeedFourthTip>En yüksek hız. Üçüncü hız gibi, ilgilenmen gereken bir şey olduğunda kendiliğinden yavaşlar.</HE_SpeedFourthTip>
+  <HE_SettingsAges>İlerleme çağları</HE_SettingsAges>
+  <HE_SettingsAgesTip>Devletler Kuruluş, Barut ve Buhar çağlarından geçerek yeni tüfekler ve üniformalar kazanır. Devletleri 4.2 öncesindeki gibi tutmak için kapat.</HE_SettingsAgesTip>
+  <HE_SettingsAgeSpeed>Çağların hızı: {0}</HE_SettingsAgeSpeed>
+</LanguageData>

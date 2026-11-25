@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Garden.label>cennet bahçesi</HE_Pars_Garden.label>
+  <HE_Pars_Garden.description>Ortadaki bir havuzun çevresinde su kanallarıyla dörde bölünmüş, güller ve servilerle dikili küçük, duvarlı bir bahçe. Kolonistler suyun kenarında oturup sakinleşmeye gelir.</HE_Pars_Garden.description>
+  <HE_Pars_PostLamp.label>menzil feneri</HE_Pars_PostLamp.label>
+  <HE_Pars_PostLamp.description>Uzun bir direğin üzerinde delikli bronz bir fener; ulaklar karanlıkta bulabilsin diye her kraliyet menziline asılanlardan.</HE_Pars_PostLamp.description>
+  <HE_Pars_CarpetLoom.label>halı tezgâhı</HE_Pars_CarpetLoom.label>
+  <HE_Pars_CarpetLoom.description>Çözgü iplikleriyle gerilmiş, kirişinden boyalı yün yumakları sarkan dik, ahşap bir tezgâh. Kumaşı ya da yünü Pars halılarına düğümler.</HE_Pars_CarpetLoom.description>
+  <HE_Pars_FireAltar.label>ateş sunağı</HE_Pars_FireAltar.label>
+  <HE_Pars_FireAltar.description>Ateşi asla sönmemesi gereken beyaz taştan basamaklı bir sunak. Rahipler onu gece gündüz kokulu odunla besler, ev halkı da sıcaklığının çevresinde toplanır.</HE_Pars_FireAltar.description>
+  <HE_Pars_Lamassu.label>lamassu</HE_Pars_Lamassu.label>
+  <HE_Pars_Lamassu.description>Kralların kapılarını korumak için taşa oyulmuş, taçlı insan başlı kanatlı bir boğa. Beş bacaklı yapılır; önden bakınca durur, yandan bakınca yürür.</HE_Pars_Lamassu.description>
+  <HE_Pars_NaftThrower_Gun.label>neft sifonu</HE_Pars_NaftThrower_Gun.label>
+  <HE_Pars_NaftThrower_Gun.description>neft atıcı yapısının dönen üst kısmı.</HE_Pars_NaftThrower_Gun.description>
+  <HE_Pars_NaftThrower.label>neft atıcı</HE_Pars_NaftThrower.label>
+  <HE_Pars_NaftThrower.description>Doğu kuyularının yanan yağı neftle dolu bronz bir tank ve kısa püskürtmelerle ateş saçan uzun bir sifon. Menzili kısadır ama dokunduğu her şey yanar. Kimyasal yakıtla doldurulur: bir birim bir püskürtme eder.</HE_Pars_NaftThrower.description>
+  <HE_Pars_NaftThrower.comps.1.fuelLabel>Neft</HE_Pars_NaftThrower.comps.1.fuelLabel>
+  <HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>Neft</HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>
+  <HE_Pars_NaftThrower.comps.1.outOfFuelMessage>Kimyasal yakıt gerekli</HE_Pars_NaftThrower.comps.1.outOfFuelMessage>
+</LanguageData>

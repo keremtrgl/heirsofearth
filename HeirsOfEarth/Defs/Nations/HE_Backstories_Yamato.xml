@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_Ashigaru</defName>
+    <title>ashigaru footman</title>
+    <titleShort>footman</titleShort>
+    <description>[PAWN_nameDef] was a farmer's son until the clan drums called. [PAWN_pronoun] learned to hold a spear in a tight line and to dig in fast when arrows began to fall.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>5</Melee>
+      <Plants>3</Plants>
+      <Construction>2</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_Swordsmith</defName>
+    <title>swordsmith</title>
+    <titleShort>swordsmith</titleShort>
+    <description>For twenty winters [PAWN_nameDef] folded and hammered tamahagane in a mountain forge. [PAWN_pronoun] would rather break a flawed blade than let it leave the workshop.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>8</Crafting>
+      <Melee>2</Melee>
+    </skillGains>
+    <requiredWorkTags>
+      <li>ManualSkilled</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_Ronin</defName>
+    <title>masterless samurai</title>
+    <titleShort>ronin</titleShort>
+    <description>When [PAWN_possessive] lord fell, [PAWN_nameDef] chose wandering over a shameful death. [PAWN_pronoun] sold [PAWN_possessive] sword to whoever paid and learned that honour does not fill a rice bowl.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>8</Melee>
+      <Shooting>2</Shooting>
+      <Social>1</Social>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_Monk</defName>
+    <title>temple monk</title>
+    <titleShort>monk</titleShort>
+    <description>[PAWN_nameDef] swept the stone steps of a mountain temple for years, tended its herb garden and nursed travellers who arrived sick. [PAWN_pronoun] will not raise a hand in violence.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>6</Medicine>
+      <Plants>4</Plants>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <workDisables>
+      <li>Violent</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_TeaMaster</defName>
+    <title>tea master</title>
+    <titleShort>tea master</titleShort>
+    <description>[PAWN_nameDef] served tea to lords and generals and listened to everything they said over the cups. A quiet word from [PAWN_objective] has settled more feuds than any sword.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Cooking>4</Cooking>
+      <Artistic>2</Artistic>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_RiceFarmer</defName>
+    <title>rice farmer</title>
+    <titleShort>farmer</titleShort>
+    <description>[PAWN_nameDef] spent every spring knee-deep in flooded paddies, planting seedlings one by one. [PAWN_pronoun] can read the weather in the colour of the morning sky.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>8</Plants>
+      <Animals>2</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_Hatamoto</defName>
+    <title>shogun's bannerman</title>
+    <titleShort>bannerman</titleShort>
+    <description>[PAWN_nameDef] stood beside the shogun's banner in three great battles and never stepped back. [PAWN_pronoun] commands with few words and expects them to be obeyed at once.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>8</Melee>
+      <Social>4</Social>
+      <Shooting>3</Shooting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_Akindo</defName>
+    <title>port merchant</title>
+    <titleShort>merchant</titleShort>
+    <description>[PAWN_nameDef] bought silk, sake and lacquerware at the harbour and sold them inland at twice the price. [PAWN_pronoun] bows deeply and counts quickly.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Intellectual>2</Intellectual>
+      <Animals>1</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_DojoChild</defName>
+    <title>dojo pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] grew up sweeping the floor of a sword school and practising cuts on straw bundles until [PAWN_possessive] arms ached.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>3</Melee>
+      <Shooting>1</Shooting>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_TempleChild</defName>
+    <title>temple novice</title>
+    <titleShort>novice</titleShort>
+    <description>[PAWN_nameDef] was raised by monks who taught [PAWN_objective] to read the old sutras, sit still for hours and grow herbs in the temple garden.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>3</Intellectual>
+      <Plants>1</Plants>
+      <Medicine>1</Medicine>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_FishingVillage</defName>
+    <title>fishing village child</title>
+    <titleShort>fisher child</titleShort>
+    <description>[PAWN_nameDef] grew up mending nets and gutting fish on a windy shore, where every family shared its catch.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Cooking>2</Cooking>
+      <Animals>1</Animals>
+      <Social>1</Social>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Yamato_BS_CastleTown</defName>
+    <title>castle-town child</title>
+    <titleShort>town child</titleShort>
+    <description>[PAWN_nameDef] grew up in the crowded streets below a lord's castle, running between craftsmen's shops and watching the samurai parade.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Yamato</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>2</Crafting>
+      <Social>2</Social>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

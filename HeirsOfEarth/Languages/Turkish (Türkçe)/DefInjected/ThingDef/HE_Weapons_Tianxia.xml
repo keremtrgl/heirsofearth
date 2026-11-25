@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Jian.label>jian</HE_Tianxia_Jian.label>
+  <HE_Tianxia_Jian.description>Hafif ve çabuk, düz, çift ağızlı bir kılıç; kesin hamlelerle ve bilek hareketleriyle kullanılır.</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Jian.tools.0.label>kabza</HE_Tianxia_Jian.tools.0.label>
+  <HE_Tianxia_Jian.tools.1.label>uç</HE_Tianxia_Jian.tools.1.label>
+  <HE_Tianxia_Jian.tools.2.label>ağız</HE_Tianxia_Jian.tools.2.label>
+  <HE_Tianxia_Guandao.label>guandao</HE_Tianxia_Guandao.label>
+  <HE_Tianxia_Guandao.description>Ejder başlı siperi olan uzun bir sapın ucunda ağır, eğri bir ağız; büyük süpürücü yaylarla savrulur.</HE_Tianxia_Guandao.description>
+  <HE_Tianxia_Guandao.tools.0.label>gövde</HE_Tianxia_Guandao.tools.0.label>
+  <HE_Tianxia_Guandao.tools.1.label>ağız</HE_Tianxia_Guandao.tools.1.label>
+  <HE_Tianxia_Repeater.label>tekrarlı arbalet</HE_Tianxia_Repeater.label>
+  <HE_Tianxia_Repeater.description>Üstüne on cıvatalık bir kutu takılmış bir arbalet. Üç hafif cıvatayı art arda fırlatır, sonra yeniden doldurulmalıdır.</HE_Tianxia_Repeater.description>
+  <HE_Tianxia_Repeater.tools.0.label>kol</HE_Tianxia_Repeater.tools.0.label>
+  <HE_Tianxia_FireLance.label>ateş mızrağı</HE_Tianxia_FireLance.label>
+  <HE_Tianxia_FireLance.description>Ucunun arkasına kara barutlu bir bambu tüp bağlanmış bir mızrak. Ateşlendiğinde hedefleri tutuşturan kısa bir alev püskürtür; sonra yeniden yalnızca bir mızraktır.</HE_Tianxia_FireLance.description>
+  <HE_Tianxia_FireLance.tools.0.label>gövde</HE_Tianxia_FireLance.tools.0.label>
+  <HE_Tianxia_FireLance.tools.1.label>uç</HE_Tianxia_FireLance.tools.1.label>
+  <HE_Tianxia_Dao.label>dao</HE_Tianxia_Dao.label>
+  <HE_Tianxia_Dao.description>Disk siperli ve kırmızı püsküllü, sıradan askerin geniş kılıcı. Derin keser ve öğrenmesi kolaydır.</HE_Tianxia_Dao.description>
+  <HE_Tianxia_Dao.tools.0.label>kabza</HE_Tianxia_Dao.tools.0.label>
+  <HE_Tianxia_Dao.tools.1.label>uç</HE_Tianxia_Dao.tools.1.label>
+  <HE_Tianxia_Dao.tools.2.label>ağız</HE_Tianxia_Dao.tools.2.label>
+  <HE_Tianxia_BirdGun.label>kuş tüfeği</HE_Tianxia_BirdGun.label>
+  <HE_Tianxia_BirdGun.description>Kuş tüfeği denen uzun, ince fitilli tüfek: uçan bir kuşu vuracak kadar isabetli, bütün gün taşınacak kadar hafif.</HE_Tianxia_BirdGun.description>
+  <HE_Tianxia_BirdGun.tools.0.label>dipçik</HE_Tianxia_BirdGun.tools.0.label>
+  <HE_Tianxia_BirdGun.tools.1.label>namlu</HE_Tianxia_BirdGun.tools.1.label>
+  <HE_Tianxia_Rifle.label>Tianxia tüfeği</HE_Tianxia_Rifle.label>
+  <HE_Tianxia_Rifle.description>Yeni cephaneliklerden çıkma, koyu kırmızı dipçiği pirinçle sarılı ve namlu ağzında uğur için kırmızı bir püskülü olan sürgülü bir tüfek. Binlercesi yapıldı; her tüfekten daha az emek ve parça ister.</HE_Tianxia_Rifle.description>
+  <HE_Tianxia_Rifle.tools.0.label>dipçik</HE_Tianxia_Rifle.tools.0.label>
+  <HE_Tianxia_Rifle.tools.1.label>namlu</HE_Tianxia_Rifle.tools.1.label>
+</LanguageData>

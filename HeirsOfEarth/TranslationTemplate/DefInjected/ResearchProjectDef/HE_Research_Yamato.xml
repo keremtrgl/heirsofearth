@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Yari.label>yari</HE_Yamato_Yari.label>
+  <HE_Yamato_Yari.description>The straight-bladed spear of the foot soldiers, long enough to keep a horseman at bay.</HE_Yamato_Yari.description>
+  <HE_Yamato_Yumi.label>yumi</HE_Yamato_Yumi.label>
+  <HE_Yamato_Yumi.description>The tall asymmetric bow of Yamato, gripped below its middle and drawn to the ear.</HE_Yamato_Yumi.description>
+  <HE_Yamato_Tatami.label>tatami and gravel gardens</HE_Yamato_Tatami.label>
+  <HE_Yamato_Tatami.description>Lay woven straw tatami mats and rake white gravel into the patterns of still water.</HE_Yamato_Tatami.description>
+  <HE_Yamato_Kimono.label>kimono</HE_Yamato_Kimono.label>
+  <HE_Yamato_Kimono.description>Sew the wrapped and belted robe worn by every class of Yamato.</HE_Yamato_Kimono.description>
+  <HE_Yamato_Onigiri.label>onigiri</HE_Yamato_Onigiri.label>
+  <HE_Yamato_Onigiri.description>Rice pressed into triangles and wrapped in seaweed: the travelling food of soldiers and pilgrims.</HE_Yamato_Onigiri.description>
+  <HE_Yamato_Torii.label>torii gates</HE_Yamato_Torii.label>
+  <HE_Yamato_Torii.description>Raise the red gates that mark the passage from the everyday world into a sacred place.</HE_Yamato_Torii.description>
+  <HE_Yamato_Levy.label>ashigaru levy</HE_Yamato_Levy.label>
+  <HE_Yamato_Levy.description>Every farmer keeps a spear by the door and knows where to run when the drum sounds.
+
+Tradition: Colonists move 3% faster.
+
+Requires 15 Yamato knowledge unless this is your heritage.</HE_Yamato_Levy.description>
+  <HE_Yamato_Kyudo.label>kyudo</HE_Yamato_Kyudo.label>
+  <HE_Yamato_Kyudo.description>The way of the bow: a calm breath, a perfect posture and an arrow that is released rather than shot.
+
+Tradition: Colonists gain +2 shooting accuracy.
+
+Requires 20 Yamato knowledge unless this is your heritage.</HE_Yamato_Kyudo.description>
+  <HE_Yamato_Zen.label>zen garden</HE_Yamato_Zen.label>
+  <HE_Yamato_Zen.description>Raking gravel around a few stones every morning teaches the mind to settle like the sand.
+
+Tradition: Colonists' mental break threshold drops by 3%.
+
+Requires 20 Yamato knowledge unless this is your heritage.</HE_Yamato_Zen.description>
+  <HE_Yamato_Tamahagane.label>tamahagane steel</HE_Yamato_Tamahagane.label>
+  <HE_Yamato_Tamahagane.description>Smelt jewel steel in a clay furnace and fold it again and again into blades with a soft spine and a hard edge.
+
+Requires 10 Yamato knowledge unless this is your heritage.</HE_Yamato_Tamahagane.description>
+  <HE_Yamato_TeaHouse.label>tea house</HE_Yamato_TeaHouse.label>
+  <HE_Yamato_TeaHouse.description>Build a low table for the tea ceremony and stone lanterns to light the garden path.
+
+Requires 15 Yamato knowledge unless this is your heritage.</HE_Yamato_TeaHouse.description>
+  <HE_Yamato_Dojo.label>dojo</HE_Yamato_Dojo.label>
+  <HE_Yamato_Dojo.description>A training hall with straw posts and racks for practice swords.
+
+Requires 15 Yamato knowledge unless this is your heritage.</HE_Yamato_Dojo.description>
+  <HE_Yamato_Yoroi.label>yoroi armour</HE_Yamato_Yoroi.label>
+  <HE_Yamato_Yoroi.description>Lacquered lamellar armour laced with silk, and the horned kabuto helmet of the samurai.
+
+Requires 25 Yamato knowledge unless this is your heritage.</HE_Yamato_Yoroi.description>
+  <HE_Yamato_Ceremony.label>tea ceremony</HE_Yamato_Ceremony.label>
+  <HE_Yamato_Ceremony.description>Every movement of the host is fixed and unhurried. Guests leave lighter than they came.
+
+Tradition: Colonists gain recreation 15% faster.
+
+Requires 25 Yamato knowledge unless this is your heritage.</HE_Yamato_Ceremony.description>
+  <HE_Yamato_Folds.label>forged folds</HE_Yamato_Folds.label>
+  <HE_Yamato_Folds.description>The smith's patience becomes the whole colony's habit: measure twice, strike once.
+
+Tradition: Colonists do general labour (smithing, crafting, butchering, cutting stone) 10% faster.
+
+Requires 30 Yamato knowledge unless this is your heritage.</HE_Yamato_Folds.description>
+  <HE_Yamato_Bushido.label>bushido</HE_Yamato_Bushido.label>
+  <HE_Yamato_Bushido.description>The way of the warrior: duty before life, calm before pain.
+
+Tradition: Colonists gain +3 melee dodge chance and +5% pain shock threshold.
+
+Requires 40 Yamato knowledge unless this is your heritage.</HE_Yamato_Bushido.description>
+  <HE_Yamato_MasterCraft.label>master craft</HE_Yamato_MasterCraft.label>
+  <HE_Yamato_MasterCraft.description>A Yamato craftsman would rather make one perfect thing than ten good ones.
+
+Tradition: Crafted items have a 12% chance to come out one quality level higher, but colonists work 5% slower.
+
+Requires 45 Yamato knowledge unless this is your heritage.</HE_Yamato_MasterCraft.description>
+  <HE_Yamato_Mandate.label>mandate of heaven</HE_Yamato_Mandate.label>
+  <HE_Yamato_Mandate.description>The rightful order is restored, and the people of Yamato work and study with calm hearts.
+
+Tradition: Colonists learn 5% faster and their mental break threshold drops by 3%.
+
+Requires 50 Yamato knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Yamato_Mandate.description>
+  <HE_Yamato_Tanegashima.label>tanegashima</HE_Yamato_Tanegashima.label>
+  <HE_Yamato_Tanegashima.description>Matchlocks copied from a stranded merchant's gun and improved in the forges of Sakai until they outshot the original.
+
+Requires 35 Yamato knowledge unless this is your heritage.</HE_Yamato_Tanegashima.description>
+  <HE_Yamato_Sakai.label>Sakai gunsmiths</HE_Yamato_Sakai.label>
+  <HE_Yamato_Sakai.description>Three ranks of gunners, one firing, one ramming, one priming. Every man knows his breath and his count.
+
+Tradition: Colonists aim 8% faster.
+
+Requires 45 Yamato knowledge unless this is your heritage.</HE_Yamato_Sakai.description>
+  <HE_Yamato_Yagura.label>yagura</HE_Yamato_Yagura.label>
+  <HE_Yamato_Yagura.description>Castle builders learn to raise arrow towers at the corners of the walls, where archers can shoot along them.
+
+Requires 40 Yamato knowledge unless this is your heritage.</HE_Yamato_Yagura.description>
+  <HE_Yamato_SteamArmy.label>Yamato steam army</HE_Yamato_SteamArmy.label>
+  <HE_Yamato_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Yamato raised when the factories came.
+
+Outside your heritage, this can be researched only once Yamato has reached the Age of Steam.
+
+Requires 45 Yamato knowledge unless this is your heritage.</HE_Yamato_SteamArmy.description>
+</LanguageData>

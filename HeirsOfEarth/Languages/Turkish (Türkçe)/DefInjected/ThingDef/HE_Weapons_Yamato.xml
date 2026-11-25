@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Katana.label>katana</HE_Yamato_Katana.label>
+  <HE_Yamato_Katana.description>Sert, dalgalı bir su verme çizgisi olan, katlanmış çelikten eğri, tek ağızlı kılıç. Temiz ve hızlı keser.</HE_Yamato_Katana.description>
+  <HE_Yamato_Katana.tools.0.label>kabza</HE_Yamato_Katana.tools.0.label>
+  <HE_Yamato_Katana.tools.1.label>uç</HE_Yamato_Katana.tools.1.label>
+  <HE_Yamato_Katana.tools.2.label>ağız</HE_Yamato_Katana.tools.2.label>
+  <HE_Yamato_Yari.label>yari</HE_Yamato_Yari.label>
+  <HE_Yamato_Yari.description>Düz, üçgen ağızlı uzun bir mızrak. Basit, ucuz ve disiplinli bir hatta ölümcül.</HE_Yamato_Yari.description>
+  <HE_Yamato_Yari.tools.0.label>gövde</HE_Yamato_Yari.tools.0.label>
+  <HE_Yamato_Yari.tools.1.label>uç</HE_Yamato_Yari.tools.1.label>
+  <HE_Yamato_Naginata.label>naginata</HE_Yamato_Naginata.label>
+  <HE_Yamato_Naginata.description>Uzun, lake bir sapın ucunda eğri bir ağız; birçok düşmanı uzakta tutmak için geniş yaylarla savrulur.</HE_Yamato_Naginata.description>
+  <HE_Yamato_Naginata.tools.0.label>gövde</HE_Yamato_Naginata.tools.0.label>
+  <HE_Yamato_Naginata.tools.1.label>uç</HE_Yamato_Naginata.tools.1.label>
+  <HE_Yamato_Naginata.tools.2.label>ağız</HE_Yamato_Naginata.tools.2.label>
+  <HE_Yamato_Yumi.label>yumi</HE_Yamato_Yumi.label>
+  <HE_Yamato_Yumi.description>Okçusundan uzun, lamine bambudan bir yay. Eğitimli ellerde uzağa ve isabetle atar.</HE_Yamato_Yumi.description>
+  <HE_Yamato_Yumi.tools.0.label>kol</HE_Yamato_Yumi.tools.0.label>
+  <HE_Yamato_Tanegashima.label>tanegaşima</HE_Yamato_Tanegashima.label>
+  <HE_Yamato_Tanegashima.description>Siyah cilalı dipçikli ve pirinç donanımlı uzun bir fitilli tüfek. Yanan fitil kuru tutulmalıdır, ama eğitimli bir tüfekçi yüz adımda bir adamı vurur.</HE_Yamato_Tanegashima.description>
+  <HE_Yamato_Tanegashima.tools.0.label>dipçik</HE_Yamato_Tanegashima.tools.0.label>
+  <HE_Yamato_Tanegashima.tools.1.label>namlu</HE_Yamato_Tanegashima.tools.1.label>
+  <HE_Yamato_Rifle.label>Yamato tüfeği</HE_Yamato_Rifle.label>
+  <HE_Yamato_Rifle.description>Siyah cilalı dipçikli, bileğinde pirinç bir kiraz çiçeği ve kılıç süngüsü olan sürgülü bir tüfek. Uzak mesafede çok isabetlidir.</HE_Yamato_Rifle.description>
+  <HE_Yamato_Rifle.tools.0.label>dipçik</HE_Yamato_Rifle.tools.0.label>
+  <HE_Yamato_Rifle.tools.1.label>süngü</HE_Yamato_Rifle.tools.1.label>
+</LanguageData>

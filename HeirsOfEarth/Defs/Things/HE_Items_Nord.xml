@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Nord_Amber</defName>
+    <label>raw amber</label>
+    <description>Golden lumps of amber gathered from the northern shores. Traders pay well for it.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Nord_Amber</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>50</stackLimit>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>18</MarketValue>
+      <Mass>0.2</Mass>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>1</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_NordGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

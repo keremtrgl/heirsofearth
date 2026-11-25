@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion.label>Commonwealth of Albion</HE_Albion.label>
+  <HE_Albion.description>The colony ship Avalon landed on a rainy island rich in coal and iron, and its people did what their ancestors had done: they dug, built and invented. Albion is the only heir nation with steam engines and rifles, ruled by a Lord Protector and a quarrelsome parliament. Its redcoats are disciplined, its merchants ambitious, and it has been at odds with Nova Roma for as long as anyone can remember.</HE_Albion.description>
+  <HE_Albion.rulerTitle>Lord Protector</HE_Albion.rulerTitle>
+  <HE_Albion.adjective>Albion</HE_Albion.adjective>
+  <HE_Albion.doctrine.label>siege train</HE_Albion.doctrine.label>
+  <HE_Albion.doctrine.description>Albion comes with spades and guns. Its armies often dig in and build a battery before they attack, and its riflemen fire steady, measured volleys.</HE_Albion.doctrine.description>
+  <HE_Albion.honoraryTitle>knight of the Commonwealth</HE_Albion.honoraryTitle>
+</LanguageData>

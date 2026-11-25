@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_BS_TerraceFarmer.title>teras çiftçisi</HE_Inti_BS_TerraceFarmer.title>
+  <HE_Inti_BS_TerraceFarmer.titleShort>çiftçi</HE_Inti_BS_TerraceFarmer.titleShort>
+  <HE_Inti_BS_TerraceFarmer.description>[PAWN_nameDef] bir dağ yamacında merdiven gibi dizilmiş tarlaları ekti; tepede patates, dipte mısır, aralarında kinoa. Yıkılmış bir teras duvarını bir günde yeniden örebilir.</HE_Inti_BS_TerraceFarmer.description>
+  <HE_Inti_BS_Khipukamayuq.title>khipukamayuq</HE_Inti_BS_Khipukamayuq.title>
+  <HE_Inti_BS_Khipukamayuq.titleShort>düğüm bekçisi</HE_Inti_BS_Khipukamayuq.titleShort>
+  <HE_Inti_BS_Khipukamayuq.description>[PAWN_nameDef] bütün bir eyaletin quipularını tuttu: her lama, her mısır çuvalı ve her asker renkli düğümlere bağlıydı. Karanlıkta bir ipi hâlâ dokunarak okuyabilir.</HE_Inti_BS_Khipukamayuq.description>
+  <HE_Inti_BS_Stonemason.title>imparatorluk taş ustası</HE_Inti_BS_Stonemason.title>
+  <HE_Inti_BS_Stonemason.titleShort>usta</HE_Inti_BS_Stonemason.titleShort>
+  <HE_Inti_BS_Stonemason.description>[PAWN_nameDef] taşları harca gerek kalmadan birbirine oturacak kadar hassas yonttu; graniti daha sert taşlarla, birleşim yerleri kaybolana dek dövdü.</HE_Inti_BS_Stonemason.description>
+  <HE_Inti_BS_Chaski.title>çaski koşucusu</HE_Inti_BS_Chaski.title>
+  <HE_Inti_BS_Chaski.titleShort>koşucu</HE_Inti_BS_Chaski.titleShort>
+  <HE_Inti_BS_Chaski.description>[PAWN_nameDef] büyük yolun kendi parçasını gece gündüz koştu; çantasında bir quipu, dudaklarında bir deniz kabuğu vardı. Hiçbir haberi geciktiren o olmadı.</HE_Inti_BS_Chaski.description>
+  <HE_Inti_BS_Slinger.title>ordu sapancısı</HE_Inti_BS_Slinger.title>
+  <HE_Inti_BS_Slinger.titleShort>sapancı</HE_Inti_BS_Slinger.titleShort>
+  <HE_Inti_BS_Slinger.description>[PAWN_nameDef] imparatorluk ordusunun ön saflarında elinde sapan, belinde bir torba taşla yürüdü. Elli adımdan bir su kabağını yarabilir.</HE_Inti_BS_Slinger.description>
+  <HE_Inti_BS_Herbalist.title>kallawaya şifacısı</HE_Inti_BS_Herbalist.title>
+  <HE_Inti_BS_Herbalist.titleShort>şifacı</HE_Inti_BS_Herbalist.titleShort>
+  <HE_Inti_BS_Herbalist.description>[PAWN_nameDef] bir torba şifalı otla bulut ormanlarından yüksek ovalara kadar yürüdü; yol üstündeki her köyde kemik sardı ve ateş tedavi etti.</HE_Inti_BS_Herbalist.description>
+  <HE_Inti_BS_Weaver.title>aqlla dokumacısı</HE_Inti_BS_Weaver.title>
+  <HE_Inti_BS_Weaver.titleShort>dokumacı</HE_Inti_BS_Weaver.titleShort>
+  <HE_Inti_BS_Weaver.description>[PAWN_nameDef] sarayın su tutacak kadar sık dokunmuş, ancak birkaç kişinin okuyabildiği tocapu desenli ince kumaşını dokudu.</HE_Inti_BS_Weaver.description>
+  <HE_Inti_BS_Trader.title>lama kervanı tüccarı</HE_Inti_BS_Trader.title>
+  <HE_Inti_BS_Trader.titleShort>tüccar</HE_Inti_BS_Trader.titleShort>
+  <HE_Inti_BS_Trader.description>[PAWN_nameDef] sahilden dağlara lama dizileri götürdü, kurutulmuş balık ve tuzu yün ve patatesle takas etti ve her pusudan dilini kullanarak kurtuldu.</HE_Inti_BS_Trader.description>
+  <HE_Inti_BS_LlamaChild.title>lama çobanı</HE_Inti_BS_LlamaChild.title>
+  <HE_Inti_BS_LlamaChild.titleShort>çoban</HE_Inti_BS_LlamaChild.titleShort>
+  <HE_Inti_BS_LlamaChild.description>[PAWN_nameDef] yüksek otlaklarda lama ve alpaka güttü; bir elinde tilkileri kovalamak için bir sapan vardı.</HE_Inti_BS_LlamaChild.description>
+  <HE_Inti_BS_TerraceChild.title>teras çocuğu</HE_Inti_BS_TerraceChild.title>
+  <HE_Inti_BS_TerraceChild.titleShort>teras çocuğu</HE_Inti_BS_TerraceChild.titleShort>
+  <HE_Inti_BS_TerraceChild.description>[PAWN_nameDef] saymayı öğrenmeden önce teras merdivenlerinden sepetlerle toprak taşıdı ve tohumluk patates dikti.</HE_Inti_BS_TerraceChild.description>
+  <HE_Inti_BS_KnotPupil.title>düğüm okulu öğrencisi</HE_Inti_BS_KnotPupil.title>
+  <HE_Inti_BS_KnotPupil.titleShort>öğrenci</HE_Inti_BS_KnotPupil.titleShort>
+  <HE_Inti_BS_KnotPupil.description>[PAWN_nameDef] düğüm bekçilerinin okuluna seçildi ve yıllarca sert bir öğretmenin gözetiminde sayıları bağlayıp çözdü.</HE_Inti_BS_KnotPupil.description>
+  <HE_Inti_BS_FisherChild.title>göl balıkçısının çocuğu</HE_Inti_BS_FisherChild.title>
+  <HE_Inti_BS_FisherChild.titleShort>balıkçı çocuğu</HE_Inti_BS_FisherChild.titleShort>
+  <HE_Inti_BS_FisherChild.description>[PAWN_nameDef] soğuk, yüksek bir göldeki sazdan bir adada büyüdü; sazdan bir kayıktan balık tuttu ve her akşam onu yamadı.</HE_Inti_BS_FisherChild.description>
+</LanguageData>

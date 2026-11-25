@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_SteamEngine.label>buhar makinesi</HE_Albion_SteamEngine.label>
+  <HE_Albion_SteamEngine.description>Bir kiriş makinesini ve bir dinamoyu çalıştıran odunla ısıtılan bir kazan. Basit bir jeneratörden daha fazla güç ve bolca gürültü ve duman üretir.</HE_Albion_SteamEngine.description>
+  <HE_Albion_PubTable.label>meyhane masası</HE_Albion_PubTable.label>
+  <HE_Albion_PubTable.description>Bira maşrapaları, bir el kâğıt oyunu ve direkte bir dart tahtası olan uzun, çizik bir meşe masa. Kolonistler burada içmek, tartışmak ve dartta kaybetmek için toplanır.</HE_Albion_PubTable.description>
+  <HE_Albion_TextileMill.label>dokuma fabrikası</HE_Albion_TextileMill.label>
+  <HE_Albion_TextileMill.description>Demir çerçeveli, kayış çarklı ve bir kumaş rulosu olan elektrikli bir dokuma tezgâhı. Her türlü yünü sıcak ve dayanıklı bir kumaş olan tüvite dokur.</HE_Albion_TextileMill.description>
+  <HE_Albion_GasLamp.label>gaz lambası</HE_Albion_GasLamp.label>
+  <HE_Albion_GasLamp.description>Cam fenerli dökme demir bir sokak lambası. Şehirlerde gazhaneden gelen gaz onu bütün gece yakar; burada elektrik şebekesinden beslenen küçük bir brülör aynı işi görür.</HE_Albion_GasLamp.description>
+  <HE_Albion_GrandfatherClock.label>dede saati</HE_Albion_GrandfatherClock.label>
+  <HE_Albion_GrandfatherClock.description>Pirinç sarkaçlı, oymalı meşeden uzun bir ayaklı saat; haftada bir kurulur. Yavaş tik takı düzenli bir evin sesidir.</HE_Albion_GrandfatherClock.description>
+  <HE_Albion_FieldCannon_Gun.label>top</HE_Albion_FieldCannon_Gun.label>
+  <HE_Albion_FieldCannon_Gun.description>sahra topu yapısının dönen üst kısmı.</HE_Albion_FieldCannon_Gun.description>
+  <HE_Albion_FieldCannon.label>sahra topu</HE_Albion_FieldCannon.label>
+  <HE_Albion_FieldCannon.description>Bir kum torbası halkasının ardında, ahşap bir kızak üzerinde bronz bir top. Her mermi düştüğü yerde patlar. Sekiz kareden yakına ateş edemez ve topçuların temizleyip yeniden doldurması zaman alır. Çelik mermiye dökülür: dört çelik bir mermi eder.</HE_Albion_FieldCannon.description>
+  <HE_Albion_FieldCannon.comps.1.fuelLabel>Mermiler</HE_Albion_FieldCannon.comps.1.fuelLabel>
+  <HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>Mermiler</HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>
+  <HE_Albion_FieldCannon.comps.1.outOfFuelMessage>Mermi için çelik gerekli</HE_Albion_FieldCannon.comps.1.outOfFuelMessage>
+</LanguageData>

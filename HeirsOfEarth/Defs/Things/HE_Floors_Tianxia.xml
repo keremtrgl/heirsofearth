@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Tianxia_Jade</defName>
+    <label>jade tiles</label>
+    <description>Polished green stone tiles set in a pattern of interlocking clouds.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Tianxia_Jade</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1400</WorkToBuild>
+      <Beauty>4</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksMarble>4</BlocksMarble>
+      <Silver>2</Silver>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_JadeFloor</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Tianxia_GreyBrick</defName>
+    <label>grey brick paving</label>
+    <description>Fired grey bricks laid in a herringbone. Granary yards and city streets of Tianxia are paved with them.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Tianxia_GreyBrick</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>800</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksGranite>2</BlocksGranite>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_Granary</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Tianxia_Lacquer</defName>
+    <label>red lacquer boards</label>
+    <description>Boards coated in many layers of red lacquer until they shine like glass. Only halls of state and rich houses can afford them.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Tianxia_Lacquer</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1400</WorkToBuild>
+      <Beauty>4</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+      <Silver>2</Silver>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_PorcelainKiln</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

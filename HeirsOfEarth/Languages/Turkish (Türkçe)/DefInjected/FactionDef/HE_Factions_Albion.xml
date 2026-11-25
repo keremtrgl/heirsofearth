@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Albion.label>Albion Topluluğu</HE_Faction_Albion.label>
+  <HE_Faction_Albion.description>Avalon koloni gemisinin mirasçısı Albion Topluluğu: kömür ocakları, buhar makineleri, kızıl ceketli alaylar ve gece yarısına dek tartışan bir parlamento.</HE_Faction_Albion.description>
+  <HE_Faction_Albion.fixedName>Albion Topluluğu</HE_Faction_Albion.fixedName>
+  <HE_Faction_Albion.pawnSingular>Albionlu</HE_Faction_Albion.pawnSingular>
+  <HE_Faction_Albion.pawnsPlural>Albionlular</HE_Faction_Albion.pawnsPlural>
+  <HE_Faction_Albion.leaderTitle>Lord Koruyucu</HE_Faction_Albion.leaderTitle>
+  <HE_Player_Albion.label>Albion yerleşimcileri</HE_Player_Albion.label>
+  <HE_Player_Albion.description>Yeni bir toprağı sahiplenip işletmek için berat almış küçük bir Albion kumpanyası.</HE_Player_Albion.description>
+  <HE_Player_Albion.pawnSingular>kolonist</HE_Player_Albion.pawnSingular>
+  <HE_Player_Albion.pawnsPlural>kolonistler</HE_Player_Albion.pawnsPlural>
+</LanguageData>

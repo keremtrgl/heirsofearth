@@ -1,0 +1,27 @@
+Heirs of Earth 3.5.0 "Epics"
+
+The nations now have books, a second great story each, and small favours to ask of you.
+
+BOOKS (NEW)
+- 18 classic books, two for every nation, each with its own title and story: the Annals of Nova Roma, Ten Books on Building, The Brush and the Blade, the Diary of the Sakai Tea Masters, the Saga of the First Jarl, the Lay of the Long Winter, the Dialogues of the Academy, the Elements of the Geometers, the Analects of the Examination Hall, Thirteen Chapters on Strategy, the Commonwealth Almanac, A Treatise on the Steam Engine, the Instructions of the Scribe, the Book of the Second Sunrise, Verses of the Garden, the Book of the King's Road, and two khipu of the Inti.
+- Every nation writes in its own way: leather codices, stitched books, rune boards, scrolls, bamboo slips and knotted khipu cords.
+- Reading one teaches your colony that nation's culture knowledge every hour, up to what the book can teach (80 for the first book, 140 for the second). Better copies teach faster (an excellent copy teaches 40% more than a normal one, a legendary copy 80% more). Reading them is also a pleasure.
+- Every nation's caravans and settlements sell its books. They can also turn up as quest rewards.
+
+SECOND SAGAS (NEW)
+- Every nation has a second story, which begins once its first story is done and you know enough of the nation (or it is your heritage): The Burned Archive, The Silent Chronicle, The Skald's Last Song, The Sunken Library, The Hidden Historian, The Lost Charter, The Sealed Tomb, The Poet's Road and The Knots of the Sun.
+- Five steps each: gather materials, raise a monument, master the nation's highest tradition, recover a lost original from a story site, and decide its fate.
+- Return the original to its nation (goodwill, knowledge and silver) or keep it in your own archive (a fine relic, but the nation will not like it).
+- Either way your scribes keep a fair copy: the nation's great book, a legendary book that teaches up to 300 knowledge, fast. The Founders' Codex, Chronicle of the Eight Islands, the Edda of Nordheim, The Song of the Long Voyage, Records of the Heavenly Court, The Great Charter, The Book of Coming Forth, The Book of Kings and The Royal Khipu.
+- The Stories page shows which story a sequel is waiting for.
+
+ERRANDS (NEW)
+- Now and then a friendly nation asks a small favour by letter: plain goods for its storehouses, a fine piece of its own craft (good quality or better), or a book of another nation.
+- Accept and the errand waits on the Stories page with the time left and its reward. Deliver it there for silver, culture knowledge and goodwill. At most three at once; fifteen days each; a broken promise costs a little goodwill.
+
+FIXES
+- A story choice that asks for a relic now takes it even if it is forbidden. Before, the reward was paid but the relic stayed.
+
+TECHNICAL
+- New automatic tests: every book (title, blurb, cover, trade tags, traders selling it), reading speed by quality and the knowledge cap, a real reading job, books in trader stock, every saga's data, a saga from start to great book, all three kinds of errand, delivering, quality, running out of time, the limit of three, and errands and sagas surviving save and load.
+- Save compatible.

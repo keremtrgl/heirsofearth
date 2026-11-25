@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Hellas.label>Hellas Birliği</HE_Faction_Hellas.label>
+  <HE_Faction_Hellas.description>Argo koloni gemisinin mirasçıları, Hellas şehir devletleri. Meclislerinde tartışır, oyunlarında yarışır ve falanksta dövüşürler; hekimleri ve öğretmenleri her devlette hoş karşılanır.</HE_Faction_Hellas.description>
+  <HE_Faction_Hellas.fixedName>Hellas Birliği</HE_Faction_Hellas.fixedName>
+  <HE_Faction_Hellas.pawnSingular>Helen</HE_Faction_Hellas.pawnSingular>
+  <HE_Faction_Hellas.pawnsPlural>Helenler</HE_Faction_Hellas.pawnsPlural>
+  <HE_Faction_Hellas.leaderTitle>arkon</HE_Faction_Hellas.leaderTitle>
+  <HE_Player_Hellas.label>Hellas yerleşimcileri</HE_Player_Hellas.label>
+  <HE_Player_Hellas.description>Ataları gibi yeni bir şehir kuran küçük bir Hellas topluluğu.</HE_Player_Hellas.description>
+  <HE_Player_Hellas.pawnSingular>kolonist</HE_Player_Hellas.pawnSingular>
+  <HE_Player_Hellas.pawnsPlural>kolonistler</HE_Player_Hellas.pawnsPlural>
+</LanguageData>

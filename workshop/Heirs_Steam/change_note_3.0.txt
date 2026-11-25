@@ -1,0 +1,64 @@
+Version 3.0.0 - Sand, Mountain and Road
+
+THREE NEW NATIONS
+The last three colony ships have landed. Each new nation has the same depth as the first six: its own research branch (16+ projects, 7-9 traditions and an industrial row), weapons, armour, buildings, a floor, a food, a trade good, seven kinds of people, twelve backstories, a trader caravan, a start scenario, an archive item, a story chain and a legendary artifact. They appear in new worlds and join existing saves automatically (see "Add new nations to existing saves" in the mod settings).
+
+NEW KEMET - the river kingdom (falcon, sand gold)
+- Friends with Hellas. Farmers, scribes and stonemasons who are very hard to starve.
+- Weapons: river spear, khopesh, composite bow, desert rifle (industrial).
+- Apparel: linen kalasiris, scale corselet, khepresh war crown.
+- Buildings: obelisk (beauty 22, needs a little gold), senet table (a two-player intellectual joy game that trains Intellectual), papyrus workshop (25 hay -> 10 papyrus, a light trade good with knowledge value).
+- Floors: irrigated silt (fertility 125%, laid on soil) and lotus tiles.
+- Food: date bread.
+- Traditions: Gift of the River (+8% harvest yield), House of Scribes (+7% learning), Sun Calendar (+7% plant work speed), Royal Stonemasons (+20% smoothing, +5% mining), Children of the Sun (+5 C comfortable max temperature), Royal Kitchens (-40% food poisoning, +5% cooking speed), Medjay Patrols (+2% move speed, 5% faster aiming), River Engineering (industrial: +5% construction, +2% global work speed).
+- Story chain "The City Beneath the Sand" ends with the Sun Disc of Iteru: it clears the sky, rallies your people and sends enemies fleeing. Capstone: Second Sunrise (+4% harvest, +5% construction, steadier minds).
+
+THE SATRAPY OF PARS - the royal road (griffin, ruby and gold)
+- Friends with Tianxia, rivals of Nova Roma. Gardeners, weavers and the Immortals.
+- Weapons: Immortal's spear, akinakes short sword, recurve bow, jezail (industrial long gun).
+- Apparel: silk kaftan, Immortal's scale coat, winged helmet.
+- Buildings: paradise garden (2x2, beautiful, colonists sit in it for meditative joy), post station lamp (a fuelled lamp), carpet loom (60 cloth or wool -> one Parsian carpet worth 240 silver).
+- Floor: girih tiles. Food: saffron pilaf.
+- Traditions: Culture of Gardens (steadier minds), Law of the Satraps (+15% arrest success, +5% negotiation), Royal Post (+5% trade prices, +10% caravan speed), Qanats (+6% immunity gain), Polo (+10% taming and training), Ears of the King (+8% negotiation, +4% social impact), The Ten Thousand (+5% pain shock threshold, +1 melee hit), Grand Bazaar (industrial: +4% trade prices, +3% negotiation).
+- Story chain "The Royal Road" ends with the King's Eye: it rallies your people, raises relations with every non-hostile heir nation (+6) and calls a friendly heir caravan to your colony. Capstone: Road of Kings (+5% negotiation, +5% social impact, +8% caravan speed).
+
+THE INTI EMPIRE - the counted empire (condor, red-orange)
+- Rivals of Albion. Terrace farmers, runners, slingers and the keepers of the knots.
+- Weapons: sling (throws stones), star mace, mountain carbine (industrial).
+- Apparel: unku tunic, quilted war tunic, plumed war helmet.
+- Buildings: qullqa storehouse (a 2x2 stone store for food and plant matter; food stored in it rots at half speed, and the "rots in" readout shows the longer time), quipu table (links to a research bench, +5% research speed, like the Hellas lyceum), sun stone.
+- Floor: stone terraces (fertility 100%, laid on any diggable ground, so rocky and poor soil can be farmed). Food: pachamanca.
+- Traditions: Chaski Runners (+3% move speed), Ayni (+3% global work speed), Mita Labour (+5% construction and mining), Children of the Heights (-6 C comfortable min temperature), Mountain Farming (+5% harvest, +3% plant work), Keepers of the Knots (+6% research speed), Kallawaya Healers (+5% tend quality), Slingers of the Heights (+1 shooting accuracy, 4% faster aiming), Great Road (industrial: +3% construction, +8% caravan speed).
+- Story chain "The Language of Knots" ends with the Golden Thread: it brings rain, rallies your people and drives enemies back. Capstone: The Counted Empire (+4% research, +5% learning, +2% work speed).
+
+TRADE ROUTES
+- A new "Trade routes" section in the Heirs tab. Open a road to a nation that likes you (relations 25 or more, not hostile) by paying silver once: 400 for a close neighbour, up to 900 for a far one (5 silver per world tile).
+- Up to 3 roads at a time; the Pars tradition Royal Post allows a 4th.
+- Every 15 days a road caravan drops that nation's own goods and silver near your trade spot, worth 35% of what the road cost (50% with Royal Post). The goods are not forbidden, so your colonists can haul them right away.
+- Each caravan raises relations with that nation by 2 and teaches your scholars a little of its culture (+3 Culture Knowledge).
+- Danger on the road: if the nation is at war with anyone, each caravan has a 25% chance of being raided on the way. Nothing arrives that time, but the road stays open.
+- A road closes on its own if the nation turns hostile or collapses (with a letter). You can also close a road yourself; the silver is not returned.
+- Every opening, caravan, raid and closing is written into the Chronicle.
+- Can be turned off in the mod settings ("Trade routes").
+
+THE WORLD COUNCIL (END GOAL)
+- A new "World Council" section in the Heirs tab shows the road to the council and how every nation would vote today, with the reason.
+- The council opens when you finish 3 nation stories, or keep 3 trade roads open for a full year (a letter tells you).
+- Then research "World Council" (industrial, 3000) and build the Council Hall of the Heirs: a 5x5 stepped stone dais with a ring table, a mosaic of the world, nine envoy chairs and nine banners (400 stone, 150 steel, 60 gold, 120 cloth, Construction 8, beauty 40).
+- With the hall standing you can call the council once every 15 days.
+- Unity victory: two thirds of the living nations vote yes. A nation votes yes if it is your ally, has sworn you fealty or has 60+ relations with you, but votes no if a nation it is at war with votes yes. A failed vote sends a letter listing every nation's answer and reason.
+- Dominion victory: every living nation has sworn fealty to you. A nation hostile to you that has lost half of its settlements offers fealty (at most once every 30 days). Accepting ends the war; the nation then pays 100 silver per settlement every 30 days and always votes yes. If it turns hostile again, the oath is broken. A nation whose last settlement you destroy collapses as before.
+- Victory brings a final letter, a Chronicle entry and the end credits; the game goes on afterwards.
+- Can be turned off in the mod settings ("World Council (end goal)"); fealty offers and tributes stop too.
+
+BALANCE AND FIXES
+- Inti warriors get a larger weapon budget, so they no longer sometimes spawn without their star mace.
+
+ART
+- 51 new hand-painted textures for the three nations: weapons, apparel, buildings, floors, food, relics, artifacts and nation emblems.
+- The Council Hall of the Heirs.
+
+TECHNICAL
+- New mod feature "foodStore" (Harmony patch on CompRottable). If a future game update breaks it, it turns itself off with a log warning and nothing else is affected.
+- Artifacts can now raise goodwill and call a caravan (new fields on the artifact comp).
+- Trade routes, the council, fealty and victory are saved with the game; saves from 2.x load without them and start with no roads.

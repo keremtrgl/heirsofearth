@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Yamato_Tatami</defName>
+    <label>tatami</label>
+    <description>Woven rush mats with dark cloth borders, soft underfoot and pleasant to sit on.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Yamato_Tatami</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>700</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <Hay>4</Hay>
+      <Cloth>1</Cloth>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Tatami</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Yamato_Gravel</defName>
+    <label>raked gravel</label>
+    <description>White gravel raked into gentle waves. Calming to look at, a little slow to walk across.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Yamato_Gravel</texturePath>
+    <pathCost>2</pathCost>
+    <statBases>
+      <WorkToBuild>600</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksGranite>1</BlocksGranite>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Tatami</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Yamato_Ishidatami</defName>
+    <label>ishidatami paving</label>
+    <description>Grey stone slabs laid in courses, with moss allowed to grow in the joints. Temple paths and castle courts are paved this way.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Yamato_Ishidatami</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>900</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksGranite>3</BlocksGranite>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Torii</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

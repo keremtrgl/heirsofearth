@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_BS_Raider.title>coastal raider</HE_Nord_BS_Raider.title>
+  <HE_Nord_BS_Raider.titleShort>raider</HE_Nord_BS_Raider.titleShort>
+  <HE_Nord_BS_Raider.description>[PAWN_nameDef] rowed with a raiding crew every summer, striking fast at undefended coasts and gone before the alarm bells stopped ringing.</HE_Nord_BS_Raider.description>
+  <HE_Nord_BS_Hunter.title>snow hunter</HE_Nord_BS_Hunter.title>
+  <HE_Nord_BS_Hunter.titleShort>hunter</HE_Nord_BS_Hunter.titleShort>
+  <HE_Nord_BS_Hunter.description>[PAWN_nameDef] followed elk and wolves through deep snow for weeks at a time with nothing but a bow, a knife and a fur bag.</HE_Nord_BS_Hunter.description>
+  <HE_Nord_BS_Smith.title>bog-iron smith</HE_Nord_BS_Smith.title>
+  <HE_Nord_BS_Smith.titleShort>smith</HE_Nord_BS_Smith.titleShort>
+  <HE_Nord_BS_Smith.description>[PAWN_nameDef] dug iron from the bogs, smelted it in clay furnaces and twisted it into the patterned blades the jarls prize.</HE_Nord_BS_Smith.description>
+  <HE_Nord_BS_Skald.title>skald</HE_Nord_BS_Skald.title>
+  <HE_Nord_BS_Skald.titleShort>skald</HE_Nord_BS_Skald.titleShort>
+  <HE_Nord_BS_Skald.description>[PAWN_nameDef] knows a thousand verses and the family tree of every jarl. [PAWN_pronoun] won more feuds with mocking poems than others did with axes.</HE_Nord_BS_Skald.description>
+  <HE_Nord_BS_Shipwright.title>shipwright</HE_Nord_BS_Shipwright.title>
+  <HE_Nord_BS_Shipwright.titleShort>shipwright</HE_Nord_BS_Shipwright.titleShort>
+  <HE_Nord_BS_Shipwright.description>[PAWN_nameDef] built longships with overlapping planks and rivets, shaping every rib by eye. [PAWN_pronoun] can build a house as easily as a hull.</HE_Nord_BS_Shipwright.description>
+  <HE_Nord_BS_Farmer.title>steading farmer</HE_Nord_BS_Farmer.title>
+  <HE_Nord_BS_Farmer.titleShort>farmer</HE_Nord_BS_Farmer.titleShort>
+  <HE_Nord_BS_Farmer.description>[PAWN_nameDef] kept goats, barley and a stubborn cow on a steading by a cold fjord. Every summer was too short and every winter too long.</HE_Nord_BS_Farmer.description>
+  <HE_Nord_BS_Berserker.title>berserker</HE_Nord_BS_Berserker.title>
+  <HE_Nord_BS_Berserker.titleShort>berserker</HE_Nord_BS_Berserker.titleShort>
+  <HE_Nord_BS_Berserker.description>[PAWN_nameDef] wore a bear skin into battle and fought like the animal itself. Afterwards [PAWN_pronoun] remembered nothing, and the others did not like to talk about it.</HE_Nord_BS_Berserker.description>
+  <HE_Nord_BS_Trader.title>amber trader</HE_Nord_BS_Trader.title>
+  <HE_Nord_BS_Trader.titleShort>trader</HE_Nord_BS_Trader.titleShort>
+  <HE_Nord_BS_Trader.description>[PAWN_nameDef] carried amber, furs and walrus ivory south and came back with silver and stories. [PAWN_pronoun] speaks a little of every language.</HE_Nord_BS_Trader.description>
+  <HE_Nord_BS_FjordChild.title>fjord child</HE_Nord_BS_FjordChild.title>
+  <HE_Nord_BS_FjordChild.titleShort>fjord child</HE_Nord_BS_FjordChild.titleShort>
+  <HE_Nord_BS_FjordChild.description>[PAWN_nameDef] grew up fishing from small boats and swimming in water so cold it stopped the breath.</HE_Nord_BS_FjordChild.description>
+  <HE_Nord_BS_HallChild.title>mead hall child</HE_Nord_BS_HallChild.title>
+  <HE_Nord_BS_HallChild.titleShort>hall child</HE_Nord_BS_HallChild.titleShort>
+  <HE_Nord_BS_HallChild.description>[PAWN_nameDef] grew up in the jarl's hall, carrying horns of mead to warriors and listening to their boasts late into the night.</HE_Nord_BS_HallChild.description>
+  <HE_Nord_BS_Thrall.title>thrall's child</HE_Nord_BS_Thrall.title>
+  <HE_Nord_BS_Thrall.titleShort>thrall</HE_Nord_BS_Thrall.titleShort>
+  <HE_Nord_BS_Thrall.description>[PAWN_nameDef] was born unfree and worked in the fields from the day [PAWN_pronoun] could carry a basket, until a kind jarl set [PAWN_objective] free.</HE_Nord_BS_Thrall.description>
+  <HE_Nord_BS_ForestChild.title>forest child</HE_Nord_BS_ForestChild.title>
+  <HE_Nord_BS_ForestChild.titleShort>forest child</HE_Nord_BS_ForestChild.titleShort>
+  <HE_Nord_BS_ForestChild.description>[PAWN_nameDef] grew up in a hunter's cabin deep in the pine woods, learning tracks before letters.</HE_Nord_BS_ForestChild.description>
+</LanguageData>

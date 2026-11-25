@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Sabre.label>süvari kılıcı</HE_Albion_Sabre.label>
+  <HE_Albion_Sabre.description>Çelik sepet siperli, eğri, tek ağızlı bir kılıç. Hızlı keser ve eli güvende tutar.</HE_Albion_Sabre.description>
+  <HE_Albion_Sabre.tools.0.label>siper</HE_Albion_Sabre.tools.0.label>
+  <HE_Albion_Sabre.tools.1.label>uç</HE_Albion_Sabre.tools.1.label>
+  <HE_Albion_Sabre.tools.2.label>ağız</HE_Albion_Sabre.tools.2.label>
+  <HE_Albion_Musket.label>çakmaklı tüfek</HE_Albion_Musket.label>
+  <HE_Albion_Musket.description>Uzun, yivsiz bir çakmaklı tüfek. Yeniden doldurması yavaş ve uzakta isabetsizdir, ama ağır kurşun bilye vurduğu her şeyi durdurur.</HE_Albion_Musket.description>
+  <HE_Albion_Musket.tools.0.label>dipçik</HE_Albion_Musket.tools.0.label>
+  <HE_Albion_Musket.tools.1.label>namlu</HE_Albion_Musket.tools.1.label>
+  <HE_Albion_Rifle.label>yivli tüfek</HE_Albion_Rifle.label>
+  <HE_Albion_Rifle.description>Soket süngülü, ağızdan dolma bir tüfek. Üç yüz adımda bir adamı vurur ve barut bittiğinde de dövüşmeye devam eder.</HE_Albion_Rifle.description>
+  <HE_Albion_Rifle.tools.0.label>dipçik</HE_Albion_Rifle.tools.0.label>
+  <HE_Albion_Rifle.tools.1.label>süngü</HE_Albion_Rifle.tools.1.label>
+  <HE_Albion_Blunderbuss.label>blanderbas</HE_Albion_Blunderbuss.label>
+  <HE_Albion_Blunderbuss.description>Bir avuç saçmayla doldurulan, ağzı genişleyen pirinç namlulu kısa bir tüfek. Bir tarlanın öbür ucunda işe yaramaz, bir odanın öbür ucunda korkunçtur. Arabacılar ve gemi tayfaları ona yemin eder.</HE_Albion_Blunderbuss.description>
+  <HE_Albion_Blunderbuss.tools.0.label>dipçik</HE_Albion_Blunderbuss.tools.0.label>
+  <HE_Albion_Blunderbuss.tools.1.label>namlu</HE_Albion_Blunderbuss.tools.1.label>
+  <HE_Albion_FlintlockPistol.label>çakmaklı tabanca</HE_Albion_FlintlockPistol.label>
+  <HE_Albion_FlintlockPistol.description>Pirinç dipçik kapaklı bir kılıf tabancası: bir atış, sonra bir sopa. Subaylar bunlardan bir çift taşır.</HE_Albion_FlintlockPistol.description>
+  <HE_Albion_FlintlockPistol.tools.0.label>kavrama</HE_Albion_FlintlockPistol.tools.0.label>
+  <HE_Albion_FlintlockPistol.tools.1.label>namlu</HE_Albion_FlintlockPistol.tools.1.label>
+  <HE_Albion_Breechloader.label>kuyruktan dolma tüfek</HE_Albion_Breechloader.label>
+  <HE_Albion_Breechloader.description>Düşen kamalı bir tüfek: manivelayı çek, bir fişek koy, kapat ve ateş et. Eğitimli bir asker dakikada on nişanlı atış yapar.</HE_Albion_Breechloader.description>
+  <HE_Albion_Breechloader.tools.0.label>dipçik</HE_Albion_Breechloader.tools.0.label>
+  <HE_Albion_Breechloader.tools.1.label>süngü</HE_Albion_Breechloader.tools.1.label>
+</LanguageData>

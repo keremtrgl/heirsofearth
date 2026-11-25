@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bolt_Manuballista</defName>
+    <label>manuballista bolt</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>17</damageAmountBase>
+      <speed>52</speed>
+      <armorPenetrationBase>0.32</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Yumi</defName>
+    <label>yumi arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <speed>46</speed>
+      <armorPenetrationBase>0.22</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_HuntBow</defName>
+    <label>hunting arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>13</damageAmountBase>
+      <speed>44</speed>
+      <armorPenetrationBase>0.18</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Toxon</defName>
+    <label>toxon arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>13</damageAmountBase>
+      <speed>48</speed>
+      <armorPenetrationBase>0.18</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bolt_Repeater</defName>
+    <label>repeater bolt</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>8</damageAmountBase>
+      <speed>50</speed>
+      <armorPenetrationBase>0.1</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_FireLance</defName>
+    <label>fire lance blast</label>
+    <graphicData>
+      <texPath>Things/Projectile/Spark</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>12</damageAmountBase>
+      <speed>40</speed>
+      <armorPenetrationBase>0.1</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Musket</defName>
+    <label>musket ball</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>20</damageAmountBase>
+      <speed>70</speed>
+      <armorPenetrationBase>0.3</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Rifle</defName>
+    <label>rifle bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>18</damageAmountBase>
+      <speed>80</speed>
+      <armorPenetrationBase>0.34</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Kemet</defName>
+    <label>reed arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>12</damageAmountBase>
+      <speed>50</speed>
+      <armorPenetrationBase>0.16</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_DesertRifle</defName>
+    <label>desert rifle bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>17</damageAmountBase>
+      <speed>74</speed>
+      <armorPenetrationBase>0.26</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Pars</defName>
+    <label>cane arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>12</damageAmountBase>
+      <speed>52</speed>
+      <armorPenetrationBase>0.16</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Jezail</defName>
+    <label>jezail ball</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>20</damageAmountBase>
+      <speed>70</speed>
+      <armorPenetrationBase>0.25</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Stone_Inti</defName>
+    <label>sling stone</label>
+    <graphicData>
+      <texPath>HeirsOfEarth/Projectiles/HE_Stone_Inti</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Blunt</damageDef>
+      <damageAmountBase>10</damageAmountBase>
+      <speed>44</speed>
+      <armorPenetrationBase>0.1</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_MountainCarbine</defName>
+    <label>carbine bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <speed>70</speed>
+      <armorPenetrationBase>0.22</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Carbine</defName>
+    <label>carbine bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>15</damageAmountBase>
+      <speed>70</speed>
+      <armorPenetrationBase>0.22</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Tanegashima</defName>
+    <label>matchlock ball</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>21</damageAmountBase>
+      <speed>68</speed>
+      <armorPenetrationBase>0.28</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Projectile_Harpoon</defName>
+    <label>harpoon</label>
+    <graphicData>
+      <texPath>HeirsOfEarth/Things/HE_Projectile_Harpoon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>30</damageAmountBase>
+      <speed>45</speed>
+      <armorPenetrationBase>0.45</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Fire</defName>
+    <label>fire arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>8</damageAmountBase>
+      <speed>40</speed>
+      <armorPenetrationBase>0.1</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bolt_Scorpio</defName>
+    <label>scorpio bolt</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>36</damageAmountBase>
+      <speed>60</speed>
+      <armorPenetrationBase>0.38</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Yagura</defName>
+    <label>tower arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>12</damageAmountBase>
+      <speed>50</speed>
+      <armorPenetrationBase>0.16</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_BowLoft</defName>
+    <label>great arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>14</damageAmountBase>
+      <speed>55</speed>
+      <armorPenetrationBase>0.2</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Stone_Lithobolos</defName>
+    <label>hurled stone</label>
+    <graphicData>
+      <texPath>HeirsOfEarth/Projectiles/HE_Stone_Inti</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Blunt</damageDef>
+      <damageAmountBase>34</damageAmountBase>
+      <speed>34</speed>
+      <armorPenetrationBase>0.32</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Shell_FieldCannon</defName>
+    <label>cannon shell</label>
+    <thingClass>Projectile_Explosive</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Projectiles/HE_Stone_Inti</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>44</damageAmountBase>
+      <speed>46</speed>
+      <armorPenetrationBase>0.3</armorPenetrationBase>
+      <explosionRadius>2.1</explosionRadius>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Arrow_Pylon</defName>
+    <label>pylon arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>10</damageAmountBase>
+      <speed>48</speed>
+      <armorPenetrationBase>0.14</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Naft_Pars</defName>
+    <label>naft spray</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>11</damageAmountBase>
+      <speed>30</speed>
+      <armorPenetrationBase>0.05</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Stone_SlingStand</defName>
+    <label>sling stone</label>
+    <graphicData>
+      <texPath>HeirsOfEarth/Projectiles/HE_Stone_Inti</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Blunt</damageDef>
+      <damageAmountBase>11</damageAmountBase>
+      <speed>44</speed>
+      <armorPenetrationBase>0.12</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bolt_Gastraphetes</defName>
+    <label>gastraphetes bolt</label>
+    <graphicData>
+      <texPath>Things/Projectile/Arrow_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <damageAmountBase>17</damageAmountBase>
+      <speed>52</speed>
+      <armorPenetrationBase>0.3</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bolas_Inti</defName>
+    <label>bolas</label>
+    <graphicData>
+      <texPath>HeirsOfEarth/Projectiles/HE_Stone_Inti</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Blunt</damageDef>
+      <damageAmountBase>10</damageAmountBase>
+      <speed>30</speed>
+      <armorPenetrationBase>0.08</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Blunderbuss</defName>
+    <label>blunderbuss shot</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>24</damageAmountBase>
+      <speed>60</speed>
+      <armorPenetrationBase>0.16</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_FlintPistol</defName>
+    <label>pistol ball</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>17</damageAmountBase>
+      <speed>55</speed>
+      <armorPenetrationBase>0.2</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Boulder_Trebuchet</defName>
+    <label>trebuchet boulder</label>
+    <thingClass>Projectile_Explosive</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Projectiles/HE_Stone_Inti</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.3,1.3)</drawSize>
+    </graphicData>
+    <projectile>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>32</damageAmountBase>
+      <armorPenetrationBase>0.3</armorPenetrationBase>
+      <speed>26</speed>
+      <explosionRadius>1.9</explosionRadius>
+      <flyOverhead>true</flyOverhead>
+      <shadowSize>0.8</shadowSize>
+      <soundExplode>MortarBomb_Explode</soundExplode>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_Cartridge</defName>
+    <label>rifle cartridge</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>18</damageAmountBase>
+      <speed>90</speed>
+      <armorPenetrationBase>0.38</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_HeavyBall</defName>
+    <label>heavy ball</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>28</damageAmountBase>
+      <speed>60</speed>
+      <armorPenetrationBase>0.45</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Nord</defName>
+    <label>Jarldom of Nordheim</label>
+    <description>The crew of the colony ship Yggdrasil landed on a cold coast and never asked for a warmer one. Their jarls are chosen at the Thing, the assembly of free people, and their longhouses stand in the snow like overturned ships. Hardy hunters and fierce raiders, they keep the old sagas alive around the hearth, and they remember every Roman insult.</description>
+    <color>(0.23, 0.33, 0.38)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Nord</iconPath>
+    <rulerTitle>Jarl</rulerTitle>
+    <adjective>Nordheim</adjective>
+    <release>1</release>
+    <rivals>
+      <li>HE_Roma</li>
+    </rivals>
+    <faction>HE_Faction_Nord</faction>
+    <playerFaction>HE_Player_Nord</playerFaction>
+    <scenario>HE_Start_Nord</scenario>
+    <archive>HE_Nord_Archive</archive>
+    <doctrine>
+      <label>strandhogg</label>
+      <description>The shore raid: no siege and no waiting. Raiders cut through walls with axes and run at the enemy, fast, fierce and hard to stop with pain.</description>
+      <hediff>HE_Doctrine_Nord</hediff>
+      <strategy>ImmediateAttackBreaching</strategy>
+      <chance>0.6</chance>
+    </doctrine>
+    <animal>Husky</animal>
+    <temperamentBias>
+      <li>Warlike</li>
+    </temperamentBias>
+    <honoraryTitle>sworn friend of the jarls</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

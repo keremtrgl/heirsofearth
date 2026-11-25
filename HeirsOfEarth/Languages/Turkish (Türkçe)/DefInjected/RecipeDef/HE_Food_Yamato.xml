@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Yamato_Onigiri.label>onigiri pişir</HE_Cook_Yamato_Onigiri.label>
+  <HE_Cook_Yamato_Onigiri.description>Onigiri pişir.</HE_Cook_Yamato_Onigiri.description>
+  <HE_Cook_Yamato_Onigiri.jobString>Onigiri pişiriyor.</HE_Cook_Yamato_Onigiri.jobString>
+  <HE_Cook_Yamato_Miso.label>miso soup pişir</HE_Cook_Yamato_Miso.label>
+  <HE_Cook_Yamato_Miso.description>Miso çorbası pişir.</HE_Cook_Yamato_Miso.description>
+  <HE_Cook_Yamato_Miso.jobString>Miso çorbası pişiriyor.</HE_Cook_Yamato_Miso.jobString>
+  <HE_Cook_Yamato_Mochi.label>mochi pişir</HE_Cook_Yamato_Mochi.label>
+  <HE_Cook_Yamato_Mochi.description>Moçi pişir.</HE_Cook_Yamato_Mochi.description>
+  <HE_Cook_Yamato_Mochi.jobString>Moçi pişiriyor.</HE_Cook_Yamato_Mochi.jobString>
+</LanguageData>

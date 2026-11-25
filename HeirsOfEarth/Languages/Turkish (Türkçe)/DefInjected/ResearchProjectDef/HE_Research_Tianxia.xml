@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Jian.label>jian</HE_Tianxia_Jian.label>
+  <HE_Tianxia_Jian.description>Silahların beyefendisi denen düz, çift ağızlı kılıç.</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Silk.label>ipek dokuma</HE_Tianxia_Silk.label>
+  <HE_Tianxia_Silk.description>İpek böceklerini dut yapraklarıyla besle ve ipliklerini dünyanın en yumuşak kumaşına doku.</HE_Tianxia_Silk.description>
+  <HE_Tianxia_JadeFloor.label>yeşim avlular</HE_Tianxia_JadeFloor.label>
+  <HE_Tianxia_JadeFloor.description>Avluları bulut desenleriyle döşenmiş cilalı yeşil taşla kapla.</HE_Tianxia_JadeFloor.description>
+  <HE_Tianxia_Hanfu.label>hanfu</HE_Tianxia_Hanfu.label>
+  <HE_Tianxia_Hanfu.description>Âlimlerin ve memurların giydiği çapraz yakalı, geniş kollu dökümlü kaftanları dik.</HE_Tianxia_Hanfu.description>
+  <HE_Tianxia_Dumplings.label>mantı</HE_Tianxia_Dumplings.label>
+  <HE_Tianxia_Dumplings.description>Kıyılmış eti ve yeşillikleri ince hamura sarıp bambu sepetlerde buharda pişir.</HE_Tianxia_Dumplings.description>
+  <HE_Tianxia_PaperLantern.label>kâğıt fenerler</HE_Tianxia_PaperLantern.label>
+  <HE_Tianxia_PaperLantern.description>Yağlı kâğıdı bambu çerçevelere ger ve her yol boyunca kırmızı fenerler as.</HE_Tianxia_PaperLantern.description>
+  <HE_Tianxia_TeaCulture.label>çay kültürü</HE_Tianxia_TeaCulture.label>
+  <HE_Tianxia_TeaCulture.description>Uyumadan önce bir fincan çay, uyanınca bir fincan. Zihin sakin olunca beden daha iyi dinlenir.
+
+Gelenek: Kolonistler %5 daha hızlı dinlenir.
+
+Mirasın bu değilse 15 Tianxia bilgisi gerekir.</HE_Tianxia_TeaCulture.description>
+  <HE_Tianxia_Granary.label>dengeli ambar</HE_Tianxia_Granary.label>
+  <HE_Tianxia_Granary.description>Ucuzken tahıl al ve kötü yıllar için sakla: hasat özenle yapılır.
+
+Gelenek: Kolonistler bitkilerden %6 daha fazla hasat alır.
+
+Mirasın bu değilse 15 Tianxia bilgisi gerekir.</HE_Tianxia_Granary.description>
+  <HE_Tianxia_SilkRoad.label>ipek yolu</HE_Tianxia_SilkRoad.label>
+  <HE_Tianxia_SilkRoad.description>Tianxia kervanları vahadan vahaya ipeği batıya, gümüşü doğuya taşır ve her fiyatı bilirler.
+
+Gelenek: Kolonistler %6 daha iyi ticaret fiyatı alır.
+
+Mirasın bu değilse 20 Tianxia bilgisi gerekir.</HE_Tianxia_SilkRoad.description>
+  <HE_Tianxia_Guandao.label>imparatorluk cephaneliği</HE_Tianxia_Guandao.label>
+  <HE_Tianxia_Guandao.description>İmparatorluk muhafızları için ağır guandao palasını ve lameller zırhı döv.
+
+Mirasın bu değilse 10 Tianxia bilgisi gerekir.</HE_Tianxia_Guandao.description>
+  <HE_Tianxia_Repeater.label>tekrarlı arbalet</HE_Tianxia_Repeater.label>
+  <HE_Tianxia_Repeater.description>Üstünde cıvata şarjörü olan bir arbalet: kolu çek, bırak, yine çek.
+
+Mirasın bu değilse 15 Tianxia bilgisi gerekir.</HE_Tianxia_Repeater.description>
+  <HE_Tianxia_PorcelainKiln.label>porselen fırını</HE_Tianxia_PorcelainKiln.label>
+  <HE_Tianxia_PorcelainKiln.description>Beyaz kili dünyadaki her çömlekçiden daha sıcak pişir ve kobalt maviyle boya.
+
+Mirasın bu değilse 15 Tianxia bilgisi gerekir.</HE_Tianxia_PorcelainKiln.description>
+  <HE_Tianxia_FireLance.label>ateş mızrağı</HE_Tianxia_FireLance.label>
+  <HE_Tianxia_FireLance.description>Bir mızrağa bağlanmış kara barut tüpü. Ateşlendiğinde düşmana ateş ve şarapnel püskürtür.
+
+Mirasın bu değilse 30 Tianxia bilgisi gerekir.</HE_Tianxia_FireLance.description>
+  <HE_Tianxia_Physicians.label>saray hekimleri</HE_Tianxia_Physicians.label>
+  <HE_Tianxia_Physicians.description>İğneler, otlar ve nabız okuma: saray hekimlerinin neredeyse her şeye bir çaresi vardır.
+
+Gelenek: Kolonistler yaraları +%10 kaliteyle tedavi eder ve %8 daha hızlı bağışıklık kazanır.
+
+Mirasın bu değilse 25 Tianxia bilgisi gerekir.</HE_Tianxia_Physicians.description>
+  <HE_Tianxia_Examination.label>imparatorluk sınavı</HE_Tianxia_Examination.label>
+  <HE_Tianxia_Examination.description>Herkes sınava girebilir ve geçen herkes yönetebilir. Bu yüzden herkes çalışır.
+
+Gelenek: Kolonistler %10 daha hızlı öğrenir.
+
+Mirasın bu değilse 35 Tianxia bilgisi gerekir.</HE_Tianxia_Examination.description>
+  <HE_Tianxia_FireArrows.label>ateş okları</HE_Tianxia_FireArrows.label>
+  <HE_Tianxia_FireArrows.description>Okçular yaylım tek bir ok gibi düşene dek talim yapar. Düşman hattı surlara ulaşmadan yanar.
+
+Gelenek: Kolonistler +2 atış isabeti kazanır.
+
+Mirasın bu değilse 35 Tianxia bilgisi gerekir.</HE_Tianxia_FireArrows.description>
+  <HE_Tianxia_Porcelain.label>porselen ustalığı</HE_Tianxia_Porcelain.label>
+  <HE_Tianxia_Porcelain.description>Jingdezhen fırınları bir tanesini saklamak için bin parça pişirir. Her zanaatkâr bu sabrı öğrenir.
+
+Gelenek: Üretilen eşyaların %6 ihtimalle bir kalite üstü çıkar.
+
+Mirasın bu değilse 40 Tianxia bilgisi gerekir.</HE_Tianxia_Porcelain.description>
+  <HE_Tianxia_Harmony.label>uyumlu ülke</HE_Tianxia_Harmony.label>
+  <HE_Tianxia_Harmony.description>Göğün mührü ait olduğu yerde ve her hane sakin bir düzen içinde çalışıyor.
+
+Gelenek: Kolonistler %3 daha hızlı çalışır ve zihinsel çöküş eşikleri %3 düşer.
+
+Mirasın bu değilse 50 Tianxia bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Tianxia_Harmony.description>
+  <HE_Tianxia_FireArrowBattery.label>ateşli ok bataryası</HE_Tianxia_FireArrowBattery.label>
+  <HE_Tianxia_FireArrowBattery.description>Her biri bir roket ok taşıyan tüplerden oluşan tekerlekli bir sandık. Tek bir fitili yak, bütün arı kovanı aynı anda yola çıkar.
+
+Mirasın bu değilse 40 Tianxia bilgisi gerekir.</HE_Tianxia_FireArrowBattery.description>
+  <HE_Tianxia_PowderArms.label>Tianxia barutlu silahlar</HE_Tianxia_PowderArms.label>
+  <HE_Tianxia_PowderArms.description>Tianxia'nın usulü bir fitilli ya da çakmaklı tüfek yapmak: namlu, kilit, dipçik ve kullanma talimi.
+
+Mirasın bu değilse, ancak Tianxia Barut Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 30 Tianxia bilgisi gerekir.</HE_Tianxia_PowderArms.description>
+  <HE_Tianxia_SteamArmy.label>Tianxia buhar ordusu</HE_Tianxia_SteamArmy.label>
+  <HE_Tianxia_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Tianxia'nın kurduğu ordu.
+
+Mirasın bu değilse, ancak Tianxia Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Tianxia bilgisi gerekir.</HE_Tianxia_SteamArmy.description>
+</LanguageData>

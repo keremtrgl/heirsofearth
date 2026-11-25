@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Yamato_Onigiri</defName>
+    <label>onigiri</label>
+    <description>Triangles of pressed rice wrapped in seaweed, with a sour plum in the middle. Keeps well on the road.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Yamato_Onigiri</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>20</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_YamatoGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>6</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Yamato_Onigiri</defName>
+    <label>cook onigiri</label>
+    <description>Cook onigiri.</description>
+    <jobString>Cooking onigiri.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Yamato_Onigiri>1</HE_Yamato_Onigiri>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Yamato_Onigiri</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Yamato_Miso</defName>
+    <label>miso soup</label>
+    <description>A lacquered bowl of fermented bean broth with tofu and spring onion. Every Yamato morning starts with one.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Yamato_Miso</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_YamatoGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Yamato_Miso</defName>
+    <label>cook miso soup</label>
+    <description>Cook miso soup.</description>
+    <jobString>Cooking miso soup.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Yamato_Miso>1</HE_Yamato_Miso>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Yamato_Onigiri</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Yamato_Mochi</defName>
+    <label>mochi</label>
+    <description>Pounded sweet rice cakes in three colours on a skewer, made for the tea ceremony and the new year. A small treat: eating it is a little joy.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Yamato_Mochi</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+      <joy>0.08</joy>
+      <joyKind>Gluttonous</joyKind>
+    </ingestible>
+    <tradeTags>
+      <li>HE_YamatoGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Yamato_Mochi</defName>
+    <label>cook mochi</label>
+    <description>Cook mochi.</description>
+    <jobString>Cooking mochi.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Yamato_Mochi>1</HE_Yamato_Mochi>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Yamato_TeaHouse</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

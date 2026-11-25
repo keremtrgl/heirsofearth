@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Hellas_Maza</defName>
+    <label>maza</label>
+    <description>Flat barley cakes kneaded with olive oil and honey, served with a few olives and a lump of cheese.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_Maza</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>21</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_HellasGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>7</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Hellas_Maza</defName>
+    <label>cook maza</label>
+    <description>Cook maza.</description>
+    <jobString>Cooking maza.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Hellas_Maza>1</HE_Hellas_Maza>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Hellas_Maza</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Hellas_Skewers</defName>
+    <label>obeliskos skewers</label>
+    <description>Lamb grilled on iron spits with peppers, served with olives. The smell of them drifts over every festival and every camp.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_Skewers</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_HellasGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Hellas_Skewers</defName>
+    <label>cook obeliskos skewers</label>
+    <description>Cook obeliskos skewers.</description>
+    <jobString>Cooking obeliskos skewers.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Hellas_Skewers>1</HE_Hellas_Skewers>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Hellas_Maza</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Hellas_Plakous</defName>
+    <label>plakous</label>
+    <description>Layers of thin dough and soft cheese soaked in honey. Athletes are given it after the games, and nobody refuses. A small treat: eating it is a little joy.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_Plakous</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+      <joy>0.08</joy>
+      <joyKind>Gluttonous</joyKind>
+    </ingestible>
+    <tradeTags>
+      <li>HE_HellasGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Hellas_Plakous</defName>
+    <label>cook plakous</label>
+    <description>Cook plakous.</description>
+    <jobString>Cooking plakous.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Hellas_Plakous>1</HE_Hellas_Plakous>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Hellas_Olympic</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

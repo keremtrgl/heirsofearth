@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_LostEagle.label>tarnished eagle</HE_Roma_LostEagle.label>
+  <HE_Roma_LostEagle.description>The bronze eagle of the Ninth Legion, lost with its cohort generations ago. One wing is cracked, the gilding is almost gone, but every Nova Roman would know it at a glance.</HE_Roma_LostEagle.description>
+  <HE_Yamato_Regalia.label>sacred mirror</HE_Yamato_Regalia.label>
+  <HE_Yamato_Regalia.description>A bronze mirror on a silk cushion, one of the regalia of the lost imperial line. Whoever holds it may name the true heir.</HE_Yamato_Regalia.description>
+  <HE_Nord_BarrowHorn.label>barrow horn</HE_Nord_BarrowHorn.label>
+  <HE_Nord_BarrowHorn.description>An iron-bound horn taken from a frozen grave mound. Frost never melts from it, and the old songs say it can call the storm.</HE_Nord_BarrowHorn.description>
+  <HE_Roma_Artifact_Eagle.label>Eagle Standard</HE_Roma_Artifact_Eagle.label>
+  <HE_Roma_Artifact_Eagle.description>The restored eagle of the Ninth Legion on a red standard. When it is raised, every colonist nearby fights as if the whole legion stood behind them. It must rest for ten days between uses.</HE_Roma_Artifact_Eagle.description>
+  <HE_Roma_Artifact_Eagle.comps.1.useLabel>Raise the eagle</HE_Roma_Artifact_Eagle.comps.1.useLabel>
+  <HE_Nord_Artifact_StormHorn.label>Storm Horn</HE_Nord_Artifact_StormHorn.label>
+  <HE_Nord_Artifact_StormHorn.description>The barrow horn, awakened. Its call rallies your people, sends many enemies running and pulls a thunderstorm out of a clear sky. It must rest for twelve days between uses.</HE_Nord_Artifact_StormHorn.description>
+  <HE_Nord_Artifact_StormHorn.comps.1.useLabel>Blow the horn</HE_Nord_Artifact_StormHorn.comps.1.useLabel>
+  <HE_Yamato_Artifact_SkySword.label>Sky Sword</HE_Yamato_Artifact_SkySword.label>
+  <HE_Yamato_Artifact_SkySword.description>The sword of the first shogun, forged, it is said, from iron that fell from the sky. Its blade is faintly blue and never dulls. In any hand it is a masterpiece; in a trained hand it is a legend.</HE_Yamato_Artifact_SkySword.description>
+  <HE_Yamato_Artifact_SkySword.tools.0.label>handle</HE_Yamato_Artifact_SkySword.tools.0.label>
+  <HE_Yamato_Artifact_SkySword.tools.1.label>point</HE_Yamato_Artifact_SkySword.tools.1.label>
+  <HE_Yamato_Artifact_SkySword.tools.2.label>edge</HE_Yamato_Artifact_SkySword.tools.2.label>
+  <HE_Hellas_LibraryScrolls.label>sealed library scrolls</HE_Hellas_LibraryScrolls.label>
+  <HE_Hellas_LibraryScrolls.description>A cedar chest of scrolls from the lost library of the Argo, sealed in wax for two centuries. Inside, among the books, lies a small bronze aegis.</HE_Hellas_LibraryScrolls.description>
+  <HE_Tianxia_JadeSeal.label>cracked jade seal</HE_Tianxia_JadeSeal.label>
+  <HE_Tianxia_JadeSeal.description>The imperial seal of Tianxia, carved from a single block of green jade with a coiled dragon on top. A crack runs through one corner. Whoever stamps an edict with it speaks for heaven.</HE_Tianxia_JadeSeal.description>
+  <HE_Albion_DentedDrum.label>dented regimental drum</HE_Albion_DentedDrum.label>
+  <HE_Albion_DentedDrum.description>The drum of the Avalon Guard, which beat the first regiment ashore. Its brass is dented and its skin split, but the painted lion can still be made out.</HE_Albion_DentedDrum.description>
+  <HE_Hellas_Artifact_Aegis.label>Owl Aegis</HE_Hellas_Artifact_Aegis.label>
+  <HE_Hellas_Artifact_Aegis.description>A bronze shield-cloak bearing the owl of wisdom, found among the scrolls of the lost library. Raised high, it steadies friends and sends many enemies running. It must rest for ten days between uses.</HE_Hellas_Artifact_Aegis.description>
+  <HE_Hellas_Artifact_Aegis.comps.1.useLabel>Raise the aegis</HE_Hellas_Artifact_Aegis.comps.1.useLabel>
+  <HE_Tianxia_Artifact_DragonSeal.label>Dragon Seal</HE_Tianxia_Artifact_DragonSeal.label>
+  <HE_Tianxia_Artifact_DragonSeal.description>The jade seal, mended with gold. When it is stamped on a war edict, your people take heart, some enemies lose theirs and clouds gather into a gentle rain. It must rest for eleven days between uses.</HE_Tianxia_Artifact_DragonSeal.description>
+  <HE_Tianxia_Artifact_DragonSeal.comps.1.useLabel>Seal the edict</HE_Tianxia_Artifact_DragonSeal.comps.1.useLabel>
+  <HE_Albion_Artifact_WarDrum.label>Drum of the Avalon Guard</HE_Albion_Artifact_WarDrum.label>
+  <HE_Albion_Artifact_WarDrum.description>The old regimental drum, restored with new brass and a fresh skin. When it beats the advance, your people stand in line as one and enemies hear a whole army coming. It must rest for ten days between uses.</HE_Albion_Artifact_WarDrum.description>
+  <HE_Albion_Artifact_WarDrum.comps.1.useLabel>Beat the advance</HE_Albion_Artifact_WarDrum.comps.1.useLabel>
+  <HE_Kemet_BuriedDisc.label>sand-scoured sun disc</HE_Kemet_BuriedDisc.label>
+  <HE_Kemet_BuriedDisc.description>A great disc of gilded bronze, scoured dull by two centuries of sand, with a ring of carved hours around its rim. It was the clock of a whole city.</HE_Kemet_BuriedDisc.description>
+  <HE_Kemet_Artifact_SunDisc.label>Sun Disc of Iteru</HE_Kemet_Artifact_SunDisc.label>
+  <HE_Kemet_Artifact_SunDisc.description>The city's great sun clock, polished until it blazes. Raised to the sky, it clears the clouds, warms the hearts of your people and dazzles many enemies into running. It must rest for ten days between uses.</HE_Kemet_Artifact_SunDisc.description>
+  <HE_Kemet_Artifact_SunDisc.comps.1.useLabel>Raise the sun disc</HE_Kemet_Artifact_SunDisc.comps.1.useLabel>
+  <HE_Pars_TarnishedEye.label>tarnished gold eye</HE_Pars_TarnishedEye.label>
+  <HE_Pars_TarnishedEye.description>A palm-sized eye of gold and lapis set in a winged frame, black with soot from a burned station. The king's inspectors once carried it as their warrant.</HE_Pars_TarnishedEye.description>
+  <HE_Pars_Artifact_KingsEye.label>King's Eye</HE_Pars_Artifact_KingsEye.label>
+  <HE_Pars_Artifact_KingsEye.description>The warrant of the king's inspectors, cleaned and set on a staff. When it is shown, every heir nation that is not at war with you remembers the old courtesy of the road and thinks better of you, a friendly caravan turns towards your colony and your people stand a little taller. It must rest for fifteen days between uses.</HE_Pars_Artifact_KingsEye.description>
+  <HE_Pars_Artifact_KingsEye.comps.1.useLabel>Show the King's Eye</HE_Pars_Artifact_KingsEye.comps.1.useLabel>
+  <HE_Inti_TangledQuipu.label>tangled great quipu</HE_Inti_TangledQuipu.label>
+  <HE_Inti_TangledQuipu.description>Hundreds of cords hanging from a thick main cord, matted with mud and age, their colours faded. Gold threads still glint among them.</HE_Inti_TangledQuipu.description>
+  <HE_Inti_Artifact_GoldenThread.label>Golden Thread</HE_Inti_Artifact_GoldenThread.label>
+  <HE_Inti_Artifact_GoldenThread.description>The great quipu of the lost province, untangled and restrung on golden cord: the full count of a people. When its knots are read aloud, rain comes to the terraces, your people fight as one and many enemies lose heart and run. It must rest for ten days between uses.</HE_Inti_Artifact_GoldenThread.description>
+  <HE_Inti_Artifact_GoldenThread.comps.1.useLabel>Read the Golden Thread</HE_Inti_Artifact_GoldenThread.comps.1.useLabel>
+  <HE_Roma_BurnedCodex.label>scorched codex</HE_Roma_BurnedCodex.label>
+  <HE_Roma_BurnedCodex.description>The founders' own copy of the law, saved from the fire that took the old archive. The edges are black and the binding is gone, but most of it can still be read.</HE_Roma_BurnedCodex.description>
+  <HE_Yamato_SilentChronicle.label>silent chronicle</HE_Yamato_SilentChronicle.label>
+  <HE_Yamato_SilentChronicle.description>The last court historian's own manuscript, wrapped in oiled silk. The final chapter, about the night of fire, was never shown to anyone.</HE_Yamato_SilentChronicle.description>
+  <HE_Nord_SkaldStaff.label>skald's rune staff</HE_Nord_SkaldStaff.label>
+  <HE_Nord_SkaldStaff.description>A staff cut all over with runes: the memory aid of the last great skald, who carved a line for every saga he knew.</HE_Nord_SkaldStaff.description>
+  <HE_Hellas_SunkenScroll.label>sea-stained scroll</HE_Hellas_SunkenScroll.label>
+  <HE_Hellas_SunkenScroll.description>A scroll case of lead, sealed with wax, from the sunken library. The papyrus inside is stained by the sea but whole.</HE_Hellas_SunkenScroll.description>
+  <HE_Tianxia_HiddenRecords.label>hidden records</HE_Tianxia_HiddenRecords.label>
+  <HE_Tianxia_HiddenRecords.description>Bamboo slips bound in silk, hidden in a mountain cave by the grand historian's daughter. They are dry, ordered and complete.</HE_Tianxia_HiddenRecords.description>
+  <HE_Albion_LostCharter.label>lost charter</HE_Albion_LostCharter.label>
+  <HE_Albion_LostCharter.description>A great sheet of vellum with a hundred seals hanging from it. The ink has faded, but the signatures of the guild masters can still be read.</HE_Albion_LostCharter.description>
+  <HE_Kemet_TombScroll.label>tomb scroll</HE_Kemet_TombScroll.label>
+  <HE_Kemet_TombScroll.description>A long papyrus painted in black and red, sealed in a cedar box. It was buried with the first pharaoh of the second sunrise.</HE_Kemet_TombScroll.description>
+  <HE_Pars_PoetsBook.label>poet's travelling book</HE_Pars_PoetsBook.label>
+  <HE_Pars_PoetsBook.description>The old poet's own copy, written on the road over thirty years. The pages are stained with wine and dust, and the last couplet is unfinished.</HE_Pars_PoetsBook.description>
+  <HE_Inti_GreatKhipu.label>great khipu</HE_Inti_GreatKhipu.label>
+  <HE_Inti_GreatKhipu.description>A khipu of a thousand cords, rolled in a llama-wool blanket. The knots are tight and the colours still bright.</HE_Inti_GreatKhipu.description>
+</LanguageData>

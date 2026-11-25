@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Roma.label>Nova Roma Republic</HE_Faction_Roma.label>
+  <HE_Faction_Roma.description>The citizens of Nova Roma, heirs of the colony ship Aeternitas. Their legions march in step, their roads run straight and their senate never forgets an insult or a debt.</HE_Faction_Roma.description>
+  <HE_Faction_Roma.fixedName>Nova Roma Republic</HE_Faction_Roma.fixedName>
+  <HE_Faction_Roma.pawnSingular>citizen</HE_Faction_Roma.pawnSingular>
+  <HE_Faction_Roma.pawnsPlural>citizens</HE_Faction_Roma.pawnsPlural>
+  <HE_Faction_Roma.leaderTitle>consul</HE_Faction_Roma.leaderTitle>
+  <HE_Player_Roma.label>Nova Roman settlers</HE_Player_Roma.label>
+  <HE_Player_Roma.description>A small band of Nova Roman citizens founding a new colonia far from the senate.</HE_Player_Roma.description>
+  <HE_Player_Roma.pawnSingular>colonist</HE_Player_Roma.pawnSingular>
+  <HE_Player_Roma.pawnsPlural>colonists</HE_Player_Roma.pawnsPlural>
+</LanguageData>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Fusilier</defName>
+    <title>line fusilier</title>
+    <titleShort>fusilier</titleShort>
+    <description>[PAWN_nameDef] took the shilling at nineteen and spent years in a red coat, loading and firing in the front rank while the cannon roared overhead.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>7</Shooting>
+      <Melee>2</Melee>
+      <Construction>1</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Engineer</defName>
+    <title>steam engineer</title>
+    <titleShort>engineer</titleShort>
+    <description>[PAWN_nameDef] built boilers, beam engines and iron bridges, and once redesigned a pump on the back of a menu during dinner.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Construction>7</Construction>
+      <Crafting>5</Crafting>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <requiredWorkTags>
+      <li>ManualSkilled</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Miner</defName>
+    <title>coal miner</title>
+    <titleShort>miner</titleShort>
+    <description>[PAWN_nameDef] went down the pit at dawn and came up after dark for twelve years. [PAWN_pronoun] can tell good rock from bad by the sound it makes.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Mining>8</Mining>
+      <Construction>3</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Surgeon</defName>
+    <title>regimental surgeon</title>
+    <titleShort>surgeon</titleShort>
+    <description>[PAWN_nameDef] followed the regiment with a saw, a bottle of spirits and a firm belief in boiling everything. [PAWN_possessive] patients usually lived.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>8</Medicine>
+      <Intellectual>2</Intellectual>
+      <Shooting>1</Shooting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Clerk</defName>
+    <title>company clerk</title>
+    <titleShort>clerk</titleShort>
+    <description>[PAWN_nameDef] kept the ledgers of a great trading company, sixty hours a week at a high desk. [PAWN_pronoun] can find a missing penny in a thousand pages.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>6</Intellectual>
+      <Social>4</Social>
+    </skillGains>
+    <workDisables>
+      <li>Violent</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Gamekeeper</defName>
+    <title>gamekeeper</title>
+    <titleShort>gamekeeper</titleShort>
+    <description>[PAWN_nameDef] kept the deer and pheasants of a great estate and the poachers away from them, with a rifle and a pair of patient dogs.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>6</Shooting>
+      <Animals>6</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Officer</defName>
+    <title>cavalry officer</title>
+    <titleShort>officer</titleShort>
+    <description>[PAWN_nameDef] bought a commission in the dragoons and led a charge that became a famous painting. Few in the painting survived.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>6</Melee>
+      <Social>5</Social>
+      <Animals>3</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Publican</defName>
+    <title>publican</title>
+    <titleShort>publican</titleShort>
+    <description>[PAWN_nameDef] ran a village pub, brewed the ale, settled the fights and heard every secret in the parish.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>6</Social>
+      <Cooking>5</Cooking>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_MillChild</defName>
+    <title>mill child</title>
+    <titleShort>mill child</titleShort>
+    <description>[PAWN_nameDef] worked between the clattering looms of a cotton mill from the age of eight, small enough to crawl under the machines.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>2</Crafting>
+      <Construction>1</Construction>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Schoolboy</defName>
+    <title>boarding school pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] was sent to a cold boarding school where [PAWN_pronoun] learned Latin, cricket and how to keep a straight face.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>2</Intellectual>
+      <Social>2</Social>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Farmhand</defName>
+    <title>farmhand</title>
+    <titleShort>farmhand</titleShort>
+    <description>[PAWN_nameDef] grew up mucking out stables and bringing in the harvest on a rainy hill farm.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>2</Animals>
+      <Plants>2</Plants>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Albion_BS_Mudlark</defName>
+    <title>river mudlark</title>
+    <titleShort>mudlark</titleShort>
+    <description>[PAWN_nameDef] grew up searching the river mud at low tide for coal, nails and lost coins to sell.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Albion</li>
+    </spawnCategories>
+    <skillGains>
+      <Mining>1</Mining>
+      <Social>1</Social>
+      <Melee>1</Melee>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

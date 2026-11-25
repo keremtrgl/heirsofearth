@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Colonist.label>colonist</HE_Roma_Colonist.label>
+  <HE_Roma_Hastatus.label>hastatus</HE_Roma_Hastatus.label>
+  <HE_Roma_Hastatus.labelPlural>hastati</HE_Roma_Hastatus.labelPlural>
+  <HE_Roma_Legionary.label>legionary</HE_Roma_Legionary.label>
+  <HE_Roma_Sagittarius.label>sagittarius</HE_Roma_Sagittarius.label>
+  <HE_Roma_Sagittarius.labelPlural>sagittarii</HE_Roma_Sagittarius.labelPlural>
+  <HE_Roma_Medicus.label>medicus</HE_Roma_Medicus.label>
+  <HE_Roma_Centurion.label>centurion</HE_Roma_Centurion.label>
+  <HE_Roma_Consul.label>consul</HE_Roma_Consul.label>
+  <HE_Roma_Mercator.label>mercator</HE_Roma_Mercator.label>
+</LanguageData>

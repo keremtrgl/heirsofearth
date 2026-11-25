@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Dory.label>dory</HE_Hellas_Dory.label>
+  <HE_Hellas_Dory.description>Hoplitin uzun saplı mızrağı: yaprak biçimli bir ucu ve bronz bir dip çivisi vardır.</HE_Hellas_Dory.description>
+  <HE_Hellas_Toxon.label>toxon</HE_Hellas_Toxon.label>
+  <HE_Hellas_Toxon.description>Bir kalkan duvarının arkasında kullanılacak kadar kısa, İskit tarzı çift kavisli yay.</HE_Hellas_Toxon.description>
+  <HE_Hellas_Meander.label>menderes zeminler</HE_Hellas_Meander.label>
+  <HE_Hellas_Meander.description>Eski tapınakların sonsuz anahtar deseniyle çevrili açık renkli taş zeminler döşe.</HE_Hellas_Meander.description>
+  <HE_Hellas_Chiton.label>khiton</HE_Hellas_Chiton.label>
+  <HE_Hellas_Chiton.description>Agoradan gymnasiuma kadar her yurttaşın giydiği hafif, iğneli tuniği dik.</HE_Hellas_Chiton.description>
+  <HE_Hellas_Maza.label>maza</HE_Hellas_Maza.label>
+  <HE_Hellas_Maza.description>Zeytinyağı ve balla yoğrulmuş arpa çörekleri: bir hoplitin yürümesini sağlayan sade yiyecek.</HE_Hellas_Maza.description>
+  <HE_Hellas_Columns.label>yivli sütunlar</HE_Hellas_Columns.label>
+  <HE_Hellas_Columns.description>Yivli sütunlar oy ve onları şehrin kahramanlarının heykelleriyle taçlandır.</HE_Hellas_Columns.description>
+  <HE_Hellas_Olympic.label>olimpiyat oyunları</HE_Hellas_Olympic.label>
+  <HE_Hellas_Olympic.description>Her dördüncü yaz şehirler savaşlarını durdurur ve onun yerine birbirleriyle yarışır.
+
+Gelenek: Kolonistler %3 daha hızlı yürür.
+
+Mirasın bu değilse 15 Hellas bilgisi gerekir.</HE_Hellas_Olympic.description>
+  <HE_Hellas_Rhetoric.label>retorik</HE_Hellas_Rhetoric.label>
+  <HE_Hellas_Rhetoric.description>Mecliste iyi bir argüman iyi bir mızraktan daha değerlidir.
+
+Gelenek: Kolonistler +%12 müzakere yeteneği kazanır.
+
+Mirasın bu değilse 15 Hellas bilgisi gerekir.</HE_Hellas_Rhetoric.description>
+  <HE_Hellas_Geometry.label>geometri</HE_Hellas_Geometry.label>
+  <HE_Hellas_Geometry.description>Geometri bilmeyen burada inşa etmesin: ölçülü çizgiler daha hızlı ve daha düz duvarlar yapar.
+
+Gelenek: Kolonistler %8 daha hızlı inşa eder.
+
+Mirasın bu değilse 20 Hellas bilgisi gerekir.</HE_Hellas_Geometry.description>
+  <HE_Hellas_Bronze.label>bronz demirciliği</HE_Hellas_Bronze.label>
+  <HE_Hellas_Bronze.description>Kısa xiphos'u ve ağır, öne kıvrık kopis'i dök ve döv.
+
+Mirasın bu değilse 10 Hellas bilgisi gerekir.</HE_Hellas_Bronze.description>
+  <HE_Hellas_Theatron.label>theatron</HE_Hellas_Theatron.label>
+  <HE_Hellas_Theatron.description>Bir sahne ve boyalı bir dekor kur; bütün koloni eski oyunları izlemek için toplanacaktır.
+
+Mirasın bu değilse 15 Hellas bilgisi gerekir.</HE_Hellas_Theatron.description>
+  <HE_Hellas_Hippocratic.label>hipokrat yemini</HE_Hellas_Hippocratic.label>
+  <HE_Hellas_Hippocratic.description>Önce zarar verme. Hellas hekimleri ellerini yıkar, acele etmez ve daha az hasta kaybeder.
+
+Gelenek: Ameliyat başarı şansı %12 artar, ama tedavi %5 daha yavaştır.
+
+Mirasın bu değilse 25 Hellas bilgisi gerekir.</HE_Hellas_Hippocratic.description>
+  <HE_Hellas_Hoplite.label>hoplit teçhizatı</HE_Hellas_Hoplite.label>
+  <HE_Hellas_Hoplite.description>Korint miğferi, katmanlı keten linothoraks ve büyük yuvarlak hoplon.
+
+Mirasın bu değilse 25 Hellas bilgisi gerekir.</HE_Hellas_Hoplite.description>
+  <HE_Hellas_Theatre.label>oyunlar şenliği</HE_Hellas_Theatre.label>
+  <HE_Hellas_Theatre.description>Sabah tragedya, akşam komedi. İnsanlar tiyatrodan daha hafif ve daha nazik ayrılır.
+
+Gelenek: Kolonistler eğlenceyi %10 daha hızlı kazanır ve +%5 sosyal etki kazanır.
+
+Mirasın bu değilse 25 Hellas bilgisi gerekir.</HE_Hellas_Theatre.description>
+  <HE_Hellas_Academy.label>akademi</HE_Hellas_Academy.label>
+  <HE_Hellas_Academy.description>Ustaların öğrencileriyle yürüdüğü ve her sorunun sonuna kadar takip edildiği bir koru.
+
+Gelenek: Kolonistler %10 daha hızlı araştırma yapar.
+
+Mirasın bu değilse 35 Hellas bilgisi gerekir.</HE_Hellas_Academy.description>
+  <HE_Hellas_Phalanx.label>falanks</HE_Hellas_Phalanx.label>
+  <HE_Hellas_Phalanx.description>Kalkan kalkanın üstüne biner; her asker solundakini korur. Hat yavaştır ve neredeyse kırılmazdır.
+
+Gelenek: Kolonistler +%5 künt ve +%3 keskin zırh kazanır ama %3 daha yavaş yürür.
+
+Mirasın bu değilse 40 Hellas bilgisi gerekir.</HE_Hellas_Phalanx.description>
+  <HE_Hellas_GoldenAge.label>altın çağ</HE_Hellas_GoldenAge.label>
+  <HE_Hellas_GoldenAge.description>Kütüphane açıldığından beri birlik, yüzyıllarca hatırlanacak oyunlar, tedaviler ve tartışmalarla dolu bir çağa giriyor.
+
+Gelenek: Kolonistler %5 daha hızlı öğrenir, +%5 sosyal etki ve +%5 tedavi kalitesi kazanır.
+
+Mirasın bu değilse 50 Hellas bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Hellas_GoldenAge.description>
+  <HE_Hellas_Lithobolos.label>lithobolos</HE_Hellas_Lithobolos.label>
+  <HE_Hellas_Lithobolos.description>Şehrin mühendisleri yayları ve açıları ölçer, ta ki bir makine taşı her sapancıdan daha uzağa atana kadar.
+
+Mirasın bu değilse 40 Hellas bilgisi gerekir.</HE_Hellas_Lithobolos.description>
+  <HE_Hellas_PowderArms.label>Helen barutlu silahlar</HE_Hellas_PowderArms.label>
+  <HE_Hellas_PowderArms.description>Hellas'ın usulü bir fitilli ya da çakmaklı tüfek yapmak: namlu, kilit, dipçik ve kullanma talimi.
+
+Mirasın bu değilse, ancak Hellas Barut Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 30 Hellas bilgisi gerekir.</HE_Hellas_PowderArms.description>
+  <HE_Hellas_SteamArmy.label>Helen buhar ordusu</HE_Hellas_SteamArmy.label>
+  <HE_Hellas_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Hellas'ın kurduğu ordu.
+
+Mirasın bu değilse, ancak Hellas Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Hellas bilgisi gerekir.</HE_Hellas_SteamArmy.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Roma_Puls.label>cook puls</HE_Cook_Roma_Puls.label>
+  <HE_Cook_Roma_Puls.description>Cook puls.</HE_Cook_Roma_Puls.description>
+  <HE_Cook_Roma_Puls.jobString>Cooking puls.</HE_Cook_Roma_Puls.jobString>
+  <HE_Cook_Roma_Lucanica.label>cook lucanica and bread</HE_Cook_Roma_Lucanica.label>
+  <HE_Cook_Roma_Lucanica.description>Cook lucanica and bread.</HE_Cook_Roma_Lucanica.description>
+  <HE_Cook_Roma_Lucanica.jobString>Cooking lucanica and bread.</HE_Cook_Roma_Lucanica.jobString>
+  <HE_Cook_Roma_Libum.label>cook libum</HE_Cook_Roma_Libum.label>
+  <HE_Cook_Roma_Libum.description>Cook libum.</HE_Cook_Roma_Libum.description>
+  <HE_Cook_Roma_Libum.jobString>Cooking libum.</HE_Cook_Roma_Libum.jobString>
+</LanguageData>

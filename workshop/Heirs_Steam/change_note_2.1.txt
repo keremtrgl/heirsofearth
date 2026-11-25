@@ -1,0 +1,25 @@
+Version 2.1.0 - Filling the gaps
+
+EXISTING SAVES
+- New nations now join existing saves. When you load a save made with an older version, nations that did not exist yet arrive with their own settlements, relations and a letter telling you who came. You can turn this off in the mod settings ("Add new nations to existing saves").
+
+INDUSTRIAL AGE FOR THE FIRST THREE NATIONS
+- Nova Roma: legion carbine (a light breech-loader with a brass eagle) and the Civil Code tradition (+6% negotiation, +6% social impact, but 2% slower work).
+- Yamato: tanegashima matchlock and the Sakai Gunsmiths tradition (colonists aim 8% faster).
+- Nordheim: harpoon gun (slow, short-ranged, hits hard) and the Folk High Schools tradition (+8% learning, +4% research speed).
+- These guns are made at a smithy and sold by traders. Existing archers of these nations keep their bows.
+
+NEW SIGNATURE BUILDINGS
+- Tianxia fire-arrow battery: an unpowered "nest of bees" turret that looses eight fire arrows per volley. It is loaded with wood (one log makes two arrows). Inaccurate, but it sets enemies alight.
+- Albion textile mill: a powered loom that weaves 50 wool of any kind into 50 tweed.
+- Hellas lyceum scroll cabinet: links to a research bench and speeds up research by 6%.
+- Hellas asclepion: a small healing altar that links to beds within six cells (+4% tend quality, +3% immunity gain speed). Works with modded beds that accept end tables.
+
+TWEED IS NOW A FABRIC
+- Tweed can be used to make clothes, like wool: warm, rain-proof and hard-wearing. Its price dropped to fit its new role.
+
+SOUNDS
+- Four new signature sounds: a war horn when nations declare war and when the Storm Horn is blown, a brass call for the Eagle Standard and the Owl Aegis, a gong for the Dragon Seal and a drum roll for the War Drum.
+
+FIXES
+- Mediation letters now show both nation names.

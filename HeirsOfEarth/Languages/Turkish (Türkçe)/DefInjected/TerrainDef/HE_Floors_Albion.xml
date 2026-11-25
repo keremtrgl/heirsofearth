@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Cobble.label>arnavut kaldırımı</HE_Albion_Cobble.label>
+  <HE_Albion_Cobble.description>Kumun içine sıkıca dizilmiş yuvarlak taşlar. Dayanıklı ve üzerinde yürümesi hızlı, ama çizme altında gürültülü.</HE_Albion_Cobble.description>
+  <HE_Albion_Brick.label>tuğla döşeme</HE_Albion_Brick.label>
+  <HE_Albion_Brick.description>Balıksırtı deseninde döşenmiş kırmızı tuğlalar. Sıcak görünümlü ve düzenli.</HE_Albion_Brick.description>
+  <HE_Albion_Parquet.label>parke</HE_Albion_Parquet.label>
+  <HE_Albion_Parquet.description>Balık sırtı deseninde döşenip sıcak bir parlaklıkla cilalanmış meşe bloklar; her düzgün salonun zemini.</HE_Albion_Parquet.description>
+</LanguageData>

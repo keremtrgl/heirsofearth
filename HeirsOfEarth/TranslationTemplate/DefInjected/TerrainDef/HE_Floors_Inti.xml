@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Terraces.label>stone terraces</HE_Inti_Terraces.label>
+  <HE_Inti_Terraces.description>Stepped beds of carried soil held up by dry-stone walls. Plants grow on them as on good soil. They can be laid on any diggable ground, so even gravel and stony slopes can be farmed.</HE_Inti_Terraces.description>
+  <HE_Inti_FittedStone.label>fitted stone</HE_Inti_FittedStone.label>
+  <HE_Inti_FittedStone.description>Many-sided stones cut to fit each other so tightly that no blade slips between them. Earthquakes cannot shake them loose.</HE_Inti_FittedStone.description>
+  <HE_Inti_Adobe.label>adobe tiles</HE_Inti_Adobe.label>
+  <HE_Inti_Adobe.description>Sun-dried tiles of clay and straw, warm in colour and cheap to make. Storehouses and village homes use them.</HE_Inti_Adobe.description>
+</LanguageData>

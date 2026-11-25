@@ -1,0 +1,36 @@
+Version 2.0.0 - Three new nations and full politics
+
+NEW NATIONS
+- League of Hellas (owl, led by an Archon). Hoplites, Ephebes, Toxotes archers, physicians and Strategoi. Weapons: dory spear, xiphos, kopis, toxon bow. Armour: Corinthian helmet, linothorax, chiton. Buildings: hoplon wall shield, marble column, theatre stage, meander floor. Food: maza barley cakes. Trade good: olive oil. Friendly toward Nova Roma.
+- Celestial Tianxia (dragon, led by an Emperor). Militia, crossbowmen, palace guards, scholars and generals. Weapons: jian, guandao, repeating crossbow (3-bolt burst), fire lance (short-range flame shot). Armour: lamellar, Tianxia helmet, hanfu robe. Buildings: porcelain vase, moon gate, paper lantern, gongfu tea table, jade floor. Food: dumplings. Trade goods: tea bricks and silk. Rival of the Yamato Shogunate.
+- Commonwealth of Albion (lion, led by a Lord Protector). The first Industrial heir nation: fusiliers, riflemen, dragoons, engineers and colonels. Weapons: cavalry sabre, musket, bayonet rifle. Apparel: shako and redcoat. Buildings: wood-fired steam engine (1400 W), pub table, cobblestone and brick floors. Food: meat pie. Trade good: tweed. Friendly toward Nordheim, rival of Nova Roma.
+
+RESEARCH AND TRADITIONS
+- Each new nation has its own research branch with seven traditions (21 new traditions in total).
+- Hellas: Olympic Games, Rhetoric, Geometry, Hippocratic Oath, Theatre, Academy, Phalanx.
+- Tianxia: Tea Culture, Ever-Normal Granary, Silk Road, Imperial Physicians, Imperial Examination, Fire Arrows, Porcelain Mastery.
+- Albion: Enclosure, Sanitation, Joint-Stock Company, Admiralty Charts, Line Drill, Steam Power, Factory Order.
+- Some traditions have a price (Phalanx slows movement, Enclosure hurts negotiation, Factory Order raises mental break risk).
+
+STORY CHAINS AND ARTIFACTS
+- Three new five-step story chains: "The Lost Library" (Hellas), "The Palace Examination" (Tianxia) and "Iron Revolution" (Albion).
+- Each chain ends with a relic, a hard choice and a legendary artifact: the Aegis of the Owl, the Dragon Seal (calls fog and rain) and the War Drum.
+- Finishing a chain unlocks the nation's capstone project: Golden Age (Hellas), Harmony Under Heaven (Tianxia) and the Workshop of the World (Albion).
+
+POLITICS
+- All six nations now take part in the political simulation: alliances, wars, captured towns, envoys, tribute demands, marriages and collapse.
+- New starting friendships and rivalries between the nations.
+- Mediation letters now show both nation names correctly.
+
+PEOPLE AND JOY
+- 21 new pawn kinds and 36 new backstories.
+- New joy activity: watching a play at the Hellas theatre stage (up to six spectators).
+- Tianxia tea tables join the tea ceremony; Albion pub tables join feasts.
+- Every new nation has a trader and a start scenario (Albion starts as an Industrial colony).
+
+FIXES AND BALANCE
+- Nova Roma's Aquila research no longer overlaps Pax Romana in the research tab.
+- Ranged weapons balanced against vanilla references (repeating crossbow and toxon stay close to vanilla bows; muskets and rifles close to vanilla guns).
+- New preview image and mod icon with all six nation emblems.
+
+All new text is in English and Turkish. Existing saves keep loading, but the three new nations only appear in newly generated worlds.

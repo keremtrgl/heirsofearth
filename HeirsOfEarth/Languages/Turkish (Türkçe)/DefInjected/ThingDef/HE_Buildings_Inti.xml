@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Qullqa.label>qullqa ambarı</HE_Inti_Qullqa.label>
+  <HE_Inti_Qullqa.description>Rüzgârın estiği yere kurulmuş, sazdan çatılı ve tabanında havalandırma delikleri olan yuvarlak bir taş ambar. İçinde saklanan yiyecek normalin yarısı hızla bozulur. Her karede üç yığın tutar.</HE_Inti_Qullqa.description>
+  <HE_Inti_QuipuTable.label>quipu masası</HE_Inti_QuipuTable.label>
+  <HE_Inti_QuipuTable.description>Her renkten düzinelerce düğümlü ipin, koloninin sayımlarının sarktığı bir çerçevesi olan alçak bir masa. Bir araştırma masasının yakınına konulunca araştırmayı %5 hızlandırır.</HE_Inti_QuipuTable.description>
+  <HE_Inti_SunStone.label>güneş taşı</HE_Inti_SunStone.label>
+  <HE_Inti_SunStone.description>Üzerinden kısa bir direk yükselen oyma bir granit kaya. Güneşin tam tepesinde durduğu yılın iki gününde direk hiç gölge düşürmez.</HE_Inti_SunStone.description>
+  <HE_Inti_SunDisc.label>güneş diski</HE_Inti_SunDisc.label>
+  <HE_Inti_SunDisc.description>Altından dövülmüş ve taş bir ayağa yerleştirilmiş bir güneş yüzü. Güneş tapınağında bu diskler şafağı yakalar, salonu ışıkla doldururdu.</HE_Inti_SunDisc.description>
+  <HE_Inti_PumaStone.label>puma taşı</HE_Inti_PumaStone.label>
+  <HE_Inti_PumaStone.description>Tek bir bloktan yontulmuş, çömelmiş bir puma. Puma, yukarıdaki kondor ile aşağıdaki yılanın arasında, yaşayanların dünyasını korur.</HE_Inti_PumaStone.description>
+  <HE_Inti_SlingStand_Gun.label>sapan kolu</HE_Inti_SlingStand_Gun.label>
+  <HE_Inti_SlingStand_Gun.description>sapan kulesi yapısının dönen üst kısmı.</HE_Inti_SlingStand_Gun.description>
+  <HE_Inti_SlingStand.label>sapan kulesi</HE_Inti_SlingStand.label>
+  <HE_Inti_SlingStand.description>Geçme taşlardan bir halka, bir mil üzerinde uzun bir sapan kolu ve bir sepet yuvarlak taş. Yaklaşan herkese art arda üç taş savurur. Taş yığınıyla beslenir: bir yığın on taş eder.</HE_Inti_SlingStand.description>
+  <HE_Inti_SlingStand.comps.1.fuelLabel>Taşlar</HE_Inti_SlingStand.comps.1.fuelLabel>
+  <HE_Inti_SlingStand.comps.1.fuelGizmoLabel>Taşlar</HE_Inti_SlingStand.comps.1.fuelGizmoLabel>
+  <HE_Inti_SlingStand.comps.1.outOfFuelMessage>Taş yığını gerekli</HE_Inti_SlingStand.comps.1.outOfFuelMessage>
+</LanguageData>

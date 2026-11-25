@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia.label>Göksel Tianxia</HE_Tianxia.label>
+  <HE_Tianxia.description>Kunlun koloni gemisi bütün mirasçıların en kalabalık mürettebatını taşıdı ve torunları en büyük ülkeyi kurdu. Bir imparator, sınavla seçilmiş âlim memurlar aracılığıyla göğün altındaki her şeyi yönetir; Tianxia'nın ipek yolları çayı, porseleni ve ipeği her pazara taşır. Sabırlı, kalabalık ve gururludurlar; Yamato'yu eski bir savaş için hiç affetmediler.</HE_Tianxia.description>
+  <HE_Tianxia.rulerTitle>İmparator</HE_Tianxia.rulerTitle>
+  <HE_Tianxia.adjective>Tianxia</HE_Tianxia.adjective>
+  <HE_Tianxia.doctrine.label>savaş sanatı</HE_Tianxia.doctrine.label>
+  <HE_Tianxia.doctrine.description>Her savaş, yapılmadan önce kazanılır. Tianxia orduları menzil dışında toplanır, doğru anı bekler ve sonra talimli arbalet yaylımlarıyla vurur.</HE_Tianxia.doctrine.description>
+  <HE_Tianxia.honoraryTitle>dış diyarın markisi</HE_Tianxia.honoraryTitle>
+</LanguageData>

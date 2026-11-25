@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_CouncilHall.label>mirasçılar konsey salonu</HE_CouncilHall.label>
+  <HE_CouncilHall.description>Cilalı taştan büyük, yuvarlak bir masa; çevresinde her mirasçı devlet için bir sancak ve her elçi için bir koltuk. İnşa edildiğinde Mirasçılar sekmesinden mevsimde bir kez Dünya Konseyi'ni toplayabilirsin.</HE_CouncilHall.description>
+  <HE_Trebuchet_Gun.label>mancınık kolu</HE_Trebuchet_Gun.label>
+  <HE_Trebuchet_Gun.description>Bir mancınığın atış kolu ve karşı ağırlığı.</HE_Trebuchet_Gun.description>
+  <HE_Trebuchet.label>mancınık</HE_Trebuchet.label>
+  <HE_Trebuchet.description>Sıkıştırılmış toprak bir yatak üzerinde karşı ağırlıklı bir mancınık. Başına bir kişinin geçmesi gerekir; o zaman ok menzilinin çok dışındaki düşmanlara surların üzerinden kayalar fırlatır ve düştüğü yeri ezer. Yirmi kareden yakını vuramaz, sık ıskalar ve yavaş doldurulur ama barut çağından önce bir mirasçının yapabileceği hiçbir şey daha uzağa erişmez. Taş yığınıyla beslenir: bir yığın bir kaya eder.</HE_Trebuchet.description>
+  <HE_Trebuchet.comps.2.fuelLabel>Kayalar</HE_Trebuchet.comps.2.fuelLabel>
+  <HE_Trebuchet.comps.2.fuelGizmoLabel>Kayalar</HE_Trebuchet.comps.2.fuelGizmoLabel>
+  <HE_Trebuchet.comps.2.outOfFuelMessage>Taş yığını gerekli</HE_Trebuchet.comps.2.outOfFuelMessage>
+  <HE_Embassy.label>elçilik</HE_Embassy.label>
+  <HE_Embassy.description>Mirasçı devletlerin elçilerini karşılamak için bir salon: mektuplar ve mühürler için bir masa, konuklar için sandalyeler ve her devlet için bir sancak ayağı. Bir elçilikle bilim değişimi ve savunma ittifakı imzalayabilirsin, antlaşma yaptığın her devlet de her ay sana biraz daha ısınır. Bir tane yeter.</HE_Embassy.description>
+</LanguageData>

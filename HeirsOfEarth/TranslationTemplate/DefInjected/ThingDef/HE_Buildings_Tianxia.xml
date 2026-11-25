@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Vase.label>porcelain vase</HE_Tianxia_Vase.label>
+  <HE_Tianxia_Vase.description>A tall white vase painted in cobalt blue with dragons among clouds. Merchants travel half the world to buy one.</HE_Tianxia_Vase.description>
+  <HE_Tianxia_MoonGate.label>moon gate</HE_Tianxia_MoonGate.label>
+  <HE_Tianxia_MoonGate.description>A perfectly round opening in a garden wall. Stepping through it is said to bring luck.</HE_Tianxia_MoonGate.description>
+  <HE_Tianxia_Lantern.label>paper lantern</HE_Tianxia_Lantern.label>
+  <HE_Tianxia_Lantern.description>A red paper lantern on a lacquered post, with a small oil lamp inside.</HE_Tianxia_Lantern.description>
+  <HE_Tianxia_TeaTable.label>gongfu tea table</HE_Tianxia_TeaTable.label>
+  <HE_Tianxia_TeaTable.description>A carved wooden tray table with a clay teapot and tiny cups. Tea is brewed again and again, a little stronger each time.</HE_Tianxia_TeaTable.description>
+  <HE_Tianxia_FireArrowBattery_Gun.label>fire-arrow rack</HE_Tianxia_FireArrowBattery_Gun.label>
+  <HE_Tianxia_FireArrowBattery_Gun.description>A hexagonal box of rocket arrows mounted on a turning cart.</HE_Tianxia_FireArrowBattery_Gun.description>
+  <HE_Tianxia_FireArrowBattery.label>fire-arrow battery</HE_Tianxia_FireArrowBattery.label>
+  <HE_Tianxia_FireArrowBattery.description>A wheeled 'nest of bees' that looses eight fire arrows in one volley at anything hostile in range. It needs no power, only wood to make new arrows: one log becomes two arrows. The arrows are not accurate, but they set the enemy alight.</HE_Tianxia_FireArrowBattery.description>
+  <HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>Fire arrows</HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>
+  <HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>Arrows</HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>
+  <HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>
+</LanguageData>

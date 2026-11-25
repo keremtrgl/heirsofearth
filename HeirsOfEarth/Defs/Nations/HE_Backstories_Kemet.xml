@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Farmer</defName>
+    <title>river farmer</title>
+    <titleShort>farmer</titleShort>
+    <description>Every year [PAWN_nameDef] waited for the flood, then planted the black silt it left behind. [PAWN_pronoun] knows the weight of a good harvest by eye and the taste of a bad one by heart.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>7</Plants>
+      <Animals>2</Animals>
+      <Construction>1</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Scribe</defName>
+    <title>royal scribe</title>
+    <titleShort>scribe</titleShort>
+    <description>[PAWN_nameDef] sat cross-legged in the granary for years, counting sacks, copying letters and catching overseers who stole. Many people owe [PAWN_objective] favours; some owe [PAWN_objective] grudges.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>7</Intellectual>
+      <Social>4</Social>
+    </skillGains>
+    <requiredWorkTags>
+      <li>Intellectual</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Mason</defName>
+    <title>royal stonemason</title>
+    <titleShort>mason</titleShort>
+    <description>[PAWN_nameDef] worked in the quarry gangs that cut and dragged the great blocks. [PAWN_pronoun] can split granite with wooden wedges and water, and [PAWN_possessive] walls never lean.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Construction>8</Construction>
+      <Mining>4</Mining>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Medjay</defName>
+    <title>medjay scout</title>
+    <titleShort>medjay</titleShort>
+    <description>[PAWN_nameDef] patrolled the desert roads with the medjay, tracking thieves across rock and sand. [PAWN_pronoun] can run all day and still shoot straight at sunset.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>6</Shooting>
+      <Melee>3</Melee>
+      <Animals>1</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Charioteer</defName>
+    <title>charioteer</title>
+    <titleShort>charioteer</titleShort>
+    <description>[PAWN_nameDef] drove a war chariot in the king's corps, a pair of horses in one hand and a bow in the other. [PAWN_pronoun] still talks to animals more gently than to people.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>6</Animals>
+      <Shooting>5</Shooting>
+      <Melee>2</Melee>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Physician</defName>
+    <title>house of life physician</title>
+    <titleShort>physician</titleShort>
+    <description>In the House of Life [PAWN_nameDef] learned to set bones, stitch wounds and read the old medical papyri, which are right more often than people expect.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>8</Medicine>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <requiredWorkTags>
+      <li>Intellectual</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Boatman</defName>
+    <title>river boatman</title>
+    <titleShort>boatman</titleShort>
+    <description>[PAWN_nameDef] poled cargo barges up and down the river, carrying grain north and stone south. [PAWN_pronoun] knows every sandbank and every tavern on the way.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>4</Social>
+      <Construction>3</Construction>
+      <Cooking>2</Cooking>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_Merchant</defName>
+    <title>incense trader</title>
+    <titleShort>trader</titleShort>
+    <description>[PAWN_nameDef] led donkey caravans to the southern lands for incense, ebony and ostrich feathers, and came back with all of them and most of [PAWN_possessive] donkeys.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Animals>2</Animals>
+      <Intellectual>1</Intellectual>
+    </skillGains>
+    <workDisables>
+      <li>Violent</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_ScribeSchool</defName>
+    <title>scribe school pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] copied the same proverbs onto pottery shards a thousand times while the teacher walked behind [PAWN_objective] with a stick.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_ReedChild</defName>
+    <title>reed cutter</title>
+    <titleShort>reed cutter</titleShort>
+    <description>[PAWN_nameDef] grew up in the marshes, cutting reeds for papyrus and boats and keeping one eye open for crocodiles.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>2</Plants>
+      <Crafting>2</Crafting>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_PotterChild</defName>
+    <title>potter's child</title>
+    <titleShort>potter's child</titleShort>
+    <description>[PAWN_nameDef] kneaded clay and fed the kiln in a potter's yard, making the jars that carried the whole kingdom's beer and grain.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>3</Crafting>
+      <Artistic>1</Artistic>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Kemet_BS_DesertChild</defName>
+    <title>desert-edge herder</title>
+    <titleShort>herder</titleShort>
+    <description>[PAWN_nameDef] herded goats where the green fields end and the red sand begins, and learned to find water where there seemed to be none.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Kemet</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>2</Animals>
+      <Shooting>1</Shooting>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

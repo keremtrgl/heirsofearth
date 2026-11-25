@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Hellas_Maza.label>cook maza</HE_Cook_Hellas_Maza.label>
+  <HE_Cook_Hellas_Maza.description>Cook maza.</HE_Cook_Hellas_Maza.description>
+  <HE_Cook_Hellas_Maza.jobString>Cooking maza.</HE_Cook_Hellas_Maza.jobString>
+  <HE_Cook_Hellas_Skewers.label>cook obeliskos skewers</HE_Cook_Hellas_Skewers.label>
+  <HE_Cook_Hellas_Skewers.description>Cook obeliskos skewers.</HE_Cook_Hellas_Skewers.description>
+  <HE_Cook_Hellas_Skewers.jobString>Cooking obeliskos skewers.</HE_Cook_Hellas_Skewers.jobString>
+  <HE_Cook_Hellas_Plakous.label>cook plakous</HE_Cook_Hellas_Plakous.label>
+  <HE_Cook_Hellas_Plakous.description>Cook plakous.</HE_Cook_Hellas_Plakous.description>
+  <HE_Cook_Hellas_Plakous.jobString>Cooking plakous.</HE_Cook_Hellas_Plakous.jobString>
+</LanguageData>

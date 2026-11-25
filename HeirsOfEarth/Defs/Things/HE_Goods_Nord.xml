@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Nord_Archive</defName>
+    <label>Nordheim saga staves</label>
+    <description>A bundle of wooden staves carved with runes: sagas, laws spoken at the Thing and the lineage of the jarls. Studying it at a culture table teaches a great deal about Nordheim.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Nord_Archive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>10</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>220</MarketValue>
+      <Mass>0.6</Mass>
+      <Flammability>1</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_NordGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

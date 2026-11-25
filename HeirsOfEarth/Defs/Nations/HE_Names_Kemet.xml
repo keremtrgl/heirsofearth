@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>HE_Names_Kemet_Male</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=3)-&gt;[first] [last]</li>
+        <li>r_name-&gt;[first] '[nick]' [last]</li>
+        <li>nick-&gt;the Scribe</li>
+        <li>nick-&gt;Sandfoot</li>
+        <li>nick-&gt;the Patient</li>
+        <li>nick-&gt;Falcon-Eye</li>
+        <li>nick-&gt;the Mason</li>
+        <li>nick-&gt;Reed-Cutter</li>
+        <li>nick-&gt;the Elder</li>
+        <li>nick-&gt;Two-Bows</li>
+        <li>first-&gt;Amenhet</li>
+        <li>first-&gt;Khaemwaset</li>
+        <li>first-&gt;Senebi</li>
+        <li>first-&gt;Nakhtmin</li>
+        <li>first-&gt;Paser</li>
+        <li>first-&gt;Ramessu</li>
+        <li>first-&gt;Sennefer</li>
+        <li>first-&gt;Djedi</li>
+        <li>first-&gt;Intef</li>
+        <li>first-&gt;Kamose</li>
+        <li>first-&gt;Merire</li>
+        <li>first-&gt;Neferhotep</li>
+        <li>first-&gt;Penre</li>
+        <li>first-&gt;Seti</li>
+        <li>first-&gt;Tjenen</li>
+        <li>first-&gt;Userhet</li>
+        <li>first-&gt;Ahmose</li>
+        <li>first-&gt;Akhenaten</li>
+        <li>first-&gt;Amenemhat</li>
+        <li>first-&gt;Amenhotep</li>
+        <li>first-&gt;Ankhu</li>
+        <li>first-&gt;Bakenkhonsu</li>
+        <li>first-&gt;Hapu</li>
+        <li>first-&gt;Harkhuf</li>
+        <li>first-&gt;Horemheb</li>
+        <li>first-&gt;Huy</li>
+        <li>first-&gt;Imhotep</li>
+        <li>first-&gt;Ineni</li>
+        <li>first-&gt;Kagemni</li>
+        <li>first-&gt;Kha</li>
+        <li>first-&gt;Khufu</li>
+        <li>first-&gt;Mahu</li>
+        <li>first-&gt;Maya</li>
+        <li>first-&gt;Menkaure</li>
+        <li>first-&gt;Mentuhotep</li>
+        <li>first-&gt;Meryre</li>
+        <li>first-&gt;Nakht</li>
+        <li>first-&gt;Nebamun</li>
+        <li>first-&gt;Nebsen</li>
+        <li>first-&gt;Pentawer</li>
+        <li>first-&gt;Ptahhotep</li>
+        <li>first-&gt;Rahotep</li>
+        <li>first-&gt;Ramose</li>
+        <li>first-&gt;Rekhmire</li>
+        <li>first-&gt;Senenmut</li>
+        <li>first-&gt;Senusret</li>
+        <li>first-&gt;Sethi</li>
+        <li>first-&gt;Siamun</li>
+        <li>first-&gt;Sobekhotep</li>
+        <li>first-&gt;Thutmose</li>
+        <li>first-&gt;Tjaty</li>
+        <li>first-&gt;Userhat</li>
+        <li>first-&gt;Wenamun</li>
+        <li>first-&gt;Yuya</li>
+        <li>first-&gt;Amasis</li>
+        <li>first-&gt;Ankhtify</li>
+        <li>first-&gt;Bakenranef</li>
+        <li>first-&gt;Bek</li>
+        <li>first-&gt;Djedefre</li>
+        <li>first-&gt;Djehuty</li>
+        <li>first-&gt;Hemiunu</li>
+        <li>first-&gt;Herihor</li>
+        <li>first-&gt;Hori</li>
+        <li>first-&gt;Huni</li>
+        <li>first-&gt;Khafre</li>
+        <li>first-&gt;Khety</li>
+        <li>first-&gt;Merenptah</li>
+        <li>first-&gt;Nebka</li>
+        <li>first-&gt;Nectanebo</li>
+        <li>first-&gt;Nekhthorheb</li>
+        <li>first-&gt;Piankhi</li>
+        <li>first-&gt;Psamtik</li>
+        <li>first-&gt;Sahure</li>
+        <li>first-&gt;Samut</li>
+        <li>first-&gt;Sekhemkhet</li>
+        <li>first-&gt;Seqenenre</li>
+        <li>first-&gt;Setau</li>
+        <li>first-&gt;Shabaka</li>
+        <li>first-&gt;Sneferu</li>
+        <li>first-&gt;Taharqa</li>
+        <li>first-&gt;Unas</li>
+        <li>first-&gt;Userkaf</li>
+        <li>first-&gt;Akhet</li>
+        <li>first-&gt;Amenemope</li>
+        <li>first-&gt;Amenmesse</li>
+        <li>first-&gt;Anen</li>
+        <li>first-&gt;Hesy</li>
+        <li>first-&gt;Iuput</li>
+        <li>first-&gt;Khnumhotep</li>
+        <li>first-&gt;Menna</li>
+        <li>first-&gt;Meri</li>
+        <li>first-&gt;Nebmaat</li>
+        <li>first-&gt;Pabasa</li>
+        <li>first-&gt;Pashedu</li>
+        <li>first-&gt;Pawah</li>
+        <li>first-&gt;Qenamun</li>
+        <li>first-&gt;Tjanuni</li>
+        <li>first-&gt;Wenet</li>
+        <li>first-&gt;Yey</li>
+        <li>last-&gt;son of Paser</li>
+        <li>last-&gt;of Waset</li>
+        <li>last-&gt;of the Delta</li>
+        <li>last-&gt;Sabu</li>
+        <li>last-&gt;Pahery</li>
+        <li>last-&gt;of Abydu</li>
+        <li>last-&gt;Ptahmose</li>
+        <li>last-&gt;Amenemopet</li>
+        <li>last-&gt;son of Amenemhat</li>
+        <li>last-&gt;son of Djehuty</li>
+        <li>last-&gt;son of Khaemwaset</li>
+        <li>last-&gt;son of Ptahmose</li>
+        <li>last-&gt;son of Userhat</li>
+        <li>last-&gt;son of Neferhotep</li>
+        <li>last-&gt;son of Sennefer</li>
+        <li>last-&gt;son of Nakht</li>
+        <li>last-&gt;of Abydos</li>
+        <li>last-&gt;of Iunu</li>
+        <li>last-&gt;of Men-nefer</li>
+        <li>last-&gt;of Khmun</li>
+        <li>last-&gt;of Swenett</li>
+        <li>last-&gt;of Nekhen</li>
+        <li>last-&gt;of Djeba</li>
+        <li>last-&gt;of Ta-senet</li>
+        <li>last-&gt;of the Fayum</li>
+        <li>last-&gt;of the Cataract</li>
+        <li>last-&gt;Djeserkare</li>
+        <li>last-&gt;Hapuseneb</li>
+        <li>last-&gt;Kenamun</li>
+        <li>last-&gt;Paheri</li>
+        <li>last-&gt;Wennefer</li>
+        <li>last-&gt;Panehesy</li>
+        <li>last-&gt;Ipuwer</li>
+        <li>last-&gt;Dedi</li>
+        <li>last-&gt;Weni</li>
+        <li>last-&gt;of Behdet</li>
+        <li>last-&gt;of Tjebu</li>
+        <li>last-&gt;of Per-Bastet</li>
+        <li>last-&gt;of Zau</li>
+        <li>last-&gt;of Djedu</li>
+        <li>last-&gt;of Iunet</li>
+        <li>last-&gt;of Gebtu</li>
+        <li>last-&gt;of Akhetaten</li>
+        <li>last-&gt;of the Oasis</li>
+        <li>last-&gt;of the Red Land</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_Names_Kemet_Female</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=3)-&gt;[first] [last]</li>
+        <li>r_name-&gt;[first] '[nick]' [last]</li>
+        <li>nick-&gt;the Scribe</li>
+        <li>nick-&gt;Sandfoot</li>
+        <li>nick-&gt;the Patient</li>
+        <li>nick-&gt;Falcon-Eye</li>
+        <li>nick-&gt;the Mason</li>
+        <li>nick-&gt;Reed-Cutter</li>
+        <li>nick-&gt;the Elder</li>
+        <li>nick-&gt;Two-Bows</li>
+        <li>first-&gt;Hatnefer</li>
+        <li>first-&gt;Henutawy</li>
+        <li>first-&gt;Takhat</li>
+        <li>first-&gt;Meritamun</li>
+        <li>first-&gt;Nebet</li>
+        <li>first-&gt;Nefertari</li>
+        <li>first-&gt;Tiye</li>
+        <li>first-&gt;Sitre</li>
+        <li>first-&gt;Baketamun</li>
+        <li>first-&gt;Henut</li>
+        <li>first-&gt;Ipy</li>
+        <li>first-&gt;Khentkawes</li>
+        <li>first-&gt;Mutnofret</li>
+        <li>first-&gt;Satiah</li>
+        <li>first-&gt;Tuya</li>
+        <li>first-&gt;Neferu</li>
+        <li>first-&gt;Ahhotep</li>
+        <li>first-&gt;Ahmose-Nefertari</li>
+        <li>first-&gt;Amunet</li>
+        <li>first-&gt;Ankhesenamun</li>
+        <li>first-&gt;Henuttawy</li>
+        <li>first-&gt;Hatshepsut</li>
+        <li>first-&gt;Hetepheres</li>
+        <li>first-&gt;Iset</li>
+        <li>first-&gt;Isetnofret</li>
+        <li>first-&gt;Kawit</li>
+        <li>first-&gt;Khentkaus</li>
+        <li>first-&gt;Maia</li>
+        <li>first-&gt;Maatkare</li>
+        <li>first-&gt;Meresankh</li>
+        <li>first-&gt;Merneith</li>
+        <li>first-&gt;Mutemwia</li>
+        <li>first-&gt;Neferneferuaten</li>
+        <li>first-&gt;Nefertiti</li>
+        <li>first-&gt;Neferure</li>
+        <li>first-&gt;Neithhotep</li>
+        <li>first-&gt;Nodjmet</li>
+        <li>first-&gt;Raia</li>
+        <li>first-&gt;Satamun</li>
+        <li>first-&gt;Tawosret</li>
+        <li>first-&gt;Tey</li>
+        <li>first-&gt;Tia</li>
+        <li>first-&gt;Wadjet</li>
+        <li>first-&gt;Werenro</li>
+        <li>first-&gt;Amenirdis</li>
+        <li>first-&gt;Bener</li>
+        <li>first-&gt;Djet</li>
+        <li>first-&gt;Henutsen</li>
+        <li>first-&gt;Iaret</li>
+        <li>first-&gt;Ipwet</li>
+        <li>first-&gt;Khamerernebty</li>
+        <li>first-&gt;Kiya</li>
+        <li>first-&gt;Meritaten</li>
+        <li>first-&gt;Mutnedjmet</li>
+        <li>first-&gt;Nefert</li>
+        <li>first-&gt;Neith</li>
+        <li>first-&gt;Nitocris</li>
+        <li>first-&gt;Sitamun</li>
+        <li>first-&gt;Sobekneferu</li>
+        <li>first-&gt;Tadukhipa</li>
+        <li>first-&gt;Tentamun</li>
+        <li>first-&gt;Tiaa</li>
+        <li>first-&gt;Werel</li>
+        <li>first-&gt;Tamit</li>
+        <li>first-&gt;Hunay</li>
+        <li>first-&gt;Nebettawy</li>
+        <li>first-&gt;Mayet</li>
+        <li>first-&gt;Aset</li>
+        <li>first-&gt;Ankhet</li>
+        <li>first-&gt;Tabes</li>
+        <li>first-&gt;Tabaket</li>
+        <li>first-&gt;Djedet</li>
+        <li>first-&gt;Nefertiry</li>
+        <li>first-&gt;Hemet</li>
+        <li>first-&gt;Henutmire</li>
+        <li>first-&gt;Kemsit</li>
+        <li>first-&gt;Khnumet</li>
+        <li>first-&gt;Menet</li>
+        <li>first-&gt;Merit</li>
+        <li>first-&gt;Meryt</li>
+        <li>first-&gt;Nany</li>
+        <li>first-&gt;Nebetah</li>
+        <li>first-&gt;Nebu</li>
+        <li>first-&gt;Nefret</li>
+        <li>first-&gt;Nubkhesbed</li>
+        <li>first-&gt;Nubnofret</li>
+        <li>first-&gt;Nubemiyet</li>
+        <li>first-&gt;Sadeh</li>
+        <li>first-&gt;Sat-Hathor</li>
+        <li>first-&gt;Senet</li>
+        <li>first-&gt;Henuttaneb</li>
+        <li>first-&gt;Sitkamose</li>
+        <li>first-&gt;Taiset</li>
+        <li>first-&gt;Tasherit</li>
+        <li>first-&gt;Tausret</li>
+        <li>first-&gt;Teti</li>
+        <li>first-&gt;Tjepu</li>
+        <li>first-&gt;Tuyu</li>
+        <li>first-&gt;Wab</li>
+        <li>first-&gt;Webkhet</li>
+        <li>last-&gt;daughter of Paser</li>
+        <li>last-&gt;of Waset</li>
+        <li>last-&gt;of the Delta</li>
+        <li>last-&gt;Sabu</li>
+        <li>last-&gt;Pahery</li>
+        <li>last-&gt;of Abydu</li>
+        <li>last-&gt;Ptahmose</li>
+        <li>last-&gt;Amenemopet</li>
+        <li>last-&gt;daughter of Amenemhat</li>
+        <li>last-&gt;daughter of Djehuty</li>
+        <li>last-&gt;daughter of Khaemwaset</li>
+        <li>last-&gt;daughter of Ptahmose</li>
+        <li>last-&gt;daughter of Userhat</li>
+        <li>last-&gt;daughter of Neferhotep</li>
+        <li>last-&gt;daughter of Sennefer</li>
+        <li>last-&gt;daughter of Nakht</li>
+        <li>last-&gt;of Abydos</li>
+        <li>last-&gt;of Iunu</li>
+        <li>last-&gt;of Men-nefer</li>
+        <li>last-&gt;of Khmun</li>
+        <li>last-&gt;of Swenett</li>
+        <li>last-&gt;of Nekhen</li>
+        <li>last-&gt;of Djeba</li>
+        <li>last-&gt;of Ta-senet</li>
+        <li>last-&gt;of the Fayum</li>
+        <li>last-&gt;of the Cataract</li>
+        <li>last-&gt;Djeserkare</li>
+        <li>last-&gt;Hapuseneb</li>
+        <li>last-&gt;Kenamun</li>
+        <li>last-&gt;Paheri</li>
+        <li>last-&gt;Wennefer</li>
+        <li>last-&gt;Panehesy</li>
+        <li>last-&gt;Ipuwer</li>
+        <li>last-&gt;Dedi</li>
+        <li>last-&gt;Weni</li>
+        <li>last-&gt;of Behdet</li>
+        <li>last-&gt;of Tjebu</li>
+        <li>last-&gt;of Per-Bastet</li>
+        <li>last-&gt;of Zau</li>
+        <li>last-&gt;of Djedu</li>
+        <li>last-&gt;of Iunet</li>
+        <li>last-&gt;of Gebtu</li>
+        <li>last-&gt;of Akhetaten</li>
+        <li>last-&gt;of the Oasis</li>
+        <li>last-&gt;of the Red Land</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_Names_Kemet_Settlement</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name-&gt;Waset Nebet</li>
+        <li>r_name-&gt;Iteru</li>
+        <li>r_name-&gt;Abydu</li>
+        <li>r_name-&gt;Men-nefer</li>
+        <li>r_name-&gt;Per-Ramessu</li>
+        <li>r_name-&gt;Khemenu</li>
+        <li>r_name-&gt;Sunu</li>
+        <li>r_name(p=2)-&gt;[ta][tb]</li>
+        <li>ta-&gt;Per-</li>
+        <li>ta-&gt;Hut-</li>
+        <li>ta-&gt;Ta-</li>
+        <li>ta-&gt;Mer-</li>
+        <li>ta-&gt;Neb-</li>
+        <li>ta-&gt;Djed-</li>
+        <li>ta-&gt;Sekhet-</li>
+        <li>tb-&gt;iteru</li>
+        <li>tb-&gt;ankh</li>
+        <li>tb-&gt;hotep</li>
+        <li>tb-&gt;wadj</li>
+        <li>tb-&gt;nefer</li>
+        <li>tb-&gt;khaset</li>
+        <li>tb-&gt;maat</li>
+        <li>tb-&gt;sopdu</li>
+        <li>tb-&gt;kemet</li>
+        <li>tb-&gt;ipet</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_BS_Raider.title>kıyı akıncısı</HE_Nord_BS_Raider.title>
+  <HE_Nord_BS_Raider.titleShort>akıncı</HE_Nord_BS_Raider.titleShort>
+  <HE_Nord_BS_Raider.description>[PAWN_nameDef] her yaz bir akıncı tayfasıyla kürek çekti; savunmasız kıyılara hızla saldırıp alarm çanları susmadan uzaklaştı.</HE_Nord_BS_Raider.description>
+  <HE_Nord_BS_Hunter.title>kar avcısı</HE_Nord_BS_Hunter.title>
+  <HE_Nord_BS_Hunter.titleShort>avcı</HE_Nord_BS_Hunter.titleShort>
+  <HE_Nord_BS_Hunter.description>[PAWN_nameDef] bir yay, bir bıçak ve bir kürk torbadan başka hiçbir şey olmadan haftalarca derin karda geyik ve kurtların izini sürdü.</HE_Nord_BS_Hunter.description>
+  <HE_Nord_BS_Smith.title>bataklık demiri demircisi</HE_Nord_BS_Smith.title>
+  <HE_Nord_BS_Smith.titleShort>demirci</HE_Nord_BS_Smith.titleShort>
+  <HE_Nord_BS_Smith.description>[PAWN_nameDef] bataklıklardan demir çıkardı, kil fırınlarda eritti ve jarlların değer verdiği desenli kılıçlara dönüştürdü.</HE_Nord_BS_Smith.description>
+  <HE_Nord_BS_Skald.title>skald</HE_Nord_BS_Skald.title>
+  <HE_Nord_BS_Skald.titleShort>skald</HE_Nord_BS_Skald.titleShort>
+  <HE_Nord_BS_Skald.description>[PAWN_nameDef] bin dize ve her jarlın soy ağacını bilir. Başkalarının baltayla kazandığından daha çok kan davasını alaycı şiirleriyle kazandı.</HE_Nord_BS_Skald.description>
+  <HE_Nord_BS_Shipwright.title>gemi ustası</HE_Nord_BS_Shipwright.title>
+  <HE_Nord_BS_Shipwright.titleShort>gemici</HE_Nord_BS_Shipwright.titleShort>
+  <HE_Nord_BS_Shipwright.description>[PAWN_nameDef] bindirme tahtalar ve perçinlerle uzun gemiler yaptı, her kaburgayı gözüyle biçimlendirdi. Bir evi bir tekne kadar kolayca yapar.</HE_Nord_BS_Shipwright.description>
+  <HE_Nord_BS_Farmer.title>çiftlik köylüsü</HE_Nord_BS_Farmer.title>
+  <HE_Nord_BS_Farmer.titleShort>köylü</HE_Nord_BS_Farmer.titleShort>
+  <HE_Nord_BS_Farmer.description>[PAWN_nameDef] soğuk bir fiyort kenarındaki çiftlikte keçi, arpa ve inatçı bir inek besledi. Her yaz çok kısa, her kış çok uzundu.</HE_Nord_BS_Farmer.description>
+  <HE_Nord_BS_Berserker.title>berserker</HE_Nord_BS_Berserker.title>
+  <HE_Nord_BS_Berserker.titleShort>berserker</HE_Nord_BS_Berserker.titleShort>
+  <HE_Nord_BS_Berserker.description>[PAWN_nameDef] savaşa bir ayı postu giyerek girdi ve hayvanın kendisi gibi dövüştü. Sonrasında hiçbir şey hatırlamadı, diğerleri de bundan söz etmeyi sevmedi.</HE_Nord_BS_Berserker.description>
+  <HE_Nord_BS_Trader.title>kehribar tüccarı</HE_Nord_BS_Trader.title>
+  <HE_Nord_BS_Trader.titleShort>tüccar</HE_Nord_BS_Trader.titleShort>
+  <HE_Nord_BS_Trader.description>[PAWN_nameDef] kehribar, kürk ve mors dişini güneye taşıdı, gümüş ve hikâyelerle geri döndü. Her dilden biraz konuşur.</HE_Nord_BS_Trader.description>
+  <HE_Nord_BS_FjordChild.title>fiyort çocuğu</HE_Nord_BS_FjordChild.title>
+  <HE_Nord_BS_FjordChild.titleShort>fiyort çocuğu</HE_Nord_BS_FjordChild.titleShort>
+  <HE_Nord_BS_FjordChild.description>[PAWN_nameDef] küçük teknelerden balık tutarak ve nefesi kesecek kadar soğuk suda yüzerek büyüdü.</HE_Nord_BS_FjordChild.description>
+  <HE_Nord_BS_HallChild.title>salon çocuğu</HE_Nord_BS_HallChild.title>
+  <HE_Nord_BS_HallChild.titleShort>salon çocuğu</HE_Nord_BS_HallChild.titleShort>
+  <HE_Nord_BS_HallChild.description>[PAWN_nameDef] jarlın salonunda büyüdü; savaşçılara bal şarabı boynuzları taşıdı ve gece geç saatlere kadar övünmelerini dinledi.</HE_Nord_BS_HallChild.description>
+  <HE_Nord_BS_Thrall.title>köle çocuğu</HE_Nord_BS_Thrall.title>
+  <HE_Nord_BS_Thrall.titleShort>köle</HE_Nord_BS_Thrall.titleShort>
+  <HE_Nord_BS_Thrall.description>[PAWN_nameDef] özgür olmayarak doğdu ve sepet taşıyabildiği günden itibaren tarlalarda çalıştı; ta ki iyi kalpli bir jarl onu azat edene dek.</HE_Nord_BS_Thrall.description>
+  <HE_Nord_BS_ForestChild.title>orman çocuğu</HE_Nord_BS_ForestChild.title>
+  <HE_Nord_BS_ForestChild.titleShort>orman çocuğu</HE_Nord_BS_ForestChild.titleShort>
+  <HE_Nord_BS_ForestChild.description>[PAWN_nameDef] çam ormanlarının derinliklerinde bir avcı kulübesinde büyüdü; harflerden önce izleri öğrendi.</HE_Nord_BS_ForestChild.description>
+</LanguageData>

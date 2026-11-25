@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Tianxia_Dumplings.label>cook dumplings</HE_Cook_Tianxia_Dumplings.label>
+  <HE_Cook_Tianxia_Dumplings.description>Cook dumplings.</HE_Cook_Tianxia_Dumplings.description>
+  <HE_Cook_Tianxia_Dumplings.jobString>Cooking dumplings.</HE_Cook_Tianxia_Dumplings.jobString>
+  <HE_Cook_Tianxia_Congee.label>cook congee</HE_Cook_Tianxia_Congee.label>
+  <HE_Cook_Tianxia_Congee.description>Cook congee.</HE_Cook_Tianxia_Congee.description>
+  <HE_Cook_Tianxia_Congee.jobString>Cooking congee.</HE_Cook_Tianxia_Congee.jobString>
+  <HE_Cook_Tianxia_Mooncake.label>cook mooncakes</HE_Cook_Tianxia_Mooncake.label>
+  <HE_Cook_Tianxia_Mooncake.description>Cook mooncakes.</HE_Cook_Tianxia_Mooncake.description>
+  <HE_Cook_Tianxia_Mooncake.jobString>Cooking mooncakes.</HE_Cook_Tianxia_Mooncake.jobString>
+</LanguageData>

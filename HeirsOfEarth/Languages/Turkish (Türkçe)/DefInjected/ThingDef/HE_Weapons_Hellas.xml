@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Dory.label>dory</HE_Hellas_Dory.label>
+  <HE_Hellas_Dory.description>Yaprak biçimli demir uçlu, iki buçuk metrelik dişbudak mızrak. Uç kırılırsa hoplit onu çevirir ve bronz çiviyle dövüşür.</HE_Hellas_Dory.description>
+  <HE_Hellas_Dory.tools.0.label>gövde</HE_Hellas_Dory.tools.0.label>
+  <HE_Hellas_Dory.tools.1.label>uç</HE_Hellas_Dory.tools.1.label>
+  <HE_Hellas_Xiphos.label>xiphos</HE_Hellas_Xiphos.label>
+  <HE_Hellas_Xiphos.description>Yaprak biçimli ağzı olan kısa, çift ağızlı bir kılıç; mızrak kaybolduğunda yedek silah olarak taşınır.</HE_Hellas_Xiphos.description>
+  <HE_Hellas_Xiphos.tools.0.label>kabza</HE_Hellas_Xiphos.tools.0.label>
+  <HE_Hellas_Xiphos.tools.1.label>uç</HE_Hellas_Xiphos.tools.1.label>
+  <HE_Hellas_Xiphos.tools.2.label>ağız</HE_Hellas_Xiphos.tools.2.label>
+  <HE_Hellas_Kopis.label>kopis</HE_Hellas_Kopis.label>
+  <HE_Hellas_Kopis.description>Öne kıvrılan, ağır, tek ağızlı bir kılıç; her darbe bir balta gibi iner.</HE_Hellas_Kopis.description>
+  <HE_Hellas_Kopis.tools.0.label>kabza</HE_Hellas_Kopis.tools.0.label>
+  <HE_Hellas_Kopis.tools.1.label>ağız</HE_Hellas_Kopis.tools.1.label>
+  <HE_Hellas_Toxon.label>toxon</HE_Hellas_Toxon.label>
+  <HE_Hellas_Toxon.description>Boynuz ve sinirden yapılmış kısa, çift kavisli bir yay. Boyuna göre hızlı çekilir ve sert atar.</HE_Hellas_Toxon.description>
+  <HE_Hellas_Toxon.tools.0.label>kol</HE_Hellas_Toxon.tools.0.label>
+  <HE_Hellas_Gastraphetes.label>gastraphetes</HE_Hellas_Gastraphetes.label>
+  <HE_Hellas_Gastraphetes.description>'Karın yayı': uzun bir kundak üzerinde ağır bir yay; karnı kavisli bir dayanağa yaslayarak gerilir. Herhangi bir el yayından daha sert ve uzağa atar.</HE_Hellas_Gastraphetes.description>
+  <HE_Hellas_Gastraphetes.tools.0.label>kol</HE_Hellas_Gastraphetes.tools.0.label>
+  <HE_Hellas_Musket.label>Helen tüfeği</HE_Hellas_Musket.label>
+  <HE_Hellas_Musket.description>Gümüş bilezikli, dipçiği boyunca menderes kakmalı, mavi beyazın altında ilk yürüyen gönüllülerin taşıdığı çakmaklı bir tüfek. Soket süngüsü, barut bitince onu bir mızrağa çevirir.</HE_Hellas_Musket.description>
+  <HE_Hellas_Musket.tools.0.label>dipçik</HE_Hellas_Musket.tools.0.label>
+  <HE_Hellas_Musket.tools.1.label>süngü</HE_Hellas_Musket.tools.1.label>
+  <HE_Hellas_Rifle.label>Helen tüfeği</HE_Hellas_Rifle.label>
+  <HE_Hellas_Rifle.description>Gümüş bilezikli ve uzun kılıç süngülü, tek atışlı sürgülü bir tüfek. Evzonlar onu dağlara taşıdı.</HE_Hellas_Rifle.description>
+  <HE_Hellas_Rifle.tools.0.label>dipçik</HE_Hellas_Rifle.tools.0.label>
+  <HE_Hellas_Rifle.tools.1.label>süngü</HE_Hellas_Rifle.tools.1.label>
+</LanguageData>

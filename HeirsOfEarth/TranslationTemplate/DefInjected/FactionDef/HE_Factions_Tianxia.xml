@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Tianxia.label>Celestial Tianxia</HE_Faction_Tianxia.label>
+  <HE_Faction_Tianxia.description>The realm of all under heaven, heir of the colony ship Kunlun. Its scholar-officials govern a vast and patient people, and its caravans carry tea, silk and porcelain along the silk roads.</HE_Faction_Tianxia.description>
+  <HE_Faction_Tianxia.fixedName>Celestial Tianxia</HE_Faction_Tianxia.fixedName>
+  <HE_Faction_Tianxia.pawnSingular>Tianxia subject</HE_Faction_Tianxia.pawnSingular>
+  <HE_Faction_Tianxia.pawnsPlural>Tianxia people</HE_Faction_Tianxia.pawnsPlural>
+  <HE_Faction_Tianxia.leaderTitle>emperor</HE_Faction_Tianxia.leaderTitle>
+  <HE_Player_Tianxia.label>Tianxia settlers</HE_Player_Tianxia.label>
+  <HE_Player_Tianxia.description>A small household of Tianxia settlers sent to open a new frontier for the empire.</HE_Player_Tianxia.description>
+  <HE_Player_Tianxia.pawnSingular>colonist</HE_Player_Tianxia.pawnSingular>
+  <HE_Player_Tianxia.pawnsPlural>colonists</HE_Player_Tianxia.pawnsPlural>
+</LanguageData>

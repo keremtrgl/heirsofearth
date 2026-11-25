@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Pars</defName>
+    <label>Satrapy of Pars</label>
+    <description>The colony ship Pasargad came down on a high plateau ringed by mountains, and its people built roads before they built walls. Pars is a patchwork of provinces held together by a royal road, a post that never stops and a court that remembers every favour. Its satraps love gardens, horses and good carpets, keep their word and expect others to keep theirs. They are old friends of Tianxia and old rivals of Nova Roma.</description>
+    <color>(0.62, 0.12, 0.17)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Pars</iconPath>
+    <rulerTitle>Satrap</rulerTitle>
+    <adjective>Parsian</adjective>
+    <release>3</release>
+    <friends>
+      <li>HE_Tianxia</li>
+    </friends>
+    <rivals>
+      <li>HE_Roma</li>
+    </rivals>
+    <faction>HE_Faction_Pars</faction>
+    <playerFaction>HE_Player_Pars</playerFaction>
+    <scenario>HE_Start_Pars</scenario>
+    <archive>HE_Pars_Archive</archive>
+    <doctrine>
+      <label>cavalry wings</label>
+      <description>The armies of Pars attack on the wings: several swift groups at once, used to fighting from the saddle and closing in fast.</description>
+      <hediff>HE_Doctrine_Pars</hediff>
+      <strategy>ImmediateAttack</strategy>
+      <arrival>EdgeWalkInGroups</arrival>
+      <chance>0.75</chance>
+    </doctrine>
+    <animal>Dromedary</animal>
+    <temperamentBias>
+      <li>Mercantile</li>
+      <li>Pious</li>
+    </temperamentBias>
+    <honoraryTitle>benefactor of the Satrap</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

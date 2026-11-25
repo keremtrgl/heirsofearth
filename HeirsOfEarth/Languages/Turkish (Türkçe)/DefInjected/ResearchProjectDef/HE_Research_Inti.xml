@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Sling.label>sapan</HE_Inti_Sling.label>
+  <HE_Inti_Sling.description>Örgü yünden bir sapan ve bir kese dere taşı. İyi bir sapancı yüz adımdan bir miğferi kırabilir.</HE_Inti_Sling.description>
+  <HE_Inti_Unku.label>unku tuniği</HE_Inti_Unku.label>
+  <HE_Inti_Unku.description>Alpaka yününden dize kadar uzun tuniği doku; tocapu desenli kareleri onu giyenin kim olduğunu anlatır.</HE_Inti_Unku.description>
+  <HE_Inti_Terraces.label>teraslar</HE_Inti_Terraces.label>
+  <HE_Inti_Terraces.description>Yamacı basamaklara böl, her birini taşla duvarla ve taşınan toprakla doldur. Bir yamaç tarlaya dönüşür.</HE_Inti_Terraces.description>
+  <HE_Inti_Chaski.label>çaski koşucuları</HE_Inti_Chaski.label>
+  <HE_Inti_Chaski.description>Her yol boyunca konuşlanmış bayrak koşucuları; kendilerini duyurmak için bir deniz kabuğu ve taşımak için bir quipu. Bir haber imparatorluğu günler içinde geçer.
+
+Gelenek: Kolonistler %3 daha hızlı yürür.
+
+Mirasın bu değilse 15 İnti bilgisi gerekir.</HE_Inti_Chaski.description>
+  <HE_Inti_Pachamanca.label>paçamanka</HE_Inti_Pachamanca.label>
+  <HE_Inti_Pachamanca.description>Bir çukurda taşları ısıt, üzerlerine et, patates ve mısır koy, her şeyi otlar ve toprakla ört ve bekle.</HE_Inti_Pachamanca.description>
+  <HE_Inti_Ayni.label>ayni</HE_Inti_Ayni.label>
+  <HE_Inti_Ayni.description>Bugün ben senin tarlanı kazmana yardım ederim, yarın sen benim damımı örtmeme. İş ödünç verilir ve her zaman geri ödenir.
+
+Gelenek: Kolonistler %3 daha hızlı çalışır.
+
+Mirasın bu değilse 15 İnti bilgisi gerekir.</HE_Inti_Ayni.description>
+  <HE_Inti_Mita.label>mita emeği</HE_Inti_Mita.label>
+  <HE_Inti_Mita.description>Her hane yılın bir kısmında devlete işçi gönderir: yollar, köprüler, tapınaklar ve ambarlar kendiliğinden yükselir gibi.
+
+Gelenek: Kolonistler %5 daha hızlı inşa eder ve %5 daha hızlı kazı yapar.
+
+Mirasın bu değilse 20 İnti bilgisi gerekir.</HE_Inti_Mita.description>
+  <HE_Inti_Qullqa.label>qullqa ambarları</HE_Inti_Qullqa.label>
+  <HE_Inti_Qullqa.description>Rüzgârlı yamaçlarda, tabandan havalandırılan ve sazla örtülen yuvarlak taş ambarlar. Tahıl ve kurutulmuş yiyecek içlerinde yıllarca dayanır.
+
+Mirasın bu değilse 10 İnti bilgisi gerekir.</HE_Inti_Qullqa.description>
+  <HE_Inti_HighAltitude.label>yükseklerin çocukları</HE_Inti_HighAltitude.label>
+  <HE_Inti_HighAltitude.description>Geniş göğüsler, koka çayı, yün ve soğuk sabahlara alışkanlık. İnti halkı ovalıların titrediği yerde çalışır.
+
+Gelenek: Kolonistler 6°C daha soğukta rahat eder.
+
+Mirasın bu değilse 20 İnti bilgisi gerekir.</HE_Inti_HighAltitude.description>
+  <HE_Inti_Champi.label>yıldız topuz</HE_Inti_Champi.label>
+  <HE_Inti_Champi.description>Altı uçlu bronz bir baş dök ve sert ağaçtan bir sapa tak: imparatorluk ordusunun champisi.
+
+Mirasın bu değilse 10 İnti bilgisi gerekir.</HE_Inti_Champi.description>
+  <HE_Inti_Quipu.label>quipu</HE_Inti_Quipu.label>
+  <HE_Inti_Quipu.description>Onluk, yüzlük ve binlik düğümlerle bağlanmış, ana bir ipe asılı renkli yün iplikler. Nüfus, vergi ve tarih tek bir demette.
+
+Mirasın bu değilse 15 İnti bilgisi gerekir.</HE_Inti_Quipu.description>
+  <HE_Inti_MountainFarming.label>dağ tarımı</HE_Inti_MountainFarming.label>
+  <HE_Inti_MountainFarming.description>Her biri kendi yüksekliği ve mevsimi için yüz çeşit patates ve toprak hiç yorulmasın diye nöbetleşe ekilen tarlalar.
+
+Gelenek: Kolonistler %5 daha fazla hasat eder ve %3 daha hızlı eker ve hasat eder.
+
+Mirasın bu değilse 25 İnti bilgisi gerekir.</HE_Inti_MountainFarming.description>
+  <HE_Inti_RoyalGuard.label>kraliyet muhafızları</HE_Inti_RoyalGuard.label>
+  <HE_Inti_RoyalGuard.description>İmparatorun tahtırevanını taşıyan muhafızların kapitone savaş tuniği ve tüylü miğferi.
+
+Mirasın bu değilse 25 İnti bilgisi gerekir.</HE_Inti_RoyalGuard.description>
+  <HE_Inti_KnotKeepers.label>düğüm bekçileri</HE_Inti_KnotKeepers.label>
+  <HE_Inti_KnotKeepers.description>Çocukluktan beri ipleri bağlamak ve okumak için yetiştirilen khipukamayuqlar. İmparatorlukta sayılan hiçbir şey asla unutulmaz.
+
+Gelenek: Kolonistler %6 daha hızlı araştırma yapar.
+
+Mirasın bu değilse 25 İnti bilgisi gerekir.</HE_Inti_KnotKeepers.description>
+  <HE_Inti_Kallawaya.label>kallawaya şifacıları</HE_Inti_Kallawaya.label>
+  <HE_Inti_Kallawaya.description>Dağların ve altlarındaki ormanın bin bitkisini bilen gezgin şifacılar.
+
+Gelenek: Kolonistler yaraları ve hastalıkları %5 daha iyi tedavi eder.
+
+Mirasın bu değilse 25 İnti bilgisi gerekir.</HE_Inti_Kallawaya.description>
+  <HE_Inti_Slingers.label>yükseklerin sapancıları</HE_Inti_Slingers.label>
+  <HE_Inti_Slingers.description>Dağların oğlanları ve kızları sürü gütmeyi öğrenmeden önce sapan atmayı öğrenir. Savaşta taşlar dolu gibi yağar.
+
+Gelenek: Kolonistler 1 puan daha isabetli ateş eder ve %4 daha hızlı nişan alır.
+
+Mirasın bu değilse 35 İnti bilgisi gerekir.</HE_Inti_Slingers.description>
+  <HE_Inti_Carbine.label>dağ karabinası</HE_Inti_Carbine.label>
+  <HE_Inti_Carbine.description>Dik arazi için deri kayışlı ve kilidine kondor damgalı kısa, hafif bir karabina.
+
+Mirasın bu değilse 35 İnti bilgisi gerekir.</HE_Inti_Carbine.description>
+  <HE_Inti_QhapaqNan.label>büyük yol</HE_Inti_QhapaqNan.label>
+  <HE_Inti_QhapaqNan.description>Sırtlar boyunca taş döşeli yollar, geçitlerin üstünde halat köprüler ve her günlük yürüyüşte bir konak. Kervanlar koşucular kadar hızlı ilerler.
+
+Gelenek: Kervanlar %8 daha hızlı gider ve kolonistler %3 daha hızlı inşa eder.
+
+Mirasın bu değilse 45 İnti bilgisi gerekir.</HE_Inti_QhapaqNan.description>
+  <HE_Inti_CountedEmpire.label>sayılmış imparatorluk</HE_Inti_CountedEmpire.label>
+  <HE_Inti_CountedEmpire.description>Hatun Qulla yeniden sayıldığından beri imparatorluk kendini son lamasına kadar biliyor ve geleceği görebiliyormuş gibi plan yapıyor.
+
+Gelenek: Kolonistler %4 daha hızlı araştırma yapar, %5 daha hızlı öğrenir ve %2 daha hızlı çalışır.
+
+Mirasın bu değilse 50 İnti bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Inti_CountedEmpire.description>
+  <HE_Inti_SlingStand.label>sapan kulesi</HE_Inti_SlingStand.label>
+  <HE_Inti_SlingStand.description>İmparatorluğun sapancıları dağ kalelerine ipe el değmeden taş savurmayı öğretir.
+
+Mirasın bu değilse 40 İnti bilgisi gerekir.</HE_Inti_SlingStand.description>
+  <HE_Inti_PowderArms.label>Inti barutlu silahlar</HE_Inti_PowderArms.label>
+  <HE_Inti_PowderArms.description>Inti'nin usulü bir fitilli ya da çakmaklı tüfek yapmak: namlu, kilit, dipçik ve kullanma talimi.
+
+Mirasın bu değilse, ancak Inti Barut Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 30 İnti bilgisi gerekir.</HE_Inti_PowderArms.description>
+  <HE_Inti_SteamArmy.label>Inti buhar ordusu</HE_Inti_SteamArmy.label>
+  <HE_Inti_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Inti'nin kurduğu ordu.
+
+Mirasın bu değilse, ancak Inti Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 İnti bilgisi gerekir.</HE_Inti_SteamArmy.description>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Pars_Pilaf.label>saffron pilaf pişir</HE_Cook_Pars_Pilaf.label>
+  <HE_Cook_Pars_Pilaf.description>Safranlı pilav pişir.</HE_Cook_Pars_Pilaf.description>
+  <HE_Cook_Pars_Pilaf.jobString>Safranlı pilav pişiriyor.</HE_Cook_Pars_Pilaf.jobString>
+  <HE_Cook_Pars_Kebab.label>kebab and saffron rice pişir</HE_Cook_Pars_Kebab.label>
+  <HE_Cook_Pars_Kebab.description>Kebap ve safranlı pilav pişir.</HE_Cook_Pars_Kebab.description>
+  <HE_Cook_Pars_Kebab.jobString>Kebap ve safranlı pilav pişiriyor.</HE_Cook_Pars_Kebab.jobString>
+  <HE_Cook_Pars_Sholeh.label>sholeh zard pişir</HE_Cook_Pars_Sholeh.label>
+  <HE_Cook_Pars_Sholeh.description>Şole zerd pişir.</HE_Cook_Pars_Sholeh.description>
+  <HE_Cook_Pars_Sholeh.jobString>Şole zerd pişiriyor.</HE_Cook_Pars_Sholeh.jobString>
+</LanguageData>

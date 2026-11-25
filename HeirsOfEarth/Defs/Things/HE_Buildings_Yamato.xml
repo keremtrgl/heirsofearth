@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_Torii</defName>
+    <label>torii gate</label>
+    <description>A tall red gate of two pillars and two lintels. Walking beneath it, people lower their voices.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_Torii</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,2.25)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <fillPercent>0</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(3,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>160</costStuffCount>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>7000</WorkToBuild>
+      <Mass>30</Mass>
+      <Beauty>20</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Torii</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_Lantern</defName>
+    <label>stone lantern</label>
+    <description>A carved stone lantern with a small flame inside. It lights a garden path softly through the night.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_Lantern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.5)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>2600</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>6</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_TeaHouse</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>1.2</fuelConsumptionRate>
+        <fuelCapacity>10</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>7</glowRadius>
+        <glowColor>(252,197,133,0)</glowColor>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_TeaTable</defName>
+    <label>tea table</label>
+    <description>A low dark table set with an iron kettle and four cups. Colonists kneel around it for a quiet cup of tea.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_TeaTable</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <WorkToBuild>2600</WorkToBuild>
+      <Mass>40</Mass>
+      <Beauty>4</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_TeaHouse</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Social</joyKind>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_Dojo</defName>
+    <label>dojo training post</label>
+    <description>A post wrapped in straw bundles. Colonists strike it again and again to train their sword arm.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_Dojo</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.5)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>40</costStuffCount>
+    <costList>
+      <Hay>20</Hay>
+    </costList>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <WorkToBuild>1600</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>0</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Dojo</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Gaming_Dexterity</joyKind>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_Rack</defName>
+    <label>katana rack</label>
+    <description>A lacquered rack holding swords in their scabbards. A proud display of a house's blades.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_Rack</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1.25)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <costList>
+      <Steel>20</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>2400</WorkToBuild>
+      <Mass>20</Mass>
+      <Beauty>8</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Dojo</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>HE_Yamato_Yagura_Gun</defName>
+    <label>tower bows</label>
+    <description>The turning top of the yagura.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_Yagura_Top</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <AccuracyTouch>0.5</AccuracyTouch>
+      <AccuracyShort>0.66</AccuracyShort>
+      <AccuracyMedium>0.58</AccuracyMedium>
+      <AccuracyLong>0.42</AccuracyLong>
+      <RangedWeapon_Cooldown>4.2</RangedWeapon_Cooldown>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>30</Mass>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <defaultProjectile>HE_Arrow_Yagura</defaultProjectile>
+        <warmupTime>0</warmupTime>
+        <range>30.9</range>
+        <ticksBetweenBurstShots>9</ticksBetweenBurstShots>
+        <burstShotCount>3</burstShotCount>
+        <soundCast>Bow_Recurve</soundCast>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_Yagura</defName>
+    <label>yagura</label>
+    <description>A small timber watchtower with white plaster walls. Three bows set on a turning frame loose a short volley at once. Wood for new arrows: one log makes two.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <drawHighlight>true</drawHighlight>
+    <drawHighlightOnlyForHostile>true</drawHighlightOnlyForHostile>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_Yagura</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+      <shadowData>
+        <volume>(1.5,0.35,1.4)</volume>
+        <offset>(0,0,-0.05)</offset>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>260</MaxHitPoints>
+      <Flammability>1</Flammability>
+      <WorkToBuild>8000</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>-4</Beauty>
+      <ShootingAccuracyTurret>0.9</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.5</fillPercent>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <WoodLog>140</WoodLog>
+      <Steel>30</Steel>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HE_Yamato_Yagura_Gun</turretGunDef>
+      <turretBurstCooldownTime>4.2</turretBurstCooldownTime>
+      <turretTopDrawSize>2</turretTopDrawSize>
+      <turretTopOffset>(0, 0.05)</turretTopOffset>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>HE_Yamato_Yagura</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Arrows</fuelLabel>
+        <fuelGizmoLabel>Arrows</fuelGizmoLabel>
+        <outOfFuelMessage>Needs wood for arrows</outOfFuelMessage>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>60</fuelCapacity>
+        <fuelMultiplier>2</fuelMultiplier>
+        <initialFuelPercent>0</initialFuelPercent>
+        <autoRefuelPercent>0.5</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

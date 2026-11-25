@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Colonist.label>colonist</HE_Kemet_Colonist.label>
+  <HE_Kemet_Levy.label>river levy</HE_Kemet_Levy.label>
+  <HE_Kemet_Levy.labelPlural>river levies</HE_Kemet_Levy.labelPlural>
+  <HE_Kemet_Archer.label>composite archer</HE_Kemet_Archer.label>
+  <HE_Kemet_Medjay.label>medjay</HE_Kemet_Medjay.label>
+  <HE_Kemet_Medjay.labelPlural>medjay</HE_Kemet_Medjay.labelPlural>
+  <HE_Kemet_Scribe.label>scribe</HE_Kemet_Scribe.label>
+  <HE_Kemet_Charioteer.label>chariot captain</HE_Kemet_Charioteer.label>
+  <HE_Kemet_Pharaoh.label>pharaoh</HE_Kemet_Pharaoh.label>
+  <HE_Kemet_Merchant.label>river merchant</HE_Kemet_Merchant.label>
+</LanguageData>

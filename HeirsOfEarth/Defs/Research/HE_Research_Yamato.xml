@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Yari</defName>
+    <label>yari</label>
+    <description>The straight-bladed spear of the foot soldiers, long enough to keep a horseman at bay.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Yumi</defName>
+    <label>yumi</label>
+    <description>The tall asymmetric bow of Yamato, gripped below its middle and drawn to the ear.</description>
+    <baseCost>550</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Tatami</defName>
+    <label>tatami and gravel gardens</label>
+    <description>Lay woven straw tatami mats and rake white gravel into the patterns of still water.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>7.6</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Kimono</defName>
+    <label>kimono</label>
+    <description>Sew the wrapped and belted robe worn by every class of Yamato.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Yari</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Onigiri</defName>
+    <label>onigiri</label>
+    <description>Rice pressed into triangles and wrapped in seaweed: the travelling food of soldiers and pilgrims.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Torii</defName>
+    <label>torii gates</label>
+    <description>Raise the red gates that mark the passage from the everyday world into a sacred place.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>7.6</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Tatami</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Levy</defName>
+    <label>ashigaru levy</label>
+    <description>Every farmer keeps a spear by the door and knows where to run when the drum sounds.
+
+Tradition: Colonists move 3% faster.
+
+Requires 15 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Kimono</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MoveSpeed</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Kyudo</defName>
+    <label>kyudo</label>
+    <description>The way of the bow: a calm breath, a perfect posture and an arrow that is released rather than shot.
+
+Tradition: Colonists gain +2 shooting accuracy.
+
+Requires 20 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Yumi</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>2</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Zen</defName>
+    <label>zen garden</label>
+    <description>Raking gravel around a few stones every morning teaches the mind to settle like the sand.
+
+Tradition: Colonists' mental break threshold drops by 3%.
+
+Requires 20 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>7.6</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Torii</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>-0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Tamahagane</defName>
+    <label>tamahagane steel</label>
+    <description>Smelt jewel steel in a clay furnace and fold it again and again into blades with a soft spine and a hard edge.
+
+Requires 10 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_TeaHouse</defName>
+    <label>tea house</label>
+    <description>Build a low table for the tea ceremony and stone lanterns to light the garden path.
+
+Requires 15 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Torii</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Dojo</defName>
+    <label>dojo</label>
+    <description>A training hall with straw posts and racks for practice swords.
+
+Requires 15 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>7.6</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Yari</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Yoroi</defName>
+    <label>yoroi armour</label>
+    <description>Lacquered lamellar armour laced with silk, and the horned kabuto helmet of the samurai.
+
+Requires 25 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Tamahagane</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Ceremony</defName>
+    <label>tea ceremony</label>
+    <description>Every movement of the host is fixed and unhurried. Guests leave lighter than they came.
+
+Tradition: Colonists gain recreation 15% faster.
+
+Requires 25 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_TeaHouse</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>JoyGainFactor</stat>
+            <factor>1.15</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Folds</defName>
+    <label>forged folds</label>
+    <description>The smith's patience becomes the whole colony's habit: measure twice, strike once.
+
+Tradition: Colonists do general labour (smithing, crafting, butchering, cutting stone) 10% faster.
+
+Requires 30 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Tamahagane</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>30</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GeneralLaborSpeed</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Bushido</defName>
+    <label>bushido</label>
+    <description>The way of the warrior: duty before life, calm before pain.
+
+Tradition: Colonists gain +3 melee dodge chance and +5% pain shock threshold.
+
+Requires 40 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Yoroi</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>40</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MeleeDodgeChance</stat>
+            <offset>3</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>PainShockThreshold</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_MasterCraft</defName>
+    <label>master craft</label>
+    <description>A Yamato craftsman would rather make one perfect thing than ten good ones.
+
+Tradition: Crafted items have a 12% chance to come out one quality level higher, but colonists work 5% slower.
+
+Requires 45 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Folds</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>WorkSpeedGlobal</stat>
+            <factor>0.95</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <qualityChance>0.12</qualityChance>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Mandate</defName>
+    <label>mandate of heaven</label>
+    <description>The rightful order is restored, and the people of Yamato work and study with calm hearts.
+
+Tradition: Colonists learn 5% faster and their mental break threshold drops by 3%.
+
+Requires 50 Yamato knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>6.6</researchViewX>
+    <researchViewY>6.48</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_MasterCraft</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>-0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Yamato</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Tanegashima</defName>
+    <label>tanegashima</label>
+    <description>Matchlocks copied from a stranded merchant's gun and improved in the forges of Sakai until they outshot the original.
+
+Requires 35 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>HE_Yamato_Bushido</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Sakai</defName>
+    <label>Sakai gunsmiths</label>
+    <description>Three ranks of gunners, one firing, one ramming, one priming. Every man knows his breath and his count.
+
+Tradition: Colonists aim 8% faster.
+
+Requires 45 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1700</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>5.6</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Tanegashima</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>AimingDelayFactor</stat>
+            <factor>0.92</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_Yagura</defName>
+    <label>yagura</label>
+    <description>Castle builders learn to raise arrow towers at the corners of the walls, where archers can shoot along them.
+
+Requires 40 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>7.6</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Yamato_Kyudo</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Yamato_SteamArmy</defName>
+    <label>Yamato steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Yamato raised when the factories came.
+
+Outside your heritage, this can be researched only once Yamato has reached the Age of Steam.
+
+Requires 45 Yamato knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>8.6</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Yamato</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

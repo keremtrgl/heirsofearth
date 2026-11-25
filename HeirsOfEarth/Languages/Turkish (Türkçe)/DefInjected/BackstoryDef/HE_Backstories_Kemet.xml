@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_BS_Farmer.title>nehir çiftçisi</HE_Kemet_BS_Farmer.title>
+  <HE_Kemet_BS_Farmer.titleShort>çiftçi</HE_Kemet_BS_Farmer.titleShort>
+  <HE_Kemet_BS_Farmer.description>[PAWN_nameDef] her yıl taşkını bekledi, sonra geride bıraktığı kara balçığı ekti. İyi bir hasadın ağırlığını gözüyle, kötüsünün tadını ezbere bilir.</HE_Kemet_BS_Farmer.description>
+  <HE_Kemet_BS_Scribe.title>kraliyet kâtibi</HE_Kemet_BS_Scribe.title>
+  <HE_Kemet_BS_Scribe.titleShort>kâtip</HE_Kemet_BS_Scribe.titleShort>
+  <HE_Kemet_BS_Scribe.description>[PAWN_nameDef] yıllarca ambarda bağdaş kurup oturdu; çuvalları saydı, mektupları kopyaladı ve hırsızlık yapan kâhyaları yakaladı. Pek çok kişinin ona borcu var; bazılarının da kini.</HE_Kemet_BS_Scribe.description>
+  <HE_Kemet_BS_Mason.title>kraliyet taş ustası</HE_Kemet_BS_Mason.title>
+  <HE_Kemet_BS_Mason.titleShort>usta</HE_Kemet_BS_Mason.titleShort>
+  <HE_Kemet_BS_Mason.description>[PAWN_nameDef] büyük blokları kesip sürükleyen taş ocağı ekiplerinde çalıştı. Graniti tahta kamalar ve suyla yarabilir ve duvarları asla eğilmez.</HE_Kemet_BS_Mason.description>
+  <HE_Kemet_BS_Medjay.title>medjay izcisi</HE_Kemet_BS_Medjay.title>
+  <HE_Kemet_BS_Medjay.titleShort>medjay</HE_Kemet_BS_Medjay.titleShort>
+  <HE_Kemet_BS_Medjay.description>[PAWN_nameDef] medjaylarla çöl yollarında devriye gezdi, hırsızları kaya ve kum üzerinde izledi. Bütün gün koşup gün batımında hâlâ dosdoğru ok atabilir.</HE_Kemet_BS_Medjay.description>
+  <HE_Kemet_BS_Charioteer.title>arabacı</HE_Kemet_BS_Charioteer.title>
+  <HE_Kemet_BS_Charioteer.titleShort>arabacı</HE_Kemet_BS_Charioteer.titleShort>
+  <HE_Kemet_BS_Charioteer.description>[PAWN_nameDef] kralın birliğinde bir elinde bir çift at, ötekinde bir yayla savaş arabası sürdü. Hâlâ hayvanlarla insanlardan daha nazik konuşur.</HE_Kemet_BS_Charioteer.description>
+  <HE_Kemet_BS_Physician.title>hayat evi hekimi</HE_Kemet_BS_Physician.title>
+  <HE_Kemet_BS_Physician.titleShort>hekim</HE_Kemet_BS_Physician.titleShort>
+  <HE_Kemet_BS_Physician.description>Hayat Evi'nde [PAWN_nameDef] kemik sarmayı, yara dikmeyi ve sanıldığından daha sık haklı çıkan eski tıp papirüslerini okumayı öğrendi.</HE_Kemet_BS_Physician.description>
+  <HE_Kemet_BS_Boatman.title>nehir kayıkçısı</HE_Kemet_BS_Boatman.title>
+  <HE_Kemet_BS_Boatman.titleShort>kayıkçı</HE_Kemet_BS_Boatman.titleShort>
+  <HE_Kemet_BS_Boatman.description>[PAWN_nameDef] yük mavnalarını nehirde aşağı yukarı itti; tahılı kuzeye, taşı güneye taşıdı. Yol üstündeki her kum setini ve her meyhaneyi bilir.</HE_Kemet_BS_Boatman.description>
+  <HE_Kemet_BS_Merchant.title>tütsü tüccarı</HE_Kemet_BS_Merchant.title>
+  <HE_Kemet_BS_Merchant.titleShort>tüccar</HE_Kemet_BS_Merchant.titleShort>
+  <HE_Kemet_BS_Merchant.description>[PAWN_nameDef] tütsü, abanoz ve devekuşu tüyü için güney ülkelerine eşek kervanları götürdü ve hepsiyle, eşeklerinin çoğuyla birlikte geri döndü.</HE_Kemet_BS_Merchant.description>
+  <HE_Kemet_BS_ScribeSchool.title>kâtip okulu öğrencisi</HE_Kemet_BS_ScribeSchool.title>
+  <HE_Kemet_BS_ScribeSchool.titleShort>öğrenci</HE_Kemet_BS_ScribeSchool.titleShort>
+  <HE_Kemet_BS_ScribeSchool.description>[PAWN_nameDef] öğretmen arkasında bir sopayla dolaşırken aynı atasözlerini çömlek kırıklarına bin kez kopyaladı.</HE_Kemet_BS_ScribeSchool.description>
+  <HE_Kemet_BS_ReedChild.title>saz kesici</HE_Kemet_BS_ReedChild.title>
+  <HE_Kemet_BS_ReedChild.titleShort>saz kesici</HE_Kemet_BS_ReedChild.titleShort>
+  <HE_Kemet_BS_ReedChild.description>[PAWN_nameDef] bataklıklarda büyüdü; papirüs ve kayık için saz kesti ve bir gözünü timsahlara açık tuttu.</HE_Kemet_BS_ReedChild.description>
+  <HE_Kemet_BS_PotterChild.title>çömlekçi çocuğu</HE_Kemet_BS_PotterChild.title>
+  <HE_Kemet_BS_PotterChild.titleShort>çömlekçi çocuğu</HE_Kemet_BS_PotterChild.titleShort>
+  <HE_Kemet_BS_PotterChild.description>[PAWN_nameDef] bir çömlekçi avlusunda kil yoğurdu ve fırını besledi; bütün krallığın birasını ve tahılını taşıyan küpleri yaptı.</HE_Kemet_BS_PotterChild.description>
+  <HE_Kemet_BS_DesertChild.title>çöl kenarı çobanı</HE_Kemet_BS_DesertChild.title>
+  <HE_Kemet_BS_DesertChild.titleShort>çoban</HE_Kemet_BS_DesertChild.titleShort>
+  <HE_Kemet_BS_DesertChild.description>[PAWN_nameDef] yeşil tarlaların bitip kızıl kumun başladığı yerde keçi güttü ve hiç yokmuş gibi görünen yerde su bulmayı öğrendi.</HE_Kemet_BS_DesertChild.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Hoplon.label>hoplon display</HE_Hellas_Hoplon.label>
+  <HE_Hellas_Hoplon.description>A great bronze-faced round shield painted with the owl of the league, hung where guests can admire it.</HE_Hellas_Hoplon.description>
+  <HE_Hellas_Column.label>hero column</HE_Hellas_Column.label>
+  <HE_Hellas_Column.description>A fluted marble column crowned with the bronze statue of a hero. Every city in Hellas has a forest of them.</HE_Hellas_Column.description>
+  <HE_Hellas_Stage.label>theatre stage</HE_Hellas_Stage.label>
+  <HE_Hellas_Stage.description>A raised wooden stage before a painted backdrop of columns, with the masks of comedy and tragedy above. Colonists gather in front of it to watch and to perform.</HE_Hellas_Stage.description>
+  <HE_Hellas_Lyceum.label>lyceum scroll cabinet</HE_Hellas_Lyceum.label>
+  <HE_Hellas_Lyceum.description>A cedar cabinet full of scrolls with a marble bust of a philosopher on top. Placed near a research bench, it speeds up research by 6%.</HE_Hellas_Lyceum.description>
+  <HE_Hellas_Asclepion.label>asclepion</HE_Hellas_Asclepion.label>
+  <HE_Hellas_Asclepion.description>A small marble altar to the healer god, with herbs smouldering in a bronze bowl and the snake-wound rod beside it. Beds within six cells get +4% tend quality and +3% immunity gain speed.</HE_Hellas_Asclepion.description>
+  <HE_Hellas_Lithobolos_Gun.label>throwing arm</HE_Hellas_Lithobolos_Gun.label>
+  <HE_Hellas_Lithobolos_Gun.description>The turning top of the lithobolos.</HE_Hellas_Lithobolos_Gun.description>
+  <HE_Hellas_Lithobolos.label>lithobolos</HE_Hellas_Lithobolos.label>
+  <HE_Hellas_Lithobolos.description>A torsion stone thrower on a marble platform. Its arm hurls a stone the size of a head that breaks bones and shields alike. It cannot hit anything closer than six cells and is slow, but it reaches very far. Feed it stone chunks: one chunk makes ten stones.</HE_Hellas_Lithobolos.description>
+  <HE_Hellas_Lithobolos.comps.1.fuelLabel>Stones</HE_Hellas_Lithobolos.comps.1.fuelLabel>
+  <HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>Stones</HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>
+  <HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>Needs stone chunks</HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>
+</LanguageData>

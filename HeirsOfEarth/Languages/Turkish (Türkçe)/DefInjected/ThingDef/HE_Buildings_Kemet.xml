@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Obelisk.label>dikili taş</HE_Kemet_Obelisk.label>
+  <HE_Kemet_Obelisk.description>Oyma işaret sütunlarıyla kaplı, gün doğumunda parlayan yaldızlı bir uçla taçlanmış tek parça yontulmuş bir taş iğnesi.</HE_Kemet_Obelisk.description>
+  <HE_Kemet_SenetTable.label>senet masası</HE_Kemet_SenetTable.label>
+  <HE_Kemet_SenetTable.description>Otuz kareli bir tahtası ve taşlar için bir çekmecesi olan, abanoz ve fildişinden alçak bir masa. İki kolonist oynamak için başına oturur.</HE_Kemet_SenetTable.description>
+  <HE_Kemet_PapyrusWorkshop.label>papirüs atölyesi</HE_Kemet_PapyrusWorkshop.label>
+  <HE_Kemet_PapyrusWorkshop.description>Bir saz yarma masası, bir dövme taşı ve kurutma rafları. Kurutulmuş otu ve sazı papirüs yapraklarına çevirir.</HE_Kemet_PapyrusWorkshop.description>
+  <HE_Kemet_Sphinx.label>sfenks</HE_Kemet_Sphinx.label>
+  <HE_Kemet_Sphinx.description>Çizgili kraliyet başlığını takmış, kral başlı bir aslan; bir kapıyı ya da mezarı beklemek için yontulur. Kemet, yapanların hâlâ onun gözlerinin ardında rüya gördüğünü söyler.</HE_Kemet_Sphinx.description>
+  <HE_Kemet_LotusLamp.label>nilüfer kandili</HE_Kemet_LotusLamp.label>
+  <HE_Kemet_LotusLamp.description>Tepesinde yağ alevi taşıyan açık bir nilüfer çiçeği olan bronz bir ayak. Nilüfer gece kapanır, şafakta açılır; Kemet'in ışığı da öyle.</HE_Kemet_LotusLamp.description>
+  <HE_Kemet_ArcherPylon_Gun.label>pilon yayları</HE_Kemet_ArcherPylon_Gun.label>
+  <HE_Kemet_ArcherPylon_Gun.description>okçu pilonu yapısının dönen üst kısmı.</HE_Kemet_ArcherPylon_Gun.description>
+  <HE_Kemet_ArcherPylon.label>okçu pilonu</HE_Kemet_ArcherPylon.label>
+  <HE_Kemet_ArcherPylon.description>Mavi şeritlerle boyanmış eğimli bir kum taşı kule tepesi; dönen bir ayaktaki dört kompozit yay birlikte atar. Yaylım hızlıdır ama oklar hafiftir. Yeni oklar için odun: bir kütük iki ok eder.</HE_Kemet_ArcherPylon.description>
+  <HE_Kemet_ArcherPylon.comps.1.fuelLabel>Oklar</HE_Kemet_ArcherPylon.comps.1.fuelLabel>
+  <HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>Oklar</HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>
+  <HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>
+</LanguageData>

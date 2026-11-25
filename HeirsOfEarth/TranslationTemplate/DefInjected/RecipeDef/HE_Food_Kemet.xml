@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Kemet_Bread.label>cook date bread</HE_Cook_Kemet_Bread.label>
+  <HE_Cook_Kemet_Bread.description>Cook date bread.</HE_Cook_Kemet_Bread.description>
+  <HE_Cook_Kemet_Bread.jobString>Cooking date bread.</HE_Cook_Kemet_Bread.jobString>
+  <HE_Cook_Kemet_Ful.label>cook ful</HE_Cook_Kemet_Ful.label>
+  <HE_Cook_Kemet_Ful.description>Cook ful.</HE_Cook_Kemet_Ful.description>
+  <HE_Cook_Kemet_Ful.jobString>Cooking ful.</HE_Cook_Kemet_Ful.jobString>
+  <HE_Cook_Kemet_DateCake.label>cook date cakes</HE_Cook_Kemet_DateCake.label>
+  <HE_Cook_Kemet_DateCake.description>Cook date cakes.</HE_Cook_Kemet_DateCake.description>
+  <HE_Cook_Kemet_DateCake.jobString>Cooking date cakes.</HE_Cook_Kemet_DateCake.jobString>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Standard.label>lejyon sancağı</HE_Roma_Standard.label>
+  <HE_Roma_Standard.description>Uzun bir direk üzerinde, altın bir kartalla taçlanmış kırmızı lejyon sancağı. Askerler onu görünce daha dik durur.</HE_Roma_Standard.description>
+  <HE_Roma_Aqueduct.label>su kemeri</HE_Roma_Aqueduct.label>
+  <HE_Roma_Aqueduct.description>Açık renk taştan, akan su kanalı taşıyan kemerli bir su kemeri bölümü. Etkileyici, güzel ve çok ağır.</HE_Roma_Aqueduct.description>
+  <HE_Roma_Brazier.label>lejyon mangalı</HE_Roma_Brazier.label>
+  <HE_Roma_Brazier.description>Demir ayaklar üzerinde bronz bir mangal. Geceleri kampı aydınlatır ve nöbetçilerin ellerini ısıtır.</HE_Roma_Brazier.description>
+  <HE_Roma_ScutumDisplay.label>scutum sergisi</HE_Roma_ScutumDisplay.label>
+  <HE_Roma_ScutumDisplay.description>Altın kanatlarla boyanmış, bir sehpaya asılmış kavisli lejyoner kalkanı. Kıdemliler savaştan önce şans için ona dokunur.</HE_Roma_ScutumDisplay.description>
+  <HE_Roma_Statue.label>forum heykeli</HE_Roma_Statue.label>
+  <HE_Roma_Statue.description>Altın bir defne dalı kaldıran togalı bir yurttaşın mermer heykeli. Her meydanı bir forum gibi hissettirir.</HE_Roma_Statue.description>
+  <HE_Roma_Triclinium.label>triclinium masası</HE_Roma_Triclinium.label>
+  <HE_Roma_Triclinium.description>Kırmızı örtülü, şarap, zeytin ve uzun sohbetler için kurulmuş alçak bir mermer yemek masası.</HE_Roma_Triclinium.description>
+  <HE_Roma_Thermae.label>thermae havuzu</HE_Roma_Thermae.label>
+  <HE_Roma_Thermae.description>Isıtmalı bir mermer yıkanma havuzu. Kolonistler buraya suya girmeye, sohbet etmeye ve dertlerini unutmaya gelir.</HE_Roma_Thermae.description>
+  <HE_Roma_Scorpio_Gun.label>skorpio</HE_Roma_Scorpio_Gun.label>
+  <HE_Roma_Scorpio_Gun.description>skorpio yapısının dönen üst kısmı.</HE_Roma_Scorpio_Gun.description>
+  <HE_Roma_Scorpio.label>skorpio</HE_Roma_Scorpio.label>
+  <HE_Roma_Scorpio.description>Taş bir platform üzerinde burulmalı bir ok atıcı. Bükülmüş sinir yaylar ağır, demir uçlu bir oku kalkanın ve arkasındaki adamın içinden geçirir. Tek tek ve yavaş atar ama çok uzağa ve çok sert. Odun yeni oklara dönüşür: bir kütük iki ok eder.</HE_Roma_Scorpio.description>
+  <HE_Roma_Scorpio.comps.1.fuelLabel>Oklar</HE_Roma_Scorpio.comps.1.fuelLabel>
+  <HE_Roma_Scorpio.comps.1.fuelGizmoLabel>Oklar</HE_Roma_Scorpio.comps.1.fuelGizmoLabel>
+  <HE_Roma_Scorpio.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Roma_Scorpio.comps.1.outOfFuelMessage>
+</LanguageData>

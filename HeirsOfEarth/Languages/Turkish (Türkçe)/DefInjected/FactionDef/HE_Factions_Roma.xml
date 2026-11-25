@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Roma.label>Nova Roma Cumhuriyeti</HE_Faction_Roma.label>
+  <HE_Faction_Roma.description>Aeternitas koloni gemisinin mirasçıları, Nova Roma yurttaşları. Lejyonları adım adım yürür, yolları dümdüz uzanır, senatoları ne bir hakareti ne de bir borcu unutur.</HE_Faction_Roma.description>
+  <HE_Faction_Roma.fixedName>Nova Roma Cumhuriyeti</HE_Faction_Roma.fixedName>
+  <HE_Faction_Roma.pawnSingular>yurttaş</HE_Faction_Roma.pawnSingular>
+  <HE_Faction_Roma.pawnsPlural>yurttaşlar</HE_Faction_Roma.pawnsPlural>
+  <HE_Faction_Roma.leaderTitle>konsül</HE_Faction_Roma.leaderTitle>
+  <HE_Player_Roma.label>Nova Roma yerleşimcileri</HE_Player_Roma.label>
+  <HE_Player_Roma.description>Senatodan uzakta yeni bir colonia kuran küçük bir Nova Roma yurttaşı topluluğu.</HE_Player_Roma.description>
+  <HE_Player_Roma.pawnSingular>kolonist</HE_Player_Roma.pawnSingular>
+  <HE_Player_Roma.pawnsPlural>kolonistler</HE_Player_Roma.pawnsPlural>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Inti.label>Inti Empire</HE_Faction_Inti.label>
+  <HE_Faction_Inti.description>The Inti Empire, heirs of the colony ship Qhapaq. They farm terraced mountainsides, keep their granaries full, count everything in knotted cords and build roads where others would not dare to walk.</HE_Faction_Inti.description>
+  <HE_Faction_Inti.fixedName>Inti Empire</HE_Faction_Inti.fixedName>
+  <HE_Faction_Inti.pawnSingular>Inti</HE_Faction_Inti.pawnSingular>
+  <HE_Faction_Inti.pawnsPlural>Inti</HE_Faction_Inti.pawnsPlural>
+  <HE_Faction_Inti.leaderTitle>Sapa Inti</HE_Faction_Inti.leaderTitle>
+  <HE_Player_Inti.label>Inti settlers</HE_Player_Inti.label>
+  <HE_Player_Inti.description>A small ayllu of Inti settlers sent to terrace a new valley for the empire.</HE_Player_Inti.description>
+  <HE_Player_Inti.pawnSingular>colonist</HE_Player_Inti.pawnSingular>
+  <HE_Player_Inti.pawnsPlural>colonists</HE_Player_Inti.pawnsPlural>
+</LanguageData>

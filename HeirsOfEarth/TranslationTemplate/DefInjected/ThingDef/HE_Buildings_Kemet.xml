@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Obelisk.label>obelisk</HE_Kemet_Obelisk.label>
+  <HE_Kemet_Obelisk.description>A single needle of dressed stone covered in carved columns of signs and capped with a gilded point that shines at sunrise.</HE_Kemet_Obelisk.description>
+  <HE_Kemet_SenetTable.label>senet table</HE_Kemet_SenetTable.label>
+  <HE_Kemet_SenetTable.description>A low table of ebony and ivory with a board of thirty squares and a drawer for the pieces. Two colonists sit at it to play.</HE_Kemet_SenetTable.description>
+  <HE_Kemet_PapyrusWorkshop.label>papyrus workshop</HE_Kemet_PapyrusWorkshop.label>
+  <HE_Kemet_PapyrusWorkshop.description>A reed-splitting table, a beating stone and drying racks. It turns dried grass and reeds into papyrus sheets.</HE_Kemet_PapyrusWorkshop.description>
+  <HE_Kemet_Sphinx.label>sphinx</HE_Kemet_Sphinx.label>
+  <HE_Kemet_Sphinx.description>A lion with the head of a king, wearing the striped royal headcloth, carved to keep watch over a gate or a tomb. Kemet says its builders still dream behind its eyes.</HE_Kemet_Sphinx.description>
+  <HE_Kemet_LotusLamp.label>lotus lamp</HE_Kemet_LotusLamp.label>
+  <HE_Kemet_LotusLamp.description>A bronze stand crowned with an open lotus flower that holds an oil flame. The lotus closes at night and opens at dawn, and so does the light of Kemet.</HE_Kemet_LotusLamp.description>
+  <HE_Kemet_ArcherPylon_Gun.label>pylon bows</HE_Kemet_ArcherPylon_Gun.label>
+  <HE_Kemet_ArcherPylon_Gun.description>The turning top of the archer pylon.</HE_Kemet_ArcherPylon_Gun.description>
+  <HE_Kemet_ArcherPylon.label>archer pylon</HE_Kemet_ArcherPylon.label>
+  <HE_Kemet_ArcherPylon.description>A sloped sandstone tower top painted with blue bands, where four composite bows on a turning stand shoot together. The volley is quick but the arrows are light. Wood for new arrows: one log makes two.</HE_Kemet_ArcherPylon.description>
+  <HE_Kemet_ArcherPylon.comps.1.fuelLabel>Arrows</HE_Kemet_ArcherPylon.comps.1.fuelLabel>
+  <HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>Arrows</HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>
+  <HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>
+</LanguageData>

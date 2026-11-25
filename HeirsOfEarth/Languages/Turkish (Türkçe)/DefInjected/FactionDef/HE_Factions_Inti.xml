@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Inti.label>İnti İmparatorluğu</HE_Faction_Inti.label>
+  <HE_Faction_Inti.description>Qhapaq koloni gemisinin mirasçıları, İnti İmparatorluğu. Teraslı dağ yamaçlarını eker, ambarlarını dolu tutar, her şeyi düğümlü iplerle sayar ve başkalarının yürümeye cesaret edemeyeceği yerlere yol yaparlar.</HE_Faction_Inti.description>
+  <HE_Faction_Inti.fixedName>İnti İmparatorluğu</HE_Faction_Inti.fixedName>
+  <HE_Faction_Inti.pawnSingular>İntili</HE_Faction_Inti.pawnSingular>
+  <HE_Faction_Inti.pawnsPlural>İntililer</HE_Faction_Inti.pawnsPlural>
+  <HE_Faction_Inti.leaderTitle>Sapa İnti</HE_Faction_Inti.leaderTitle>
+  <HE_Player_Inti.label>İnti yerleşimcileri</HE_Player_Inti.label>
+  <HE_Player_Inti.description>İmparatorluk için yeni bir vadiyi teraslamaya gönderilen küçük bir İnti ayllusu.</HE_Player_Inti.description>
+  <HE_Player_Inti.pawnSingular>kolonist</HE_Player_Inti.pawnSingular>
+  <HE_Player_Inti.pawnsPlural>kolonistler</HE_Player_Inti.pawnsPlural>
+</LanguageData>

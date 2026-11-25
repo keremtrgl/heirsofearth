@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Sabre</defName>
+    <label>cavalry sabre</label>
+    <description>A curved, single-edged sword with a basket guard, made for cutting from the saddle.
+
+Requires 10 Albion knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>18.4</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Tweed</defName>
+    <label>tweed mills</label>
+    <description>Weave rough, warm wool cloth in muted checks that shrugs off rain.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>19.4</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Brick</defName>
+    <label>bricks and cobbles</label>
+    <description>Fire red bricks for courtyards and set rounded cobbles into the streets.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_MeatPie</defName>
+    <label>meat pie</label>
+    <description>Seal meat and gravy into a thick pastry crust that keeps for days and travels well.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>18.4</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Pub</defName>
+    <label>public house</label>
+    <description>A long oak table, a barrel of ale and a dartboard: the true parliament of Albion.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>19.4</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Tweed</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Enclosure</defName>
+    <label>enclosure</label>
+    <description>Hedge the common fields and farm them for profit. The harvest grows; the neighbours grumble.
+
+Tradition: Colonists harvest 5% more from plants but lose 5% negotiation ability.
+
+Requires 20 Albion knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Brick</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>PlantHarvestYield</stat>
+            <factor>1.05</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>-0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Sanitation</defName>
+    <label>sanitation</label>
+    <description>Boil the water, drain the streets, wash the hands. Fevers pass faster in a clean town.
+
+Tradition: Colonists gain immunity 10% faster.
+
+Requires 25 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>18.4</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_MeatPie</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ImmunityGainSpeed</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_JointStock</defName>
+    <label>joint-stock company</label>
+    <description>Pool the money of many, share the risk of every voyage and the profit of every bargain.
+
+Tradition: Colonists get 5% better trade prices.
+
+Requires 25 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>19.4</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Pub</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>TradePriceImprovement</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Charts</defName>
+    <label>Royal Navy charts</label>
+    <description>Surveyed coasts, measured rivers and well-kept roads: Albion's caravans never lose their way.
+
+Tradition: Caravans travel 10% faster.
+
+Requires 30 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Enclosure</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>30</knowledge>
+        <tradition>true</tradition>
+        <caravanSpeed>0.1</caravanSpeed>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Musket</defName>
+    <label>flintlock musket</label>
+    <description>A smoothbore flintlock: slow to load, loud, inaccurate past fifty paces and terrifying in a volley.
+
+Requires 20 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>18.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Sabre</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>20</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Redcoat</defName>
+    <label>redcoat uniform</label>
+    <description>A red wool coat with white facings and a tall shako. A line of them is seen from a mile away, and meant to be.
+
+Requires 15 Albion knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>19.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Tweed</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_SteamEngine</defName>
+    <label>steam engine</label>
+    <description>Boil water with wood, push a piston with the steam and turn a dynamo with the piston.
+
+Requires 25 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Electricity</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Rifle</defName>
+    <label>rifled musket</label>
+    <description>Cut spiral grooves into the barrel and fix a bayonet: longer range, better aim and a spear at the end.
+
+Requires 35 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>18.4</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Musket</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Drill</defName>
+    <label>drill sergeant</label>
+    <description>Load, present, fire. Again. Again. Until it is done without thinking.
+
+Tradition: Colonists gain +2 shooting accuracy.
+
+Requires 35 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>19.4</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Redcoat</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>2</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_SteamPower</defName>
+    <label>steam power</label>
+    <description>Belts and shafts carry the engine's power to every bench. Less waste, more work.
+
+Tradition: Your work tables use 5% fewer resources.
+
+Requires 40 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_SteamEngine</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>40</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>WorkTableEfficiencyFactor</stat>
+            <factor>1.05</factor>
+            <scope>PlayerBuildings</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_FactoryOrder</defName>
+    <label>factory order</label>
+    <description>The whistle at dawn, the shift, the quota. Benches never stand idle, and neither do the workers.
+
+Tradition: Your work tables work 12% faster, but colonists' mental break threshold rises by 2%.
+
+Requires 45 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>8.64</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_SteamPower</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>WorkTableWorkSpeedFactor</stat>
+            <factor>1.12</factor>
+            <scope>PlayerBuildings</scope>
+          </li>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>0.02</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_Workshop</defName>
+    <label>workshop of the world</label>
+    <description>The engines of Albion turn day and night, and the whole colony keeps time with them.
+
+Tradition: Colonists work 4% faster and gain +1 shooting accuracy.
+
+Requires 50 Albion knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1900</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>19.4</researchViewX>
+    <researchViewY>9.36</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Drill</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>WorkSpeedGlobal</stat>
+            <factor>1.04</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>1</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Albion</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_TextileMill</defName>
+    <label>textile mill</label>
+    <description>A steam-driven power loom that weaves a bale of wool into tweed faster than ten hand weavers.
+
+Requires 40 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>9.36</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_FactoryOrder</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_FieldCannon</defName>
+    <label>field cannon</label>
+    <description>Drilled gun crews and cast bronze barrels: the artillery that won the empire's battles.
+
+Requires 40 Albion knowledge unless this is your heritage.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>10.08</researchViewY>
+    <prerequisites>
+      <li>HE_Albion_Drill</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Albion_SteamArmy</defName>
+    <label>Albion steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Albion raised when the factories came.
+
+Outside your heritage, this can be researched only once Albion has reached the Age of Steam.
+
+Requires 45 Albion knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>21.4</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Albion</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

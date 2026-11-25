@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Albion_MeatPie.label>cook meat pie</HE_Cook_Albion_MeatPie.label>
+  <HE_Cook_Albion_MeatPie.description>Cook meat pie.</HE_Cook_Albion_MeatPie.description>
+  <HE_Cook_Albion_MeatPie.jobString>Cooking meat pie.</HE_Cook_Albion_MeatPie.jobString>
+  <HE_Cook_Albion_Roast.label>cook Sunday roast</HE_Cook_Albion_Roast.label>
+  <HE_Cook_Albion_Roast.description>Cook Sunday roast.</HE_Cook_Albion_Roast.description>
+  <HE_Cook_Albion_Roast.jobString>Cooking Sunday roast.</HE_Cook_Albion_Roast.jobString>
+  <HE_Cook_Albion_Scones.label>cook tea and scones</HE_Cook_Albion_Scones.label>
+  <HE_Cook_Albion_Scones.description>Cook tea and scones.</HE_Cook_Albion_Scones.description>
+  <HE_Cook_Albion_Scones.jobString>Cooking tea and scones.</HE_Cook_Albion_Scones.jobString>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Spear.label>river spear</HE_Kemet_Spear.label>
+  <HE_Kemet_Spear.description>A light spear of acacia wood with a socketed bronze head shaped like a lotus leaf.</HE_Kemet_Spear.description>
+  <HE_Kemet_Spear.tools.0.label>shaft</HE_Kemet_Spear.tools.0.label>
+  <HE_Kemet_Spear.tools.1.label>point</HE_Kemet_Spear.tools.1.label>
+  <HE_Kemet_Khopesh.label>khopesh</HE_Kemet_Khopesh.label>
+  <HE_Kemet_Khopesh.description>A bronze-coloured sickle-sword whose curved outer edge bites like an axe and whose hook pulls shields and spears aside.</HE_Kemet_Khopesh.description>
+  <HE_Kemet_Khopesh.tools.0.label>handle</HE_Kemet_Khopesh.tools.0.label>
+  <HE_Kemet_Khopesh.tools.1.label>edge</HE_Kemet_Khopesh.tools.1.label>
+  <HE_Kemet_Khopesh.tools.2.label>spike</HE_Kemet_Khopesh.tools.2.label>
+  <HE_Kemet_CompositeBow.label>composite bow</HE_Kemet_CompositeBow.label>
+  <HE_Kemet_CompositeBow.description>A short, angled bow of horn, wood and sinew, painted with lotus bands. Charioteers shoot it from a moving platform.</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_CompositeBow.tools.0.label>limb</HE_Kemet_CompositeBow.tools.0.label>
+  <HE_Kemet_DesertRifle.label>desert rifle</HE_Kemet_DesertRifle.label>
+  <HE_Kemet_DesertRifle.description>A long, slim rifle with a brass-bound stock and a falcon engraved on the lock. Slow to aim, but deadly across open ground.</HE_Kemet_DesertRifle.description>
+  <HE_Kemet_DesertRifle.tools.0.label>stock</HE_Kemet_DesertRifle.tools.0.label>
+  <HE_Kemet_DesertRifle.tools.1.label>barrel</HE_Kemet_DesertRifle.tools.1.label>
+  <HE_Kemet_Hedj.label>hedj mace</HE_Kemet_Hedj.label>
+  <HE_Kemet_Hedj.description>A pear-shaped mace head of white stone on a gold-bound haft. In the oldest carvings the king raises it over his enemies.</HE_Kemet_Hedj.description>
+  <HE_Kemet_Hedj.tools.0.label>handle</HE_Kemet_Hedj.tools.0.label>
+  <HE_Kemet_Hedj.tools.1.label>head</HE_Kemet_Hedj.tools.1.label>
+  <HE_Kemet_Musket.label>Kemetic musket</HE_Kemet_Musket.label>
+  <HE_Kemet_Musket.description>A long musket bound in brass, its stock inlaid with turquoise and a lotus on the butt. Made in the arsenals of the river, with a long barrel that reaches further than most muskets.</HE_Kemet_Musket.description>
+  <HE_Kemet_Musket.tools.0.label>stock</HE_Kemet_Musket.tools.0.label>
+  <HE_Kemet_Musket.tools.1.label>barrel</HE_Kemet_Musket.tools.1.label>
+</LanguageData>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Doctrine_Roma.label>testudo drill</HE_Doctrine_Roma.label>
+  <HE_Doctrine_Roma.description>Legionaries close ranks and lock their shields into a roof. Packed together they shrug off arrows and blows, but they march slowly.
+
+The more comrades stand within three cells, the stronger it is.</HE_Doctrine_Roma.description>
+  <HE_Doctrine_Roma.stages.0.label>broken ranks</HE_Doctrine_Roma.stages.0.label>
+  <HE_Doctrine_Roma.stages.1.label>loose line</HE_Doctrine_Roma.stages.1.label>
+  <HE_Doctrine_Roma.stages.2.label>shield roof</HE_Doctrine_Roma.stages.2.label>
+  <HE_Doctrine_Hellas.label>phalanx drill</HE_Doctrine_Hellas.label>
+  <HE_Doctrine_Hellas.description>Hoplites fight shoulder to shoulder, each shield covering the man to the left. In the line they are hard to hit and hard to escape; alone they are ordinary men.
+
+The more comrades stand within three cells, the stronger it is.</HE_Doctrine_Hellas.description>
+  <HE_Doctrine_Hellas.stages.0.label>broken line</HE_Doctrine_Hellas.stages.0.label>
+  <HE_Doctrine_Hellas.stages.1.label>loose phalanx</HE_Doctrine_Hellas.stages.1.label>
+  <HE_Doctrine_Hellas.stages.2.label>closed phalanx</HE_Doctrine_Hellas.stages.2.label>
+  <HE_Doctrine_Nord.label>strandhogg drill</HE_Doctrine_Nord.label>
+  <HE_Doctrine_Nord.description>The shore raid: no siege and no waiting. Raiders cut through walls with axes and run at the enemy, fast, fierce and hard to stop with pain.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Nord.description>
+  <HE_Doctrine_Nord.stages.0.label>raider's fury</HE_Doctrine_Nord.stages.0.label>
+  <HE_Doctrine_Yamato.label>bushido drill</HE_Doctrine_Yamato.label>
+  <HE_Doctrine_Yamato.description>Samurai attack in small bands from several sides at once and pick their targets with care. Calm in the face of death, they fight on through wounds.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Yamato.description>
+  <HE_Doctrine_Yamato.stages.0.label>way of the warrior</HE_Doctrine_Yamato.stages.0.label>
+  <HE_Doctrine_Tianxia.label>art of war drill</HE_Doctrine_Tianxia.label>
+  <HE_Doctrine_Tianxia.description>Every battle is won before it is fought. Tianxia armies gather out of reach, wait for the right moment and then strike with drilled crossbow volleys.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Tianxia.description>
+  <HE_Doctrine_Tianxia.stages.0.label>drilled volleys</HE_Doctrine_Tianxia.stages.0.label>
+  <HE_Doctrine_Albion.label>siege train drill</HE_Doctrine_Albion.label>
+  <HE_Doctrine_Albion.description>Albion comes with spades and guns. Its armies often dig in and build a battery before they attack, and its riflemen fire steady, measured volleys.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Albion.description>
+  <HE_Doctrine_Albion.stages.0.label>volley fire</HE_Doctrine_Albion.stages.0.label>
+  <HE_Doctrine_Kemet.label>chariot vanguard drill</HE_Doctrine_Kemet.label>
+  <HE_Doctrine_Kemet.description>Kemet's attack opens with speed: the vanguard runs ahead as the chariots once did and is on the walls before the defenders are ready.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Kemet.description>
+  <HE_Doctrine_Kemet.stages.0.label>vanguard's speed</HE_Doctrine_Kemet.stages.0.label>
+  <HE_Doctrine_Pars.label>cavalry wings drill</HE_Doctrine_Pars.label>
+  <HE_Doctrine_Pars.description>The armies of Pars attack on the wings: several swift groups at once, used to fighting from the saddle and closing in fast.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Pars.description>
+  <HE_Doctrine_Pars.stages.0.label>rider's charge</HE_Doctrine_Pars.stages.0.label>
+  <HE_Doctrine_Inti.label>mountain sappers drill</HE_Doctrine_Inti.label>
+  <HE_Doctrine_Inti.description>The road builders of the Andes go through rock rather than around it. Inti raiders dig toward your walls and throw stones with mountain-trained aim.
+
+It lasts while the raider fights for the raid.</HE_Doctrine_Inti.description>
+  <HE_Doctrine_Inti.stages.0.label>mountain stride</HE_Doctrine_Inti.stages.0.label>
+</LanguageData>

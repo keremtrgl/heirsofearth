@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Sword.label>Nordheim sword</HE_Nord_Sword.label>
+  <HE_Nord_Sword.description>A broad double-edged sword with a pattern-welded blade and a lobed pommel. A jarl's gift to a loyal warrior.</HE_Nord_Sword.description>
+  <HE_Nord_Sword.tools.0.label>pommel</HE_Nord_Sword.tools.0.label>
+  <HE_Nord_Sword.tools.1.label>point</HE_Nord_Sword.tools.1.label>
+  <HE_Nord_Sword.tools.2.label>edge</HE_Nord_Sword.tools.2.label>
+  <HE_Nord_DaneAxe.label>Dane axe</HE_Nord_DaneAxe.label>
+  <HE_Nord_DaneAxe.description>A thin, wide axe head on a haft as long as a man. Swung with both hands, it splits shields and helmets.</HE_Nord_DaneAxe.description>
+  <HE_Nord_DaneAxe.tools.0.label>haft</HE_Nord_DaneAxe.tools.0.label>
+  <HE_Nord_DaneAxe.tools.1.label>edge</HE_Nord_DaneAxe.tools.1.label>
+  <HE_Nord_HuntBow.label>hunting bow</HE_Nord_HuntBow.label>
+  <HE_Nord_HuntBow.description>A plain elm bow strung with sinew. Light, quiet and accurate at hunting distances.</HE_Nord_HuntBow.description>
+  <HE_Nord_HuntBow.tools.0.label>limb</HE_Nord_HuntBow.tools.0.label>
+  <HE_Nord_HarpoonGun.label>harpoon gun</HE_Nord_HarpoonGun.label>
+  <HE_Nord_HarpoonGun.description>A heavy short-barrelled gun that fires a barbed iron harpoon. Slow and short-ranged, but whatever it hits stays hit.</HE_Nord_HarpoonGun.description>
+  <HE_Nord_HarpoonGun.tools.0.label>stock</HE_Nord_HarpoonGun.tools.0.label>
+  <HE_Nord_HarpoonGun.tools.1.label>barrel</HE_Nord_HarpoonGun.tools.1.label>
+  <HE_Nord_Seax.label>seax</HE_Nord_Seax.label>
+  <HE_Nord_Seax.description>A heavy single-edged knife with a broken back, carried by every free man. It is a tool at the table and a weapon in the shield wall.</HE_Nord_Seax.description>
+  <HE_Nord_Seax.tools.0.label>handle</HE_Nord_Seax.tools.0.label>
+  <HE_Nord_Seax.tools.1.label>point</HE_Nord_Seax.tools.1.label>
+  <HE_Nord_Seax.tools.2.label>edge</HE_Nord_Seax.tools.2.label>
+  <HE_Nord_HookGun.label>hook gun</HE_Nord_HookGun.label>
+  <HE_Nord_HookGun.description>A heavy matchlock with an iron hook under the barrel to brace it on a wall or a rail. It kicks like a horse and hits like one.</HE_Nord_HookGun.description>
+  <HE_Nord_HookGun.tools.0.label>stock</HE_Nord_HookGun.tools.0.label>
+  <HE_Nord_HookGun.tools.1.label>barrel</HE_Nord_HookGun.tools.1.label>
+  <HE_Nord_Rifle.label>Nordic rifle</HE_Nord_Rifle.label>
+  <HE_Nord_Rifle.description>A bolt rifle with a pale birch stock and a box magazine on its side that is filled without opening the action, so it fires faster than other bolt rifles.</HE_Nord_Rifle.description>
+  <HE_Nord_Rifle.tools.0.label>stock</HE_Nord_Rifle.tools.0.label>
+  <HE_Nord_Rifle.tools.1.label>barrel</HE_Nord_Rifle.tools.1.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_BS_Hoplite.title>yurttaş hoplit</HE_Hellas_BS_Hoplite.title>
+  <HE_Hellas_BS_Hoplite.titleShort>hoplit</HE_Hellas_BS_Hoplite.titleShort>
+  <HE_Hellas_BS_Hoplite.description>Her özgür yurttaş gibi [PAWN_nameDef] de kendi kalkanını ve mızrağını aldı, şehir çağırdığında hattaki yerini tuttu. Savaşlar arasında küçük bir zeytin ve arpa tarlası işledi.</HE_Hellas_BS_Hoplite.description>
+  <HE_Hellas_BS_Physician.title>Asklepios hekimi</HE_Hellas_BS_Physician.title>
+  <HE_Hellas_BS_Physician.titleShort>hekim</HE_Hellas_BS_Physician.titleShort>
+  <HE_Hellas_BS_Physician.description>[PAWN_nameDef], hastaların sessiz salonlarda uyuduğu ve hekimlerin her belirtiyi yazdığı bir şifa tapınağında yetişti. Zarar vermeyeceğine yemin etti ve yeminini tuttu.</HE_Hellas_BS_Physician.description>
+  <HE_Hellas_BS_Philosopher.title>gezgin filozof</HE_Hellas_BS_Philosopher.title>
+  <HE_Hellas_BS_Philosopher.titleShort>filozof</HE_Hellas_BS_Philosopher.titleShort>
+  <HE_Hellas_BS_Philosopher.description>[PAWN_nameDef] şehirden şehre yürüyerek pazarda can sıkıcı sorular sordu. Kimi dinlemek için para verdi, kimi gitmesi için. Hâlâ hiçbir sorunun sorulmadan kalmaması gerektiğine inanır.</HE_Hellas_BS_Philosopher.description>
+  <HE_Hellas_BS_Sculptor.title>tapınak heykeltıraşı</HE_Hellas_BS_Sculptor.title>
+  <HE_Hellas_BS_Sculptor.titleShort>heykeltıraş</HE_Hellas_BS_Sculptor.titleShort>
+  <HE_Hellas_BS_Sculptor.description>[PAWN_nameDef] yıllarını büyük bir tapınağın yanındaki mermer atölyelerinde geçirdi; ziyaretçilerin konuştuğu kadar canlı tanrılar ve atletler yonttu.</HE_Hellas_BS_Sculptor.description>
+  <HE_Hellas_BS_Athlete.title>oyunlar şampiyonu</HE_Hellas_BS_Athlete.title>
+  <HE_Hellas_BS_Athlete.titleShort>şampiyon</HE_Hellas_BS_Athlete.titleShort>
+  <HE_Hellas_BS_Athlete.description>[PAWN_nameDef] oyunlarda uzun koşuyu kazandı; bir zeytin dalı tacı, bir heykel ve ömür boyu bedava yemek aldı. Hâlâ her sabah şafaktan önce antrenman yapar.</HE_Hellas_BS_Athlete.description>
+  <HE_Hellas_BS_Orator.title>meclis hatibi</HE_Hellas_BS_Orator.title>
+  <HE_Hellas_BS_Orator.titleShort>hatip</HE_Hellas_BS_Orator.titleShort>
+  <HE_Hellas_BS_Orator.description>Mecliste [PAWN_nameDef] tek bir konuşmayla oylamayı değiştirebilirdi. Savaş için, barış için ve bir keresinde aynı öğleden sonra ikisi için birden konuştu.</HE_Hellas_BS_Orator.description>
+  <HE_Hellas_BS_Strategos.title>seçilmiş general</HE_Hellas_BS_Strategos.title>
+  <HE_Hellas_BS_Strategos.titleShort>general</HE_Hellas_BS_Strategos.titleShort>
+  <HE_Hellas_BS_Strategos.description>Yurttaşlar üç kez [PAWN_nameDef]'i generalleri olarak seçti. Falanksı ön saftan yönetti ve kimseden kendisinin durmayacağı bir yerde durmasını istemedi.</HE_Hellas_BS_Strategos.description>
+  <HE_Hellas_BS_Merchant.title>zeytin tüccarı</HE_Hellas_BS_Merchant.title>
+  <HE_Hellas_BS_Merchant.titleShort>tüccar</HE_Hellas_BS_Merchant.titleShort>
+  <HE_Hellas_BS_Merchant.description>[PAWN_nameDef] adadan adaya yağ ve şarap taşıdı, her liman reisini adıyla tanıdı ve hayatında hiç tam liman vergisi ödemedi.</HE_Hellas_BS_Merchant.description>
+  <HE_Hellas_BS_Gymnasium.title>gymnasium öğrencisi</HE_Hellas_BS_Gymnasium.title>
+  <HE_Hellas_BS_Gymnasium.titleShort>öğrenci</HE_Hellas_BS_Gymnasium.titleShort>
+  <HE_Hellas_BS_Gymnasium.description>[PAWN_nameDef] sabahlarını güreşerek ve koşarak, öğleden sonralarını sert yaşlı bir öğretmene şiir okuyarak geçirdi.</HE_Hellas_BS_Gymnasium.description>
+  <HE_Hellas_BS_OliveGrove.title>zeytinlik çocuğu</HE_Hellas_BS_OliveGrove.title>
+  <HE_Hellas_BS_OliveGrove.titleShort>çiftlik çocuğu</HE_Hellas_BS_OliveGrove.titleShort>
+  <HE_Hellas_BS_OliveGrove.description>[PAWN_nameDef] bir yamaç çiftliğinde her sonbahar dallardan zeytin silkeleyerek, her yaz üzüm ezerek büyüdü.</HE_Hellas_BS_OliveGrove.description>
+  <HE_Hellas_BS_HarbourChild.title>liman çocuğu</HE_Hellas_BS_HarbourChild.title>
+  <HE_Hellas_BS_HarbourChild.titleShort>liman çocuğu</HE_Hellas_BS_HarbourChild.titleShort>
+  <HE_Hellas_BS_HarbourChild.description>[PAWN_nameDef] bir liman şehrinin kalabalık rıhtımlarında ayak işlerine koştu; yazmayı öğrenmeden üç lehçede pazarlık etmeyi öğrendi.</HE_Hellas_BS_HarbourChild.description>
+  <HE_Hellas_BS_TempleChild.title>tapınak hizmetkârı</HE_Hellas_BS_TempleChild.title>
+  <HE_Hellas_BS_TempleChild.titleShort>tapınak hizmetkârı</HE_Hellas_BS_TempleChild.titleShort>
+  <HE_Hellas_BS_TempleChild.description>[PAWN_nameDef] bir şifa tapınağını süpürerek, hastalara su taşıyarak ve hekimlerin tedaviler hakkındaki tartışmalarını dinleyerek büyüdü.</HE_Hellas_BS_TempleChild.description>
+</LanguageData>

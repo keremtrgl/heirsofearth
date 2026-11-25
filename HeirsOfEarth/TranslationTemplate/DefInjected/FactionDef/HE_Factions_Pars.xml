@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Pars.label>Satrapy of Pars</HE_Faction_Pars.label>
+  <HE_Faction_Pars.description>The Satrapy of Pars, heirs of the colony ship Pasargad. Its provinces are bound together by the royal road and the royal post, and its court trades in carpets, horses, silk and favours in roughly equal measure.</HE_Faction_Pars.description>
+  <HE_Faction_Pars.fixedName>Satrapy of Pars</HE_Faction_Pars.fixedName>
+  <HE_Faction_Pars.pawnSingular>Parsian</HE_Faction_Pars.pawnSingular>
+  <HE_Faction_Pars.pawnsPlural>Parsians</HE_Faction_Pars.pawnsPlural>
+  <HE_Faction_Pars.leaderTitle>satrap</HE_Faction_Pars.leaderTitle>
+  <HE_Player_Pars.label>Parsian settlers</HE_Player_Pars.label>
+  <HE_Player_Pars.description>A small household of Parsian settlers sent to found a new post station on the edge of the known roads.</HE_Player_Pars.description>
+  <HE_Player_Pars.pawnSingular>colonist</HE_Player_Pars.pawnSingular>
+  <HE_Player_Pars.pawnsPlural>colonists</HE_Player_Pars.pawnsPlural>
+</LanguageData>

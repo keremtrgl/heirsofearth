@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Renegades.label>renegade bands</HE_Renegades.label>
+  <HE_Renegades.description>Deserters, exiles and oath-breakers from every old nation, bound together by nothing but plunder. They honor no treaty and speak for no people. When an old nation has no army to send, it is often the renegades who answer for it.</HE_Renegades.description>
+  <HE_Renegades.pawnSingular>renegade</HE_Renegades.pawnSingular>
+  <HE_Renegades.pawnsPlural>renegades</HE_Renegades.pawnsPlural>
+  <HE_Renegades.leaderTitle>warlord</HE_Renegades.leaderTitle>
+</LanguageData>

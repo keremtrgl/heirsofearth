@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Spear.label>river spear</HE_Kemet_Spear.label>
+  <HE_Kemet_Spear.description>A light spear with a socketed bronze head, carried by every levy that marches out when the flood is low.</HE_Kemet_Spear.description>
+  <HE_Kemet_Kalasiris.label>kalasiris</HE_Kemet_Kalasiris.label>
+  <HE_Kemet_Kalasiris.description>Weave fine linen into the long sheath dress worn in the heat of the river valley.</HE_Kemet_Kalasiris.description>
+  <HE_Kemet_Irrigation.label>irrigation</HE_Kemet_Irrigation.label>
+  <HE_Kemet_Irrigation.description>Dig shallow canals, carry the river's black silt onto the fields and let the water do the rest.</HE_Kemet_Irrigation.description>
+  <HE_Kemet_CompositeBow.label>composite bow</HE_Kemet_CompositeBow.label>
+  <HE_Kemet_CompositeBow.description>Glue horn, wood and sinew into a short, angled bow that shoots further than a plain stave.</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_Bread.label>date bread</HE_Kemet_Bread.label>
+  <HE_Kemet_Bread.description>Bake round loaves of emmer and dates in clay moulds, with onions and soft cheese on the side.</HE_Kemet_Bread.description>
+  <HE_Kemet_RiverSoil.label>gift of the river</HE_Kemet_RiverSoil.label>
+  <HE_Kemet_RiverSoil.description>Every field is measured after the flood and planted in the same week. Nothing grows by luck in Kemet.
+
+Tradition: Colonists harvest 8% more from every plant.
+
+Requires 15 Kemetic knowledge unless this is your heritage.</HE_Kemet_RiverSoil.description>
+  <HE_Kemet_Scribes.label>house of scribes</HE_Kemet_Scribes.label>
+  <HE_Kemet_Scribes.description>Children who can write are taught to write well, to count grain and to copy the old books without a single error.
+
+Tradition: Colonists learn 7% faster.
+
+Requires 15 Kemetic knowledge unless this is your heritage.</HE_Kemet_Scribes.description>
+  <HE_Kemet_SunCalendar.label>sun calendar</HE_Kemet_SunCalendar.label>
+  <HE_Kemet_SunCalendar.description>Three seasons of four months, read from the rising of one bright star. Sowing and reaping happen on the right day.
+
+Tradition: Colonists sow and harvest 7% faster.
+
+Requires 20 Kemetic knowledge unless this is your heritage.</HE_Kemet_SunCalendar.description>
+  <HE_Kemet_Obelisk.label>obelisks</HE_Kemet_Obelisk.label>
+  <HE_Kemet_Obelisk.description>Quarry a single needle of stone, raise it with ramps and ropes and cap it with gold that catches the first light.
+
+Requires 10 Kemetic knowledge unless this is your heritage.</HE_Kemet_Obelisk.description>
+  <HE_Kemet_Khopesh.label>khopesh</HE_Kemet_Khopesh.label>
+  <HE_Kemet_Khopesh.description>Forge the sickle-sword of the chariot corps, a blade that hooks shields aside and cuts like an axe.
+
+Requires 10 Kemetic knowledge unless this is your heritage.</HE_Kemet_Khopesh.description>
+  <HE_Kemet_Papyrus.label>papyrus workshop</HE_Kemet_Papyrus.label>
+  <HE_Kemet_Papyrus.description>Split river reeds, lay them crosswise, beat them flat and dry them in the sun: the writing sheet of a whole civilisation.
+
+Requires 15 Kemetic knowledge unless this is your heritage.</HE_Kemet_Papyrus.description>
+  <HE_Kemet_Stonemasons.label>royal stonemasons</HE_Kemet_Stonemasons.label>
+  <HE_Kemet_Stonemasons.description>Copper saws, sand and patience. Kemetic masons dress a wall so smooth that a knife blade will not slide between the blocks.
+
+Tradition: Colonists smooth stone 20% faster and mine 5% faster.
+
+Requires 25 Kemetic knowledge unless this is your heritage.</HE_Kemet_Stonemasons.description>
+  <HE_Kemet_ChariotCorps.label>chariot corps</HE_Kemet_ChariotCorps.label>
+  <HE_Kemet_ChariotCorps.description>The war crown of blue leather and the scale corselet of the charioteers, made to turn arrows on the move.
+
+Requires 25 Kemetic knowledge unless this is your heritage.</HE_Kemet_ChariotCorps.description>
+  <HE_Kemet_ChildrenOfSun.label>children of the sun</HE_Kemet_ChildrenOfSun.label>
+  <HE_Kemet_ChildrenOfSun.description>Linen, shade at noon, water in the morning and a nap in the heat. Kemetians work where others faint.
+
+Tradition: Colonists are comfortable in 5°C more heat.
+
+Requires 25 Kemetic knowledge unless this is your heritage.</HE_Kemet_ChildrenOfSun.description>
+  <HE_Kemet_RoyalKitchens.label>royal kitchens</HE_Kemet_RoyalKitchens.label>
+  <HE_Kemet_RoyalKitchens.description>Clean water, covered jars and cooks who wash their hands. The palace kitchens feed a thousand and poison no one.
+
+Tradition: Meals cooked by colonists are 40% less likely to cause food poisoning and colonists cook 5% faster.
+
+Requires 25 Kemetic knowledge unless this is your heritage.</HE_Kemet_RoyalKitchens.description>
+  <HE_Kemet_Medjay.label>medjay patrols</HE_Kemet_Medjay.label>
+  <HE_Kemet_Medjay.description>Desert scouts who run all day and shoot from the hip. They guard the tombs, the roads and the borders.
+
+Tradition: Colonists move 2% faster and aim 5% faster.
+
+Requires 35 Kemetic knowledge unless this is your heritage.</HE_Kemet_Medjay.description>
+  <HE_Kemet_Senet.label>senet</HE_Kemet_Senet.label>
+  <HE_Kemet_Senet.description>A board of thirty squares, five pieces each and four throwing sticks. Kings were buried with their sets.
+
+Requires 10 Kemetic knowledge unless this is your heritage.</HE_Kemet_Senet.description>
+  <HE_Kemet_DesertRifle.label>desert rifle</HE_Kemet_DesertRifle.label>
+  <HE_Kemet_DesertRifle.description>A long rifle with a slim brass-bound stock, sighted for the open distances of the desert edge.
+
+Requires 35 Kemetic knowledge unless this is your heritage.</HE_Kemet_DesertRifle.description>
+  <HE_Kemet_NileEngineering.label>river engineering</HE_Kemet_NileEngineering.label>
+  <HE_Kemet_NileEngineering.description>Dams, sluices and steam pumps. The old canals are rebuilt in iron and the flood answers to a timetable.
+
+Tradition: Colonists build 5% faster and work 2% faster.
+
+Requires 45 Kemetic knowledge unless this is your heritage.</HE_Kemet_NileEngineering.description>
+  <HE_Kemet_SecondSunrise.label>second sunrise</HE_Kemet_SecondSunrise.label>
+  <HE_Kemet_SecondSunrise.description>With Iteru dug out of the sand, the kingdom remembers what it was and builds as if it had all the time in the world.
+
+Tradition: Colonists harvest 4% more, build 5% faster and their mental break threshold drops by 2%.
+
+Requires 50 Kemetic knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Kemet_SecondSunrise.description>
+  <HE_Kemet_ArcherPylon.label>archer pylon</HE_Kemet_ArcherPylon.label>
+  <HE_Kemet_ArcherPylon.description>The temple gates become fortresses: archers on the pylons can cover the whole avenue of sphinxes.
+
+Requires 40 Kemetic knowledge unless this is your heritage.</HE_Kemet_ArcherPylon.description>
+  <HE_Kemet_PowderArms.label>Kemetic powder arms</HE_Kemet_PowderArms.label>
+  <HE_Kemet_PowderArms.description>The New Kemet way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once New Kemet has reached the Age of Powder.
+
+Requires 30 Kemetic knowledge unless this is your heritage.</HE_Kemet_PowderArms.description>
+  <HE_Kemet_SteamArmy.label>Kemetic steam army</HE_Kemet_SteamArmy.label>
+  <HE_Kemet_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army New Kemet raised when the factories came.
+
+Outside your heritage, this can be researched only once New Kemet has reached the Age of Steam.
+
+Requires 45 Kemetic knowledge unless this is your heritage.</HE_Kemet_SteamArmy.description>
+</LanguageData>

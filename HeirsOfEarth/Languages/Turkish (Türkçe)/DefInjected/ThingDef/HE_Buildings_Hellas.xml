@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Hoplon.label>hoplon sergisi</HE_Hellas_Hoplon.label>
+  <HE_Hellas_Hoplon.description>Birliğin baykuşuyla boyanmış, bronz yüzlü büyük yuvarlak bir kalkan; misafirlerin hayran kalabileceği bir yere asılır.</HE_Hellas_Hoplon.description>
+  <HE_Hellas_Column.label>kahraman sütunu</HE_Hellas_Column.label>
+  <HE_Hellas_Column.description>Bir kahramanın bronz heykeliyle taçlanmış yivli mermer bir sütun. Hellas'taki her şehirde bunlardan bir orman vardır.</HE_Hellas_Column.description>
+  <HE_Hellas_Stage.label>tiyatro sahnesi</HE_Hellas_Stage.label>
+  <HE_Hellas_Stage.description>Sütunlarla boyanmış bir dekorun önünde, üstünde komedi ve tragedya maskeleri bulunan yükseltilmiş ahşap bir sahne. Kolonistler izlemek ve oynamak için önünde toplanır.</HE_Hellas_Stage.description>
+  <HE_Hellas_Lyceum.label>Lykeion parşömen dolabı</HE_Hellas_Lyceum.label>
+  <HE_Hellas_Lyceum.description>Parşömenlerle dolu, üstünde bir filozofun mermer büstü olan sedir bir dolap. Bir araştırma masasının yakınına konulunca araştırmayı %6 hızlandırır.</HE_Hellas_Lyceum.description>
+  <HE_Hellas_Asclepion.label>Asklepion sunağı</HE_Hellas_Asclepion.label>
+  <HE_Hellas_Asclepion.description>Şifa tanrısına adanmış küçük bir mermer sunak: bronz bir kâsede tüten otlar ve yanında yılan sarılı asa. Altı kare içindeki yataklar +%4 tedavi kalitesi ve +%3 bağışıklık kazanma hızı kazanır.</HE_Hellas_Asclepion.description>
+  <HE_Hellas_Lithobolos_Gun.label>atış kolu</HE_Hellas_Lithobolos_Gun.label>
+  <HE_Hellas_Lithobolos_Gun.description>lithobolos yapısının dönen üst kısmı.</HE_Hellas_Lithobolos_Gun.description>
+  <HE_Hellas_Lithobolos.label>lithobolos</HE_Hellas_Lithobolos.label>
+  <HE_Hellas_Lithobolos.description>Mermer bir platform üzerinde burulmalı bir taş atıcı. Kolu, kemiği de kalkanı da kıran kafa büyüklüğünde bir taş fırlatır. Altı kareden yakını vuramaz ve yavaştır ama çok uzağa erişir. Taş yığınıyla beslenir: bir yığın on taş eder.</HE_Hellas_Lithobolos.description>
+  <HE_Hellas_Lithobolos.comps.1.fuelLabel>Taşlar</HE_Hellas_Lithobolos.comps.1.fuelLabel>
+  <HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>Taşlar</HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>
+  <HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>Taş yığını gerekli</HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti.label>Inti Empire</HE_Inti.label>
+  <HE_Inti.description>The colony ship Qhapaq came down among high mountains, on a world where the air was thin and the valleys were narrow. Its people cut the slopes into terraces, filled stone storehouses against the bad years and tied every count, census and tribute into knotted cords. The Inti Empire is orderly, hard-working and patient, and no one in it goes hungry. They have an old quarrel with Albion over the mountain mines.</HE_Inti.description>
+  <HE_Inti.rulerTitle>Sapa Inti</HE_Inti.rulerTitle>
+  <HE_Inti.adjective>Inti</HE_Inti.adjective>
+  <HE_Inti.doctrine.label>mountain sappers</HE_Inti.doctrine.label>
+  <HE_Inti.doctrine.description>The road builders of the Andes go through rock rather than around it. Inti raiders dig toward your walls and throw stones with mountain-trained aim.</HE_Inti.doctrine.description>
+  <HE_Inti.honoraryTitle>kin of the Sun</HE_Inti.honoraryTitle>
+</LanguageData>

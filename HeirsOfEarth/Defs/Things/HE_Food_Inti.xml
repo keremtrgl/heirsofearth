@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Inti_Pachamanca</defName>
+    <label>pachamanca</label>
+    <description>Meat, potatoes, sweet maize and broad beans cooked slowly under hot stones and herbs, served steaming with a sharp green pepper sauce.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Inti_Pachamanca</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>21</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_IntiGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>5</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Inti_Pachamanca</defName>
+    <label>cook pachamanca</label>
+    <description>Cook pachamanca.</description>
+    <jobString>Cooking pachamanca.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Inti_Pachamanca>1</HE_Inti_Pachamanca>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Inti_Pachamanca</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Inti_Locro</defName>
+    <label>locro</label>
+    <description>A thick stew of corn, potato and squash, slow cooked in a clay pot. Every mountain village has its own way of making it.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Inti_Locro</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_IntiGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Inti_Locro</defName>
+    <label>cook locro</label>
+    <description>Cook locro.</description>
+    <jobString>Cooking locro.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+            <li>MeatRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Inti_Locro>1</HE_Inti_Locro>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Inti_Pachamanca</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Inti_Humita</defName>
+    <label>humitas</label>
+    <description>Fresh ground corn mixed with fat and spice, wrapped in husks and steamed. Shared by neighbours who worked the terraces together. A small treat: eating it is a little joy.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Inti_Humita</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+      <joy>0.08</joy>
+      <joyKind>Gluttonous</joyKind>
+    </ingestible>
+    <tradeTags>
+      <li>HE_IntiGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Inti_Humita</defName>
+    <label>cook humitas</label>
+    <description>Cook humitas.</description>
+    <jobString>Cooking humitas.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Inti_Humita>1</HE_Inti_Humita>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Inti_Ayni</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

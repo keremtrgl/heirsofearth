@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_BS_Fusilier.title>line fusilier</HE_Albion_BS_Fusilier.title>
+  <HE_Albion_BS_Fusilier.titleShort>fusilier</HE_Albion_BS_Fusilier.titleShort>
+  <HE_Albion_BS_Fusilier.description>[PAWN_nameDef] took the shilling at nineteen and spent years in a red coat, loading and firing in the front rank while the cannon roared overhead.</HE_Albion_BS_Fusilier.description>
+  <HE_Albion_BS_Engineer.title>steam engineer</HE_Albion_BS_Engineer.title>
+  <HE_Albion_BS_Engineer.titleShort>engineer</HE_Albion_BS_Engineer.titleShort>
+  <HE_Albion_BS_Engineer.description>[PAWN_nameDef] built boilers, beam engines and iron bridges, and once redesigned a pump on the back of a menu during dinner.</HE_Albion_BS_Engineer.description>
+  <HE_Albion_BS_Miner.title>coal miner</HE_Albion_BS_Miner.title>
+  <HE_Albion_BS_Miner.titleShort>miner</HE_Albion_BS_Miner.titleShort>
+  <HE_Albion_BS_Miner.description>[PAWN_nameDef] went down the pit at dawn and came up after dark for twelve years. [PAWN_pronoun] can tell good rock from bad by the sound it makes.</HE_Albion_BS_Miner.description>
+  <HE_Albion_BS_Surgeon.title>regimental surgeon</HE_Albion_BS_Surgeon.title>
+  <HE_Albion_BS_Surgeon.titleShort>surgeon</HE_Albion_BS_Surgeon.titleShort>
+  <HE_Albion_BS_Surgeon.description>[PAWN_nameDef] followed the regiment with a saw, a bottle of spirits and a firm belief in boiling everything. [PAWN_possessive] patients usually lived.</HE_Albion_BS_Surgeon.description>
+  <HE_Albion_BS_Clerk.title>company clerk</HE_Albion_BS_Clerk.title>
+  <HE_Albion_BS_Clerk.titleShort>clerk</HE_Albion_BS_Clerk.titleShort>
+  <HE_Albion_BS_Clerk.description>[PAWN_nameDef] kept the ledgers of a great trading company, sixty hours a week at a high desk. [PAWN_pronoun] can find a missing penny in a thousand pages.</HE_Albion_BS_Clerk.description>
+  <HE_Albion_BS_Gamekeeper.title>gamekeeper</HE_Albion_BS_Gamekeeper.title>
+  <HE_Albion_BS_Gamekeeper.titleShort>gamekeeper</HE_Albion_BS_Gamekeeper.titleShort>
+  <HE_Albion_BS_Gamekeeper.description>[PAWN_nameDef] kept the deer and pheasants of a great estate and the poachers away from them, with a rifle and a pair of patient dogs.</HE_Albion_BS_Gamekeeper.description>
+  <HE_Albion_BS_Officer.title>cavalry officer</HE_Albion_BS_Officer.title>
+  <HE_Albion_BS_Officer.titleShort>officer</HE_Albion_BS_Officer.titleShort>
+  <HE_Albion_BS_Officer.description>[PAWN_nameDef] bought a commission in the dragoons and led a charge that became a famous painting. Few in the painting survived.</HE_Albion_BS_Officer.description>
+  <HE_Albion_BS_Publican.title>publican</HE_Albion_BS_Publican.title>
+  <HE_Albion_BS_Publican.titleShort>publican</HE_Albion_BS_Publican.titleShort>
+  <HE_Albion_BS_Publican.description>[PAWN_nameDef] ran a village pub, brewed the ale, settled the fights and heard every secret in the parish.</HE_Albion_BS_Publican.description>
+  <HE_Albion_BS_MillChild.title>mill child</HE_Albion_BS_MillChild.title>
+  <HE_Albion_BS_MillChild.titleShort>mill child</HE_Albion_BS_MillChild.titleShort>
+  <HE_Albion_BS_MillChild.description>[PAWN_nameDef] worked between the clattering looms of a cotton mill from the age of eight, small enough to crawl under the machines.</HE_Albion_BS_MillChild.description>
+  <HE_Albion_BS_Schoolboy.title>boarding school pupil</HE_Albion_BS_Schoolboy.title>
+  <HE_Albion_BS_Schoolboy.titleShort>pupil</HE_Albion_BS_Schoolboy.titleShort>
+  <HE_Albion_BS_Schoolboy.description>[PAWN_nameDef] was sent to a cold boarding school where [PAWN_pronoun] learned Latin, cricket and how to keep a straight face.</HE_Albion_BS_Schoolboy.description>
+  <HE_Albion_BS_Farmhand.title>farmhand</HE_Albion_BS_Farmhand.title>
+  <HE_Albion_BS_Farmhand.titleShort>farmhand</HE_Albion_BS_Farmhand.titleShort>
+  <HE_Albion_BS_Farmhand.description>[PAWN_nameDef] grew up mucking out stables and bringing in the harvest on a rainy hill farm.</HE_Albion_BS_Farmhand.description>
+  <HE_Albion_BS_Mudlark.title>river mudlark</HE_Albion_BS_Mudlark.title>
+  <HE_Albion_BS_Mudlark.titleShort>mudlark</HE_Albion_BS_Mudlark.titleShort>
+  <HE_Albion_BS_Mudlark.description>[PAWN_nameDef] grew up searching the river mud at low tide for coal, nails and lost coins to sell.</HE_Albion_BS_Mudlark.description>
+</LanguageData>

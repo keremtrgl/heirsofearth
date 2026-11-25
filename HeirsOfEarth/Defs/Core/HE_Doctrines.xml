@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>HE_Doctrine_Roma</defName>
+    <label>testudo drill</label>
+    <description>Legionaries close ranks and lock their shields into a roof. Packed together they shrug off arrows and blows, but they march slowly.
+
+The more comrades stand within three cells, the stronger it is.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine">
+        <formationRadius>2.9</formationRadius>
+        <formationFull>4</formationFull>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>broken ranks</label>
+      </li>
+      <li>
+        <minSeverity>0.24</minSeverity>
+        <label>loose line</label>
+        <statOffsets>
+          <ArmorRating_Sharp>0.1</ArmorRating_Sharp>
+          <ArmorRating_Blunt>0.05</ArmorRating_Blunt>
+          <MoveSpeed>-0.2</MoveSpeed>
+        </statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.74</minSeverity>
+        <label>shield roof</label>
+        <statOffsets>
+          <ArmorRating_Sharp>0.2</ArmorRating_Sharp>
+          <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
+          <MoveSpeed>-0.4</MoveSpeed>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Hellas</defName>
+    <label>phalanx drill</label>
+    <description>Hoplites fight shoulder to shoulder, each shield covering the man to the left. In the line they are hard to hit and hard to escape; alone they are ordinary men.
+
+The more comrades stand within three cells, the stronger it is.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine">
+        <formationRadius>2.9</formationRadius>
+        <formationFull>4</formationFull>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>broken line</label>
+      </li>
+      <li>
+        <minSeverity>0.24</minSeverity>
+        <label>loose phalanx</label>
+        <statOffsets>
+          <ArmorRating_Sharp>0.06</ArmorRating_Sharp>
+          <MeleeHitChance>2</MeleeHitChance>
+          <MeleeDodgeChance>2</MeleeDodgeChance>
+        </statOffsets>
+      </li>
+      <li>
+        <minSeverity>0.74</minSeverity>
+        <label>closed phalanx</label>
+        <statOffsets>
+          <ArmorRating_Sharp>0.12</ArmorRating_Sharp>
+          <MeleeHitChance>4</MeleeHitChance>
+          <MeleeDodgeChance>4</MeleeDodgeChance>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Nord</defName>
+    <label>strandhogg drill</label>
+    <description>The shore raid: no siege and no waiting. Raiders cut through walls with axes and run at the enemy, fast, fierce and hard to stop with pain.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>raider's fury</label>
+        <statOffsets>
+          <MoveSpeed>0.3</MoveSpeed>
+          <MeleeHitChance>3</MeleeHitChance>
+        </statOffsets>
+        <painFactor>0.85</painFactor>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Yamato</defName>
+    <label>bushido drill</label>
+    <description>Samurai attack in small bands from several sides at once and pick their targets with care. Calm in the face of death, they fight on through wounds.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>way of the warrior</label>
+        <statOffsets>
+          <MeleeHitChance>3</MeleeHitChance>
+          <MeleeDodgeChance>3</MeleeDodgeChance>
+        </statOffsets>
+        <painFactor>0.85</painFactor>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Tianxia</defName>
+    <label>art of war drill</label>
+    <description>Every battle is won before it is fought. Tianxia armies gather out of reach, wait for the right moment and then strike with drilled crossbow volleys.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>drilled volleys</label>
+        <statOffsets>
+          <ShootingAccuracyPawn>3</ShootingAccuracyPawn>
+        </statOffsets>
+        <statFactors>
+          <AimingDelayFactor>0.85</AimingDelayFactor>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Albion</defName>
+    <label>siege train drill</label>
+    <description>Albion comes with spades and guns. Its armies often dig in and build a battery before they attack, and its riflemen fire steady, measured volleys.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>volley fire</label>
+        <statOffsets>
+          <ShootingAccuracyPawn>3</ShootingAccuracyPawn>
+          <MoveSpeed>-0.1</MoveSpeed>
+        </statOffsets>
+        <statFactors>
+          <AimingDelayFactor>0.8</AimingDelayFactor>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Kemet</defName>
+    <label>chariot vanguard drill</label>
+    <description>Kemet's attack opens with speed: the vanguard runs ahead as the chariots once did and is on the walls before the defenders are ready.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>vanguard's speed</label>
+        <statOffsets>
+          <MoveSpeed>0.8</MoveSpeed>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Pars</defName>
+    <label>cavalry wings drill</label>
+    <description>The armies of Pars attack on the wings: several swift groups at once, used to fighting from the saddle and closing in fast.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>rider's charge</label>
+        <statOffsets>
+          <MoveSpeed>0.6</MoveSpeed>
+          <MeleeHitChance>2</MeleeHitChance>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>HE_Doctrine_Inti</defName>
+    <label>mountain sappers drill</label>
+    <description>The road builders of the Andes go through rock rather than around it. Inti raiders dig toward your walls and throw stones with mountain-trained aim.
+
+It lasts while the raider fights for the raid.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <isBad>false</isBad>
+    <defaultLabelColor>(0.85, 0.66, 0.36)</defaultLabelColor>
+    <initialSeverity>0.01</initialSeverity>
+    <minSeverity>0.001</minSeverity>
+    <maxSeverity>1</maxSeverity>
+    <everCurableByItem>false</everCurableByItem>
+    <comps>
+      <li Class="HeirsOfEarth.HediffCompProperties_HeirsDoctrine" />
+    </comps>
+    <stages>
+      <li>
+        <label>mountain stride</label>
+        <statOffsets>
+          <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
+          <MoveSpeed>0.3</MoveSpeed>
+        </statOffsets>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

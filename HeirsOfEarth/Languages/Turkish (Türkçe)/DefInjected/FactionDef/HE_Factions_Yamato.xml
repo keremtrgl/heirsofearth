@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Yamato.label>Yamato Şogunluğu</HE_Faction_Yamato.label>
+  <HE_Faction_Yamato.description>Takamagahara koloni gemisinin mirasçıları, Yamato klanları. Savaşçı haneleri şoguna eğilmez bir sadakatle hizmet eder; demircileri çeliği katlayarak dünyanın en iyi kılıçlarını döver.</HE_Faction_Yamato.description>
+  <HE_Faction_Yamato.fixedName>Yamato Şogunluğu</HE_Faction_Yamato.fixedName>
+  <HE_Faction_Yamato.pawnSingular>Yamatolu</HE_Faction_Yamato.pawnSingular>
+  <HE_Faction_Yamato.pawnsPlural>Yamatolular</HE_Faction_Yamato.pawnsPlural>
+  <HE_Faction_Yamato.leaderTitle>şogun</HE_Faction_Yamato.leaderTitle>
+  <HE_Player_Yamato.label>Yamato yerleşimcileri</HE_Player_Yamato.label>
+  <HE_Player_Yamato.description>Klanları için yeni toprak açan küçük bir Yamato hanesi.</HE_Player_Yamato.description>
+  <HE_Player_Yamato.pawnSingular>kolonist</HE_Player_Yamato.pawnSingular>
+  <HE_Player_Yamato.pawnsPlural>kolonistler</HE_Player_Yamato.pawnsPlural>
+</LanguageData>

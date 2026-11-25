@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ShelfBase">
+    <defName>HE_Inti_Qullqa</defName>
+    <label>qullqa storehouse</label>
+    <description>A round stone storehouse with a thatched roof and vents at the floor, built where the wind blows. Food stored in it rots at half the normal speed. It holds three stacks per cell.</description>
+    <thingClass>Building_Storage</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_Qullqa</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <size>(2,2)</size>
+    <rotatable>false</rotatable>
+    <fillPercent>0.5</fillPercent>
+    <stuffCategories Inherit="False">
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>90</costStuffCount>
+    <costList>
+      <WoodLog>20</WoodLog>
+      <Hay>30</Hay>
+    </costList>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToBuild>4200</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>1</Beauty>
+      <Flammability>0.3</Flammability>
+    </statBases>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites Inherit="False">
+      <li>HE_Inti_Qullqa</li>
+    </researchPrerequisites>
+    <building>
+      <maxItemsInCell>3</maxItemsInCell>
+      <preventDeteriorationOnTop>true</preventDeteriorationOnTop>
+      <ignoreStoredThingsBeauty>true</ignoreStoredThingsBeauty>
+      <blueprintClass>Blueprint_Storage</blueprintClass>
+      <fixedStorageSettings>
+        <filter>
+          <disallowNotEverStorable>true</disallowNotEverStorable>
+          <categories>
+            <li>Foods</li>
+            <li>PlantMatter</li>
+          </categories>
+        </filter>
+      </fixedStorageSettings>
+      <defaultStorageSettings>
+        <priority>Important</priority>
+        <filter>
+          <categories>
+            <li>Foods</li>
+          </categories>
+        </filter>
+      </defaultStorageSettings>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsFoodStoreExt">
+        <rotFactor>0.5</rotFactor>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Inti_QuipuTable</defName>
+    <label>quipu table</label>
+    <description>A low table with a frame from which hang dozens of knotted cords in every colour, the counts of the colony. Placed near a research bench, it speeds up research by 5%.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_QuipuTable</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <costList>
+      <Cloth>30</Cloth>
+    </costList>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <WorkToBuild>2800</WorkToBuild>
+      <Mass>20</Mass>
+      <Beauty>5</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_Quipu</li>
+    </researchPrerequisites>
+    <building>
+      <ai_chillDestination>false</ai_chillDestination>
+    </building>
+    <comps>
+      <li Class="CompProperties_Facility">
+        <statOffsets>
+          <ResearchSpeedFactor>0.05</ResearchSpeedFactor>
+        </statOffsets>
+        <maxSimultaneous>1</maxSimultaneous>
+        <maxDistance>8</maxDistance>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Inti_SunStone</defName>
+    <label>sun stone</label>
+    <description>A carved granite outcrop with a short post rising from it. On the two days of the year when the sun stands right above it, the post casts no shadow.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_SunStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>90</costStuffCount>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>4000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>12</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_Terraces</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Inti_SunDisc</defName>
+    <label>sun disc</label>
+    <description>A face of the sun beaten from gold and raised on a stone stand. In the temple of the sun such discs caught the dawn and filled the hall with light.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_SunDisc</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.64)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.3</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>50</costStuffCount>
+    <costList>
+      <Gold>25</Gold>
+    </costList>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>4000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>22</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_KnotKeepers</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Inti_PumaStone</defName>
+    <label>puma stone</label>
+    <description>A crouching puma carved from a single block. The puma guards the world of the living, between the condor above and the serpent below.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_PumaStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1.33)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <fillPercent>0.6</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>200</costStuffCount>
+    <statBases>
+      <MaxHitPoints>550</MaxHitPoints>
+      <WorkToBuild>10000</WorkToBuild>
+      <Mass>20</Mass>
+      <Beauty>28</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Inti_Mita</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>HE_Inti_SlingStand_Gun</defName>
+    <label>sling arm</label>
+    <description>The turning top of the sling stand.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_SlingStand_Top</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <AccuracyTouch>0.45</AccuracyTouch>
+      <AccuracyShort>0.62</AccuracyShort>
+      <AccuracyMedium>0.55</AccuracyMedium>
+      <AccuracyLong>0.4</AccuracyLong>
+      <RangedWeapon_Cooldown>4</RangedWeapon_Cooldown>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>30</Mass>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <defaultProjectile>HE_Stone_SlingStand</defaultProjectile>
+        <warmupTime>0</warmupTime>
+        <range>30.9</range>
+        <ticksBetweenBurstShots>9</ticksBetweenBurstShots>
+        <burstShotCount>3</burstShotCount>
+        <soundCast>HE_Shot_Sling</soundCast>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Inti_SlingStand</defName>
+    <label>sling stand</label>
+    <description>A ring of fitted stones with a long sling arm on a pivot and a basket of round stones. It whirls three stones in a row at anyone who comes close. Feed it stone chunks: one chunk makes ten stones.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <drawHighlight>true</drawHighlight>
+    <drawHighlightOnlyForHostile>true</drawHighlightOnlyForHostile>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Inti_SlingStand</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+      <shadowData>
+        <volume>(1.5,0.35,1.4)</volume>
+        <offset>(0,0,-0.05)</offset>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>320</MaxHitPoints>
+      <Flammability>0.3</Flammability>
+      <WorkToBuild>8000</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>-4</Beauty>
+      <ShootingAccuracyTurret>0.9</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.5</fillPercent>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <WoodLog>80</WoodLog>
+      <BlocksGranite>80</BlocksGranite>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HE_Inti_SlingStand_Gun</turretGunDef>
+      <turretBurstCooldownTime>4</turretBurstCooldownTime>
+      <turretTopDrawSize>2</turretTopDrawSize>
+      <turretTopOffset>(0, 0.05)</turretTopOffset>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>HE_Inti_SlingStand</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Stones</fuelLabel>
+        <fuelGizmoLabel>Stones</fuelGizmoLabel>
+        <outOfFuelMessage>Needs stone chunks</outOfFuelMessage>
+        <fuelFilter>
+          <thingDefs>
+            <li>ChunkGranite</li>
+            <li>ChunkLimestone</li>
+            <li>ChunkMarble</li>
+            <li>ChunkSandstone</li>
+            <li>ChunkSlate</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>40</fuelCapacity>
+        <fuelMultiplier>10</fuelMultiplier>
+        <initialFuelPercent>0</initialFuelPercent>
+        <autoRefuelPercent>0.5</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

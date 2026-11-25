@@ -1,0 +1,21 @@
+Heirs of Earth 3.0.1
+
+NATION CLOTHES (FIX)
+- Heir pawns now always wear their own nation's clothes. Before this fix they could roll vanilla cowboy hats, bowler hats, tuques and parkas, and soldiers could wear another nation's armour (for example a Yamato samurai in a Roman lorica, or Parsian Immortals in Yamato do-maru).
+- Every nation's people wear their everyday garment: the Roman tunica, the Yamato kimono, the Nordheim tunic, the Hellenic chiton, the Tianxia hanfu, the Kemet kalasiris, the Parsian kaftan and the Inti unku. Albion's civilians keep plain shirts and trousers.
+- Soldiers with a good kit budget also wear their nation's body armour, and soldiers who usually wear helmets now always wear their nation's helmet.
+- Some kinds could spawn with no clothes at all (the Kemet colonist, the Kemet charioteer and the Inti guard). They are now dressed.
+- Plain shirts and trousers can still be worn under nation clothes. They now come from a mod tag instead of the shared vanilla clothing list, so no vanilla hats or coats get in.
+- Some heir soldiers are a little tougher now that they always wear their armour.
+
+NAMES (FIX)
+- Every nation now has about 55 to 65 first names per gender instead of about 16. RimWorld keeps short names unique among living people, so in long games with many people of one nation (for example during long wars) the game ran out of names and logged "Could not get new name".
+- Two-part first names such as Mama Ocllo are now written with a hyphen (Mama-Ocllo), so the game no longer reads the second part as a family name.
+
+STEAM PAGE
+- Added in-game screenshots of all nine nations, the World Council, a battle, trade routes and the research tree.
+- Harmony is now listed as a required item on this page. The mod has always needed it in game.
+
+TECHNICAL
+- New automatic test: six pawns of every heir pawn kind are generated and checked for foreign kit, missing nation clothes and bare torsos.
+- Save compatible. Pawns that already exist keep what they wear; new pawns use the fixed kits.

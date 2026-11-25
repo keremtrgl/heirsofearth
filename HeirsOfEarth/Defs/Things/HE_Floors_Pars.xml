@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Pars_GirihTiles</defName>
+    <label>girih tiles</label>
+    <description>Glazed tiles in turquoise, cobalt and white, laid in an endless pattern of ten-pointed stars.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Pars_GirihTiles</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1400</WorkToBuild>
+      <Beauty>4</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSandstone>4</BlocksSandstone>
+      <Silver>2</Silver>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Pars_Garden</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Pars_Glazed</defName>
+    <label>glazed star tiles</label>
+    <description>Turquoise tiles glazed with eight-pointed stars, fired in the kilns of the royal cities. Cool underfoot even at noon.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Pars_Glazed</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1500</WorkToBuild>
+      <Beauty>4</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSandstone>3</BlocksSandstone>
+      <Silver>3</Silver>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Pars_SatrapLaw</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Pars_GardenPath</defName>
+    <label>garden path</label>
+    <description>Terracotta and pale pebbles set in diamonds between brick borders, the walks of a Parsian paradise garden.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Pars_GardenPath</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>900</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSandstone>2</BlocksSandstone>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Pars_GardenCulture</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

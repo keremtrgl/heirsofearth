@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Pars_Pilaf</defName>
+    <label>saffron pilaf</label>
+    <description>A mound of long-grain rice steamed with saffron and butter, topped with barberries, pistachios and a piece of its own golden crust.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_Pilaf</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_ParsGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>5</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Pars_Pilaf</defName>
+    <label>cook saffron pilaf</label>
+    <description>Cook saffron pilaf.</description>
+    <jobString>Cooking saffron pilaf.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>FoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Pars_Pilaf>1</HE_Pars_Pilaf>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Pars_Pilaf</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Pars_Kebab</defName>
+    <label>kebab and saffron rice</label>
+    <description>Spiced minced meat grilled on flat swords of iron, laid on a mound of saffron rice. Served at every caravan inn.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_Kebab</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+    </ingestible>
+    <tradeTags>
+      <li>HE_ParsGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Pars_Kebab</defName>
+    <label>cook kebab and saffron rice</label>
+    <description>Cook kebab and saffron rice.</description>
+    <jobString>Cooking kebab and saffron rice.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>MeatRaw</li>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Pars_Kebab>1</HE_Pars_Kebab>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Pars_Pilaf</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+  <ThingDef ParentName="MealCooked">
+    <defName>HE_Pars_Sholeh</defName>
+    <label>sholeh zard</label>
+    <description>A golden rice pudding with saffron, rosewater and pistachios, drawn with a cinnamon pattern on top. Cooked for vows and blessings. A small treat: eating it is a little joy.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_Sholeh</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>22</MarketValue>
+      <WorkToMake>500</WorkToMake>
+      <Nutrition>0.9</Nutrition>
+      <Mass>0.44</Mass>
+    </statBases>
+    <ingestible>
+      <preferability>MealFine</preferability>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+      <tasteThought>AteFineMeal</tasteThought>
+      <optimalityOffsetFeedingAnimals>-25</optimalityOffsetFeedingAnimals>
+      <joy>0.08</joy>
+      <joyKind>Gluttonous</joyKind>
+    </ingestible>
+    <tradeTags>
+      <li>HE_ParsGoods</li>
+    </tradeTags>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>4</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <RecipeDef ParentName="CookMealBase">
+    <defName>HE_Cook_Pars_Sholeh</defName>
+    <label>cook sholeh zard</label>
+    <description>Cook sholeh zard.</description>
+    <jobString>Cooking sholeh zard.</jobString>
+    <workAmount>500</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <requiredGiverWorkType>Cooking</requiredGiverWorkType>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <ingredientValueGetterClass>IngredientValueGetter_Nutrition</ingredientValueGetterClass>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>PlantFoodRaw</li>
+          </categories>
+        </filter>
+        <count>0.5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <categories>
+        <li>FoodRaw</li>
+      </categories>
+    </fixedIngredientFilter>
+    <products>
+      <HE_Pars_Sholeh>1</HE_Pars_Sholeh>
+    </products>
+    <workSkill>Cooking</workSkill>
+    <skillRequirements>
+      <Cooking>4</Cooking>
+    </skillRequirements>
+    <researchPrerequisite>HE_Pars_GardenCulture</researchPrerequisite>
+    <recipeUsers>
+      <li>FueledStove</li>
+      <li>ElectricStove</li>
+      <li>Campfire</li>
+    </recipeUsers>
+  </RecipeDef>
+</Defs>

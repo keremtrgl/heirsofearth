@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Longhouse.label>longhouse hearth</HE_Nord_Longhouse.label>
+  <HE_Nord_Longhouse.description>A long stone-lined fire pit that warms a whole hall and cooks the evening meal.</HE_Nord_Longhouse.description>
+  <HE_Nord_Planks.label>split planks</HE_Nord_Planks.label>
+  <HE_Nord_Planks.description>Split logs along the grain into wide planks for floors and benches.</HE_Nord_Planks.description>
+  <HE_Nord_HuntBow.label>hunting bow</HE_Nord_HuntBow.label>
+  <HE_Nord_HuntBow.description>A simple elm bow for deer in the pine forests, quick to make and quick to draw.</HE_Nord_HuntBow.description>
+  <HE_Nord_Fur.label>fur and wool</HE_Nord_Fur.label>
+  <HE_Nord_Fur.description>Sew heavy fur cloaks and thick woollen tunics for the long winters.</HE_Nord_Fur.description>
+  <HE_Nord_Skyr.label>skyr</HE_Nord_Skyr.label>
+  <HE_Nord_Skyr.description>Curdle skimmed milk into skyr, a thick sour dairy that keeps through the winter.</HE_Nord_Skyr.description>
+  <HE_Nord_Runes.label>rune stones</HE_Nord_Runes.label>
+  <HE_Nord_Runes.description>Carve runes into standing stones to remember the dead and boast of the living.</HE_Nord_Runes.description>
+  <HE_Nord_Blood.label>northern blood</HE_Nord_Blood.label>
+  <HE_Nord_Blood.description>Children who bathe in icy rivers grow into adults who do not notice the cold.
+
+Tradition: Colonists are comfortable at temperatures 8°C colder.
+
+Requires 15 Nordheim knowledge unless this is your heritage.</HE_Nord_Blood.description>
+  <HE_Nord_Hunting.label>hunting lore</HE_Nord_Hunting.label>
+  <HE_Nord_Hunting.description>Read tracks in snow and move downwind: the hunters' lore is passed from parent to child.
+
+Tradition: Colonists gain +10% hunting stealth and +1 shooting accuracy.
+
+Requires 15 Nordheim knowledge unless this is your heritage.</HE_Nord_Hunting.description>
+  <HE_Nord_Saga.label>saga telling</HE_Nord_Saga.label>
+  <HE_Nord_Saga.description>On winter nights the skalds recite the deeds of the ancestors. Everyone listens, and everyone learns.
+
+Tradition: Colonists learn 5% faster and gain +5% social impact.
+
+Requires 20 Nordheim knowledge unless this is your heritage.</HE_Nord_Saga.description>
+  <HE_Nord_Smithing.label>Nordheim smithing</HE_Nord_Smithing.label>
+  <HE_Nord_Smithing.description>Pattern-welded swords and the long-hafted Dane axe, forged from bog iron.
+
+Requires 10 Nordheim knowledge unless this is your heritage.</HE_Nord_Smithing.description>
+  <HE_Nord_Byrnie.label>byrnie and round shield</HE_Nord_Byrnie.label>
+  <HE_Nord_Byrnie.description>Thousands of riveted rings make a byrnie. With a spangenhelm and a painted round shield, a warrior is ready for the shield wall.
+
+Requires 25 Nordheim knowledge unless this is your heritage.</HE_Nord_Byrnie.description>
+  <HE_Nord_MeadHall.label>mead hall</HE_Nord_MeadHall.label>
+  <HE_Nord_MeadHall.description>Long tables, drinking horns and a jarl's seat: the mead hall is where the people of Nordheim feast, boast and make peace.
+
+Requires 15 Nordheim knowledge unless this is your heritage.</HE_Nord_MeadHall.description>
+  <HE_Nord_Sauna.label>sauna</HE_Nord_Sauna.label>
+  <HE_Nord_Sauna.description>A small log house with a stone stove. Steam, birch branches and a roll in the snow keep the body strong.
+
+Tradition: Unlocks the sauna. Colonists gain immunity 10% faster.
+
+Requires 20 Nordheim knowledge unless this is your heritage.</HE_Nord_Sauna.description>
+  <HE_Nord_Thing.label>the Thing</HE_Nord_Thing.label>
+  <HE_Nord_Thing.description>Free people gather to settle disputes by law instead of the axe. Their voices carry far.
+
+Tradition: Colonists gain +8% negotiation ability.
+
+Requires 25 Nordheim knowledge unless this is your heritage.</HE_Nord_Thing.description>
+  <HE_Nord_Longships.label>longship crews</HE_Nord_Longships.label>
+  <HE_Nord_Longships.description>Rowing crews learn to travel light and fast, whether over waves or over land.
+
+Tradition: Your caravans travel 12% faster.
+
+Requires 30 Nordheim knowledge unless this is your heritage.</HE_Nord_Longships.description>
+  <HE_Nord_Berserk.label>berserkergang</HE_Nord_Berserk.label>
+  <HE_Nord_Berserk.description>Some warriors fight in a fury that ignores wounds and caution alike.
+
+Tradition: Colonists deal 10% more melee damage but have -2 melee dodge chance.
+
+Requires 40 Nordheim knowledge unless this is your heritage.</HE_Nord_Berserk.description>
+  <HE_Nord_Valhalla.label>road to Valhalla</HE_Nord_Valhalla.label>
+  <HE_Nord_Valhalla.description>Those who have seen the winter rite no longer fear death, only a dull one.
+
+Tradition: Colonists gain +8% pain shock threshold and +1 melee hit chance.
+
+Requires 50 Nordheim knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Nord_Valhalla.description>
+  <HE_Nord_HarpoonGun.label>harpoon gun</HE_Nord_HarpoonGun.label>
+  <HE_Nord_HarpoonGun.description>A whaler's gun that throws a barbed iron harpoon on a line. It was made for whales; it works on raiders too.
+
+Requires 35 Nordheim knowledge unless this is your heritage.</HE_Nord_HarpoonGun.description>
+  <HE_Nord_FolkSchools.label>folk high schools</HE_Nord_FolkSchools.label>
+  <HE_Nord_FolkSchools.description>Schools without exams where farmers, fishers and smiths learn history, song and the law of the Thing together.
+
+Tradition: Colonists learn 8% faster and research 4% faster.
+
+Requires 45 Nordheim knowledge unless this is your heritage.</HE_Nord_FolkSchools.description>
+  <HE_Nord_BowLoft.label>bow loft</HE_Nord_BowLoft.label>
+  <HE_Nord_BowLoft.description>Hunters and shipwrights put their skills together: a bow too big to draw by hand, spanned with a winch.
+
+Requires 40 Nordheim knowledge unless this is your heritage.</HE_Nord_BowLoft.description>
+  <HE_Nord_PowderArms.label>Nordic powder arms</HE_Nord_PowderArms.label>
+  <HE_Nord_PowderArms.description>The Nordheim way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Age of Powder.
+
+Requires 30 Nordheim knowledge unless this is your heritage.</HE_Nord_PowderArms.description>
+  <HE_Nord_SteamArmy.label>Nordic steam army</HE_Nord_SteamArmy.label>
+  <HE_Nord_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Nordheim raised when the factories came.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Age of Steam.
+
+Requires 45 Nordheim knowledge unless this is your heritage.</HE_Nord_SteamArmy.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Kemet.label>Yeni Kemet Krallığı</HE_Faction_Kemet.label>
+  <HE_Faction_Kemet.description>Iteru koloni gemisinin mirasçıları, nehir krallığı Yeni Kemet. Taşkını ölçer, kara balçığı eker, taştan inşa eder ve ambardaki tahıldan komşularının borçlarına kadar her şeyi yazıya geçirirler.</HE_Faction_Kemet.description>
+  <HE_Faction_Kemet.fixedName>Yeni Kemet Krallığı</HE_Faction_Kemet.fixedName>
+  <HE_Faction_Kemet.pawnSingular>Kemetli</HE_Faction_Kemet.pawnSingular>
+  <HE_Faction_Kemet.pawnsPlural>Kemetliler</HE_Faction_Kemet.pawnsPlural>
+  <HE_Faction_Kemet.leaderTitle>firavun</HE_Faction_Kemet.leaderTitle>
+  <HE_Player_Kemet.label>Kemet yerleşimcileri</HE_Player_Kemet.label>
+  <HE_Player_Kemet.description>Yeni bir malikâne kurmak için nehrin yukarısına giden küçük bir Kemet hanesi.</HE_Player_Kemet.description>
+  <HE_Player_Kemet.pawnSingular>kolonist</HE_Player_Kemet.pawnSingular>
+  <HE_Player_Kemet.pawnsPlural>kolonistler</HE_Player_Kemet.pawnsPlural>
+</LanguageData>

@@ -1,0 +1,37 @@
+[h1]Heirs of Earth[/h1]
+[i]The old nations live on.[/i]
+
+Centuries ago, six colony ships left Earth. Their descendants founded six heir nations on the Rim, each carrying the heritage of a real culture. They trade, study, marry, ally and go to war with each other, and with you.
+
+[h2]The six nations[/h2]
+[list]
+[*][b]Nova Roma[/b] (eagle) - legions, roads, aqueducts and the Pax Romana.
+[*][b]Yamato Shogunate[/b] (sakura) - samurai, ashigaru, tea houses and bushido.
+[*][b]Jarldom of Nordheim[/b] (raven) - raiders, skalds, longhouses and the sagas.
+[*][b]League of Hellas[/b] (owl) - hoplites, philosophers, theatre and the phalanx.
+[*][b]Celestial Tianxia[/b] (dragon) - crossbows, fire lances, porcelain and the imperial examination.
+[*][b]Commonwealth of Albion[/b] (lion) - muskets, redcoats, steam engines and the factory.
+[/list]
+
+[h2]What each nation brings[/h2]
+[list]
+[*]Its own research branch with seven traditions that change how your colony works (some with a price).
+[*]Weapons, armour, apparel, buildings, floors, food and trade goods with hand-made art.
+[*]Its own people: soldiers, specialists, leaders and traders, with their own backstories.
+[*]A start scenario: begin as the heir of that nation.
+[*]A five-step story chain that ends with a lost relic, a hard choice and a legendary artifact, and unlocks a capstone project.
+[/list]
+
+[h2]Living politics[/h2]
+The nations run their own politics in the background. They form alliances, declare wars, capture each other's towns, send envoys, ask for tribute, offer marriages, ask you to mediate, and can collapse. You can stay neutral, pick a side or learn from all of them.
+
+[h2]Start your way[/h2]
+Play as the heir of one nation, or as an independent colony that learns the knowledge of the others through trade, study, alliances and war.
+
+[h2]Details[/h2]
+[list]
+[*]Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony[/url].
+[*]RimWorld 1.6. Core only; no DLC needed.
+[*]English and Turkish.
+[*]New nations appear in newly generated worlds.
+[/list]

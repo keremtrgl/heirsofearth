@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_BS_Militia.title>frontier militiaman</HE_Tianxia_BS_Militia.title>
+  <HE_Tianxia_BS_Militia.titleShort>militia</HE_Tianxia_BS_Militia.titleShort>
+  <HE_Tianxia_BS_Militia.description>[PAWN_nameDef] farmed a plot on the northern frontier and drilled with the village militia every tenth day. When the raiders came, [PAWN_pronoun] held the gate.</HE_Tianxia_BS_Militia.description>
+  <HE_Tianxia_BS_Scholar.title>examination scholar</HE_Tianxia_BS_Scholar.title>
+  <HE_Tianxia_BS_Scholar.titleShort>scholar</HE_Tianxia_BS_Scholar.titleShort>
+  <HE_Tianxia_BS_Scholar.description>[PAWN_nameDef] studied the classics for fifteen years and passed the provincial examination on the third attempt. [PAWN_pronoun] can quote a sage for every situation and calculate taxes in [PAWN_possessive] head.</HE_Tianxia_BS_Scholar.description>
+  <HE_Tianxia_BS_Potter.title>porcelain master</HE_Tianxia_BS_Potter.title>
+  <HE_Tianxia_BS_Potter.titleShort>potter</HE_Tianxia_BS_Potter.titleShort>
+  <HE_Tianxia_BS_Potter.description>[PAWN_nameDef] fired imperial porcelain in a town of kilns, where a single flaw meant the piece was smashed. [PAWN_pronoun] has smashed thousands.</HE_Tianxia_BS_Potter.description>
+  <HE_Tianxia_BS_Physician.title>needle physician</HE_Tianxia_BS_Physician.title>
+  <HE_Tianxia_BS_Physician.titleShort>physician</HE_Tianxia_BS_Physician.titleShort>
+  <HE_Tianxia_BS_Physician.description>[PAWN_nameDef] learned the meridians and the hundred herbs from an old court physician. [PAWN_pronoun] can read an illness in a pulse.</HE_Tianxia_BS_Physician.description>
+  <HE_Tianxia_BS_Crossbowman.title>wall crossbowman</HE_Tianxia_BS_Crossbowman.title>
+  <HE_Tianxia_BS_Crossbowman.titleShort>crossbowman</HE_Tianxia_BS_Crossbowman.titleShort>
+  <HE_Tianxia_BS_Crossbowman.description>For ten years [PAWN_nameDef] stood on the great wall with a repeating crossbow, counting the dust clouds of the steppe.</HE_Tianxia_BS_Crossbowman.description>
+  <HE_Tianxia_BS_Silkweaver.title>silk weaver</HE_Tianxia_BS_Silkweaver.title>
+  <HE_Tianxia_BS_Silkweaver.titleShort>weaver</HE_Tianxia_BS_Silkweaver.titleShort>
+  <HE_Tianxia_BS_Silkweaver.description>[PAWN_nameDef] tended mulberry trees and silkworms and wove brocade for the court. [PAWN_possessive] fingers are quick and [PAWN_possessive] patience is endless.</HE_Tianxia_BS_Silkweaver.description>
+  <HE_Tianxia_BS_Bannerman.title>banner officer</HE_Tianxia_BS_Bannerman.title>
+  <HE_Tianxia_BS_Bannerman.titleShort>officer</HE_Tianxia_BS_Bannerman.titleShort>
+  <HE_Tianxia_BS_Bannerman.description>[PAWN_nameDef] commanded a hundred men under the red banner and was promoted for holding a river crossing for three days.</HE_Tianxia_BS_Bannerman.description>
+  <HE_Tianxia_BS_Merchant.title>caravan master</HE_Tianxia_BS_Merchant.title>
+  <HE_Tianxia_BS_Merchant.titleShort>caravan master</HE_Tianxia_BS_Merchant.titleShort>
+  <HE_Tianxia_BS_Merchant.description>[PAWN_nameDef] led camel caravans along the silk road, trading tea for horses and silk for silver. [PAWN_pronoun] speaks a little of every language on the road.</HE_Tianxia_BS_Merchant.description>
+  <HE_Tianxia_BS_Schoolboy.title>village school pupil</HE_Tianxia_BS_Schoolboy.title>
+  <HE_Tianxia_BS_Schoolboy.titleShort>pupil</HE_Tianxia_BS_Schoolboy.titleShort>
+  <HE_Tianxia_BS_Schoolboy.description>[PAWN_nameDef] copied characters with a brush every morning in a cold village school, dreaming of the examination halls.</HE_Tianxia_BS_Schoolboy.description>
+  <HE_Tianxia_BS_RiceTerrace.title>terrace farm child</HE_Tianxia_BS_RiceTerrace.title>
+  <HE_Tianxia_BS_RiceTerrace.titleShort>farm child</HE_Tianxia_BS_RiceTerrace.titleShort>
+  <HE_Tianxia_BS_RiceTerrace.description>[PAWN_nameDef] grew up on mountain rice terraces, carrying water and herding ducks through the paddies.</HE_Tianxia_BS_RiceTerrace.description>
+  <HE_Tianxia_BS_Kitchen.title>tea house child</HE_Tianxia_BS_Kitchen.title>
+  <HE_Tianxia_BS_Kitchen.titleShort>tea house child</HE_Tianxia_BS_Kitchen.titleShort>
+  <HE_Tianxia_BS_Kitchen.description>[PAWN_nameDef] grew up in a busy tea house, folding dumplings in the kitchen and listening to storytellers in the hall.</HE_Tianxia_BS_Kitchen.description>
+  <HE_Tianxia_BS_Martial.title>temple martial pupil</HE_Tianxia_BS_Martial.title>
+  <HE_Tianxia_BS_Martial.titleShort>pupil</HE_Tianxia_BS_Martial.titleShort>
+  <HE_Tianxia_BS_Martial.description>[PAWN_nameDef] was sent to a mountain temple where the monks taught [PAWN_objective] to stand in a horse stance for an hour and strike without anger.</HE_Tianxia_BS_Martial.description>
+</LanguageData>

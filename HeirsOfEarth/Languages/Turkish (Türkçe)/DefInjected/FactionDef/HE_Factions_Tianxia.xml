@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Tianxia.label>Göksel Tianxia</HE_Faction_Tianxia.label>
+  <HE_Faction_Tianxia.description>Kunlun koloni gemisinin mirasçısı, göğün altındaki her şeyin ülkesi. Âlim memurları geniş ve sabırlı bir halkı yönetir; kervanları ipek yolları boyunca çay, ipek ve porselen taşır.</HE_Faction_Tianxia.description>
+  <HE_Faction_Tianxia.fixedName>Göksel Tianxia</HE_Faction_Tianxia.fixedName>
+  <HE_Faction_Tianxia.pawnSingular>Tianxia tebaası</HE_Faction_Tianxia.pawnSingular>
+  <HE_Faction_Tianxia.pawnsPlural>Tianxialılar</HE_Faction_Tianxia.pawnsPlural>
+  <HE_Faction_Tianxia.leaderTitle>imparator</HE_Faction_Tianxia.leaderTitle>
+  <HE_Player_Tianxia.label>Tianxia yerleşimcileri</HE_Player_Tianxia.label>
+  <HE_Player_Tianxia.description>İmparatorluk için yeni bir sınır açmaya gönderilmiş küçük bir Tianxia hanesi.</HE_Player_Tianxia.description>
+  <HE_Player_Tianxia.pawnSingular>kolonist</HE_Player_Tianxia.pawnSingular>
+  <HE_Player_Tianxia.pawnsPlural>kolonistler</HE_Player_Tianxia.pawnsPlural>
+</LanguageData>

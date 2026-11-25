@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars.label>Satrapy of Pars</HE_Pars.label>
+  <HE_Pars.description>The colony ship Pasargad came down on a high plateau ringed by mountains, and its people built roads before they built walls. Pars is a patchwork of provinces held together by a royal road, a post that never stops and a court that remembers every favour. Its satraps love gardens, horses and good carpets, keep their word and expect others to keep theirs. They are old friends of Tianxia and old rivals of Nova Roma.</HE_Pars.description>
+  <HE_Pars.rulerTitle>Satrap</HE_Pars.rulerTitle>
+  <HE_Pars.adjective>Parsian</HE_Pars.adjective>
+  <HE_Pars.doctrine.label>cavalry wings</HE_Pars.doctrine.label>
+  <HE_Pars.doctrine.description>The armies of Pars attack on the wings: several swift groups at once, used to fighting from the saddle and closing in fast.</HE_Pars.doctrine.description>
+  <HE_Pars.honoraryTitle>benefactor of the Satrap</HE_Pars.honoraryTitle>
+</LanguageData>

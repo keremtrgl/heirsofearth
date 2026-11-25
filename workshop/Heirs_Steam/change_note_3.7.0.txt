@@ -1,0 +1,20 @@
+Heirs of Earth 3.7.0 "Common Ground"
+
+Playing alongside other mods and in other languages.
+
+NATIONS ON AND OFF (NEW)
+- Every nation can be switched off in the mod settings, one by one. Useful with many faction mods.
+- A nation switched off keeps its faction, towns, goods and research, but it is no longer added to saves that lack it, starts no stories, sends no errands or letters, plays no music and leaves the politics of the world (wars, alliances, envoys, the court, treaties, the council and world events). Switch it back on and it takes part again.
+- The traditions of each nation can still be switched off on their own, as before.
+
+TRANSLATION TEMPLATE (NEW)
+- The mod now ships a TranslationTemplate folder with every text of the mod in English (definitions and interface), laid out exactly as the game expects, and a short guide. The game does not load it.
+- Translators copy it into Languages/<their language>, translate the text and are done. The complete Turkish translation is the example.
+
+STABILITY
+- A world in which an heir nation has fallen, or was never created, keeps running cleanly: politics, errands, events, the court, treaties, the council and the stories all leave it out.
+
+TECHNICAL
+- New automatic tests: switching a nation off (no politics, stories, music, errands or letters about it) and back on, a fallen nation over half a year of world events, and a check that none of the game's translation warnings come from this mod. (The "Translation data for language Turkish has errors" warning some players see comes from the official language pack's DLC entries, not from Heirs of Earth.)
+- Two automatic tests (the trebuchet crew, the vanguard drill speed) no longer fail by chance.
+- Save compatible.

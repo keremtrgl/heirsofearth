@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Kemet.label>Kingdom of New Kemet</HE_Faction_Kemet.label>
+  <HE_Faction_Kemet.description>The river kingdom of New Kemet, heirs of the colony ship Iteru. They measure the flood, farm the black silt, build in stone and keep everything in writing, from the grain in the granary to the debts of their neighbours.</HE_Faction_Kemet.description>
+  <HE_Faction_Kemet.fixedName>Kingdom of New Kemet</HE_Faction_Kemet.fixedName>
+  <HE_Faction_Kemet.pawnSingular>Kemetian</HE_Faction_Kemet.pawnSingular>
+  <HE_Faction_Kemet.pawnsPlural>Kemetians</HE_Faction_Kemet.pawnsPlural>
+  <HE_Faction_Kemet.leaderTitle>pharaoh</HE_Faction_Kemet.leaderTitle>
+  <HE_Player_Kemet.label>Kemetic settlers</HE_Player_Kemet.label>
+  <HE_Player_Kemet.description>A small household of Kemetic settlers who have gone upriver to found a new estate.</HE_Player_Kemet.description>
+  <HE_Player_Kemet.pawnSingular>colonist</HE_Player_Kemet.pawnSingular>
+  <HE_Player_Kemet.pawnsPlural>colonists</HE_Player_Kemet.pawnsPlural>
+</LanguageData>

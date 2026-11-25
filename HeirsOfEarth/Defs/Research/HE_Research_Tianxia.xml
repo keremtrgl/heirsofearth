@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Jian</defName>
+    <label>jian</label>
+    <description>The straight double-edged sword, called the gentleman of weapons.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>15.2</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Silk</defName>
+    <label>silk weaving</label>
+    <description>Raise silkworms on mulberry leaves and weave their thread into the softest cloth in the world.</description>
+    <baseCost>500</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_JadeFloor</defName>
+    <label>jade courtyards</label>
+    <description>Pave courtyards with polished green stone set in patterns of clouds.</description>
+    <baseCost>550</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Hanfu</defName>
+    <label>hanfu</label>
+    <description>Sew the flowing robes with crossed collars and wide sleeves worn by scholars and officials.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>15.2</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Silk</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Dumplings</defName>
+    <label>dumplings</label>
+    <description>Fold minced meat and greens into thin dough and steam them in bamboo baskets.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_PaperLantern</defName>
+    <label>paper lanterns</label>
+    <description>Stretch oiled paper over bamboo frames and hang red lanterns along every path.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_JadeFloor</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_TeaCulture</defName>
+    <label>tea culture</label>
+    <description>A cup of tea before sleep, a cup on waking. The body rests better when the mind is calm.
+
+Tradition: Colonists rest 5% faster.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>15.2</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Hanfu</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>RestRateMultiplier</stat>
+            <factor>1.05</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Granary</defName>
+    <label>ever-normal granary</label>
+    <description>Buy grain when it is cheap and store it against bad years: the harvest is worked with care.
+
+Tradition: Colonists harvest 6% more from plants.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Dumplings</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>PlantHarvestYield</stat>
+            <factor>1.06</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_SilkRoad</defName>
+    <label>silk road</label>
+    <description>From oasis to oasis the caravans of Tianxia carry silk west and silver east, and they know every price.
+
+Tradition: Colonists get 6% better trade prices.
+
+Requires 20 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>850</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_PaperLantern</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>TradePriceImprovement</stat>
+            <offset>0.06</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Guandao</defName>
+    <label>imperial armoury</label>
+    <description>Forge the heavy guandao glaive and lamellar armour for the imperial guard.
+
+Requires 10 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>15.2</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Repeater</defName>
+    <label>repeating crossbow</label>
+    <description>A crossbow with a magazine of bolts on top: pull the lever, loose, pull again.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Jian</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_PorcelainKiln</defName>
+    <label>porcelain kiln</label>
+    <description>Fire white clay hotter than any potter in the world and paint it in cobalt blue.
+
+Requires 15 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_PaperLantern</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_FireLance</defName>
+    <label>fire lance</label>
+    <description>A tube of black powder tied to a spear. When it is lit, it spits fire and shrapnel at the enemy.
+
+Requires 30 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Repeater</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>30</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Physicians</defName>
+    <label>imperial physicians</label>
+    <description>Needles, herbs and pulse-reading: the court physicians know a cure for nearly everything.
+
+Tradition: Colonists tend wounds with +10% quality and gain immunity 8% faster.
+
+Requires 25 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_PorcelainKiln</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MedicalTendQuality</stat>
+            <offset>0.1</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>ImmunityGainSpeed</stat>
+            <factor>1.08</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Examination</defName>
+    <label>imperial examination</label>
+    <description>Anyone may sit the examination, and anyone who passes may rule. So everyone studies.
+
+Tradition: Colonists learn 10% faster.
+
+Requires 35 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>15.2</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Guandao</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.1</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_FireArrows</defName>
+    <label>fire arrows</label>
+    <description>Archers drill until the volley lands as one. The enemy line burns before it reaches the wall.
+
+Tradition: Colonists gain +2 shooting accuracy.
+
+Requires 35 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_FireLance</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>2</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Porcelain</defName>
+    <label>porcelain mastery</label>
+    <description>The kilns of Jingdezhen fire a thousand pieces to keep one. Every craftsman learns that patience.
+
+Tradition: Crafted items have a 6% chance to come out one quality level higher.
+
+Requires 40 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_Physicians</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>40</knowledge>
+        <tradition>true</tradition>
+        <qualityChance>0.06</qualityChance>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_Harmony</defName>
+    <label>harmonious realm</label>
+    <description>Heaven's seal is where it belongs, and every household works in calm order.
+
+Tradition: Colonists work 3% faster and their mental break threshold drops by 3%.
+
+Requires 50 Tianxia knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>16.2</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_FireArrows</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>WorkSpeedGlobal</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>-0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Tianxia</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_FireArrowBattery</defName>
+    <label>fire-arrow battery</label>
+    <description>A wheeled box of tubes, each holding a rocket arrow. Light one fuse and the whole nest of bees leaves at once.
+
+Requires 40 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1400</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>5.76</researchViewY>
+    <prerequisites>
+      <li>HE_Tianxia_FireArrows</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_PowderArms</defName>
+    <label>Tianxia powder arms</label>
+    <description>The Tianxia way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Tianxia has reached the Age of Powder.
+
+Requires 30 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>30</knowledge>
+        <age>2</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Tianxia_SteamArmy</defName>
+    <label>Tianxia steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Tianxia raised when the factories came.
+
+Outside your heritage, this can be researched only once Tianxia has reached the Age of Steam.
+
+Requires 45 Tianxia knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>18.2</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+      <li>HE_Tianxia_PowderArms</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

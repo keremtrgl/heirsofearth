@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Terraces.label>taş teraslar</HE_Inti_Terraces.label>
+  <HE_Inti_Terraces.description>Kuru taş duvarlarla tutulan, taşınmış topraktan basamaklı yataklar. Bitkiler üzerlerinde iyi toprakta olduğu gibi yetişir. Kazılabilen her zemine döşenebilir, böylece çakıllı ve taşlı yamaçlar bile ekilebilir.</HE_Inti_Terraces.description>
+  <HE_Inti_FittedStone.label>geçme taş</HE_Inti_FittedStone.label>
+  <HE_Inti_FittedStone.description>Aralarına hiçbir bıçak girmeyecek kadar sıkı birbirine oturtulmuş çok kenarlı taşlar. Depremler bile onları yerinden oynatamaz.</HE_Inti_FittedStone.description>
+  <HE_Inti_Adobe.label>kerpiç karo</HE_Inti_Adobe.label>
+  <HE_Inti_Adobe.description>Kil ve samandan yapılmış güneşte kurutulmuş karolar; rengi sıcak, yapımı ucuzdur. Ambarlarda ve köy evlerinde kullanılır.</HE_Inti_Adobe.description>
+</LanguageData>

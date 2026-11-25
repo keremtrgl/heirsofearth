@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Colonist.label>kolonist</HE_Yamato_Colonist.label>
+  <HE_Yamato_Ashigaru.label>ashigaru</HE_Yamato_Ashigaru.label>
+  <HE_Yamato_Ashigaru.labelPlural>ashigarular</HE_Yamato_Ashigaru.labelPlural>
+  <HE_Yamato_Samurai.label>samuray</HE_Yamato_Samurai.label>
+  <HE_Yamato_Samurai.labelPlural>samuraylar</HE_Yamato_Samurai.labelPlural>
+  <HE_Yamato_Yumitori.label>yumitori okçu</HE_Yamato_Yumitori.label>
+  <HE_Yamato_Monk.label>tapınak keşişi</HE_Yamato_Monk.label>
+  <HE_Yamato_Hatamoto.label>hatamoto</HE_Yamato_Hatamoto.label>
+  <HE_Yamato_Shogun.label>şogun</HE_Yamato_Shogun.label>
+  <HE_Yamato_Akindo.label>akindo tüccar</HE_Yamato_Akindo.label>
+</LanguageData>

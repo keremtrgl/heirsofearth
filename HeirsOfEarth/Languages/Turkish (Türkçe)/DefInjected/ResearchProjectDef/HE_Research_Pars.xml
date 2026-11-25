@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Spear.label>ölümsüz mızrağı</HE_Pars_Spear.label>
+  <HE_Pars_Spear.description>Bir ucunda yaprak biçimli bir ağız, öbür ucunda gümüş bir nar bulunan uzun bir mızrak; kraliyet muhafızlarının silahı.</HE_Pars_Spear.description>
+  <HE_Pars_Kaftan.label>ipek kaftan</HE_Pars_Kaftan.label>
+  <HE_Pars_Kaftan.description>Sarayın astarlı, nakışlı ve kuşakla bağlanan uzun, önü açık ceketini dik.</HE_Pars_Kaftan.description>
+  <HE_Pars_Garden.label>cennet bahçesi</HE_Pars_Garden.label>
+  <HE_Pars_Garden.description>Bir toprak karesini duvarla çevir, su kanallarıyla dörde böl ve güller, serviler ve meyve ağaçlarıyla doldur. Eski dilde adı cennetti.</HE_Pars_Garden.description>
+  <HE_Pars_Bow.label>çift kavisli yay</HE_Pars_Bow.label>
+  <HE_Pars_Bow.description>Oklarıyla birlikte tek bir kılıfta taşınan, eyerden atılacak kadar hafif, kısa ve çift kavisli bir yay.</HE_Pars_Bow.description>
+  <HE_Pars_Pilaf.label>safranlı pilav</HE_Pars_Pilaf.label>
+  <HE_Pars_Pilaf.description>Altı en güzel kısmı olan altın bir kabuk tutana dek safran, kızamık üzümü ve tereyağıyla demlenmiş pirinç.</HE_Pars_Pilaf.description>
+  <HE_Pars_GardenCulture.label>bahçe kültürü</HE_Pars_GardenCulture.label>
+  <HE_Pars_GardenCulture.description>Her evin bir avlusu, her avlunun bir havuzu, her havuzun yanında bir bankı vardır. Parslılar öfkelerini soğutmak için bahçeye çıkar.
+
+Gelenek: Kolonistlerin zihinsel çöküş eşiği %3 düşer.
+
+Mirasın bu değilse 15 Pars bilgisi gerekir.</HE_Pars_GardenCulture.description>
+  <HE_Pars_SatrapLaw.label>satraplar kanunu</HE_Pars_SatrapLaw.label>
+  <HE_Pars_SatrapLaw.description>Her eyalet için tek bir kanun; yazılı, çarşıda yüksek sesle okunur ve satrabın kendi adamlarınca uygulanır. İnsanlar nerede durduklarını bilir.
+
+Gelenek: Kolonistler tutuklamalarda %15 daha başarılıdır ve %5 daha iyi pazarlık eder.
+
+Mirasın bu değilse 15 Pars bilgisi gerekir.</HE_Pars_SatrapLaw.description>
+  <HE_Pars_RoyalPost.label>kraliyet postası</HE_Pars_RoyalPost.label>
+  <HE_Pars_RoyalPost.description>Her günlük yolda bir menzil, her menzilde dinç bir at ve kar, yağmur, sıcak ya da gece için durmayan bir ulak.
+
+Gelenek: Kervanlar %10 daha hızlı gider ve kolonistler %5 daha iyi ticaret fiyatı alır.
+
+Mirasın bu değilse 20 Pars bilgisi gerekir.</HE_Pars_RoyalPost.description>
+  <HE_Pars_Qanats.label>kanatlar</HE_Pars_Qanats.label>
+  <HE_Pars_Qanats.description>Dağların eteğinden kazılan ve güneşe bir damla bile kaptırmadan her köye soğuk, temiz su getiren tüneller.
+
+Gelenek: Kolonistler %6 daha hızlı bağışıklık kazanır.
+
+Mirasın bu değilse 20 Pars bilgisi gerekir.</HE_Pars_Qanats.description>
+  <HE_Pars_Akinakes.label>akinakes</HE_Pars_Akinakes.label>
+  <HE_Pars_Akinakes.description>Muhafızların sağ kalçada, altın uçlu bir kında taşıdığı kısa, düz kılıcı döv.
+
+Mirasın bu değilse 10 Pars bilgisi gerekir.</HE_Pars_Akinakes.description>
+  <HE_Pars_CarpetLoom.label>halı tezgâhı</HE_Pars_CarpetLoom.label>
+  <HE_Pars_CarpetLoom.description>Dik bir tezgâh, yüz renk yün ve dokumacının kafasında tuttuğu bir desen. İyi bir halı bir mevsim sürer ve yapanından uzun yaşar.
+
+Mirasın bu değilse 15 Pars bilgisi gerekir.</HE_Pars_CarpetLoom.description>
+  <HE_Pars_Polo.label>çevgen</HE_Pars_Polo.label>
+  <HE_Pars_Polo.description>Uzun bir sahada atlılar, sopalar ve tahta bir top. Prensler onu binicilik öğrenmek için oynar; atlar da öğrenir.
+
+Gelenek: Kolonistler hayvanları %10 daha başarılı eğitir ve evcilleştirir.
+
+Mirasın bu değilse 25 Pars bilgisi gerekir.</HE_Pars_Polo.description>
+  <HE_Pars_Immortals.label>Ölümsüzler</HE_Pars_Immortals.label>
+  <HE_Pars_Immortals.description>Kraliyet muhafızlarının pullu zırhı ve kanatlı miğferi. Sayıları hiç azalmaz: biri düştüğünde yerine bir başkası geçer.
+
+Mirasın bu değilse 25 Pars bilgisi gerekir.</HE_Pars_Immortals.description>
+  <HE_Pars_KingsEars.label>kralın kulakları</HE_Pars_KingsEars.label>
+  <HE_Pars_KingsEars.description>Eyaletleri dolaşan, herkesi dinleyen ve yalnızca saraya rapor veren memurlar. Pars elçileri kiminle konuştuklarını her zaman bilir.
+
+Gelenek: Kolonistler %8 daha iyi pazarlık eder ve %4 daha fazla sosyal etki yapar.
+
+Mirasın bu değilse 25 Pars bilgisi gerekir.</HE_Pars_KingsEars.description>
+  <HE_Pars_TenThousand.label>on binler</HE_Pars_TenThousand.label>
+  <HE_Pars_TenThousand.description>Saf kendi kendine tutana dek talim. Yaralı bir muhafız arkasındaki adam yerini alana kadar yerinde kalır.
+
+Gelenek: Kolonistler %5 daha fazla acıya dayanır ve yakın dövüşte 1 puan daha sık isabet ettirir.
+
+Mirasın bu değilse 35 Pars bilgisi gerekir.</HE_Pars_TenThousand.description>
+  <HE_Pars_Jezail.label>cezayir tüfeği</HE_Pars_Jezail.label>
+  <HE_Pars_Jezail.description>Kemik ve pirinç kakmalı, keskin kıvrımlı dipçikli, uzun namlulu çakmaklı bir tüfek. Dağ nişancıları ona yemin eder.
+
+Mirasın bu değilse 35 Pars bilgisi gerekir.</HE_Pars_Jezail.description>
+  <HE_Pars_GrandBazaar.label>kapalı çarşı</HE_Pars_GrandBazaar.label>
+  <HE_Pars_GrandBazaar.description>Bin dükkânlı kapalı bir cadde; loncaları, sarrafları ve çayhaneleriyle. Her şeyin bir fiyatı vardır ve herkes onu bilir.
+
+Gelenek: Kolonistler %4 daha iyi ticaret fiyatı alır ve %3 daha iyi pazarlık eder.
+
+Mirasın bu değilse 45 Pars bilgisi gerekir.</HE_Pars_GrandBazaar.description>
+  <HE_Pars_RoadOfKings.label>kralların yolu</HE_Pars_RoadOfKings.label>
+  <HE_Pars_RoadOfKings.description>Batı yolu yeniden açıldığından beri Pars kervanları posta gibi hareket ediyor ve Pars elçileri her yerde hoş karşılanıyor.
+
+Gelenek: Kervanlar %8 daha hızlı gider; kolonistler %5 daha iyi pazarlık eder ve %5 daha fazla sosyal etki yapar.
+
+Mirasın bu değilse 50 Pars bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Pars_RoadOfKings.description>
+  <HE_Pars_NaftThrower.label>neft atıcı</HE_Pars_NaftThrower.label>
+  <HE_Pars_NaftThrower.description>Kralların mühendisleri nefti bronz bir borudan pompalayıp ağzında tutuşturmayı öğrenir.
+
+Mirasın bu değilse 40 Pars bilgisi gerekir.</HE_Pars_NaftThrower.description>
+  <HE_Pars_SteamArmy.label>Pers buhar ordusu</HE_Pars_SteamArmy.label>
+  <HE_Pars_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Pars'ın kurduğu ordu.
+
+Mirasın bu değilse, ancak Pars Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Pars bilgisi gerekir.</HE_Pars_SteamArmy.description>
+</LanguageData>

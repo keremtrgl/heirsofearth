@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Gladius.label>lejyon gladiusu</HE_Roma_Gladius.label>
+  <HE_Roma_Gladius.description>Lejyonların kısa kılıcı, geniş bir saplama ucuyla dövülmüş. Hafif ve hızlıdır, kalkan duvarının arkasından vurmak için yapılmıştır.</HE_Roma_Gladius.description>
+  <HE_Roma_Gladius.tools.0.label>kabza</HE_Roma_Gladius.tools.0.label>
+  <HE_Roma_Gladius.tools.1.label>uç</HE_Roma_Gladius.tools.1.label>
+  <HE_Roma_Gladius.tools.2.label>ağız</HE_Roma_Gladius.tools.2.label>
+  <HE_Roma_Pilum.label>pilum</HE_Roma_Pilum.label>
+  <HE_Roma_Pilum.description>Uzun yumuşak demir saplı ağır bir cirit. Yakın dövüşte, ucu kalkan ve zırhın içinde bükülüp bırakmayan bir mızraktır.</HE_Roma_Pilum.description>
+  <HE_Roma_Pilum.tools.0.label>gövde</HE_Roma_Pilum.tools.0.label>
+  <HE_Roma_Pilum.tools.1.label>uç</HE_Roma_Pilum.tools.1.label>
+  <HE_Roma_Manuballista.label>manuballista</HE_Roma_Manuballista.label>
+  <HE_Roma_Manuballista.description>Tek bir askerin taşıyabileceği kadar küçük bir burulmalı arbalet. Kurması yavaştır ama demir oku fırlatılmış bir pilum gibi çarpar.</HE_Roma_Manuballista.description>
+  <HE_Roma_Manuballista.tools.0.label>kol</HE_Roma_Manuballista.tools.0.label>
+  <HE_Roma_Carbine.label>lejyon karabinası</HE_Roma_Carbine.label>
+  <HE_Roma_Carbine.description>Kırmızı cilalı dipçikli ve kilit plakasında pirinç bir kartal bulunan kısa, kuyruktan dolma bir karabina. Hızlı dolar ve yakın mesafede iyi kullanılır.</HE_Roma_Carbine.description>
+  <HE_Roma_Carbine.tools.0.label>dipçik</HE_Roma_Carbine.tools.0.label>
+  <HE_Roma_Carbine.tools.1.label>namlu</HE_Roma_Carbine.tools.1.label>
+  <HE_Roma_Spatha.label>spatha</HE_Roma_Spatha.label>
+  <HE_Roma_Spatha.description>Süvarilerin ve sonraki lejyonların uzun kılıcı. Gladiustan uzundur, at sırtından iyi keser ve ucu hâlâ iyi saplar.</HE_Roma_Spatha.description>
+  <HE_Roma_Spatha.tools.0.label>topuz</HE_Roma_Spatha.tools.0.label>
+  <HE_Roma_Spatha.tools.1.label>uç</HE_Roma_Spatha.tools.1.label>
+  <HE_Roma_Spatha.tools.2.label>ağız</HE_Roma_Spatha.tools.2.label>
+  <HE_Roma_Arquebus.label>Roma arkebüzü</HE_Roma_Arquebus.label>
+  <HE_Roma_Arquebus.description>Kırmızı cilalı dipçikli, kilidinde pirinç bir kartal olan fitilli bir arkebüz. Lejyonlar barutu geç öğrendi ve sıkı talim etti: yakında barutlu silahların en isabetlisidir.</HE_Roma_Arquebus.description>
+  <HE_Roma_Arquebus.tools.0.label>dipçik</HE_Roma_Arquebus.tools.0.label>
+  <HE_Roma_Arquebus.tools.1.label>namlu</HE_Roma_Arquebus.tools.1.label>
+</LanguageData>

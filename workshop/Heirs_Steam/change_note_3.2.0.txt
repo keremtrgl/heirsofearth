@@ -1,0 +1,76 @@
+Heirs of Earth 3.2.0 "Equal Heritage"
+
+This update brings every nation up to the same depth and includes the 3.1 "Polish and Balance" changes, which were never released on their own. Every nation now has at least five weapons, five pieces of clothing and armour (with leader regalia), five buildings, three dishes, three floors and its own defensive structure.
+
+DEFENSIVE STRUCTURES (NEW)
+- Eight new unpowered defensive structures, one for every nation that had none. Each needs its own research (40 culture knowledge if it is not your heritage) and is loaded with simple ammunition, like the Tianxia fire-arrow battery.
+- Nova Roma scorpio: a torsion bolt thrower. One heavy, armour-piercing bolt at a time over long range. Wood makes bolts.
+- Yamato yagura: a timber watchtower whose three bows loose a short volley. Wood makes arrows.
+- Nordheim bow loft: a log platform with a huge twin bow, two great arrows per volley at long range. Wood makes arrows.
+- Hellenic lithobolos: a torsion stone thrower. Hard-hitting stones at very long range, but it cannot hit anything closer than six cells. Fed with stone chunks.
+- Albion field cannon (industrial): bursting shells with a small blast radius at the longest range of all, slow to reload, nothing closer than eight cells. Steel is cast into shells.
+- New Kemet archer pylon: four composite bows on a turning stand, a quick volley of light arrows. Wood makes arrows.
+- Pars naft thrower: a bronze siphon that sprays burning naft in short bursts at close range and sets targets alight. Filled with chemfuel.
+- Inti sling stand: a long sling arm that whirls three stones in a row. Fed with stone chunks.
+- All of them are a little weaker than powered vanilla turrets, but need no power and are cheap to keep loaded.
+
+NEW BUILDINGS
+- Albion: gas lamp (a powered street lamp with a wide warm light) and grandfather clock (a fine oak clock with a brass pendulum).
+- New Kemet: sphinx (a great 2x1 statue) and lotus lamp (a bronze lamp burning wood).
+- Pars: fire altar (a stepped white altar whose fire warms the room) and lamassu (a winged guardian bull, 2x1).
+- Inti: sun disc (a gold face of the sun on a stone stand) and puma stone (a crouching puma carved from one block, 2x1).
+
+NEW WEAPONS
+- Nova Roma spatha: the long cavalry sword.
+- Nordheim seax: a heavy single-edged knife, cheap and quick to make.
+- Hellenic gastraphetes: the belly bow, a heavy early crossbow.
+- Tianxia dao: the broad soldier's sabre.
+- Albion blunderbuss (a short, flared gun that is terrible at close range) and flintlock pistol.
+- New Kemet hedj mace: a pear-shaped mace of stone or metal.
+- Pars shamshir: a deeply curved sabre that cuts very well.
+- Inti bolas (thrown cords and stones) and chuki lance.
+
+NEW CLOTHES AND REGALIA
+- Leader regalia that raise social impact noticeably: Roman gold laurel wreath, Nordic jarl's circlet, Tianxia dragon robe, Albion bicorne, Kemet nemes, Parsian kidaris tiara and the Inca mascaypacha.
+- Everyday and formal clothes: Roman toga, Yamato kamishimo and jingasa war hat, Hellenic himation and olive wreath, Tianxia futou cap, Albion frock coat and top hat, Kemet leopard mantle, Parsian candys robe and the Inca feather cape.
+- Wreaths, circlets, the kidaris and the mascaypacha are shown in the gear tab but not drawn on the pawn.
+
+NEW FOOD
+- Two new dishes for every nation, including a dessert or festive dish that gives a little joy: Roman lucanica and bread and libum honey cake, Yamato miso soup and mochi, Nordic hunter's stew and honey flatbread, Hellenic obeliskos skewers and plakous, Tianxia congee and mooncakes, Albion Sunday roast and tea and scones, Kemet ful and date cakes, Parsian kebab with saffron rice and sholeh zard, Inca locro and humitas.
+
+NEW FLOORS
+- Thirteen new floors so every nation has three: Yamato ishidatami, Nordic slate and carved boards, Hellenic marble and pebble mosaic, Tianxia grey brick and red lacquer boards, Albion parquet, Kemet sandstone slabs, Parsian glazed star tiles and garden path, Inca fitted stone and adobe tiles.
+
+WORLD MAP
+- Every nation has its own settlement icon on the world map in its own colour: a basilica for Nova Roma, a castle keep for Yamato, a long hall for Nordheim, a hill temple for Hellas, a gate tower for Tianxia, a clock tower for Albion, a pyramid for New Kemet, a palace terrace for Pars and a sun temple for Inti.
+
+RESEARCH BROWSER (NEW)
+- New "Research" section in the Heirs tab that lists all heir research projects in one place.
+- Filter by nation (or the shared projects that belong to no nation), by age (tribal, medieval, industrial) and by state (can start, locked, finished).
+- Every locked project says why it is locked: the culture knowledge it needs, a story it needs, the World Council, missing prerequisites or a missing research bench.
+- Start any available project with one click. Hover over a row for its full description and effects.
+
+ENCYCLOPEDIA (NEW)
+- New "Encyclopedia" section in the Heirs tab with one page per nation.
+- Each page shows the nation's story, ruler, relations with you, your knowledge and research progress, its friends and rivals, and how to learn from it.
+- Shows all its buildings, weapons, clothes and armour, food and drink, goods and floors with their icons. Click any entry to open its full information card.
+- Also lists its traditions (with their effects and whether you have them) and its story and legendary work.
+
+STARTS
+- Every Heirs of Earth start (all nine nations and "Heirs of no one") now begins with five colonists instead of three, picked from ten candidates instead of eight.
+- Starting food and medicine grow with the larger group (about two thirds more), so the first season is not a famine. Weapons, silver and the nation's goods stay the same.
+
+DIFFICULTY
+- New difficulty presets in the mod settings: Relaxed, Standard and Hard. Each sets knowledge gain, research cost, raid strength, tribute demands and how often political events happen in one click. You can still change every slider afterwards.
+- New setting: how much silver the nations demand as tribute (25% to 300%).
+
+BALANCE
+- New balance report tool compares every heir weapon, armour, food and building with vanilla things of the same tech level. Changes made from its findings:
+- Fabric body armour could become stronger than marine armour when made from hyperweave. The Hellenic linothorax, the Kemet scale corselet and the Inti quilted war tunic now top out just under the best vanilla armour with the best fabric. With ordinary cloth and leather they are lighter, cheaper armour than metal.
+- The Kemet khepresh war crown made from hyperweave was as strong as an advanced helmet. Its armour is lower now.
+- The Yamato do-maru can now only be made from metal. Made from the best leathers it was stronger than any vanilla armour.
+- The Yamato tanegashima and the Parsian jezail were far weaker than any other gun of their age. Both now hit a little harder (tanegashima 19 to 21 damage, jezail 18 to 20) and reload a little faster. They are still slow, long-range guns.
+
+TECHNICAL
+- New automatic tests for content depth, all nine defensive structures firing at a raider, lamps and altars, worn graphics, regalia, settlement icons, the research browser, the encyclopedia and the difficulty settings.
+- Save compatible. Existing armour keeps its material; newly made pieces use the new values.

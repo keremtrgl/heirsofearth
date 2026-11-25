@@ -1,0 +1,26 @@
+Heirs of Earth 3.6.0 "Sound and Sight"
+
+The nine nations now sound and look like themselves.
+
+MUSIC AND CALLS (NEW)
+- Every nation has its own piece of music, about one and a half to two and a half minutes long, made for this mod: brass and lyre over frame drums for Nova Roma, shakuhachi, koto and taiko for Yamato, fiddle and horn over deep drums for Nordheim, aulos and kithara for Hellas, dizi flute, guzheng and gong for Tianxia, fife, fiddle, lute and a marching drum for Albion, ney, harp and sistrum for Kemet, ney, santur and daf for Pars, and siku panpipes, charango and bombo for the Inti.
+- Every nation also has a short signature call. It sounds when that nation's news reaches you: a story starting or moving on, an errand, a succession, a gift, a political event, the Games or a fair.
+- A nation's music plays when one of its stories ends, when it honours you, and when your colonist wins its Games.
+- Now and then the music of your heritage, and of nations that have made you one of their own, plays among the usual songs. Never the music of a stranger, and never during danger.
+- A new setting turns all of it off.
+
+WEAPON AND ARTIFACT SOUNDS (NEW)
+- Eighteen heir weapons got their own firing sounds instead of borrowed vanilla ones: the musket and jezail, the tanegashima matchlock, the flintlock pistol, the blunderbuss, the field cannon, the scorpio and gastraphetes, the manuballista, the trebuchet and lithobolos, the sling and sling stand, the repeating crossbow, the fire lance, the naft thrower, the fire arrow battery and the harpoon gun.
+- Three artifacts that used another nation's call now have their own: the Sun Disc (a sistrum), the King's Eye (a karnay horn) and the Golden Thread (a pututu shell trumpet).
+
+WORN HEADGEAR (NEW)
+- All 19 heir hats, helmets, crowns and wreaths have their own look when worn, from three sides. Before, they borrowed vanilla helmets and hats, and five of them (the laurel, the olive wreath, the circlet, the mascaypacha and the kidaris) were invisible when worn.
+- The shako, top hat and bicorne; the Corinthian helmet with its crest; the olive wreath and the golden laurel; the plumed helmet and the mascaypacha with its red fringe; the khepresh and the striped nemes; the spectacled Nordic helmet and the circlet; the winged helmet and the crenellated kidaris; the galea with cheek guards and crest; the Tianxia helmet with its tassel and curtain, and the winged futou; the kabuto with its gilded horns and the jingasa.
+- The stuff an item is made of colours its main part, while plumes, crests, gold, cords and jewels keep their own colours.
+
+FIXES
+- An automatic test of the trebuchet no longer fails when the crew needs longer to reach it.
+
+TECHNICAL
+- New automatic tests: every nation's music and call, every weapon and artifact sound, the setting, playing a nation's music, heir music joining the rotation only for your patrons, and every worn headgear texture from all three sides with its colour mask.
+- Save compatible.

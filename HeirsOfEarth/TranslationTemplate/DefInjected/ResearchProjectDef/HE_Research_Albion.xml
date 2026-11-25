@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Sabre.label>cavalry sabre</HE_Albion_Sabre.label>
+  <HE_Albion_Sabre.description>A curved, single-edged sword with a basket guard, made for cutting from the saddle.
+
+Requires 10 Albion knowledge unless this is your heritage.</HE_Albion_Sabre.description>
+  <HE_Albion_Tweed.label>tweed mills</HE_Albion_Tweed.label>
+  <HE_Albion_Tweed.description>Weave rough, warm wool cloth in muted checks that shrugs off rain.</HE_Albion_Tweed.description>
+  <HE_Albion_Brick.label>bricks and cobbles</HE_Albion_Brick.label>
+  <HE_Albion_Brick.description>Fire red bricks for courtyards and set rounded cobbles into the streets.</HE_Albion_Brick.description>
+  <HE_Albion_MeatPie.label>meat pie</HE_Albion_MeatPie.label>
+  <HE_Albion_MeatPie.description>Seal meat and gravy into a thick pastry crust that keeps for days and travels well.</HE_Albion_MeatPie.description>
+  <HE_Albion_Pub.label>public house</HE_Albion_Pub.label>
+  <HE_Albion_Pub.description>A long oak table, a barrel of ale and a dartboard: the true parliament of Albion.</HE_Albion_Pub.description>
+  <HE_Albion_Enclosure.label>enclosure</HE_Albion_Enclosure.label>
+  <HE_Albion_Enclosure.description>Hedge the common fields and farm them for profit. The harvest grows; the neighbours grumble.
+
+Tradition: Colonists harvest 5% more from plants but lose 5% negotiation ability.
+
+Requires 20 Albion knowledge unless this is your heritage.</HE_Albion_Enclosure.description>
+  <HE_Albion_Sanitation.label>sanitation</HE_Albion_Sanitation.label>
+  <HE_Albion_Sanitation.description>Boil the water, drain the streets, wash the hands. Fevers pass faster in a clean town.
+
+Tradition: Colonists gain immunity 10% faster.
+
+Requires 25 Albion knowledge unless this is your heritage.</HE_Albion_Sanitation.description>
+  <HE_Albion_JointStock.label>joint-stock company</HE_Albion_JointStock.label>
+  <HE_Albion_JointStock.description>Pool the money of many, share the risk of every voyage and the profit of every bargain.
+
+Tradition: Colonists get 5% better trade prices.
+
+Requires 25 Albion knowledge unless this is your heritage.</HE_Albion_JointStock.description>
+  <HE_Albion_Charts.label>Royal Navy charts</HE_Albion_Charts.label>
+  <HE_Albion_Charts.description>Surveyed coasts, measured rivers and well-kept roads: Albion's caravans never lose their way.
+
+Tradition: Caravans travel 10% faster.
+
+Requires 30 Albion knowledge unless this is your heritage.</HE_Albion_Charts.description>
+  <HE_Albion_Musket.label>flintlock musket</HE_Albion_Musket.label>
+  <HE_Albion_Musket.description>A smoothbore flintlock: slow to load, loud, inaccurate past fifty paces and terrifying in a volley.
+
+Requires 20 Albion knowledge unless this is your heritage.</HE_Albion_Musket.description>
+  <HE_Albion_Redcoat.label>redcoat uniform</HE_Albion_Redcoat.label>
+  <HE_Albion_Redcoat.description>A red wool coat with white facings and a tall shako. A line of them is seen from a mile away, and meant to be.
+
+Requires 15 Albion knowledge unless this is your heritage.</HE_Albion_Redcoat.description>
+  <HE_Albion_SteamEngine.label>steam engine</HE_Albion_SteamEngine.label>
+  <HE_Albion_SteamEngine.description>Boil water with wood, push a piston with the steam and turn a dynamo with the piston.
+
+Requires 25 Albion knowledge unless this is your heritage.</HE_Albion_SteamEngine.description>
+  <HE_Albion_Rifle.label>rifled musket</HE_Albion_Rifle.label>
+  <HE_Albion_Rifle.description>Cut spiral grooves into the barrel and fix a bayonet: longer range, better aim and a spear at the end.
+
+Requires 35 Albion knowledge unless this is your heritage.</HE_Albion_Rifle.description>
+  <HE_Albion_Drill.label>drill sergeant</HE_Albion_Drill.label>
+  <HE_Albion_Drill.description>Load, present, fire. Again. Again. Until it is done without thinking.
+
+Tradition: Colonists gain +2 shooting accuracy.
+
+Requires 35 Albion knowledge unless this is your heritage.</HE_Albion_Drill.description>
+  <HE_Albion_SteamPower.label>steam power</HE_Albion_SteamPower.label>
+  <HE_Albion_SteamPower.description>Belts and shafts carry the engine's power to every bench. Less waste, more work.
+
+Tradition: Your work tables use 5% fewer resources.
+
+Requires 40 Albion knowledge unless this is your heritage.</HE_Albion_SteamPower.description>
+  <HE_Albion_FactoryOrder.label>factory order</HE_Albion_FactoryOrder.label>
+  <HE_Albion_FactoryOrder.description>The whistle at dawn, the shift, the quota. Benches never stand idle, and neither do the workers.
+
+Tradition: Your work tables work 12% faster, but colonists' mental break threshold rises by 2%.
+
+Requires 45 Albion knowledge unless this is your heritage.</HE_Albion_FactoryOrder.description>
+  <HE_Albion_Workshop.label>workshop of the world</HE_Albion_Workshop.label>
+  <HE_Albion_Workshop.description>The engines of Albion turn day and night, and the whole colony keeps time with them.
+
+Tradition: Colonists work 4% faster and gain +1 shooting accuracy.
+
+Requires 50 Albion knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Albion_Workshop.description>
+  <HE_Albion_TextileMill.label>textile mill</HE_Albion_TextileMill.label>
+  <HE_Albion_TextileMill.description>A steam-driven power loom that weaves a bale of wool into tweed faster than ten hand weavers.
+
+Requires 40 Albion knowledge unless this is your heritage.</HE_Albion_TextileMill.description>
+  <HE_Albion_FieldCannon.label>field cannon</HE_Albion_FieldCannon.label>
+  <HE_Albion_FieldCannon.description>Drilled gun crews and cast bronze barrels: the artillery that won the empire's battles.
+
+Requires 40 Albion knowledge unless this is your heritage.</HE_Albion_FieldCannon.description>
+  <HE_Albion_SteamArmy.label>Albion steam army</HE_Albion_SteamArmy.label>
+  <HE_Albion_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Albion raised when the factories came.
+
+Outside your heritage, this can be researched only once Albion has reached the Age of Steam.
+
+Requires 45 Albion knowledge unless this is your heritage.</HE_Albion_SteamArmy.description>
+</LanguageData>

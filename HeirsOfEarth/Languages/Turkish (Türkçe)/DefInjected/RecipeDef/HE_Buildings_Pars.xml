@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_WeaveCarpet.label>Pars halısı doku</HE_Pars_WeaveCarpet.label>
+  <HE_Pars_WeaveCarpet.description>60 kumaş ya da yünü düğümleyerek bir Pars halısı doku.</HE_Pars_WeaveCarpet.description>
+  <HE_Pars_WeaveCarpet.jobString>Halı dokuyor.</HE_Pars_WeaveCarpet.jobString>
+</LanguageData>

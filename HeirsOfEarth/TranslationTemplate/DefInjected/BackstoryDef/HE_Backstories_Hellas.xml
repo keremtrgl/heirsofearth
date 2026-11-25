@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_BS_Hoplite.title>citizen hoplite</HE_Hellas_BS_Hoplite.title>
+  <HE_Hellas_BS_Hoplite.titleShort>hoplite</HE_Hellas_BS_Hoplite.titleShort>
+  <HE_Hellas_BS_Hoplite.description>Like every free citizen, [PAWN_nameDef] bought [PAWN_possessive] own shield and spear and took [PAWN_possessive] place in the line when the city called. Between wars [PAWN_pronoun] worked a small farm of olives and barley.</HE_Hellas_BS_Hoplite.description>
+  <HE_Hellas_BS_Physician.title>Asklepian physician</HE_Hellas_BS_Physician.title>
+  <HE_Hellas_BS_Physician.titleShort>physician</HE_Hellas_BS_Physician.titleShort>
+  <HE_Hellas_BS_Physician.description>[PAWN_nameDef] trained at a temple of healing, where the sick slept in quiet halls and the physicians wrote down every symptom. [PAWN_pronoun] swore to do no harm and has kept the oath.</HE_Hellas_BS_Physician.description>
+  <HE_Hellas_BS_Philosopher.title>wandering philosopher</HE_Hellas_BS_Philosopher.title>
+  <HE_Hellas_BS_Philosopher.titleShort>philosopher</HE_Hellas_BS_Philosopher.titleShort>
+  <HE_Hellas_BS_Philosopher.description>[PAWN_nameDef] walked from city to city asking awkward questions in the market. Some paid to listen, some paid [PAWN_objective] to leave. [PAWN_pronoun] still believes no question should go unasked.</HE_Hellas_BS_Philosopher.description>
+  <HE_Hellas_BS_Sculptor.title>temple sculptor</HE_Hellas_BS_Sculptor.title>
+  <HE_Hellas_BS_Sculptor.titleShort>sculptor</HE_Hellas_BS_Sculptor.titleShort>
+  <HE_Hellas_BS_Sculptor.description>[PAWN_nameDef] spent years in the marble yards beside a great temple, carving gods and athletes so lifelike that visitors spoke to them.</HE_Hellas_BS_Sculptor.description>
+  <HE_Hellas_BS_Athlete.title>games champion</HE_Hellas_BS_Athlete.title>
+  <HE_Hellas_BS_Athlete.titleShort>champion</HE_Hellas_BS_Athlete.titleShort>
+  <HE_Hellas_BS_Athlete.description>[PAWN_nameDef] won the long race at the games and was given an olive wreath, a statue and free meals for life. [PAWN_pronoun] still trains every morning before dawn.</HE_Hellas_BS_Athlete.description>
+  <HE_Hellas_BS_Orator.title>assembly orator</HE_Hellas_BS_Orator.title>
+  <HE_Hellas_BS_Orator.titleShort>orator</HE_Hellas_BS_Orator.titleShort>
+  <HE_Hellas_BS_Orator.description>In the assembly [PAWN_nameDef] could turn a vote with a single speech. [PAWN_pronoun] has argued for war, for peace and, once, for both in the same afternoon.</HE_Hellas_BS_Orator.description>
+  <HE_Hellas_BS_Strategos.title>elected general</HE_Hellas_BS_Strategos.title>
+  <HE_Hellas_BS_Strategos.titleShort>general</HE_Hellas_BS_Strategos.titleShort>
+  <HE_Hellas_BS_Strategos.description>Three times the citizens elected [PAWN_nameDef] as their general. [PAWN_pronoun] led the phalanx from the front rank and never asked anyone to stand where [PAWN_pronoun] would not.</HE_Hellas_BS_Strategos.description>
+  <HE_Hellas_BS_Merchant.title>olive merchant</HE_Hellas_BS_Merchant.title>
+  <HE_Hellas_BS_Merchant.titleShort>merchant</HE_Hellas_BS_Merchant.titleShort>
+  <HE_Hellas_BS_Merchant.description>[PAWN_nameDef] shipped oil and wine from island to island, knew every harbour master by name and never paid a full harbour fee in [PAWN_possessive] life.</HE_Hellas_BS_Merchant.description>
+  <HE_Hellas_BS_Gymnasium.title>gymnasium pupil</HE_Hellas_BS_Gymnasium.title>
+  <HE_Hellas_BS_Gymnasium.titleShort>pupil</HE_Hellas_BS_Gymnasium.titleShort>
+  <HE_Hellas_BS_Gymnasium.description>[PAWN_nameDef] spent [PAWN_possessive] mornings wrestling and running, and [PAWN_possessive] afternoons reciting poems to a strict old teacher.</HE_Hellas_BS_Gymnasium.description>
+  <HE_Hellas_BS_OliveGrove.title>olive grove child</HE_Hellas_BS_OliveGrove.title>
+  <HE_Hellas_BS_OliveGrove.titleShort>farm child</HE_Hellas_BS_OliveGrove.titleShort>
+  <HE_Hellas_BS_OliveGrove.description>[PAWN_nameDef] grew up beating olives from the branches each autumn and treading grapes each summer on a hillside farm.</HE_Hellas_BS_OliveGrove.description>
+  <HE_Hellas_BS_HarbourChild.title>harbour child</HE_Hellas_BS_HarbourChild.title>
+  <HE_Hellas_BS_HarbourChild.titleShort>harbour child</HE_Hellas_BS_HarbourChild.titleShort>
+  <HE_Hellas_BS_HarbourChild.description>[PAWN_nameDef] ran errands on the busy quays of a port city, learning to haggle in three dialects before [PAWN_pronoun] could write.</HE_Hellas_BS_HarbourChild.description>
+  <HE_Hellas_BS_TempleChild.title>temple servant</HE_Hellas_BS_TempleChild.title>
+  <HE_Hellas_BS_TempleChild.titleShort>temple servant</HE_Hellas_BS_TempleChild.titleShort>
+  <HE_Hellas_BS_TempleChild.description>[PAWN_nameDef] grew up sweeping a temple of healing, carrying water for the sick and listening to the physicians argue about cures.</HE_Hellas_BS_TempleChild.description>
+</LanguageData>

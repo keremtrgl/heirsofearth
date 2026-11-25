@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>HE_Names_Inti_Male</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=3)-&gt;[first] [last]</li>
+        <li>r_name-&gt;[first] '[nick]' [last]</li>
+        <li>nick-&gt;Condor</li>
+        <li>nick-&gt;the Counter</li>
+        <li>nick-&gt;Stone-Hand</li>
+        <li>nick-&gt;Swift</li>
+        <li>nick-&gt;Llama-Herder</li>
+        <li>nick-&gt;the Knot</li>
+        <li>nick-&gt;Hail</li>
+        <li>nick-&gt;Old Mountain</li>
+        <li>first-&gt;Amaru</li>
+        <li>first-&gt;Atoq</li>
+        <li>first-&gt;Huaman</li>
+        <li>first-&gt;Illapa</li>
+        <li>first-&gt;Kusi</li>
+        <li>first-&gt;Mayta</li>
+        <li>first-&gt;Pawqar</li>
+        <li>first-&gt;Qhawa</li>
+        <li>first-&gt;Rimachi</li>
+        <li>first-&gt;Sinchi</li>
+        <li>first-&gt;Tupaq</li>
+        <li>first-&gt;Waman</li>
+        <li>first-&gt;Yupanki</li>
+        <li>first-&gt;Kuntur</li>
+        <li>first-&gt;Achachi</li>
+        <li>first-&gt;Paullu</li>
+        <li>first-&gt;Anqa</li>
+        <li>first-&gt;Apu</li>
+        <li>first-&gt;Ataw</li>
+        <li>first-&gt;Awki</li>
+        <li>first-&gt;Chalcuchima</li>
+        <li>first-&gt;Chimpu</li>
+        <li>first-&gt;Chuqui</li>
+        <li>first-&gt;Hatun</li>
+        <li>first-&gt;Inka</li>
+        <li>first-&gt;Kamaq</li>
+        <li>first-&gt;Kallpa</li>
+        <li>first-&gt;Kusi-Yupanki</li>
+        <li>first-&gt;Lluqi</li>
+        <li>first-&gt;Manku</li>
+        <li>first-&gt;Michi</li>
+        <li>first-&gt;Nina</li>
+        <li>first-&gt;Ollanta</li>
+        <li>first-&gt;Pachakuti</li>
+        <li>first-&gt;Puma</li>
+        <li>first-&gt;Qhispi-Tupaq</li>
+        <li>first-&gt;Quilla</li>
+        <li>first-&gt;Rumi</li>
+        <li>first-&gt;Rumiñawi</li>
+        <li>first-&gt;Saqsa</li>
+        <li>first-&gt;Sayri</li>
+        <li>first-&gt;Sunqu</li>
+        <li>first-&gt;Tamya</li>
+        <li>first-&gt;Titu</li>
+        <li>first-&gt;Tupaq-Amaru</li>
+        <li>first-&gt;Unu</li>
+        <li>first-&gt;Uturunqu</li>
+        <li>first-&gt;Wallpa</li>
+        <li>first-&gt;Wamanchu</li>
+        <li>first-&gt;Wari</li>
+        <li>first-&gt;Waskar</li>
+        <li>first-&gt;Wayna</li>
+        <li>first-&gt;Wiraqucha</li>
+        <li>first-&gt;Yawar</li>
+        <li>first-&gt;Yuraq</li>
+        <li>first-&gt;Zapana</li>
+        <li>first-&gt;Anka</li>
+        <li>first-&gt;Atiq</li>
+        <li>first-&gt;Auki</li>
+        <li>first-&gt;Awqa</li>
+        <li>first-&gt;Chaska</li>
+        <li>first-&gt;Chiqllu</li>
+        <li>first-&gt;Hanan</li>
+        <li>first-&gt;Kachi</li>
+        <li>first-&gt;Kanchi</li>
+        <li>first-&gt;Kapac</li>
+        <li>first-&gt;Mallku</li>
+        <li>first-&gt;Muyu</li>
+        <li>first-&gt;Ninan</li>
+        <li>first-&gt;Paqari</li>
+        <li>first-&gt;Qhapaq</li>
+        <li>first-&gt;Qispi</li>
+        <li>first-&gt;Quri</li>
+        <li>first-&gt;Rimaq</li>
+        <li>first-&gt;Runa</li>
+        <li>first-&gt;Sami</li>
+        <li>first-&gt;Tanta</li>
+        <li>first-&gt;Tika</li>
+        <li>first-&gt;Uchu</li>
+        <li>first-&gt;Ukumari</li>
+        <li>first-&gt;Unqu</li>
+        <li>first-&gt;Urqu</li>
+        <li>first-&gt;Uturunku</li>
+        <li>first-&gt;Wakcha</li>
+        <li>first-&gt;Wamani</li>
+        <li>first-&gt;Wanka</li>
+        <li>first-&gt;Wayra</li>
+        <li>first-&gt;Willka</li>
+        <li>last-&gt;of Qusqu</li>
+        <li>last-&gt;of the Lake</li>
+        <li>last-&gt;Pumacahua</li>
+        <li>last-&gt;Kispe</li>
+        <li>last-&gt;Mamani</li>
+        <li>last-&gt;Kunturi</li>
+        <li>last-&gt;Quispe</li>
+        <li>last-&gt;Huallpa</li>
+        <li>last-&gt;Apu-Rimaq</li>
+        <li>last-&gt;Inka-Roka</li>
+        <li>last-&gt;Paukar</li>
+        <li>last-&gt;Ayar</li>
+        <li>last-&gt;Qispe</li>
+        <li>last-&gt;Kuri</li>
+        <li>last-&gt;of Saqsaywaman</li>
+        <li>last-&gt;of Willkapampa</li>
+        <li>last-&gt;of Machu Pikchu</li>
+        <li>last-&gt;of Titiqaqa</li>
+        <li>last-&gt;of Pisaq</li>
+        <li>last-&gt;of Ollantaytampu</li>
+        <li>last-&gt;of Kashamarka</li>
+        <li>last-&gt;of Chan Chan</li>
+        <li>last-&gt;of Kitu</li>
+        <li>last-&gt;of Arequipa</li>
+        <li>last-&gt;of Hatun Xauxa</li>
+        <li>last-&gt;of Tumipampa</li>
+        <li>last-&gt;of Wanuku</li>
+        <li>last-&gt;of the Sun Gate</li>
+        <li>last-&gt;of the Salt Pans</li>
+        <li>last-&gt;of the High Puna</li>
+        <li>last-&gt;of the Cloud Forest</li>
+        <li>last-&gt;of the Rope Bridge</li>
+        <li>last-&gt;of Pachakamaq</li>
+        <li>last-&gt;of Limaq</li>
+        <li>last-&gt;of Qullasuyu</li>
+        <li>last-&gt;of Chinchaysuyu</li>
+        <li>last-&gt;of Antisuyu</li>
+        <li>last-&gt;of Kuntisuyu</li>
+        <li>last-&gt;of Wanakawri</li>
+        <li>last-&gt;of the Terraces</li>
+        <li>last-&gt;of the Quipu House</li>
+        <li>last-&gt;of the Long Road</li>
+        <li>last-&gt;Allqa</li>
+        <li>last-&gt;Antawaylla</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_Names_Inti_Female</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=3)-&gt;[first] [last]</li>
+        <li>r_name-&gt;[first] '[nick]' [last]</li>
+        <li>nick-&gt;Condor</li>
+        <li>nick-&gt;the Counter</li>
+        <li>nick-&gt;Stone-Hand</li>
+        <li>nick-&gt;Swift</li>
+        <li>nick-&gt;Llama-Herder</li>
+        <li>nick-&gt;the Knot</li>
+        <li>nick-&gt;Hail</li>
+        <li>nick-&gt;Old Mountain</li>
+        <li>first-&gt;Chaska</li>
+        <li>first-&gt;Kusikuyllur</li>
+        <li>first-&gt;Mama-Ocllo</li>
+        <li>first-&gt;Nina</li>
+        <li>first-&gt;Ñusta</li>
+        <li>first-&gt;Pacha</li>
+        <li>first-&gt;Qori</li>
+        <li>first-&gt;Sisa</li>
+        <li>first-&gt;Tika</li>
+        <li>first-&gt;Urpi</li>
+        <li>first-&gt;Wayta</li>
+        <li>first-&gt;Killa</li>
+        <li>first-&gt;Rawa</li>
+        <li>first-&gt;Paqari</li>
+        <li>first-&gt;Qhispi</li>
+        <li>first-&gt;Inkill</li>
+        <li>first-&gt;Akllay</li>
+        <li>first-&gt;Amankay</li>
+        <li>first-&gt;Anka</li>
+        <li>first-&gt;Chaska-Kuyllur</li>
+        <li>first-&gt;Chuspi</li>
+        <li>first-&gt;Illari</li>
+        <li>first-&gt;Inkasisa</li>
+        <li>first-&gt;Inti-Killa</li>
+        <li>first-&gt;Kantu</li>
+        <li>first-&gt;Killari</li>
+        <li>first-&gt;Kusi</li>
+        <li>first-&gt;Kuyllur</li>
+        <li>first-&gt;Mama-Waku</li>
+        <li>first-&gt;Mayu</li>
+        <li>first-&gt;Micay</li>
+        <li>first-&gt;Nayra</li>
+        <li>first-&gt;Nina-Killa</li>
+        <li>first-&gt;Pachamama</li>
+        <li>first-&gt;Phuyu</li>
+        <li>first-&gt;Qhora</li>
+        <li>first-&gt;Qillari</li>
+        <li>first-&gt;Qoya</li>
+        <li>first-&gt;Rayku</li>
+        <li>first-&gt;Rimaq</li>
+        <li>first-&gt;Sami</li>
+        <li>first-&gt;Sumaq</li>
+        <li>first-&gt;Suyana</li>
+        <li>first-&gt;Tamya</li>
+        <li>first-&gt;Tanta</li>
+        <li>first-&gt;Tika-Sisa</li>
+        <li>first-&gt;Tupa</li>
+        <li>first-&gt;Urpicha</li>
+        <li>first-&gt;Waqar</li>
+        <li>first-&gt;Wayra</li>
+        <li>first-&gt;Yaku</li>
+        <li>first-&gt;Yana</li>
+        <li>first-&gt;Yuraq-Sisa</li>
+        <li>first-&gt;Achiq</li>
+        <li>first-&gt;Kallpa-Sisa</li>
+        <li>first-&gt;Sisa-Wayta</li>
+        <li>first-&gt;Akllawasi</li>
+        <li>first-&gt;Allpa</li>
+        <li>first-&gt;Amanqay</li>
+        <li>first-&gt;Ankawa</li>
+        <li>first-&gt;Asiri</li>
+        <li>first-&gt;Chaska-Wayta</li>
+        <li>first-&gt;Chuqi</li>
+        <li>first-&gt;Chaskay</li>
+        <li>first-&gt;Kispi</li>
+        <li>first-&gt;Kurmi</li>
+        <li>first-&gt;Lliklla</li>
+        <li>first-&gt;Mamakuna</li>
+        <li>first-&gt;Mikay</li>
+        <li>first-&gt;Munay</li>
+        <li>first-&gt;Ninakuyllur</li>
+        <li>first-&gt;Paqarina</li>
+        <li>first-&gt;Pillpintu</li>
+        <li>first-&gt;Qanchis</li>
+        <li>first-&gt;Qantu</li>
+        <li>first-&gt;Quri-Ocllo</li>
+        <li>first-&gt;Qurikuyllur</li>
+        <li>first-&gt;Rimay</li>
+        <li>first-&gt;Sami-Killa</li>
+        <li>first-&gt;Sasa</li>
+        <li>first-&gt;Sayaq</li>
+        <li>first-&gt;Suyay</li>
+        <li>first-&gt;Tamyawayta</li>
+        <li>first-&gt;Tanqa</li>
+        <li>first-&gt;Taki</li>
+        <li>first-&gt;Ukyay</li>
+        <li>first-&gt;Usqhay</li>
+        <li>first-&gt;Wayllu</li>
+        <li>first-&gt;Wiñay</li>
+        <li>first-&gt;Yakumama</li>
+        <li>first-&gt;Yuraq</li>
+        <li>first-&gt;Qillqa</li>
+        <li>last-&gt;of Qusqu</li>
+        <li>last-&gt;of the Lake</li>
+        <li>last-&gt;Pumacahua</li>
+        <li>last-&gt;Kispe</li>
+        <li>last-&gt;Mamani</li>
+        <li>last-&gt;Kunturi</li>
+        <li>last-&gt;Quispe</li>
+        <li>last-&gt;Huallpa</li>
+        <li>last-&gt;Apu-Rimaq</li>
+        <li>last-&gt;Inka-Roka</li>
+        <li>last-&gt;Paukar</li>
+        <li>last-&gt;Ayar</li>
+        <li>last-&gt;Qispe</li>
+        <li>last-&gt;Kuri</li>
+        <li>last-&gt;of Saqsaywaman</li>
+        <li>last-&gt;of Willkapampa</li>
+        <li>last-&gt;of Machu Pikchu</li>
+        <li>last-&gt;of Titiqaqa</li>
+        <li>last-&gt;of Pisaq</li>
+        <li>last-&gt;of Ollantaytampu</li>
+        <li>last-&gt;of Kashamarka</li>
+        <li>last-&gt;of Chan Chan</li>
+        <li>last-&gt;of Kitu</li>
+        <li>last-&gt;of Arequipa</li>
+        <li>last-&gt;of Hatun Xauxa</li>
+        <li>last-&gt;of Tumipampa</li>
+        <li>last-&gt;of Wanuku</li>
+        <li>last-&gt;of the Sun Gate</li>
+        <li>last-&gt;of the Salt Pans</li>
+        <li>last-&gt;of the High Puna</li>
+        <li>last-&gt;of the Cloud Forest</li>
+        <li>last-&gt;of the Rope Bridge</li>
+        <li>last-&gt;of Pachakamaq</li>
+        <li>last-&gt;of Limaq</li>
+        <li>last-&gt;of Qullasuyu</li>
+        <li>last-&gt;of Chinchaysuyu</li>
+        <li>last-&gt;of Antisuyu</li>
+        <li>last-&gt;of Kuntisuyu</li>
+        <li>last-&gt;of Wanakawri</li>
+        <li>last-&gt;of the Terraces</li>
+        <li>last-&gt;of the Quipu House</li>
+        <li>last-&gt;of the Long Road</li>
+        <li>last-&gt;Allqa</li>
+        <li>last-&gt;Antawaylla</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_Names_Inti_Settlement</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name-&gt;Qusqu</li>
+        <li>r_name-&gt;Hatun Qulla</li>
+        <li>r_name-&gt;Tumipampa</li>
+        <li>r_name-&gt;Wanuku</li>
+        <li>r_name-&gt;Pumapunku</li>
+        <li>r_name-&gt;Qhapaq Marka</li>
+        <li>r_name-&gt;Willka</li>
+        <li>r_name(p=2)-&gt;[ta][tb]</li>
+        <li>ta-&gt;Hatun </li>
+        <li>ta-&gt;Qhapaq </li>
+        <li>ta-&gt;Inti </li>
+        <li>ta-&gt;Killa </li>
+        <li>ta-&gt;Puma </li>
+        <li>ta-&gt;Kuntur </li>
+        <li>ta-&gt;Urqu </li>
+        <li>tb-&gt;marka</li>
+        <li>tb-&gt;pampa</li>
+        <li>tb-&gt;wasi</li>
+        <li>tb-&gt;qucha</li>
+        <li>tb-&gt;llaqta</li>
+        <li>tb-&gt;urqu</li>
+        <li>tb-&gt;wayllay</li>
+        <li>tb-&gt;kancha</li>
+        <li>tb-&gt;pata</li>
+        <li>tb-&gt;rumi</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

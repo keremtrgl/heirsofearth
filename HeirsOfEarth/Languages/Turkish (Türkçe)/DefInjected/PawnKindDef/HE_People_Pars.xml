@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Colonist.label>kolonist</HE_Pars_Colonist.label>
+  <HE_Pars_Sparabara.label>sparabara</HE_Pars_Sparabara.label>
+  <HE_Pars_Sparabara.labelPlural>sparabaralar</HE_Pars_Sparabara.labelPlural>
+  <HE_Pars_Archer.label>Pars okçusu</HE_Pars_Archer.label>
+  <HE_Pars_Immortal.label>ölümsüz</HE_Pars_Immortal.label>
+  <HE_Pars_Immortal.labelPlural>ölümsüzler</HE_Pars_Immortal.labelPlural>
+  <HE_Pars_Dabir.label>dabir</HE_Pars_Dabir.label>
+  <HE_Pars_Dabir.labelPlural>dabirler</HE_Pars_Dabir.labelPlural>
+  <HE_Pars_Asvaran.label>asvaran</HE_Pars_Asvaran.label>
+  <HE_Pars_Asvaran.labelPlural>asvaranlar</HE_Pars_Asvaran.labelPlural>
+  <HE_Pars_Satrap.label>satrap</HE_Pars_Satrap.label>
+  <HE_Pars_Bazaari.label>çarşı tüccarı</HE_Pars_Bazaari.label>
+  <HE_Pars_Bazaari.labelPlural>çarşı tüccarları</HE_Pars_Bazaari.labelPlural>
+</LanguageData>

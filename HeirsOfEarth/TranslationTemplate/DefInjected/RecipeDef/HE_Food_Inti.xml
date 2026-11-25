@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Inti_Pachamanca.label>cook pachamanca</HE_Cook_Inti_Pachamanca.label>
+  <HE_Cook_Inti_Pachamanca.description>Cook pachamanca.</HE_Cook_Inti_Pachamanca.description>
+  <HE_Cook_Inti_Pachamanca.jobString>Cooking pachamanca.</HE_Cook_Inti_Pachamanca.jobString>
+  <HE_Cook_Inti_Locro.label>cook locro</HE_Cook_Inti_Locro.label>
+  <HE_Cook_Inti_Locro.description>Cook locro.</HE_Cook_Inti_Locro.description>
+  <HE_Cook_Inti_Locro.jobString>Cooking locro.</HE_Cook_Inti_Locro.jobString>
+  <HE_Cook_Inti_Humita.label>cook humitas</HE_Cook_Inti_Humita.label>
+  <HE_Cook_Inti_Humita.description>Cook humitas.</HE_Cook_Inti_Humita.description>
+  <HE_Cook_Inti_Humita.jobString>Cooking humitas.</HE_Cook_Inti_Humita.jobString>
+</LanguageData>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Chain_Roma.label>Kayıp Kartal</HE_Chain_Roma.label>
+  <HE_Chain_Roma.description>Dokuzuncu Lejyon'un kartalı kuşaklar önce kuzeyde kayboldu. Onu bul ve kimin şanına hizmet edeceğine karar ver.</HE_Chain_Roma.description>
+  <HE_Chain_Roma.startText>Ölmek üzere olan bir kıdemli asker, bir kalkanın üzerine kazınmış haritayla kolonine ulaşır. Dokuzuncu Lejyon'un kartalının nerede düştüğünü bildiğine yemin eder. Senato onun için çok para öder; düşmanları da öyle.</HE_Chain_Roma.startText>
+  <HE_Chain_Roma.endText>Kayıp kartalın hikâyesi Nova Roma'nın her forumunda anlatılıyor ve koloninin adı da bu hikâyenin bir parçası.</HE_Chain_Roma.endText>
+  <HE_Chain_Roma.steps.0.label>Bir sefer donat</HE_Chain_Roma.steps.0.label>
+  <HE_Chain_Roma.steps.0.text>Kuzeye bir sefer demir ve iyi kılıçlar ister. 200 çelik ve 4 gladius topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Roma.steps.0.text>
+  <HE_Chain_Roma.steps.0.doneText>Demirciler işini yaptı. Şimdi seferin altında yürüyeceği bir sancak gerekiyor.</HE_Chain_Roma.steps.0.doneText>
+  <HE_Chain_Roma.steps.1.label>Bir sancak dik</HE_Chain_Roma.steps.1.label>
+  <HE_Chain_Roma.steps.1.text>Hiçbir lejyon sancağı olmadan yürümez. Kolonine bir lejyon sancağı inşa et.</HE_Chain_Roma.steps.1.text>
+  <HE_Chain_Roma.steps.1.doneText>Sancak dalgalanıyor ve seferinin haberi yayılıyor. Herkes bundan hoşnut değil.</HE_Chain_Roma.steps.1.doneText>
+  <HE_Chain_Roma.steps.2.label>Koloniyi savun</HE_Chain_Roma.steps.2.label>
+  <HE_Chain_Roma.steps.2.text>Kuzey klanları kartalın gömülü kalmasını yeğler. Bir gün içinde bir saldırı bekle ve onu püskürt.</HE_Chain_Roma.steps.2.text>
+  <HE_Chain_Roma.steps.2.doneText>Saldırganlar yenildi. Ölülerinin arasında yıkık bir kalenin çizimini buluyorsun: kartal orada.</HE_Chain_Roma.steps.2.doneText>
+  <HE_Chain_Roma.steps.3.label>Yıkık kale</HE_Chain_Roma.steps.3.label>
+  <HE_Chain_Roma.steps.3.text>Dünya haritasında işaretli yıkık kaleye bir kervan gönder, muhafızlarını yen ve kararmış kartalı eve getir.</HE_Chain_Roma.steps.3.text>
+  <HE_Chain_Roma.steps.3.doneText>Kartal artık senin elinde. Kırık, kararmış ve yine de koloninin sahip olduğu en değerli şey.</HE_Chain_Roma.steps.3.doneText>
+  <HE_Chain_Roma.steps.4.label>Kartalın kaderi</HE_Chain_Roma.steps.4.label>
+  <HE_Chain_Roma.steps.4.text>Senatonun habercileri kartalın ait olduğu başkente geri verilmesini istiyor. Kolonistlerin ise onu onarıp burada, kendi sancağının altında tutmayı yeğliyor.</HE_Chain_Roma.steps.4.text>
+  <HE_Chain_Roma.steps.4.options.0.label>Senatoya geri ver</HE_Chain_Roma.steps.4.options.0.label>
+  <HE_Chain_Roma.steps.4.options.0.text>Senato koloniyi onurlandırır ve arşivlerini sana açar.</HE_Chain_Roma.steps.4.options.0.text>
+  <HE_Chain_Roma.steps.4.options.1.label>Onar ve sakla</HE_Chain_Roma.steps.4.options.1.label>
+  <HE_Chain_Roma.steps.4.options.1.text>Demircilerin kartalı yeni bir sancak üzerinde onarır. Senato bunu unutmayacak.</HE_Chain_Roma.steps.4.options.1.text>
+  <HE_Chain_Yamato.label>Kırık Hanedan</HE_Chain_Yamato.label>
+  <HE_Chain_Yamato.description>Yamato'nun imparatorluk soyu bir ateş gecesinde sona erdi. Kutsal bir ayna ve bir kılıç kurtuldu. Onları bul ve kimin yöneteceğine karar ver.</HE_Chain_Yamato.description>
+  <HE_Chain_Yamato.startText>Gezgin bir keşiş bir haberle gelir: eski imparatorların hükümranlık eşyaları, hiçbir efendiye hizmet etmeyen adamların koruduğu bir dağ tapınağında saklı. Klanlar, onları bulanın bir sonraki imparatoru seçeceğini fısıldıyor.</HE_Chain_Yamato.startText>
+  <HE_Chain_Yamato.endText>Ne seçmiş olursan ol, Yamato klanları artık kolonin hakkında saygıyla ve biraz da korkuyla konuşuyor.</HE_Chain_Yamato.endText>
+  <HE_Chain_Yamato.steps.0.label>Tapınak için armağanlar</HE_Chain_Yamato.steps.0.label>
+  <HE_Chain_Yamato.steps.0.text>Bir hacı eli boş gelmez. Tapınak bekçileri için 30 kaliteli yemek ve 100 kumaş topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Yamato.steps.0.text>
+  <HE_Chain_Yamato.steps.0.doneText>Bekçiler armağanlarını kabul eder ve sana daha fazlasını anlatır: tapınağın muhafızlarıyla ancak kendi demircilerinin katladığı bir kılıçla yüzleşilebilir.</HE_Chain_Yamato.steps.0.doneText>
+  <HE_Chain_Yamato.steps.1.label>Çeliği katla</HE_Chain_Yamato.steps.1.label>
+  <HE_Chain_Yamato.steps.1.text>Demircilerinin bu işe layık kılıçlar yapabilmesi için katlanmış dövme geleneğini öğren.</HE_Chain_Yamato.steps.1.text>
+  <HE_Chain_Yamato.steps.1.doneText>Demircilerin katlama sanatında ustalaştı. Bunu duyan bir meydan okuyucu geliyor.</HE_Chain_Yamato.steps.1.doneText>
+  <HE_Chain_Yamato.steps.2.label>Meydan okuyan</HE_Chain_Yamato.steps.2.label>
+  <HE_Chain_Yamato.steps.2.text>Ünlü bir kılıç ustasının önderlik ettiği bir ronin çetesi kolonini sınamak istiyor. Onları yen.</HE_Chain_Yamato.steps.2.text>
+  <HE_Chain_Yamato.steps.2.doneText>Meydan okuyan düşer. Ölmeden önce sana dağ tapınağının yolunu söyler.</HE_Chain_Yamato.steps.2.doneText>
+  <HE_Chain_Yamato.steps.3.label>Dağ tapınağı</HE_Chain_Yamato.steps.3.label>
+  <HE_Chain_Yamato.steps.3.text>Dünya haritasında işaretli dağ tapınağına bir kervan gönder, muhafızlarını yen ve kutsal aynayı eve getir.</HE_Chain_Yamato.steps.3.text>
+  <HE_Chain_Yamato.steps.3.doneText>Ayna artık senin; altında, eski ipeğe sarılı olarak ilk şogunun Gök Kılıcı yatıyor.</HE_Chain_Yamato.steps.3.doneText>
+  <HE_Chain_Yamato.steps.4.label>Kim yönetecek?</HE_Chain_Yamato.steps.4.label>
+  <HE_Chain_Yamato.steps.4.text>Klanlar senin sözünü bekliyor. Aynayı ve kılıcı keşişlerin sakladığı genç varise verebilir ya da kılıcı kendi hanen için saklayabilirsin.</HE_Chain_Yamato.steps.4.text>
+  <HE_Chain_Yamato.steps.4.options.0.label>Varisi tahta çıkar</HE_Chain_Yamato.steps.4.options.0.label>
+  <HE_Chain_Yamato.steps.4.options.0.text>Varis taç giyer. Şogunluk minnettardır ve âlimlerinin sırlarını seninle paylaşır.</HE_Chain_Yamato.steps.4.options.0.text>
+  <HE_Chain_Yamato.steps.4.options.1.label>Kılıcı al</HE_Chain_Yamato.steps.4.options.1.label>
+  <HE_Chain_Yamato.steps.4.options.1.text>Aynayı geri verirsin ama Gök Kılıcı'nı saklarsın. Klanlar buna hırsızlık der; kolonistlerin ise kader.</HE_Chain_Yamato.steps.4.options.1.text>
+  <HE_Chain_Nord.label>Kış Ayini</HE_Chain_Nord.label>
+  <HE_Chain_Nord.description>Her yüz kışta bir, Nordheim jarlları ilk krallarının buz höyüğünü açmak zorundadır. Bu kış ayin sana düşüyor.</HE_Chain_Nord.description>
+  <HE_Chain_Nord.startText>Bir skald karın içinden gelir: yaşlı jarl öldü ve yenisi seçilmeden önce kış ayini yapılmalı. Nordheim halkı, kolonine şöleni hazırlamasını ve höyüğü açmasını rica ediyor.</HE_Chain_Nord.startText>
+  <HE_Chain_Nord.endText>Ayin tamamlandı. Skaldlar, höyüğün yeniden açılması gereken yüz kış boyunca onu şarkılarında anlatacak.</HE_Chain_Nord.endText>
+  <HE_Chain_Nord.steps.0.label>Kış şöleni</HE_Chain_Nord.steps.0.label>
+  <HE_Chain_Nord.steps.0.text>Ayin bir şölenle başlar. 60 pemmikan ve 80 düz deri topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Nord.steps.0.text>
+  <HE_Chain_Nord.steps.0.doneText>Şölen hazır. Şimdi ölülerin anılacağı bir taş gerekiyor.</HE_Chain_Nord.steps.0.doneText>
+  <HE_Chain_Nord.steps.1.label>Taşı oy</HE_Chain_Nord.steps.1.label>
+  <HE_Chain_Nord.steps.1.text>Ölü kralı onurlandırmak için kolonine bir run taşı inşa et.</HE_Chain_Nord.steps.1.text>
+  <HE_Chain_Nord.steps.1.doneText>Runlar kazındı. O gece rüzgâr döner ve soğuk dağlardan iner.</HE_Chain_Nord.steps.1.doneText>
+  <HE_Chain_Nord.steps.2.label>Uzun geceyi atlat</HE_Chain_Nord.steps.2.label>
+  <HE_Chain_Nord.steps.2.text>Bir soğuk dalgası toprakları sarar ve Romalı keşifçiler bunu ayin bitmeden saldırmak için kullanır. Soğuğa dayan ve saldırıyı püskürt.</HE_Chain_Nord.steps.2.text>
+  <HE_Chain_Nord.steps.2.doneText>Uzun gece sona erdi. Buz höyüğünün yolu açık.</HE_Chain_Nord.steps.2.doneText>
+  <HE_Chain_Nord.steps.3.label>Buz höyüğü</HE_Chain_Nord.steps.3.label>
+  <HE_Chain_Nord.steps.3.text>Dünya haritasında işaretli buz höyüğüne bir kervan gönder, mezar soyguncularını yen ve höyük boynuzunu eve getir.</HE_Chain_Nord.steps.3.text>
+  <HE_Chain_Nord.steps.3.doneText>Boynuz artık senin. Onu tuttuğunda kırağı parmaklarına yayılıyor.</HE_Chain_Nord.steps.3.doneText>
+  <HE_Chain_Nord.steps.4.label>Boynuzun sesi</HE_Chain_Nord.steps.4.label>
+  <HE_Chain_Nord.steps.4.text>Yeni jarl, ayinin gerektirdiği gibi boynuzu istiyor. Kolonistlerin ise onu kendileri üfleyip gücünü uyandırmak istiyor.</HE_Chain_Nord.steps.4.text>
+  <HE_Chain_Nord.steps.4.options.0.label>Jarla ver</HE_Chain_Nord.steps.4.options.0.label>
+  <HE_Chain_Nord.steps.4.options.0.text>Jarl boynuzu alır ve kolonini Nordheim'ın dostu ilan eder.</HE_Chain_Nord.steps.4.options.0.text>
+  <HE_Chain_Nord.steps.4.options.1.label>Hemen üfle</HE_Chain_Nord.steps.4.options.1.label>
+  <HE_Chain_Nord.steps.4.options.1.text>Boynuza gök gürültüsü cevap verir. Artık senin; jarl bunu unutmayacak.</HE_Chain_Nord.steps.4.options.1.text>
+  <HE_Chain_Hellas.label>Kayıp Kütüphane</HE_Chain_Hellas.label>
+  <HE_Chain_Hellas.description>Argo koloni gemisinin kütüphanesi iki yüzyıl önce bir depremle gömüldü. Onu bul ve kimin okuyabileceğine karar ver.</HE_Chain_Hellas.description>
+  <HE_Chain_Hellas.startText>Birliğin yaşlı bir âlimi bir kadastro haritası ve ateşli bir hastalıkla gelir. Hastalık onu alıp götürmeden önce tek bir şey ister: Argo'nun kayıp kütüphanesinin yeniden açıldığını görmek. Nerede olduğunu bildiğine inanıyor.</HE_Chain_Hellas.startText>
+  <HE_Chain_Hellas.endText>Kayıp kütüphanenin açılışı artık Hellas'ta ünlü bir hikâye ve koloninin adı onun ilk bölümüne yazılı.</HE_Chain_Hellas.endText>
+  <HE_Chain_Hellas.steps.0.label>Âlim için malzeme</HE_Chain_Hellas.steps.0.label>
+  <HE_Chain_Hellas.steps.0.text>Âlimin ateşi için ilaca, kopya için kumaşa ihtiyacı var. 100 kumaş ve 20 şifalı ot topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Hellas.steps.0.text>
+  <HE_Chain_Hellas.steps.0.doneText>Ateş düşer. Âlim haritasını açar: eski kadastro ancak geometri bilen biri tarafından okunabilir.</HE_Chain_Hellas.steps.0.doneText>
+  <HE_Chain_Hellas.steps.1.label>Eski kadastroyu oku</HE_Chain_Hellas.steps.1.label>
+  <HE_Chain_Hellas.steps.1.text>Kolonistlerinin kadastrocunun çizgilerini gömülü şehre kadar izleyebilmesi için geometri geleneğini öğren.</HE_Chain_Hellas.steps.1.text>
+  <HE_Chain_Hellas.steps.1.doneText>Çizgiler tepelerde birleşiyor. Ne yazık ki hazine avcıları kolonini izliyormuş.</HE_Chain_Hellas.steps.1.doneText>
+  <HE_Chain_Hellas.steps.2.label>Hazine avcıları</HE_Chain_Hellas.steps.2.label>
+  <HE_Chain_Hellas.steps.2.text>Bir hazine avcısı çetesi haritayı kendileri için istiyor. Onları püskürt.</HE_Chain_Hellas.steps.2.text>
+  <HE_Chain_Hellas.steps.2.doneText>Hazine avcıları yenildi. Liderlerinin notları bunu doğruluyor: kütüphane yıkık bir tapınağın altında.</HE_Chain_Hellas.steps.2.doneText>
+  <HE_Chain_Hellas.steps.3.label>Gömülü tapınak</HE_Chain_Hellas.steps.3.label>
+  <HE_Chain_Hellas.steps.3.text>Dünya haritasında işaretli gömülü tapınağa bir kervan gönder, orada kamp kuran yağmacıları yen ve kütüphane tomarlarını eve getir.</HE_Chain_Hellas.steps.3.text>
+  <HE_Chain_Hellas.steps.3.doneText>Tomarlar artık senin: geometri, tıp, kayıp oyunlar. Ve altlarında, ketene sarılı, üzerinde bir baykuş olan bronz bir aegis.</HE_Chain_Hellas.steps.3.doneText>
+  <HE_Chain_Hellas.steps.4.label>Kimin kütüphanesi?</HE_Chain_Hellas.steps.4.label>
+  <HE_Chain_Hellas.steps.4.text>Birlik, tomarları her şehirde kopyalamak için istiyor. Kolonistlerin ise aralarında yatan aegisi saklamayı yeğliyor ve birlik ondan kolay vazgeçmeyecek.</HE_Chain_Hellas.steps.4.text>
+  <HE_Chain_Hellas.steps.4.options.0.label>Her şeyi birliğe ver</HE_Chain_Hellas.steps.4.options.0.label>
+  <HE_Chain_Hellas.steps.4.options.0.text>Birlik kütüphaneyi her şehirde kopyalar ve kolonini onu bulan olarak onurlandırır.</HE_Chain_Hellas.steps.4.options.0.text>
+  <HE_Chain_Hellas.steps.4.options.1.label>Aegisi sakla</HE_Chain_Hellas.steps.4.options.1.label>
+  <HE_Chain_Hellas.steps.4.options.1.text>Tomarları teslim edersin ama Baykuş Aegisi'ni saklarsın. Arkonlar buna skandal der.</HE_Chain_Hellas.steps.4.options.1.text>
+  <HE_Chain_Tianxia.label>Saray Sınavı</HE_Chain_Tianxia.label>
+  <HE_Chain_Tianxia.description>İmparatorun yeşim mührü çalındı. Saray bir sınav koydu: onu geri getiren sınavı geçer.</HE_Chain_Tianxia.description>
+  <HE_Chain_Tianxia.startText>Bir saray hadımı imparatorluk duyurusuyla gelir: yeşim mühür saraydan kayboldu ve Yamato ajanları suçlanıyor. Onu geri getiren her hane diğerlerinin üstünde onurlandırılacak. Kolonin bu sınava girmeye davet edildi.</HE_Chain_Tianxia.startText>
+  <HE_Chain_Tianxia.endText>Yeşim mührün hikâyesi Tianxia'nın her çay evinde anlatılıyor ve kolonin bu hikâyenin ya kahramanı ya da kötüsü.</HE_Chain_Tianxia.endText>
+  <HE_Chain_Tianxia.steps.0.label>Sınav görevlilerine armağanlar</HE_Chain_Tianxia.steps.0.label>
+  <HE_Chain_Tianxia.steps.0.text>Hiçbir sınav uygun armağanlar olmadan başlamaz. 30 altın ve 20 yeşim topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Tianxia.steps.0.text>
+  <HE_Chain_Tianxia.steps.0.doneText>Görevliler memnun. İlk soru: hanen bir âlime layık bir bahçeye sahip olabilir mi?</HE_Chain_Tianxia.steps.0.doneText>
+  <HE_Chain_Tianxia.steps.1.label>Bir âlim bahçesi</HE_Chain_Tianxia.steps.1.label>
+  <HE_Chain_Tianxia.steps.1.text>Hanenin inceliğini görevlilere göstermek için kolonine bir ay kapısı inşa et.</HE_Chain_Tianxia.steps.1.text>
+  <HE_Chain_Tianxia.steps.1.doneText>Görevliler başlarını sallayarak seni kapıdan geçirir. O gece hırsızların dostları senin için gelir.</HE_Chain_Tianxia.steps.1.doneText>
+  <HE_Chain_Tianxia.steps.2.label>Gece baskını</HE_Chain_Tianxia.steps.2.label>
+  <HE_Chain_Tianxia.steps.2.text>Yamato ajanları hanen mührü bulmadan onu durdurmak istiyor. Onları yen.</HE_Chain_Tianxia.steps.2.text>
+  <HE_Chain_Tianxia.steps.2.doneText>Yakalanan bir ajan konuşur: mühür terk edilmiş bir yazlık sarayda saklı.</HE_Chain_Tianxia.steps.2.doneText>
+  <HE_Chain_Tianxia.steps.3.label>Yazlık saray</HE_Chain_Tianxia.steps.3.label>
+  <HE_Chain_Tianxia.steps.3.text>Dünya haritasında işaretli yazlık saraya bir kervan gönder, muhafızlarını yen ve yeşim mührü eve getir.</HE_Chain_Tianxia.steps.3.text>
+  <HE_Chain_Tianxia.steps.3.doneText>Mühür elinde, çatlak ama bütün. Onu tutarken bir imparatorluğun ağırlığını hissediyorsun.</HE_Chain_Tianxia.steps.3.doneText>
+  <HE_Chain_Tianxia.steps.4.label>Son soru</HE_Chain_Tianxia.steps.4.label>
+  <HE_Chain_Tianxia.steps.4.text>Saray bekliyor. Mührü imparatora geri verip sınavı onurla geçebilir ya da onu altınla onarıp eskiden asilerin yaptığı gibi saklayabilirsin.</HE_Chain_Tianxia.steps.4.text>
+  <HE_Chain_Tianxia.steps.4.options.0.label>Mührü geri ver</HE_Chain_Tianxia.steps.4.options.0.label>
+  <HE_Chain_Tianxia.steps.4.options.0.text>İmparator adını bizzat yüksek sesle okur. Hanen saray sınavını geçti.</HE_Chain_Tianxia.steps.4.options.0.text>
+  <HE_Chain_Tianxia.steps.4.options.1.label>Mührü sakla</HE_Chain_Tianxia.steps.4.options.1.label>
+  <HE_Chain_Tianxia.steps.4.options.1.text>Altınla onarılan mühür artık senin. Saray haneni asi ilan eder.</HE_Chain_Tianxia.steps.4.options.1.text>
+  <HE_Chain_Albion.label>Demir Devrimi</HE_Chain_Albion.label>
+  <HE_Chain_Albion.description>Albion'un ilk makine atölyeleri uzun zaman önce Romalı sabotajcılar tarafından yakıldı. Makineyi yeniden inşa et ve kimin davuluna göre yürüyeceğine karar ver.</HE_Chain_Albion.description>
+  <HE_Chain_Albion.startText>Topluluğun emekli bir mühendisi bir rulo çizimle gelir. Avalon'un eski makine atölyelerinde, der, hâlâ ilk buhar makinesinin kalıpları ve onları koruyan alayın davulu duruyor. Parlamento ikisi için de bir servet öder.</HE_Chain_Albion.startText>
+  <HE_Chain_Albion.endText>Albion gazeteleri buna ikinci demir devrimi diyor ve kolonin her ön sayfada.</HE_Chain_Albion.endText>
+  <HE_Chain_Albion.steps.0.label>Demir ve parçalar</HE_Chain_Albion.steps.0.label>
+  <HE_Chain_Albion.steps.0.text>Mühendisin eski kalıpları yeniden yapmak için malzemeye ihtiyacı var. 300 çelik ve 8 parça topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Albion.steps.0.text>
+  <HE_Chain_Albion.steps.0.doneText>Kalıplar döküldü. Şimdi kolonin makinenin nasıl çalıştığını öğrenmeli.</HE_Chain_Albion.steps.0.doneText>
+  <HE_Chain_Albion.steps.1.label>Buhar makinesi</HE_Chain_Albion.steps.1.label>
+  <HE_Chain_Albion.steps.1.text>Mühendislerinin eski çizimleri anlayabilmesi için buhar makinesini araştır.</HE_Chain_Albion.steps.1.text>
+  <HE_Chain_Albion.steps.1.doneText>Çizimler sonunda anlam kazandı. Haber Nova Roma'ya ulaştı ve ajanları yolda.</HE_Chain_Albion.steps.1.doneText>
+  <HE_Chain_Albion.steps.2.label>Romalı sabotajcılar</HE_Chain_Albion.steps.2.label>
+  <HE_Chain_Albion.steps.2.text>Nova Roma, Albion'un güçlenmesine izin vermeyecek. Sabotajcıları atölyelerini yakmaya geliyor. Onları durdur.</HE_Chain_Albion.steps.2.text>
+  <HE_Chain_Albion.steps.2.doneText>Sabotajcılar yenildi. İçlerinden biri, yakılmak üzere işaretlenmiş eski makine atölyelerinin bir haritasını taşıyordu.</HE_Chain_Albion.steps.2.doneText>
+  <HE_Chain_Albion.steps.3.label>Eski makine atölyeleri</HE_Chain_Albion.steps.3.label>
+  <HE_Chain_Albion.steps.3.text>Dünya haritasında işaretli eski makine atölyelerine bir kervan gönder, Romalı muhafızları yen ve alay davulunu eve getir.</HE_Chain_Albion.steps.3.text>
+  <HE_Chain_Albion.steps.3.doneText>Paslı makinelerin arasında Avalon Muhafızları'nın davulunu buluyorsun; ezik ama kırılmamış.</HE_Chain_Albion.steps.3.doneText>
+  <HE_Chain_Albion.steps.4.label>Davulun efendisi</HE_Chain_Albion.steps.4.label>
+  <HE_Chain_Albion.steps.4.text>Parlamento davulu ulusal müze için istiyor. Kolonistlerin ise onu onarıp kendileri onunla yürümek istiyor.</HE_Chain_Albion.steps.4.text>
+  <HE_Chain_Albion.steps.4.options.0.label>Parlamentoya ver</HE_Chain_Albion.steps.4.options.0.label>
+  <HE_Chain_Albion.steps.4.options.0.text>Parlamento kolonine teşekkürünü ve dolgun bir kese oylar.</HE_Chain_Albion.steps.4.options.0.text>
+  <HE_Chain_Albion.steps.4.options.1.label>Onar ve sakla</HE_Chain_Albion.steps.4.options.1.label>
+  <HE_Chain_Albion.steps.4.options.1.text>Demircilerin davulu onarır. Parlamento buna ulusal malın çalınması der.</HE_Chain_Albion.steps.4.options.1.text>
+  <HE_Chain_Kemet.label>Kum Altındaki Şehir</HE_Chain_Kemet.label>
+  <HE_Chain_Kemet.description>İki yüzyıl önce bir kum fırtınası Kemet'in ilk şehri Iteru'yu gömdü. Bir çoban dikili taşının ucunu gördü. Onu kazıp çıkar ve kime ait olduğuna karar ver.</HE_Chain_Kemet.description>
+  <HE_Chain_Kemet.startText>Bir Kemet çobanı çantasında altın uçlu bir taş parçasıyla gelir. Son fırtınadan sonra, der, daha önce hiçbir şey olmayan kum tepelerinin arasından bir dikili taşın ucu yükselmiş. Yaşlı kâtipler Iteru'nun orada yattığını söylüyor ve Iteru'da Güneş Diski vardı.</HE_Chain_Kemet.startText>
+  <HE_Chain_Kemet.endText>Iteru'nun kazılması artık bütün nehir boyunca anlatılıyor ve koloninin adı dikili taşının kaidesine oyulmuş.</HE_Chain_Kemet.endText>
+  <HE_Chain_Kemet.steps.0.label>Kazı için aletler</HE_Chain_Kemet.steps.0.label>
+  <HE_Chain_Kemet.steps.0.text>Bir şehri kazıp çıkarmak alet, halat ve su tulumu ister. 80 çelik, 120 odun ve 60 kumaş topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Kemet.steps.0.text>
+  <HE_Chain_Kemet.steps.0.doneText>Kazıcılar donatıldı. Yaşlı kâtipler bir şey daha istiyor: gölgeleri okuyup gömülü sokakları bulmak için senin de bir dikili taşın olmalı.</HE_Chain_Kemet.steps.0.doneText>
+  <HE_Chain_Kemet.steps.1.label>Gölgeleri oku</HE_Chain_Kemet.steps.1.label>
+  <HE_Chain_Kemet.steps.1.text>Kolonine bir dikili taş inşa et. Yaz ortasında öğle vakti gölgesi kayıp şehri gösterecek.</HE_Chain_Kemet.steps.1.text>
+  <HE_Chain_Kemet.steps.1.doneText>Gölge çölün derinliklerini gösteriyor. O gece mezar soyguncuları kâtiplerin ve haritaları için gelir.</HE_Chain_Kemet.steps.1.doneText>
+  <HE_Chain_Kemet.steps.2.label>Mezar soyguncuları</HE_Chain_Kemet.steps.2.label>
+  <HE_Chain_Kemet.steps.2.text>Bir mezar soyguncusu çetesi haritaları ve şehri kendileri için istiyor. Onları püskürt.</HE_Chain_Kemet.steps.2.text>
+  <HE_Chain_Kemet.steps.2.doneText>Soyguncular yenildi. Liderlerinin üzerinde şehir kapısının bir kopyası vardı: Iteru gerçek ve yakın.</HE_Chain_Kemet.steps.2.doneText>
+  <HE_Chain_Kemet.steps.3.label>Kum altındaki Iteru</HE_Chain_Kemet.steps.3.label>
+  <HE_Chain_Kemet.steps.3.text>Dünya haritasında işaretli gömülü şehre bir kervan gönder, oraya ilk varan soyguncuları yen ve güneş diskini eve getir.</HE_Chain_Kemet.steps.3.text>
+  <HE_Chain_Kemet.steps.3.doneText>Yıkık bir kapının altında, kumla dolu bir salonda Iteru'nun güneş diski yatıyor; bir araba tekerleği kadar geniş ve hâlâ hafifçe altın renginde.</HE_Chain_Kemet.steps.3.doneText>
+  <HE_Chain_Kemet.steps.4.label>Kimin güneşi?</HE_Chain_Kemet.steps.4.label>
+  <HE_Chain_Kemet.steps.4.text>Firavun diski, tahtın üstüne asılacağı başkentte geri istiyor. Onu kendi elleriyle kazıp çıkaran kolonistlerin ise cilalayıp saklamayı yeğliyor.</HE_Chain_Kemet.steps.4.text>
+  <HE_Chain_Kemet.steps.4.options.0.label>Firavuna gönder</HE_Chain_Kemet.steps.4.options.0.label>
+  <HE_Chain_Kemet.steps.4.options.0.text>Disk yeniden tahtın üstünde asılı ve kolonin kraliyet yıllıklarında anılıyor.</HE_Chain_Kemet.steps.4.options.0.text>
+  <HE_Chain_Kemet.steps.4.options.1.label>Güneş diskini sakla</HE_Chain_Kemet.steps.4.options.1.label>
+  <HE_Chain_Kemet.steps.4.options.1.text>Cilalanıp kendi duvarlarına kaldırılan disk artık senin. Saray buna hırsızlık der.</HE_Chain_Kemet.steps.4.options.1.text>
+  <HE_Chain_Pars.label>Kraliyet Yolu</HE_Chain_Pars.label>
+  <HE_Chain_Pars.description>Kraliyet yolunun batı kolu bir kuşaktır ölü; menzilleri yanmış, ulakları gitmiş. Onu yeniden aç ve yolda bulduğun yetki belgesini kimin saklayacağına karar ver.</HE_Chain_Pars.description>
+  <HE_Chain_Pars.startText>Bir Pars ulağı topal bir atla koloniye ulaşır. Satrap batı yolunu yeniden açık istiyor, der, ve kolonin tam ilk yeni menzilin olması gereken yerde duruyor. Onun ötesinde bir yerde yanan son menzil ve onunla birlikte müfettişinin taşıdığı Kralın Gözü yatıyor.</HE_Chain_Pars.startText>
+  <HE_Chain_Pars.endText>Ulaklar yeniden senin menzilinde at değiştiriyor ve batı yolu canlandı. Satrabın yollar kitabında koloninin kendi satırı var.</HE_Chain_Pars.endText>
+  <HE_Chain_Pars.steps.0.label>Menzili donat</HE_Chain_Pars.steps.0.label>
+  <HE_Chain_Pars.steps.0.text>Bir menzil yem, ahırlar için kereste ve nallar için demir ister. 200 kuru ot, 150 odun ve 50 çelik topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Pars.steps.0.text>
+  <HE_Chain_Pars.steps.0.doneText>Ahırlar doldu. Ulak, dinlenecek bir bahçesi olmayan bir menzile hiçbir Parslının güvenmeyeceğini söylüyor.</HE_Chain_Pars.steps.0.doneText>
+  <HE_Chain_Pars.steps.1.label>Ulaklar için bir bahçe</HE_Chain_Pars.steps.1.label>
+  <HE_Chain_Pars.steps.1.text>Yorgun ulakların suyu ve gölgesi olsun diye kolonine bir cennet bahçesi inşa et.</HE_Chain_Pars.steps.1.text>
+  <HE_Chain_Pars.steps.1.doneText>İlk ulaklar havuzunun kenarında oturup sohbet ediyor. Yolun açıldığı haberi, yıllardır ondan geçinen haydutlara da ulaştı.</HE_Chain_Pars.steps.1.doneText>
+  <HE_Chain_Pars.steps.2.label>Yol haydutları</HE_Chain_Pars.steps.2.label>
+  <HE_Chain_Pars.steps.2.text>Ölü yola hükmeden haydutlar menzilinin ötekiler gibi yanmasını istiyor. Onları püskürt.</HE_Chain_Pars.steps.2.text>
+  <HE_Chain_Pars.steps.2.doneText>Haydutlar yenildi. Biri canı için pazarlık ederken son yanan menzilin nerede olduğunu söylüyor.</HE_Chain_Pars.steps.2.doneText>
+  <HE_Chain_Pars.steps.3.label>Yanmış menzil</HE_Chain_Pars.steps.3.label>
+  <HE_Chain_Pars.steps.3.text>Dünya haritasında işaretli yanmış menzile bir kervan gönder, içinde kamp kuran haydutları temizle ve müfettişin geride bıraktığını geri getir.</HE_Chain_Pars.steps.3.text>
+  <HE_Chain_Pars.steps.3.doneText>Müfettişin odasının külleri altında küçük demir bir kutu ve içinde isten kararmış ama sağlam Kralın Gözü yatıyor.</HE_Chain_Pars.steps.3.doneText>
+  <HE_Chain_Pars.steps.4.label>Kimin gözü?</HE_Chain_Pars.steps.4.label>
+  <HE_Chain_Pars.steps.4.text>Satrap yetki belgesini geri istiyor: saraya aittir ve yeni bir müfettiş onu bekliyor. Yolu açan kolonistlerin ise onu yolun bekçilerinin tutması gerektiğini düşünüyor.</HE_Chain_Pars.steps.4.text>
+  <HE_Chain_Pars.steps.4.options.0.label>Satraba geri ver</HE_Chain_Pars.steps.4.options.0.label>
+  <HE_Chain_Pars.steps.4.options.0.text>Yeni bir müfettiş Kralın Gözü'yle batı yolunda at sürüyor ve saray onu kimin bulduğunu hatırlıyor.</HE_Chain_Pars.steps.4.options.0.text>
+  <HE_Chain_Pars.steps.4.options.1.label>Kralın Gözü'nü sakla</HE_Chain_Pars.steps.4.options.1.label>
+  <HE_Chain_Pars.steps.4.options.1.text>Temizlenip bir asaya takılan göz artık senin. Satrap buna çalıntı bir yetki belgesi der.</HE_Chain_Pars.steps.4.options.1.text>
+  <HE_Chain_Inti.label>Düğümlerin Dili</HE_Chain_Inti.label>
+  <HE_Chain_Inti.description>İki kuşak önce İntilerin bir eyaleti bir depremde kayboldu ve onunla birlikte sayımını tutan büyük quipu da. Onu bul, yeniden okumayı öğren ve nereye ait olduğuna karar ver.</HE_Chain_Inti.description>
+  <HE_Chain_Inti.startText>Yaşlı bir düğüm bekçisi altınla bağlanmış tek ve solmuş bir iple gelir. Bu, der bekçi, dağın yuttuğu eyalet Hatun Qulla'nın büyük quipusundan kesilmiş. Geri kalanı hâlâ orada ve onu okuyabilecek yaşayan kimse yok.</HE_Chain_Inti.startText>
+  <HE_Chain_Inti.endText>Hatun Qulla'nın sayımı yeniden eksiksiz. Her eyalette düğüm bekçileri kayıtlarına kolonin için yeni bir ip bağlıyor.</HE_Chain_Inti.endText>
+  <HE_Chain_Inti.steps.0.label>İp ve sabır</HE_Chain_Inti.steps.0.label>
+  <HE_Chain_Inti.steps.0.text>Kaybolmuş bir düğüm yolunu yeniden öğrenmek ip, çerçeve ve zaman ister. 120 kumaş, 100 odun ve 40 çelik topla, sonra Hikâyeler sayfasından teslim et.</HE_Chain_Inti.steps.0.text>
+  <HE_Chain_Inti.steps.0.doneText>Bekçinin pratik yapacak ipi var. Şimdi eski desenleri sermek için düzgün bir quipu masası gerekiyor.</HE_Chain_Inti.steps.0.doneText>
+  <HE_Chain_Inti.steps.1.label>Düğüm masası</HE_Chain_Inti.steps.1.label>
+  <HE_Chain_Inti.steps.1.text>Bekçinin solmuş ipi yenileriyle karşılaştırarak okuyabilmesi için kolonine bir quipu masası inşa et.</HE_Chain_Inti.steps.1.text>
+  <HE_Chain_Inti.steps.1.doneText>Solmuş ip konuşuyor: bir vadinin ve bir ambarın adını veriyor. Ama eski eyalette kazı yapan yağmacılar aramanı duydu.</HE_Chain_Inti.steps.1.doneText>
+  <HE_Chain_Inti.steps.2.label>Yağmacılar</HE_Chain_Inti.steps.2.label>
+  <HE_Chain_Inti.steps.2.text>Kayıp eyaletin yıkıntılarını soyan yağmacılar bekçiyi ve ipi istiyor. Onları püskürt.</HE_Chain_Inti.steps.2.text>
+  <HE_Chain_Inti.steps.2.doneText>Yağmacılar yenildi. Liderleri bir çömlek parçasına kazınmış bir harita taşıyordu: Hatun Qulla'nın ambarı hâlâ ayakta.</HE_Chain_Inti.steps.2.doneText>
+  <HE_Chain_Inti.steps.3.label>Hatun Qulla ambarı</HE_Chain_Inti.steps.3.label>
+  <HE_Chain_Inti.steps.3.text>Dünya haritasında işaretli yıkık eyalete bir kervan gönder, orada kamp kuran yağmacıları kov ve büyük quipuyu eve getir.</HE_Chain_Inti.steps.3.text>
+  <HE_Chain_Inti.steps.3.doneText>Çökmüş bir ambarın arkasında, çamurun üstünde bir kirişten sarkan büyük quipu duruyor; dolaşmış ama eksiksiz.</HE_Chain_Inti.steps.3.doneText>
+  <HE_Chain_Inti.steps.4.label>Kimin sayımı?</HE_Chain_Inti.steps.4.label>
+  <HE_Chain_Inti.steps.4.text>Sapa İnti büyük quipuyu, her bekçinin inceleyebileceği başkentteki kayıtlar evinde istiyor. Onu düğüm düğüm çözen kolonistlerin ise altına yeniden dizip saklamayı yeğliyor.</HE_Chain_Inti.steps.4.text>
+  <HE_Chain_Inti.steps.4.options.0.label>Başkente gönder</HE_Chain_Inti.steps.4.options.0.label>
+  <HE_Chain_Inti.steps.4.options.0.text>Hatun Qulla'nın sayımı kayıtlar evinde asılı ve kolonin de ona bağlandı.</HE_Chain_Inti.steps.4.options.0.text>
+  <HE_Chain_Inti.steps.4.options.1.label>Altın İp'i sakla</HE_Chain_Inti.steps.4.options.1.label>
+  <HE_Chain_Inti.steps.4.options.1.text>Altın ipe yeniden dizilen büyük quipu artık senin. Saray bir eyaletin hafızasını çaldığını söylüyor.</HE_Chain_Inti.steps.4.options.1.text>
+</LanguageData>

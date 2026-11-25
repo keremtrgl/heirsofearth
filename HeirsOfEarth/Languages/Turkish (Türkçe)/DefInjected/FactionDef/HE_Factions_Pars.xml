@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Pars.label>Pars Satraplığı</HE_Faction_Pars.label>
+  <HE_Faction_Pars.description>Pasargad koloni gemisinin mirasçıları, Pars Satraplığı. Eyaletleri kraliyet yolu ve kraliyet postasıyla birbirine bağlıdır; sarayı halı, at, ipek ve iyilik ticaretini aşağı yukarı eşit ölçüde yapar.</HE_Faction_Pars.description>
+  <HE_Faction_Pars.fixedName>Pars Satraplığı</HE_Faction_Pars.fixedName>
+  <HE_Faction_Pars.pawnSingular>Parslı</HE_Faction_Pars.pawnSingular>
+  <HE_Faction_Pars.pawnsPlural>Parslılar</HE_Faction_Pars.pawnsPlural>
+  <HE_Faction_Pars.leaderTitle>satrap</HE_Faction_Pars.leaderTitle>
+  <HE_Player_Pars.label>Pars yerleşimcileri</HE_Player_Pars.label>
+  <HE_Player_Pars.description>Bilinen yolların ucunda yeni bir menzil kurmak için gönderilen küçük bir Pars hanesi.</HE_Player_Pars.description>
+  <HE_Player_Pars.pawnSingular>kolonist</HE_Player_Pars.pawnSingular>
+  <HE_Player_Pars.pawnsPlural>kolonistler</HE_Player_Pars.pawnsPlural>
+</LanguageData>

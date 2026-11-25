@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Hellas.label>League of Hellas</HE_Faction_Hellas.label>
+  <HE_Faction_Hellas.description>The city-states of Hellas, heirs of the colony ship Argo. They argue in their assemblies, race at their games and fight in the phalanx, and their physicians and teachers are welcome in every nation.</HE_Faction_Hellas.description>
+  <HE_Faction_Hellas.fixedName>League of Hellas</HE_Faction_Hellas.fixedName>
+  <HE_Faction_Hellas.pawnSingular>Hellene</HE_Faction_Hellas.pawnSingular>
+  <HE_Faction_Hellas.pawnsPlural>Hellenes</HE_Faction_Hellas.pawnsPlural>
+  <HE_Faction_Hellas.leaderTitle>archon</HE_Faction_Hellas.leaderTitle>
+  <HE_Player_Hellas.label>Hellenic settlers</HE_Player_Hellas.label>
+  <HE_Player_Hellas.description>A small company of Hellenic settlers founding a new city, as their ancestors did.</HE_Player_Hellas.description>
+  <HE_Player_Hellas.pawnSingular>colonist</HE_Player_Hellas.pawnSingular>
+  <HE_Player_Hellas.pawnsPlural>colonists</HE_Player_Hellas.pawnsPlural>
+</LanguageData>

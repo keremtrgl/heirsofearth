@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_BS_Ashigaru.title>ashigaru footman</HE_Yamato_BS_Ashigaru.title>
+  <HE_Yamato_BS_Ashigaru.titleShort>footman</HE_Yamato_BS_Ashigaru.titleShort>
+  <HE_Yamato_BS_Ashigaru.description>[PAWN_nameDef] was a farmer's son until the clan drums called. [PAWN_pronoun] learned to hold a spear in a tight line and to dig in fast when arrows began to fall.</HE_Yamato_BS_Ashigaru.description>
+  <HE_Yamato_BS_Swordsmith.title>swordsmith</HE_Yamato_BS_Swordsmith.title>
+  <HE_Yamato_BS_Swordsmith.titleShort>swordsmith</HE_Yamato_BS_Swordsmith.titleShort>
+  <HE_Yamato_BS_Swordsmith.description>For twenty winters [PAWN_nameDef] folded and hammered tamahagane in a mountain forge. [PAWN_pronoun] would rather break a flawed blade than let it leave the workshop.</HE_Yamato_BS_Swordsmith.description>
+  <HE_Yamato_BS_Ronin.title>masterless samurai</HE_Yamato_BS_Ronin.title>
+  <HE_Yamato_BS_Ronin.titleShort>ronin</HE_Yamato_BS_Ronin.titleShort>
+  <HE_Yamato_BS_Ronin.description>When [PAWN_possessive] lord fell, [PAWN_nameDef] chose wandering over a shameful death. [PAWN_pronoun] sold [PAWN_possessive] sword to whoever paid and learned that honour does not fill a rice bowl.</HE_Yamato_BS_Ronin.description>
+  <HE_Yamato_BS_Monk.title>temple monk</HE_Yamato_BS_Monk.title>
+  <HE_Yamato_BS_Monk.titleShort>monk</HE_Yamato_BS_Monk.titleShort>
+  <HE_Yamato_BS_Monk.description>[PAWN_nameDef] swept the stone steps of a mountain temple for years, tended its herb garden and nursed travellers who arrived sick. [PAWN_pronoun] will not raise a hand in violence.</HE_Yamato_BS_Monk.description>
+  <HE_Yamato_BS_TeaMaster.title>tea master</HE_Yamato_BS_TeaMaster.title>
+  <HE_Yamato_BS_TeaMaster.titleShort>tea master</HE_Yamato_BS_TeaMaster.titleShort>
+  <HE_Yamato_BS_TeaMaster.description>[PAWN_nameDef] served tea to lords and generals and listened to everything they said over the cups. A quiet word from [PAWN_objective] has settled more feuds than any sword.</HE_Yamato_BS_TeaMaster.description>
+  <HE_Yamato_BS_RiceFarmer.title>rice farmer</HE_Yamato_BS_RiceFarmer.title>
+  <HE_Yamato_BS_RiceFarmer.titleShort>farmer</HE_Yamato_BS_RiceFarmer.titleShort>
+  <HE_Yamato_BS_RiceFarmer.description>[PAWN_nameDef] spent every spring knee-deep in flooded paddies, planting seedlings one by one. [PAWN_pronoun] can read the weather in the colour of the morning sky.</HE_Yamato_BS_RiceFarmer.description>
+  <HE_Yamato_BS_Hatamoto.title>shogun's bannerman</HE_Yamato_BS_Hatamoto.title>
+  <HE_Yamato_BS_Hatamoto.titleShort>bannerman</HE_Yamato_BS_Hatamoto.titleShort>
+  <HE_Yamato_BS_Hatamoto.description>[PAWN_nameDef] stood beside the shogun's banner in three great battles and never stepped back. [PAWN_pronoun] commands with few words and expects them to be obeyed at once.</HE_Yamato_BS_Hatamoto.description>
+  <HE_Yamato_BS_Akindo.title>port merchant</HE_Yamato_BS_Akindo.title>
+  <HE_Yamato_BS_Akindo.titleShort>merchant</HE_Yamato_BS_Akindo.titleShort>
+  <HE_Yamato_BS_Akindo.description>[PAWN_nameDef] bought silk, sake and lacquerware at the harbour and sold them inland at twice the price. [PAWN_pronoun] bows deeply and counts quickly.</HE_Yamato_BS_Akindo.description>
+  <HE_Yamato_BS_DojoChild.title>dojo pupil</HE_Yamato_BS_DojoChild.title>
+  <HE_Yamato_BS_DojoChild.titleShort>pupil</HE_Yamato_BS_DojoChild.titleShort>
+  <HE_Yamato_BS_DojoChild.description>[PAWN_nameDef] grew up sweeping the floor of a sword school and practising cuts on straw bundles until [PAWN_possessive] arms ached.</HE_Yamato_BS_DojoChild.description>
+  <HE_Yamato_BS_TempleChild.title>temple novice</HE_Yamato_BS_TempleChild.title>
+  <HE_Yamato_BS_TempleChild.titleShort>novice</HE_Yamato_BS_TempleChild.titleShort>
+  <HE_Yamato_BS_TempleChild.description>[PAWN_nameDef] was raised by monks who taught [PAWN_objective] to read the old sutras, sit still for hours and grow herbs in the temple garden.</HE_Yamato_BS_TempleChild.description>
+  <HE_Yamato_BS_FishingVillage.title>fishing village child</HE_Yamato_BS_FishingVillage.title>
+  <HE_Yamato_BS_FishingVillage.titleShort>fisher child</HE_Yamato_BS_FishingVillage.titleShort>
+  <HE_Yamato_BS_FishingVillage.description>[PAWN_nameDef] grew up mending nets and gutting fish on a windy shore, where every family shared its catch.</HE_Yamato_BS_FishingVillage.description>
+  <HE_Yamato_BS_CastleTown.title>castle-town child</HE_Yamato_BS_CastleTown.title>
+  <HE_Yamato_BS_CastleTown.titleShort>town child</HE_Yamato_BS_CastleTown.titleShort>
+  <HE_Yamato_BS_CastleTown.description>[PAWN_nameDef] grew up in the crowded streets below a lord's castle, running between craftsmen's shops and watching the samurai parade.</HE_Yamato_BS_CastleTown.description>
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Roma</defName>
+    <label>Nova Roma Republic</label>
+    <description>Heirs of the colony ship Aeternitas, the citizens of Nova Roma rebuilt the republic of their ancestors on a new world: a senate, two consuls, roads that run straight across any land and legions that march in step. They are master builders and disciplined soldiers, proud of their law and slow to forgive.</description>
+    <color>(0.56, 0.16, 0.14)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Roma</iconPath>
+    <rulerTitle>Consul</rulerTitle>
+    <adjective>Nova Roman</adjective>
+    <release>1</release>
+    <faction>HE_Faction_Roma</faction>
+    <playerFaction>HE_Player_Roma</playerFaction>
+    <scenario>HE_Start_Roma</scenario>
+    <archive>HE_Roma_Archive</archive>
+    <rivals>
+      <li>HE_Nord</li>
+    </rivals>
+    <doctrine>
+      <label>testudo</label>
+      <description>Legionaries close ranks and lock their shields into a roof. Packed together they shrug off arrows and blows, but they march slowly.</description>
+      <hediff>HE_Doctrine_Roma</hediff>
+      <strategy>StageThenAttack</strategy>
+      <arrival>EdgeWalkIn</arrival>
+      <chance>0.75</chance>
+    </doctrine>
+    <animal>Horse</animal>
+    <temperamentBias>
+      <li>Warlike</li>
+      <li>Mercantile</li>
+    </temperamentBias>
+    <honoraryTitle>honorary citizen of Nova Roma</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Colonist.label>kolonist</HE_Kemet_Colonist.label>
+  <HE_Kemet_Levy.label>nehir askeri</HE_Kemet_Levy.label>
+  <HE_Kemet_Levy.labelPlural>nehir askerleri</HE_Kemet_Levy.labelPlural>
+  <HE_Kemet_Archer.label>kompozit okçu</HE_Kemet_Archer.label>
+  <HE_Kemet_Medjay.label>medjay</HE_Kemet_Medjay.label>
+  <HE_Kemet_Medjay.labelPlural>medjaylar</HE_Kemet_Medjay.labelPlural>
+  <HE_Kemet_Scribe.label>kâtip</HE_Kemet_Scribe.label>
+  <HE_Kemet_Charioteer.label>araba kaptanı</HE_Kemet_Charioteer.label>
+  <HE_Kemet_Pharaoh.label>firavun</HE_Kemet_Pharaoh.label>
+  <HE_Kemet_Merchant.label>nehir tüccarı</HE_Kemet_Merchant.label>
+</LanguageData>

@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RulePackDef>
+    <defName>HE_Names_Pars_Male</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=3)-&gt;[first] [last]</li>
+        <li>r_name-&gt;[first] '[nick]' [last]</li>
+        <li>nick-&gt;Swift-Rider</li>
+        <li>nick-&gt;the Weaver</li>
+        <li>nick-&gt;Rose</li>
+        <li>nick-&gt;the Just</li>
+        <li>nick-&gt;Lion-Heart</li>
+        <li>nick-&gt;Silver-Tongue</li>
+        <li>nick-&gt;the Gardener</li>
+        <li>nick-&gt;Far-Eye</li>
+        <li>first-&gt;Arshama</li>
+        <li>first-&gt;Bagadata</li>
+        <li>first-&gt;Datis</li>
+        <li>first-&gt;Farnaka</li>
+        <li>first-&gt;Gaubaruva</li>
+        <li>first-&gt;Hutana</li>
+        <li>first-&gt;Kurush</li>
+        <li>first-&gt;Mithradata</li>
+        <li>first-&gt;Otana</li>
+        <li>first-&gt;Spitamana</li>
+        <li>first-&gt;Tiridata</li>
+        <li>first-&gt;Vidarna</li>
+        <li>first-&gt;Vahauka</li>
+        <li>first-&gt;Artavazda</li>
+        <li>first-&gt;Bagabukhsha</li>
+        <li>first-&gt;Aspachana</li>
+        <li>first-&gt;Ardashir</li>
+        <li>first-&gt;Ariobarzan</li>
+        <li>first-&gt;Artabanu</li>
+        <li>first-&gt;Artaxshacha</li>
+        <li>first-&gt;Bahram</li>
+        <li>first-&gt;Bardiya</li>
+        <li>first-&gt;Bessus</li>
+        <li>first-&gt;Darayavahush</li>
+        <li>first-&gt;Farhad</li>
+        <li>first-&gt;Fravartish</li>
+        <li>first-&gt;Hormizd</li>
+        <li>first-&gt;Hydarnes</li>
+        <li>first-&gt;Kambujiya</li>
+        <li>first-&gt;Khshayarsha</li>
+        <li>first-&gt;Mazaeus</li>
+        <li>first-&gt;Megabyzus</li>
+        <li>first-&gt;Mardonius</li>
+        <li>first-&gt;Narseh</li>
+        <li>first-&gt;Orontes</li>
+        <li>first-&gt;Peroz</li>
+        <li>first-&gt;Pharnabazus</li>
+        <li>first-&gt;Rostam</li>
+        <li>first-&gt;Shapur</li>
+        <li>first-&gt;Siyavash</li>
+        <li>first-&gt;Sohrab</li>
+        <li>first-&gt;Tissaphernes</li>
+        <li>first-&gt;Vahyazdata</li>
+        <li>first-&gt;Vardan</li>
+        <li>first-&gt;Vishtaspa</li>
+        <li>first-&gt;Xshathrita</li>
+        <li>first-&gt;Zal</li>
+        <li>first-&gt;Zarir</li>
+        <li>first-&gt;Babak</li>
+        <li>first-&gt;Kaveh</li>
+        <li>first-&gt;Jamshid</li>
+        <li>first-&gt;Arash</li>
+        <li>first-&gt;Esfandiar</li>
+        <li>first-&gt;Gudarz</li>
+        <li>first-&gt;Kianush</li>
+        <li>first-&gt;Mehrdad</li>
+        <li>first-&gt;Adarnase</li>
+        <li>first-&gt;Ariobarzanes</li>
+        <li>first-&gt;Arsaces</li>
+        <li>first-&gt;Artabanus</li>
+        <li>first-&gt;Artavasdes</li>
+        <li>first-&gt;Artaxerxes</li>
+        <li>first-&gt;Bijan</li>
+        <li>first-&gt;Borzin</li>
+        <li>first-&gt;Dara</li>
+        <li>first-&gt;Farrokh</li>
+        <li>first-&gt;Gaspar</li>
+        <li>first-&gt;Giv</li>
+        <li>first-&gt;Gotarzes</li>
+        <li>first-&gt;Hormoz</li>
+        <li>first-&gt;Hushang</li>
+        <li>first-&gt;Jamasp</li>
+        <li>first-&gt;Javid</li>
+        <li>first-&gt;Kamran</li>
+        <li>first-&gt;Kambiz</li>
+        <li>first-&gt;Karin</li>
+        <li>first-&gt;Khosrow</li>
+        <li>first-&gt;Mahbod</li>
+        <li>first-&gt;Manuchehr</li>
+        <li>first-&gt;Mazdak</li>
+        <li>first-&gt;Mithradates</li>
+        <li>first-&gt;Nowruz</li>
+        <li>first-&gt;Orodes</li>
+        <li>first-&gt;Parviz</li>
+        <li>first-&gt;Phraates</li>
+        <li>first-&gt;Sasan</li>
+        <li>first-&gt;Shahin</li>
+        <li>first-&gt;Siavash</li>
+        <li>first-&gt;Spitamenes</li>
+        <li>first-&gt;Surena</li>
+        <li>first-&gt;Tiridates</li>
+        <li>first-&gt;Tus</li>
+        <li>first-&gt;Vologases</li>
+        <li>first-&gt;Yazdegerd</li>
+        <li>first-&gt;Zarmehr</li>
+        <li>last-&gt;son of Vishtaspa</li>
+        <li>last-&gt;of Pasargad</li>
+        <li>last-&gt;of Hagmatana</li>
+        <li>last-&gt;Suren</li>
+        <li>last-&gt;Karen</li>
+        <li>last-&gt;Mihran</li>
+        <li>last-&gt;Spandiyadh</li>
+        <li>last-&gt;of Shush</li>
+        <li>last-&gt;Varaz</li>
+        <li>last-&gt;Farrokhzad</li>
+        <li>last-&gt;Zik</li>
+        <li>last-&gt;Arshakan</li>
+        <li>last-&gt;Pahlav</li>
+        <li>last-&gt;of Ray</li>
+        <li>last-&gt;Ispahbud</li>
+        <li>last-&gt;of Marv</li>
+        <li>last-&gt;son of Artabanus</li>
+        <li>last-&gt;son of Bahram</li>
+        <li>last-&gt;son of Hormozd</li>
+        <li>last-&gt;son of Mithradates</li>
+        <li>last-&gt;son of Peroz</li>
+        <li>last-&gt;son of Tiridates</li>
+        <li>last-&gt;son of Vologases</li>
+        <li>last-&gt;son of Narseh</li>
+        <li>last-&gt;of Ctesiphon</li>
+        <li>last-&gt;of Persepolis</li>
+        <li>last-&gt;of Bactra</li>
+        <li>last-&gt;of Rhagae</li>
+        <li>last-&gt;of Nishapur</li>
+        <li>last-&gt;of Istakhr</li>
+        <li>last-&gt;of Gundeshapur</li>
+        <li>last-&gt;Aspahbad</li>
+        <li>last-&gt;Ispahbudhan</li>
+        <li>last-&gt;Kanarang</li>
+        <li>last-&gt;Mehran</li>
+        <li>last-&gt;Spahbed</li>
+        <li>last-&gt;Bavand</li>
+        <li>last-&gt;Dabuy</li>
+        <li>last-&gt;Gushnasp</li>
+        <li>last-&gt;Khosrowan</li>
+        <li>last-&gt;Nakhwar</li>
+        <li>last-&gt;Paduspan</li>
+        <li>last-&gt;Razmi</li>
+        <li>last-&gt;Shahrvaraz</li>
+        <li>last-&gt;Tahmasp</li>
+        <li>last-&gt;Vahriz</li>
+        <li>last-&gt;Yazdegerdi</li>
+        <li>last-&gt;Zarmihr</li>
+        <li>last-&gt;Arsacid</li>
+        <li>last-&gt;Kayanid</li>
+        <li>last-&gt;Pishdad</li>
+        <li>last-&gt;Ardashiri</li>
+        <li>last-&gt;Mazdaki</li>
+        <li>last-&gt;Babakan</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_Names_Pars_Female</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name(p=3)-&gt;[first] [last]</li>
+        <li>r_name-&gt;[first] '[nick]' [last]</li>
+        <li>nick-&gt;Swift-Rider</li>
+        <li>nick-&gt;the Weaver</li>
+        <li>nick-&gt;Rose</li>
+        <li>nick-&gt;the Just</li>
+        <li>nick-&gt;Lion-Heart</li>
+        <li>nick-&gt;Silver-Tongue</li>
+        <li>nick-&gt;the Gardener</li>
+        <li>nick-&gt;Far-Eye</li>
+        <li>first-&gt;Amestris</li>
+        <li>first-&gt;Artystone</li>
+        <li>first-&gt;Atossa</li>
+        <li>first-&gt;Parmys</li>
+        <li>first-&gt;Phaidyme</li>
+        <li>first-&gt;Rhodogune</li>
+        <li>first-&gt;Irdabama</li>
+        <li>first-&gt;Apama</li>
+        <li>first-&gt;Roshanak</li>
+        <li>first-&gt;Shirin</li>
+        <li>first-&gt;Parisatis</li>
+        <li>first-&gt;Sisygambis</li>
+        <li>first-&gt;Stateira</li>
+        <li>first-&gt;Mandana</li>
+        <li>first-&gt;Laleh</li>
+        <li>first-&gt;Azadeh</li>
+        <li>first-&gt;Anahita</li>
+        <li>first-&gt;Artemisia</li>
+        <li>first-&gt;Banu</li>
+        <li>first-&gt;Darya</li>
+        <li>first-&gt;Esther</li>
+        <li>first-&gt;Farangis</li>
+        <li>first-&gt;Gordiya</li>
+        <li>first-&gt;Gulnar</li>
+        <li>first-&gt;Homa</li>
+        <li>first-&gt;Katayun</li>
+        <li>first-&gt;Manijeh</li>
+        <li>first-&gt;Mahsa</li>
+        <li>first-&gt;Mehrnaz</li>
+        <li>first-&gt;Nahid</li>
+        <li>first-&gt;Nazanin</li>
+        <li>first-&gt;Parvaneh</li>
+        <li>first-&gt;Pari</li>
+        <li>first-&gt;Rudaba</li>
+        <li>first-&gt;Sanaz</li>
+        <li>first-&gt;Setareh</li>
+        <li>first-&gt;Simin</li>
+        <li>first-&gt;Soraya</li>
+        <li>first-&gt;Tahmineh</li>
+        <li>first-&gt;Taraneh</li>
+        <li>first-&gt;Yasaman</li>
+        <li>first-&gt;Zarineh</li>
+        <li>first-&gt;Ziba</li>
+        <li>first-&gt;Azarmidokht</li>
+        <li>first-&gt;Purandokht</li>
+        <li>first-&gt;Shahrbanu</li>
+        <li>first-&gt;Mitra</li>
+        <li>first-&gt;Golnar</li>
+        <li>first-&gt;Ava</li>
+        <li>first-&gt;Bahar</li>
+        <li>first-&gt;Delaram</li>
+        <li>first-&gt;Firuzeh</li>
+        <li>first-&gt;Golshan</li>
+        <li>first-&gt;Khorshid</li>
+        <li>first-&gt;Mahtab</li>
+        <li>first-&gt;Parisa</li>
+        <li>first-&gt;Afsaneh</li>
+        <li>first-&gt;Arezoo</li>
+        <li>first-&gt;Atoosa</li>
+        <li>first-&gt;Behnaz</li>
+        <li>first-&gt;Farnaz</li>
+        <li>first-&gt;Gelareh</li>
+        <li>first-&gt;Gordiyeh</li>
+        <li>first-&gt;Mojdeh</li>
+        <li>first-&gt;Nasrin</li>
+        <li>first-&gt;Niloufar</li>
+        <li>first-&gt;Pouran</li>
+        <li>first-&gt;Rudabeh</li>
+        <li>first-&gt;Shabnam</li>
+        <li>first-&gt;Shahrzad</li>
+        <li>first-&gt;Sudabeh</li>
+        <li>first-&gt;Zarrin</li>
+        <li>first-&gt;Zhaleh</li>
+        <li>first-&gt;Mahin</li>
+        <li>first-&gt;Pegah</li>
+        <li>first-&gt;Farah</li>
+        <li>first-&gt;Ladan</li>
+        <li>first-&gt;Golbahar</li>
+        <li>first-&gt;Mehrangiz</li>
+        <li>first-&gt;Tannaz</li>
+        <li>first-&gt;Ashraf</li>
+        <li>first-&gt;Dorsa</li>
+        <li>first-&gt;Elaheh</li>
+        <li>first-&gt;Fereshteh</li>
+        <li>first-&gt;Ghazal</li>
+        <li>first-&gt;Haleh</li>
+        <li>first-&gt;Kiana</li>
+        <li>first-&gt;Leyli</li>
+        <li>first-&gt;Maryam</li>
+        <li>first-&gt;Mina</li>
+        <li>first-&gt;Nasim</li>
+        <li>first-&gt;Negar</li>
+        <li>first-&gt;Rana</li>
+        <li>first-&gt;Roya</li>
+        <li>first-&gt;Sahar</li>
+        <li>first-&gt;Sepideh</li>
+        <li>first-&gt;Shadi</li>
+        <li>first-&gt;Sholeh</li>
+        <li>first-&gt;Tara</li>
+        <li>first-&gt;Vida</li>
+        <li>first-&gt;Yalda</li>
+        <li>first-&gt;Zohreh</li>
+        <li>last-&gt;daughter of Vishtaspa</li>
+        <li>last-&gt;of Pasargad</li>
+        <li>last-&gt;of Hagmatana</li>
+        <li>last-&gt;Suren</li>
+        <li>last-&gt;Karen</li>
+        <li>last-&gt;Mihran</li>
+        <li>last-&gt;Spandiyadh</li>
+        <li>last-&gt;of Shush</li>
+        <li>last-&gt;Varaz</li>
+        <li>last-&gt;Farrokhzad</li>
+        <li>last-&gt;Zik</li>
+        <li>last-&gt;Arshakan</li>
+        <li>last-&gt;Pahlav</li>
+        <li>last-&gt;of Ray</li>
+        <li>last-&gt;Ispahbud</li>
+        <li>last-&gt;of Marv</li>
+        <li>last-&gt;daughter of Artabanus</li>
+        <li>last-&gt;daughter of Bahram</li>
+        <li>last-&gt;daughter of Hormozd</li>
+        <li>last-&gt;daughter of Mithradates</li>
+        <li>last-&gt;daughter of Peroz</li>
+        <li>last-&gt;daughter of Tiridates</li>
+        <li>last-&gt;daughter of Vologases</li>
+        <li>last-&gt;daughter of Narseh</li>
+        <li>last-&gt;of Ctesiphon</li>
+        <li>last-&gt;of Persepolis</li>
+        <li>last-&gt;of Bactra</li>
+        <li>last-&gt;of Rhagae</li>
+        <li>last-&gt;of Nishapur</li>
+        <li>last-&gt;of Istakhr</li>
+        <li>last-&gt;of Gundeshapur</li>
+        <li>last-&gt;Aspahbad</li>
+        <li>last-&gt;Ispahbudhan</li>
+        <li>last-&gt;Kanarang</li>
+        <li>last-&gt;Mehran</li>
+        <li>last-&gt;Spahbed</li>
+        <li>last-&gt;Bavand</li>
+        <li>last-&gt;Dabuy</li>
+        <li>last-&gt;Gushnasp</li>
+        <li>last-&gt;Khosrowan</li>
+        <li>last-&gt;Nakhwar</li>
+        <li>last-&gt;Paduspan</li>
+        <li>last-&gt;Razmi</li>
+        <li>last-&gt;Shahrvaraz</li>
+        <li>last-&gt;Tahmasp</li>
+        <li>last-&gt;Vahriz</li>
+        <li>last-&gt;Yazdegerdi</li>
+        <li>last-&gt;Zarmihr</li>
+        <li>last-&gt;Arsacid</li>
+        <li>last-&gt;Kayanid</li>
+        <li>last-&gt;Pishdad</li>
+        <li>last-&gt;Ardashiri</li>
+        <li>last-&gt;Mazdaki</li>
+        <li>last-&gt;Babakan</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <RulePackDef>
+    <defName>HE_Names_Pars_Settlement</defName>
+    <rulePack>
+      <rulesStrings>
+        <li>r_name-&gt;Pasargad</li>
+        <li>r_name-&gt;Parsa</li>
+        <li>r_name-&gt;Hagmatana</li>
+        <li>r_name-&gt;Shush</li>
+        <li>r_name-&gt;Ray</li>
+        <li>r_name-&gt;Marv</li>
+        <li>r_name-&gt;Zranka</li>
+        <li>r_name(p=2)-&gt;[ta][tb]</li>
+        <li>ta-&gt;Bagh-</li>
+        <li>ta-&gt;Shah-</li>
+        <li>ta-&gt;Ab-</li>
+        <li>ta-&gt;Gol-</li>
+        <li>ta-&gt;Kuh-</li>
+        <li>ta-&gt;Dasht-</li>
+        <li>ta-&gt;Rud-</li>
+        <li>tb-&gt;abad</li>
+        <li>tb-&gt;gerd</li>
+        <li>tb-&gt;kand</li>
+        <li>tb-&gt;shahr</li>
+        <li>tb-&gt;dez</li>
+        <li>tb-&gt;bagh</li>
+        <li>tb-&gt;parsa</li>
+        <li>tb-&gt;aspa</li>
+        <li>tb-&gt;mihr</li>
+        <li>tb-&gt;zar</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Sling</defName>
+    <label>sling</label>
+    <description>A braided wool sling and a pouch of river stones. A good slinger can break a helmet at a hundred paces.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Unku</defName>
+    <label>unku tunic</label>
+    <description>Weave the knee-length tunic of alpaca wool, its squares of tocapu patterns telling who the wearer is.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>29</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Terraces</defName>
+    <label>terraces</label>
+    <description>Cut the hillside into steps, wall each one with stone and fill it with carried soil. A slope becomes a field.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Chaski</defName>
+    <label>chaski runners</label>
+    <description>Relay runners posted along every road, a conch to announce themselves and a quipu to carry. A message crosses the empire in days.
+
+Tradition: Colonists move 3% faster.
+
+Requires 15 Inti knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Sling</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MoveSpeed</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Pachamanca</defName>
+    <label>pachamanca</label>
+    <description>Heat stones in a pit, lay meat, potatoes and maize on them, cover everything with herbs and earth and wait.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>29</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Unku</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Ayni</defName>
+    <label>ayni</label>
+    <description>Today I help you dig your field, tomorrow you help me roof my house. Work is lent and always repaid.
+
+Tradition: Colonists work 3% faster.
+
+Requires 15 Inti knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Terraces</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>WorkSpeedGlobal</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Mita</defName>
+    <label>mita labour</label>
+    <description>Every household sends workers to the state for part of the year: roads, bridges, temples and storehouses rise as if by themselves.
+
+Tradition: Colonists build 5% faster and mine 5% faster.
+
+Requires 20 Inti knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Chaski</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ConstructionSpeed</stat>
+            <factor>1.05</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MiningSpeed</stat>
+            <factor>1.05</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Qullqa</defName>
+    <label>qullqa storehouses</label>
+    <description>Round stone storehouses on windy slopes, vented at the floor and roofed with thatch. Grain and dried food keep in them for years.
+
+Requires 10 Inti knowledge unless this is your heritage.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>29</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Pachamanca</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_HighAltitude</defName>
+    <label>children of the heights</label>
+    <description>Broad chests, coca tea, wool and the habit of cold mornings. Inti people work where lowlanders shiver.
+
+Tradition: Colonists are comfortable in 6°C more cold.
+
+Requires 20 Inti knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Ayni</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ComfyTemperatureMin</stat>
+            <offset>-6</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Champi</defName>
+    <label>star mace</label>
+    <description>Cast a bronze head with six points and set it on a hardwood staff: the champi of the imperial army.
+
+Requires 10 Inti knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Quipu</defName>
+    <label>quipu</label>
+    <description>Cords of coloured wool knotted in tens, hundreds and thousands, hung from a main cord. Census, tribute and history in one bundle.
+
+Requires 15 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>29</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Qullqa</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_MountainFarming</defName>
+    <label>mountain farming</label>
+    <description>A hundred kinds of potato, each for its own height and season, and fields rotated so the soil never tires.
+
+Tradition: Colonists harvest 5% more and sow and harvest 3% faster.
+
+Requires 25 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_HighAltitude</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>PlantHarvestYield</stat>
+            <factor>1.05</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>PlantWorkSpeed</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_RoyalGuard</defName>
+    <label>royal guard</label>
+    <description>The quilted war tunic and the plumed helmet of the guard who carry the emperor's litter.
+
+Requires 25 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Champi</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_KnotKeepers</defName>
+    <label>keepers of the knots</label>
+    <description>The khipukamayuq, trained from childhood to tie and read the cords. Nothing counted in the empire is ever forgotten.
+
+Tradition: Colonists research 6% faster.
+
+Requires 25 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>29</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Quipu</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ResearchSpeed</stat>
+            <factor>1.06</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Kallawaya</defName>
+    <label>kallawaya healers</label>
+    <description>Wandering herbalists who know a thousand plants of the mountains and the forest below them.
+
+Tradition: Colonists tend wounds and illness 5% better.
+
+Requires 25 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_MountainFarming</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MedicalTendQuality</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Slingers</defName>
+    <label>slingers of the heights</label>
+    <description>Boys and girls of the mountains learn to sling before they learn to herd. In battle the stones come down like hail.
+
+Tradition: Colonists shoot 1 point more accurately and aim 4% faster.
+
+Requires 35 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_RoyalGuard</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ShootingAccuracyPawn</stat>
+            <offset>1</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>AimingDelayFactor</stat>
+            <factor>0.96</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_Carbine</defName>
+    <label>mountain carbine</label>
+    <description>A short, light carbine for steep ground, with a leather sling and a condor stamped on the lock.
+
+Requires 35 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>28</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>HE_Inti_Champi</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_QhapaqNan</defName>
+    <label>great road</label>
+    <description>Paved roads along the ridges, rope bridges over the gorges and a resting house every day's walk. Caravans move as fast as runners.
+
+Tradition: Caravans travel 8% faster and colonists build 3% faster.
+
+Requires 45 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1700</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Kallawaya</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ConstructionSpeed</stat>
+            <factor>1.03</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <caravanSpeed>0.08</caravanSpeed>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_CountedEmpire</defName>
+    <label>the counted empire</label>
+    <description>With Hatun Qulla counted again, the empire knows itself to the last llama and plans as if it could see the future.
+
+Tradition: Colonists research 4% faster, learn 5% faster and work 2% faster.
+
+Requires 50 Inti knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>29</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_KnotKeepers</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ResearchSpeed</stat>
+            <factor>1.04</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>WorkSpeedGlobal</stat>
+            <factor>1.02</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <requiresChain>HE_Chain_Inti</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_SlingStand</defName>
+    <label>sling stand</label>
+    <description>The slingers of the empire teach the mountain forts to whirl stones without a hand on the cord.
+
+Requires 40 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Inti_Slingers</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_PowderArms</defName>
+    <label>Inti powder arms</label>
+    <description>The Inti way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Inti has reached the Age of Powder.
+
+Requires 30 Inti knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>30</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>30</knowledge>
+        <age>2</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Inti_SteamArmy</defName>
+    <label>Inti steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Inti raised when the factories came.
+
+Outside your heritage, this can be researched only once Inti has reached the Age of Steam.
+
+Requires 45 Inti knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>31</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+      <li>HE_Inti_PowderArms</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Inti</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

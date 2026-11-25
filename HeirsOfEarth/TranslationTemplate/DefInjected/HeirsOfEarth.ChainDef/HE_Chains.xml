@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Chain_Roma.label>The Lost Eagle</HE_Chain_Roma.label>
+  <HE_Chain_Roma.description>The eagle of the Ninth Legion was lost in the north generations ago. Find it, and decide whose glory it serves.</HE_Chain_Roma.description>
+  <HE_Chain_Roma.startText>A dying veteran reaches your colony with a map scratched on a shield. He swears he knows where the eagle of the Ninth Legion fell. The senate would pay dearly for it, and so would its enemies.</HE_Chain_Roma.startText>
+  <HE_Chain_Roma.endText>The story of the lost eagle is told in every forum of Nova Roma, and your colony's name is part of it.</HE_Chain_Roma.endText>
+  <HE_Chain_Roma.steps.0.label>Arm an expedition</HE_Chain_Roma.steps.0.label>
+  <HE_Chain_Roma.steps.0.text>An expedition into the north needs iron and good swords. Gather 200 steel and 4 gladii, then deliver them from the Stories page.</HE_Chain_Roma.steps.0.text>
+  <HE_Chain_Roma.steps.0.doneText>The smiths have done their work. Now the expedition needs a standard to march under.</HE_Chain_Roma.steps.0.doneText>
+  <HE_Chain_Roma.steps.1.label>Raise a standard</HE_Chain_Roma.steps.1.label>
+  <HE_Chain_Roma.steps.1.text>No legion marches without its colours. Build a legion standard in your colony.</HE_Chain_Roma.steps.1.text>
+  <HE_Chain_Roma.steps.1.doneText>The standard flies, and word of your expedition spreads. Not everyone is pleased.</HE_Chain_Roma.steps.1.doneText>
+  <HE_Chain_Roma.steps.2.label>Hold the colony</HE_Chain_Roma.steps.2.label>
+  <HE_Chain_Roma.steps.2.text>The northern clans would rather see the eagle stay buried. Expect an attack within a day and drive it off.</HE_Chain_Roma.steps.2.text>
+  <HE_Chain_Roma.steps.2.doneText>The attackers are beaten. Among their dead you find a sketch of a ruined fort: the eagle is there.</HE_Chain_Roma.steps.2.doneText>
+  <HE_Chain_Roma.steps.3.label>The ruined fort</HE_Chain_Roma.steps.3.label>
+  <HE_Chain_Roma.steps.3.text>Send a caravan to the ruined fort marked on the world map, defeat its guards and bring the tarnished eagle home.</HE_Chain_Roma.steps.3.text>
+  <HE_Chain_Roma.steps.3.doneText>The eagle is in your hands. Broken, tarnished, and still the most valuable thing your colony owns.</HE_Chain_Roma.steps.3.doneText>
+  <HE_Chain_Roma.steps.4.label>The fate of the eagle</HE_Chain_Roma.steps.4.label>
+  <HE_Chain_Roma.steps.4.text>Messengers of the senate ask for the eagle to be returned to the capital, where it belongs. Your colonists would rather restore it and keep it here, under your own banner.</HE_Chain_Roma.steps.4.text>
+  <HE_Chain_Roma.steps.4.options.0.label>Return it to the senate</HE_Chain_Roma.steps.4.options.0.label>
+  <HE_Chain_Roma.steps.4.options.0.text>The senate honours your colony and opens its archives to you.</HE_Chain_Roma.steps.4.options.0.text>
+  <HE_Chain_Roma.steps.4.options.1.label>Restore it and keep it</HE_Chain_Roma.steps.4.options.1.label>
+  <HE_Chain_Roma.steps.4.options.1.text>Your smiths restore the eagle on a new standard. The senate will not forget this.</HE_Chain_Roma.steps.4.options.1.text>
+  <HE_Chain_Yamato.label>The Broken Dynasty</HE_Chain_Yamato.label>
+  <HE_Chain_Yamato.description>The imperial line of Yamato ended in a night of fire. A sacred mirror and a sword survived. Find them, and decide who rules.</HE_Chain_Yamato.description>
+  <HE_Chain_Yamato.startText>A wandering monk arrives with news: the regalia of the old emperors are hidden in a mountain shrine, guarded by men who serve no lord. The clans whisper that whoever finds them will choose the next emperor.</HE_Chain_Yamato.startText>
+  <HE_Chain_Yamato.endText>Whatever you chose, the clans of Yamato now speak of your colony with respect, and with some fear.</HE_Chain_Yamato.endText>
+  <HE_Chain_Yamato.steps.0.label>Gifts for the shrine</HE_Chain_Yamato.steps.0.label>
+  <HE_Chain_Yamato.steps.0.text>A pilgrim does not arrive empty-handed. Gather 30 fine meals and 100 cloth for the shrine keepers, then deliver them from the Stories page.</HE_Chain_Yamato.steps.0.text>
+  <HE_Chain_Yamato.steps.0.doneText>The keepers accept your gifts and tell you more: the guards of the shrine can only be faced with a blade folded by your own smiths.</HE_Chain_Yamato.steps.0.doneText>
+  <HE_Chain_Yamato.steps.1.label>Fold the steel</HE_Chain_Yamato.steps.1.label>
+  <HE_Chain_Yamato.steps.1.text>Learn the forged folds tradition so your smiths can make blades worthy of the task.</HE_Chain_Yamato.steps.1.text>
+  <HE_Chain_Yamato.steps.1.doneText>Your smiths have mastered the folds. A challenger has heard of it and is coming.</HE_Chain_Yamato.steps.1.doneText>
+  <HE_Chain_Yamato.steps.2.label>The challenger</HE_Chain_Yamato.steps.2.label>
+  <HE_Chain_Yamato.steps.2.text>A band of ronin led by a famous swordsman wants to test your colony. Defeat them.</HE_Chain_Yamato.steps.2.text>
+  <HE_Chain_Yamato.steps.2.doneText>The challenger falls. Before dying he tells you the way to the mountain shrine.</HE_Chain_Yamato.steps.2.doneText>
+  <HE_Chain_Yamato.steps.3.label>The mountain shrine</HE_Chain_Yamato.steps.3.label>
+  <HE_Chain_Yamato.steps.3.text>Send a caravan to the mountain shrine marked on the world map, defeat its guards and bring the sacred mirror home.</HE_Chain_Yamato.steps.3.text>
+  <HE_Chain_Yamato.steps.3.doneText>The mirror is yours, and beneath it, wrapped in old silk, lies the Sky Sword of the first shogun.</HE_Chain_Yamato.steps.3.doneText>
+  <HE_Chain_Yamato.steps.4.label>Who will rule?</HE_Chain_Yamato.steps.4.label>
+  <HE_Chain_Yamato.steps.4.text>The clans wait for your word. You can give the mirror and the sword to the young heir the monks have hidden, or keep the sword for your own house.</HE_Chain_Yamato.steps.4.text>
+  <HE_Chain_Yamato.steps.4.options.0.label>Restore the heir</HE_Chain_Yamato.steps.4.options.0.label>
+  <HE_Chain_Yamato.steps.4.options.0.text>The heir is crowned. The shogunate is grateful and shares the secrets of its scholars.</HE_Chain_Yamato.steps.4.options.0.text>
+  <HE_Chain_Yamato.steps.4.options.1.label>Take the sword</HE_Chain_Yamato.steps.4.options.1.label>
+  <HE_Chain_Yamato.steps.4.options.1.text>You return the mirror but keep the Sky Sword. The clans call it theft; your colonists call it fate.</HE_Chain_Yamato.steps.4.options.1.text>
+  <HE_Chain_Nord.label>Winter Rite</HE_Chain_Nord.label>
+  <HE_Chain_Nord.description>Every hundred winters the jarls of Nordheim must open the ice barrow of their first king. This winter, the rite falls to you.</HE_Chain_Nord.description>
+  <HE_Chain_Nord.startText>A skald arrives through the snow: the old jarl is dead, and the winter rite must be done before a new one can be chosen. The people of Nordheim ask your colony to prepare the feast and open the barrow.</HE_Chain_Nord.startText>
+  <HE_Chain_Nord.endText>The rite is done. The skalds will sing of it for a hundred winters, until the barrow must be opened again.</HE_Chain_Nord.endText>
+  <HE_Chain_Nord.steps.0.label>The winter feast</HE_Chain_Nord.steps.0.label>
+  <HE_Chain_Nord.steps.0.text>The rite begins with a feast and warm gifts for the mourners. Gather 60 pemmican and 80 plain leather, then deliver them from the Stories page.</HE_Chain_Nord.steps.0.text>
+  <HE_Chain_Nord.steps.0.doneText>The feast is ready. Now the dead need a stone to remember them by.</HE_Chain_Nord.steps.0.doneText>
+  <HE_Chain_Nord.steps.1.label>Carve the stone</HE_Chain_Nord.steps.1.label>
+  <HE_Chain_Nord.steps.1.text>Build a rune stone in your colony to honour the dead king.</HE_Chain_Nord.steps.1.text>
+  <HE_Chain_Nord.steps.1.doneText>The runes are cut. That night the wind turns, and the cold comes down from the mountains.</HE_Chain_Nord.steps.1.doneText>
+  <HE_Chain_Nord.steps.2.label>Survive the long night</HE_Chain_Nord.steps.2.label>
+  <HE_Chain_Nord.steps.2.text>A cold snap grips the land, and Roman scouts use it to strike before the rite is done. Survive the cold and drive off the attack.</HE_Chain_Nord.steps.2.text>
+  <HE_Chain_Nord.steps.2.doneText>The long night is over. The way to the ice barrow is open.</HE_Chain_Nord.steps.2.doneText>
+  <HE_Chain_Nord.steps.3.label>The ice barrow</HE_Chain_Nord.steps.3.label>
+  <HE_Chain_Nord.steps.3.text>Send a caravan to the ice barrow marked on the world map, defeat the grave robbers and bring the barrow horn home.</HE_Chain_Nord.steps.3.text>
+  <HE_Chain_Nord.steps.3.doneText>The horn is yours. Frost spreads across your fingers when you hold it.</HE_Chain_Nord.steps.3.doneText>
+  <HE_Chain_Nord.steps.4.label>The horn's voice</HE_Chain_Nord.steps.4.label>
+  <HE_Chain_Nord.steps.4.text>The new jarl asks for the horn, as the rite demands. Your colonists want to blow it themselves and wake its power.</HE_Chain_Nord.steps.4.text>
+  <HE_Chain_Nord.steps.4.options.0.label>Give it to the jarl</HE_Chain_Nord.steps.4.options.0.label>
+  <HE_Chain_Nord.steps.4.options.0.text>The jarl takes the horn and names your colony a friend of Nordheim.</HE_Chain_Nord.steps.4.options.0.text>
+  <HE_Chain_Nord.steps.4.options.1.label>Blow it now</HE_Chain_Nord.steps.4.options.1.label>
+  <HE_Chain_Nord.steps.4.options.1.text>Thunder answers the horn. It is yours now, and the jarl will not forget it.</HE_Chain_Nord.steps.4.options.1.text>
+  <HE_Chain_Hellas.label>The Lost Library</HE_Chain_Hellas.label>
+  <HE_Chain_Hellas.description>The library of the colony ship Argo was buried by an earthquake two centuries ago. Find it, and decide who may read it.</HE_Chain_Hellas.description>
+  <HE_Chain_Hellas.startText>An old scholar of the league arrives with a surveyor's map and a fever. Before the illness takes him, he wants one thing: to see the lost library of the Argo opened again. He believes he knows where it lies.</HE_Chain_Hellas.startText>
+  <HE_Chain_Hellas.endText>The opening of the lost library is now a famous story in Hellas, and the name of your colony is written in its first chapter.</HE_Chain_Hellas.endText>
+  <HE_Chain_Hellas.steps.0.label>Supplies for the scholar</HE_Chain_Hellas.steps.0.label>
+  <HE_Chain_Hellas.steps.0.text>The scholar needs medicine for his fever and cloth for copying. Gather 100 cloth and 20 herbal medicine, then deliver them from the Stories page.</HE_Chain_Hellas.steps.0.text>
+  <HE_Chain_Hellas.steps.0.doneText>The fever breaks. The scholar unrolls his map: the old survey can only be read by someone who knows geometry.</HE_Chain_Hellas.steps.0.doneText>
+  <HE_Chain_Hellas.steps.1.label>Read the old survey</HE_Chain_Hellas.steps.1.label>
+  <HE_Chain_Hellas.steps.1.text>Learn the geometry tradition so your colonists can follow the surveyor's lines to the buried city.</HE_Chain_Hellas.steps.1.text>
+  <HE_Chain_Hellas.steps.1.doneText>The lines meet in the hills. Unfortunately, treasure hunters have been watching your colony.</HE_Chain_Hellas.steps.1.doneText>
+  <HE_Chain_Hellas.steps.2.label>The treasure hunters</HE_Chain_Hellas.steps.2.label>
+  <HE_Chain_Hellas.steps.2.text>A band of treasure hunters wants the map for themselves. Drive them off.</HE_Chain_Hellas.steps.2.text>
+  <HE_Chain_Hellas.steps.2.doneText>The treasure hunters are beaten. Their leader's notes confirm it: the library lies under a ruined temple.</HE_Chain_Hellas.steps.2.doneText>
+  <HE_Chain_Hellas.steps.3.label>The buried temple</HE_Chain_Hellas.steps.3.label>
+  <HE_Chain_Hellas.steps.3.text>Send a caravan to the buried temple marked on the world map, defeat the looters camped there and bring the library scrolls home.</HE_Chain_Hellas.steps.3.text>
+  <HE_Chain_Hellas.steps.3.doneText>The scrolls are yours: geometry, medicine, lost plays. And beneath them, wrapped in linen, a bronze aegis with an owl upon it.</HE_Chain_Hellas.steps.3.doneText>
+  <HE_Chain_Hellas.steps.4.label>Whose library?</HE_Chain_Hellas.steps.4.label>
+  <HE_Chain_Hellas.steps.4.text>The league asks for the scrolls, to copy them in every city. Your colonists would rather keep the aegis that lay among them, and the league will not give it up easily.</HE_Chain_Hellas.steps.4.text>
+  <HE_Chain_Hellas.steps.4.options.0.label>Give everything to the league</HE_Chain_Hellas.steps.4.options.0.label>
+  <HE_Chain_Hellas.steps.4.options.0.text>The league copies the library in every city and honours your colony as its finder.</HE_Chain_Hellas.steps.4.options.0.text>
+  <HE_Chain_Hellas.steps.4.options.1.label>Keep the aegis</HE_Chain_Hellas.steps.4.options.1.label>
+  <HE_Chain_Hellas.steps.4.options.1.text>You hand over the scrolls but keep the Owl Aegis. The archons call it a scandal.</HE_Chain_Hellas.steps.4.options.1.text>
+  <HE_Chain_Tianxia.label>The Palace Examination</HE_Chain_Tianxia.label>
+  <HE_Chain_Tianxia.description>The jade seal of the emperor has been stolen. The court has set an examination: whoever returns it passes.</HE_Chain_Tianxia.description>
+  <HE_Chain_Tianxia.startText>A court eunuch arrives with an imperial notice: the jade seal has vanished from the palace, and Yamato agents are blamed. Any household that recovers it will be honoured above all others. Your colony has been invited to sit this examination.</HE_Chain_Tianxia.startText>
+  <HE_Chain_Tianxia.endText>The tale of the jade seal is told in every tea house of Tianxia, and your colony is the hero of it, or the villain.</HE_Chain_Tianxia.endText>
+  <HE_Chain_Tianxia.steps.0.label>Gifts for the examiners</HE_Chain_Tianxia.steps.0.label>
+  <HE_Chain_Tianxia.steps.0.text>No examination begins without proper gifts. Gather 30 gold and 20 jade, then deliver them from the Stories page.</HE_Chain_Tianxia.steps.0.text>
+  <HE_Chain_Tianxia.steps.0.doneText>The examiners are satisfied. The first question: can your household keep a garden worthy of a scholar?</HE_Chain_Tianxia.steps.0.doneText>
+  <HE_Chain_Tianxia.steps.1.label>A scholar's garden</HE_Chain_Tianxia.steps.1.label>
+  <HE_Chain_Tianxia.steps.1.text>Build a moon gate in your colony to show the examiners your household's refinement.</HE_Chain_Tianxia.steps.1.text>
+  <HE_Chain_Tianxia.steps.1.doneText>The examiners pass you through the gate with a nod. That night, the thieves' friends come for you.</HE_Chain_Tianxia.steps.1.doneText>
+  <HE_Chain_Tianxia.steps.2.label>The night attack</HE_Chain_Tianxia.steps.2.label>
+  <HE_Chain_Tianxia.steps.2.text>Yamato agents want to stop your household before it finds the seal. Defeat them.</HE_Chain_Tianxia.steps.2.text>
+  <HE_Chain_Tianxia.steps.2.doneText>One captured agent talks: the seal is hidden in an abandoned summer palace.</HE_Chain_Tianxia.steps.2.doneText>
+  <HE_Chain_Tianxia.steps.3.label>The summer palace</HE_Chain_Tianxia.steps.3.label>
+  <HE_Chain_Tianxia.steps.3.text>Send a caravan to the summer palace marked on the world map, defeat its guards and bring the jade seal home.</HE_Chain_Tianxia.steps.3.text>
+  <HE_Chain_Tianxia.steps.3.doneText>The seal is in your hands, cracked but whole. Holding it, you feel the weight of an empire.</HE_Chain_Tianxia.steps.3.doneText>
+  <HE_Chain_Tianxia.steps.4.label>The last question</HE_Chain_Tianxia.steps.4.label>
+  <HE_Chain_Tianxia.steps.4.text>The court waits. You can return the seal to the emperor and pass the examination with honour, or mend it with gold and keep it, as rebels once did.</HE_Chain_Tianxia.steps.4.text>
+  <HE_Chain_Tianxia.steps.4.options.0.label>Return the seal</HE_Chain_Tianxia.steps.4.options.0.label>
+  <HE_Chain_Tianxia.steps.4.options.0.text>The emperor himself reads your name aloud. Your household has passed the palace examination.</HE_Chain_Tianxia.steps.4.options.0.text>
+  <HE_Chain_Tianxia.steps.4.options.1.label>Keep the seal</HE_Chain_Tianxia.steps.4.options.1.label>
+  <HE_Chain_Tianxia.steps.4.options.1.text>Mended with gold, the seal is yours. The court declares your household rebels.</HE_Chain_Tianxia.steps.4.options.1.text>
+  <HE_Chain_Albion.label>Iron Revolution</HE_Chain_Albion.label>
+  <HE_Chain_Albion.description>Albion's first engine works were burned by Roman saboteurs long ago. Rebuild the engine, and decide whose drum it marches to.</HE_Chain_Albion.description>
+  <HE_Chain_Albion.startText>A retired engineer of the commonwealth arrives with a roll of drawings. The old engine works of Avalon, he says, still hold the patterns of the first steam engine and the drum of the regiment that guarded them. Parliament would pay a fortune for both.</HE_Chain_Albion.startText>
+  <HE_Chain_Albion.endText>Albion's newspapers call it the second iron revolution, and your colony is on every front page.</HE_Chain_Albion.endText>
+  <HE_Chain_Albion.steps.0.label>Iron and parts</HE_Chain_Albion.steps.0.label>
+  <HE_Chain_Albion.steps.0.text>The engineer needs material to rebuild the old patterns. Gather 300 steel and 8 components, then deliver them from the Stories page.</HE_Chain_Albion.steps.0.text>
+  <HE_Chain_Albion.steps.0.doneText>The patterns are cast. Now your colony must learn how the engine works.</HE_Chain_Albion.steps.0.doneText>
+  <HE_Chain_Albion.steps.1.label>The steam engine</HE_Chain_Albion.steps.1.label>
+  <HE_Chain_Albion.steps.1.text>Research the steam engine so your engineers can understand the old drawings.</HE_Chain_Albion.steps.1.text>
+  <HE_Chain_Albion.steps.1.doneText>The drawings make sense at last. Word has reached Nova Roma, and its agents are on their way.</HE_Chain_Albion.steps.1.doneText>
+  <HE_Chain_Albion.steps.2.label>Roman saboteurs</HE_Chain_Albion.steps.2.label>
+  <HE_Chain_Albion.steps.2.text>Nova Roma will not let Albion grow stronger. Its saboteurs are coming to burn your workshops. Stop them.</HE_Chain_Albion.steps.2.text>
+  <HE_Chain_Albion.steps.2.doneText>The saboteurs are beaten. One of them carried a map of the old engine works, marked for burning.</HE_Chain_Albion.steps.2.doneText>
+  <HE_Chain_Albion.steps.3.label>The old engine works</HE_Chain_Albion.steps.3.label>
+  <HE_Chain_Albion.steps.3.text>Send a caravan to the old engine works marked on the world map, defeat the Roman guards and bring the regimental drum home.</HE_Chain_Albion.steps.3.text>
+  <HE_Chain_Albion.steps.3.doneText>Among the rusted machines you find the drum of the Avalon Guard, dented but unbroken.</HE_Chain_Albion.steps.3.doneText>
+  <HE_Chain_Albion.steps.4.label>The drum's master</HE_Chain_Albion.steps.4.label>
+  <HE_Chain_Albion.steps.4.text>Parliament wants the drum for the national museum. Your colonists want to restore it and march to it themselves.</HE_Chain_Albion.steps.4.text>
+  <HE_Chain_Albion.steps.4.options.0.label>Give it to Parliament</HE_Chain_Albion.steps.4.options.0.label>
+  <HE_Chain_Albion.steps.4.options.0.text>Parliament votes your colony its thanks and a handsome purse.</HE_Chain_Albion.steps.4.options.0.text>
+  <HE_Chain_Albion.steps.4.options.1.label>Restore it and keep it</HE_Chain_Albion.steps.4.options.1.label>
+  <HE_Chain_Albion.steps.4.options.1.text>Your smiths restore the drum. Parliament calls it theft of national property.</HE_Chain_Albion.steps.4.options.1.text>
+  <HE_Chain_Kemet.label>The City Beneath the Sand</HE_Chain_Kemet.label>
+  <HE_Chain_Kemet.description>A sandstorm two centuries ago buried Iteru, the first city of Kemet. A shepherd has seen the tip of its obelisk. Dig it out, and decide who it belongs to.</HE_Chain_Kemet.description>
+  <HE_Chain_Kemet.startText>A Kemetic shepherd arrives with a gold-capped shard of stone in his bag. After the last storm, he says, the tip of an obelisk stood out of the dunes where none had been. The old scribes say that is where Iteru lies, and Iteru held the Sun Disc.</HE_Chain_Kemet.startText>
+  <HE_Chain_Kemet.endText>The digging of Iteru is now told along the whole river, and the name of your colony is carved on the base of its obelisk.</HE_Chain_Kemet.endText>
+  <HE_Chain_Kemet.steps.0.label>Tools for the dig</HE_Chain_Kemet.steps.0.label>
+  <HE_Chain_Kemet.steps.0.text>Digging out a city takes tools, rope and water skins. Gather 80 steel, 120 wood and 60 cloth, then deliver them from the Stories page.</HE_Chain_Kemet.steps.0.text>
+  <HE_Chain_Kemet.steps.0.doneText>The diggers are equipped. The old scribes ask one more thing: an obelisk of your own, to read the shadows and find the buried streets.</HE_Chain_Kemet.steps.0.doneText>
+  <HE_Chain_Kemet.steps.1.label>Read the shadows</HE_Chain_Kemet.steps.1.label>
+  <HE_Chain_Kemet.steps.1.text>Build an obelisk in your colony. At noon on midsummer its shadow will point to the lost city.</HE_Chain_Kemet.steps.1.text>
+  <HE_Chain_Kemet.steps.1.doneText>The shadow points into the deep desert. That night, tomb robbers come for your scribes and their maps.</HE_Chain_Kemet.steps.1.doneText>
+  <HE_Chain_Kemet.steps.2.label>The tomb robbers</HE_Chain_Kemet.steps.2.label>
+  <HE_Chain_Kemet.steps.2.text>A gang of tomb robbers wants the maps and the city for themselves. Drive them off.</HE_Chain_Kemet.steps.2.text>
+  <HE_Chain_Kemet.steps.2.doneText>The robbers are beaten. Their leader carried a rubbing of the city gate: Iteru is real, and it is close.</HE_Chain_Kemet.steps.2.doneText>
+  <HE_Chain_Kemet.steps.3.label>Iteru beneath the sand</HE_Chain_Kemet.steps.3.label>
+  <HE_Chain_Kemet.steps.3.text>Send a caravan to the buried city marked on the world map, defeat the robbers who got there first and bring the sun disc home.</HE_Chain_Kemet.steps.3.text>
+  <HE_Chain_Kemet.steps.3.doneText>Under a fallen gate, in a hall full of sand, lies the sun disc of Iteru, as wide as a cart wheel and still faintly gold.</HE_Chain_Kemet.steps.3.doneText>
+  <HE_Chain_Kemet.steps.4.label>Whose sun?</HE_Chain_Kemet.steps.4.label>
+  <HE_Chain_Kemet.steps.4.text>The pharaoh wants the disc back in the capital, where it would hang above the throne. Your colonists, who dug it out with their own hands, would rather polish it and keep it.</HE_Chain_Kemet.steps.4.text>
+  <HE_Chain_Kemet.steps.4.options.0.label>Send it to the pharaoh</HE_Chain_Kemet.steps.4.options.0.label>
+  <HE_Chain_Kemet.steps.4.options.0.text>The disc hangs above the throne again and your colony is named in the royal annals.</HE_Chain_Kemet.steps.4.options.0.text>
+  <HE_Chain_Kemet.steps.4.options.1.label>Keep the sun disc</HE_Chain_Kemet.steps.4.options.1.label>
+  <HE_Chain_Kemet.steps.4.options.1.text>Polished and raised on your own walls, the disc is yours. The court calls it theft.</HE_Chain_Kemet.steps.4.options.1.text>
+  <HE_Chain_Pars.label>The Royal Road</HE_Chain_Pars.label>
+  <HE_Chain_Pars.description>The western stretch of the royal road has been dead for a generation, its stations burned and its riders gone. Open it again, and decide who keeps the warrant you find on the way.</HE_Chain_Pars.description>
+  <HE_Chain_Pars.startText>A Parsian post rider reaches your colony on a lame horse. The satrap wants the western road open again, the rider says, and your colony sits right where the first new station should be. Somewhere beyond it lies the last station that burned, and with it the King's Eye that its inspector carried.</HE_Chain_Pars.startText>
+  <HE_Chain_Pars.endText>Riders change horses at your station again and the western road is alive. In the satrap's book of roads, your colony has its own line.</HE_Chain_Pars.endText>
+  <HE_Chain_Pars.steps.0.label>Stock the station</HE_Chain_Pars.steps.0.label>
+  <HE_Chain_Pars.steps.0.text>A post station needs fodder, timber for the stables and iron for horseshoes. Gather 200 hay, 150 wood and 50 steel, then deliver them from the Stories page.</HE_Chain_Pars.steps.0.text>
+  <HE_Chain_Pars.steps.0.doneText>The stables are full. The rider says no Parsian will trust a station without a garden to rest in.</HE_Chain_Pars.steps.0.doneText>
+  <HE_Chain_Pars.steps.1.label>A garden for the riders</HE_Chain_Pars.steps.1.label>
+  <HE_Chain_Pars.steps.1.text>Build a paradise garden in your colony, so tired riders have water and shade.</HE_Chain_Pars.steps.1.text>
+  <HE_Chain_Pars.steps.1.doneText>The first riders sit by your pool and talk. Word that the road is opening has reached the bandits who have lived off it for years.</HE_Chain_Pars.steps.1.doneText>
+  <HE_Chain_Pars.steps.2.label>The road bandits</HE_Chain_Pars.steps.2.label>
+  <HE_Chain_Pars.steps.2.text>The bandits who rule the dead road want your station burned like the others. Drive them off.</HE_Chain_Pars.steps.2.text>
+  <HE_Chain_Pars.steps.2.doneText>The bandits are beaten. One of them, bargaining for their life, tells you where the last burned station lies.</HE_Chain_Pars.steps.2.doneText>
+  <HE_Chain_Pars.steps.3.label>The burned station</HE_Chain_Pars.steps.3.label>
+  <HE_Chain_Pars.steps.3.text>Send a caravan to the burned station marked on the world map, clear out the bandits who camp in it and bring back what the inspector left behind.</HE_Chain_Pars.steps.3.text>
+  <HE_Chain_Pars.steps.3.doneText>Under the ash of the inspector's room lies a small iron box, and in it the King's Eye, black with soot but whole.</HE_Chain_Pars.steps.3.doneText>
+  <HE_Chain_Pars.steps.4.label>Whose eye?</HE_Chain_Pars.steps.4.label>
+  <HE_Chain_Pars.steps.4.text>The satrap asks for the warrant back: it belongs to the court, and a new inspector is waiting for it. Your colonists, who opened the road, think the road's keepers should hold it.</HE_Chain_Pars.steps.4.text>
+  <HE_Chain_Pars.steps.4.options.0.label>Return it to the satrap</HE_Chain_Pars.steps.4.options.0.label>
+  <HE_Chain_Pars.steps.4.options.0.text>A new inspector rides the western road with the King's Eye, and the court remembers who found it.</HE_Chain_Pars.steps.4.options.0.text>
+  <HE_Chain_Pars.steps.4.options.1.label>Keep the King's Eye</HE_Chain_Pars.steps.4.options.1.label>
+  <HE_Chain_Pars.steps.4.options.1.text>Cleaned and set on a staff, the eye is yours. The satrap calls it a stolen warrant.</HE_Chain_Pars.steps.4.options.1.text>
+  <HE_Chain_Inti.label>The Language of Knots</HE_Chain_Inti.label>
+  <HE_Chain_Inti.description>A province of the Inti was lost in an earthquake two generations ago, and with it the great quipu that held its count. Find it, learn to read it again and decide where it belongs.</HE_Chain_Inti.description>
+  <HE_Chain_Inti.startText>An old knot keeper arrives with a single faded cord tied with gold. It was cut from the great quipu of Hatun Qulla, the keeper says, the province the mountain swallowed. The rest of it is still out there, and no one alive can read it.</HE_Chain_Inti.startText>
+  <HE_Chain_Inti.endText>The count of Hatun Qulla is whole again. In every province, knot keepers tie a new cord for your colony into their records.</HE_Chain_Inti.endText>
+  <HE_Chain_Inti.steps.0.label>Cord and patience</HE_Chain_Inti.steps.0.label>
+  <HE_Chain_Inti.steps.0.text>Relearning a lost way of knotting takes cord, frames and time. Gather 120 cloth, 100 wood and 40 steel, then deliver them from the Stories page.</HE_Chain_Inti.steps.0.text>
+  <HE_Chain_Inti.steps.0.doneText>The keeper has cord to practise on. Now a proper quipu table is needed, to lay out the old patterns.</HE_Chain_Inti.steps.0.doneText>
+  <HE_Chain_Inti.steps.1.label>A table of knots</HE_Chain_Inti.steps.1.label>
+  <HE_Chain_Inti.steps.1.text>Build a quipu table in your colony so the keeper can read the faded cord against fresh ones.</HE_Chain_Inti.steps.1.text>
+  <HE_Chain_Inti.steps.1.doneText>The faded cord speaks: it names a valley and a storehouse. But looters who dig in the old province have heard of your search.</HE_Chain_Inti.steps.1.doneText>
+  <HE_Chain_Inti.steps.2.label>The looters</HE_Chain_Inti.steps.2.label>
+  <HE_Chain_Inti.steps.2.text>Looters who strip the ruins of the lost province want the keeper and the cord. Drive them off.</HE_Chain_Inti.steps.2.text>
+  <HE_Chain_Inti.steps.2.doneText>The looters are beaten. Their leader carried a map scratched on a potsherd: the storehouse of Hatun Qulla still stands.</HE_Chain_Inti.steps.2.doneText>
+  <HE_Chain_Inti.steps.3.label>The storehouse of Hatun Qulla</HE_Chain_Inti.steps.3.label>
+  <HE_Chain_Inti.steps.3.text>Send a caravan to the ruined province marked on the world map, drive out the looters camped there and bring the great quipu home.</HE_Chain_Inti.steps.3.text>
+  <HE_Chain_Inti.steps.3.doneText>In the back of a collapsed storehouse, hanging from a beam above the mud, is the great quipu, tangled but whole.</HE_Chain_Inti.steps.3.doneText>
+  <HE_Chain_Inti.steps.4.label>Whose count?</HE_Chain_Inti.steps.4.label>
+  <HE_Chain_Inti.steps.4.text>The Sapa Inti wants the great quipu in the capital's house of records, where every keeper can study it. Your colonists, who untangled it knot by knot, would rather restring it on gold and keep it.</HE_Chain_Inti.steps.4.text>
+  <HE_Chain_Inti.steps.4.options.0.label>Send it to the capital</HE_Chain_Inti.steps.4.options.0.label>
+  <HE_Chain_Inti.steps.4.options.0.text>The count of Hatun Qulla hangs in the house of records, and your colony is tied into it.</HE_Chain_Inti.steps.4.options.0.text>
+  <HE_Chain_Inti.steps.4.options.1.label>Keep the Golden Thread</HE_Chain_Inti.steps.4.options.1.label>
+  <HE_Chain_Inti.steps.4.options.1.text>Restrung on golden cord, the great quipu is yours. The court says you have stolen a province's memory.</HE_Chain_Inti.steps.4.options.1.text>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Lorica.label>lorica segmentata</HE_Roma_Lorica.label>
+  <HE_Roma_Lorica.description>Deri bir koşum üzerine bağlanmış, üst üste binen demir şeritler. Kılıçları iyi savuşturur, ama giyen biraz daha yavaş yürür.</HE_Roma_Lorica.description>
+  <HE_Roma_Galea.label>galea</HE_Roma_Galea.label>
+  <HE_Roma_Galea.description>Geniş yanak siperlikli, kırmızı at kılı sorguçlu, bronz süslü bir lejyoner miğferi.</HE_Roma_Galea.description>
+  <HE_Roma_Tunica.label>tunica</HE_Roma_Tunica.label>
+  <HE_Roma_Tunica.description>Dar kenar şeritli, belden kuşaklı, diz boyu yün tunika. Her yurttaşın iki tane vardır.</HE_Roma_Tunica.description>
+  <HE_Roma_Toga.label>toga</HE_Roma_Toga.label>
+  <HE_Roma_Toga.description>Vücuda ve sol omzun üstüne sarılan büyük, yarım daire biçiminde beyaz bir yün. Sadece yurttaşlar giyebilir; mor kenar bir yargıcı belli eder.</HE_Roma_Toga.description>
+  <HE_Roma_Laurel.label>defne tacı</HE_Roma_Laurel.label>
+  <HE_Roma_Laurel.description>Altından dövülmüş defne yapraklarından bir taç; zafer alayındaki bir komutanın tacı. Bir zamanlar arkasında bir köle durur, ona yalnızca bir insan olduğunu fısıldardı.</HE_Roma_Laurel.description>
+  <HE_Roma_FieldCoat.label>lejyon sahra ceketi</HE_Roma_FieldCoat.label>
+  <HE_Roma_FieldCoat.description>Bronz düğmeli ve boğazında kartallı bir boyunluk olan, imparatorluk kızılı, uzun, kruvaze bir ceket.</HE_Roma_FieldCoat.description>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti.label>İnti İmparatorluğu</HE_Inti.label>
+  <HE_Inti.description>Qhapaq koloni gemisi havanın ince, vadilerin dar olduğu bir dünyada yüksek dağların arasına indi. Halkı yamaçları teraslara böldü, taş ambarları kötü yıllara karşı doldurdu ve her sayımı, nüfus kaydını ve vergiyi düğümlü iplere bağladı. İnti İmparatorluğu düzenli, çalışkan ve sabırlıdır; içinde kimse aç kalmaz. Dağ madenleri yüzünden Albion'la eski bir kavgaları vardır.</HE_Inti.description>
+  <HE_Inti.rulerTitle>Sapa İnti</HE_Inti.rulerTitle>
+  <HE_Inti.adjective>İnti</HE_Inti.adjective>
+  <HE_Inti.doctrine.label>dağ lağımcıları</HE_Inti.doctrine.label>
+  <HE_Inti.doctrine.description>And Dağları'nın yol yapıcıları kayanın etrafından değil içinden geçer. Inti akıncıları surlarına doğru tünel kazar ve dağda eğitilmiş bir nişanla taş atar.</HE_Inti.doctrine.description>
+  <HE_Inti.honoraryTitle>Güneşin akrabası</HE_Inti.honoraryTitle>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Helm.label>spangenhelm</HE_Nord_Helm.label>
+  <HE_Nord_Helm.description>Geniş bir burun siperliği ve gözlük biçimli göz siperleri olan, perçinli plakalardan yuvarlak demir bir miğfer.</HE_Nord_Helm.description>
+  <HE_Nord_Byrnie.label>zırh gömleği</HE_Nord_Byrnie.label>
+  <HE_Nord_Byrnie.description>Dolgulu bir tunik üzerine giyilen, perçinli demir halkalardan diz boyu bir gömlek. Ağırdır ama çoğu kesiği durdurur.</HE_Nord_Byrnie.description>
+  <HE_Nord_FurCloak.label>kürk pelerin</HE_Nord_FurCloak.label>
+  <HE_Nord_FurCloak.description>Bronz bir broşla tutturulmuş, kalın postlardan ağır bir pelerin. Kuzey rüzgârını hiçbir şey daha iyi kesmez.</HE_Nord_FurCloak.description>
+  <HE_Nord_Tunic.label>yün tunik</HE_Nord_Tunic.label>
+  <HE_Nord_Tunic.description>Kol ağızlarında ve eteğinde dokuma şeritler olan kalın yün bir tunik. Sıcak, sağlam ve kaşındırıcı.</HE_Nord_Tunic.description>
+  <HE_Nord_Circlet.label>jarl tacı</HE_Nord_Circlet.label>
+  <HE_Nord_Circlet.description>Düğüm işlemeli, tek bir kırmızı taş kakılmış sade bir gümüş bant. Bir jarlın daha görkemli bir taca ihtiyacı yoktur: Thing'deki sözü yeter.</HE_Nord_Circlet.description>
+  <HE_Nord_FieldCoat.label>Nord kaputu</HE_Nord_FieldCoat.label>
+  <HE_Nord_FieldCoat.description>Kürk yakalı ve iki sıra kalay düğmeli, ağır, gri mavi bir kaput. Bitmeyen kışlar için yapılmış.</HE_Nord_FieldCoat.description>
+</LanguageData>

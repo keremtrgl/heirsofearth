@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Albion_Cobble</defName>
+    <label>cobblestone street</label>
+    <description>Rounded stones set close in sand. Hard-wearing and quick to walk on, if noisy under boots.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Albion_Cobble</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>700</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksGranite>3</BlocksGranite>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_Brick</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Albion_Brick</defName>
+    <label>brick paving</label>
+    <description>Red bricks laid in a herringbone pattern. Warm-looking and tidy.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Albion_Brick</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>900</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSandstone>3</BlocksSandstone>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_Brick</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Albion_Parquet</defName>
+    <label>parquet</label>
+    <description>Oak blocks laid in a herringbone and waxed to a warm shine, the floor of every proper drawing room.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Albion_Parquet</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1200</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>4</WoodLog>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_JointStock</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

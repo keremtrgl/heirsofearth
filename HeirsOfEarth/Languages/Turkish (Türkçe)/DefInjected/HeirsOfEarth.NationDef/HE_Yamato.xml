@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato.label>Yamato Şogunluğu</HE_Yamato.label>
+  <HE_Yamato.description>Takamagahara koloni gemisinin torunları olan Yamato klanları, adalarının eski düzenini yeniden kurdu: sessizce hüküm süren bir imparator, onun adına yöneten bir şogun ve göreve bağlı savaşçı haneleri. Zanaatı servetten, sabrı hızdan üstün tutarlar; kılıç ustaları dünyanın en iyileridir.</HE_Yamato.description>
+  <HE_Yamato.rulerTitle>Şogun</HE_Yamato.rulerTitle>
+  <HE_Yamato.adjective>Yamato</HE_Yamato.adjective>
+  <HE_Yamato.doctrine.label>bushido</HE_Yamato.doctrine.label>
+  <HE_Yamato.doctrine.description>Samuraylar aynı anda birkaç yandan küçük gruplar halinde saldırır ve hedeflerini dikkatle seçer. Ölüm karşısında sakindirler, yaralarına rağmen dövüşmeyi sürdürürler.</HE_Yamato.doctrine.description>
+  <HE_Yamato.honoraryTitle>şogunun onurlu konuğu</HE_Yamato.honoraryTitle>
+</LanguageData>

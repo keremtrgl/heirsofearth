@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Lorica.label>lorica segmentata</HE_Roma_Lorica.label>
+  <HE_Roma_Lorica.description>Overlapping iron bands laced over a leather harness. It turns blades well, though the wearer walks a little slower.</HE_Roma_Lorica.description>
+  <HE_Roma_Galea.label>galea</HE_Roma_Galea.label>
+  <HE_Roma_Galea.description>A bronze-trimmed legionary helmet with wide cheek guards and a red horsehair crest.</HE_Roma_Galea.description>
+  <HE_Roma_Tunica.label>tunica</HE_Roma_Tunica.label>
+  <HE_Roma_Tunica.description>A knee-length wool tunic with a narrow border, belted at the waist. Every citizen owns two.</HE_Roma_Tunica.description>
+  <HE_Roma_Toga.label>toga</HE_Roma_Toga.label>
+  <HE_Roma_Toga.description>A great half-circle of white wool wrapped around the body and over the left shoulder. Only citizens may wear it; a purple border marks a magistrate.</HE_Roma_Toga.description>
+  <HE_Roma_Laurel.label>laurel wreath</HE_Roma_Laurel.label>
+  <HE_Roma_Laurel.description>A wreath of laurel leaves beaten from gold, the crown of a general in triumph. A slave once stood behind him whispering that he was only a man.</HE_Roma_Laurel.description>
+  <HE_Roma_FieldCoat.label>legion field coat</HE_Roma_FieldCoat.label>
+  <HE_Roma_FieldCoat.description>A long double-breasted coat in imperial crimson with bronze buttons and an eagle gorget at the throat.</HE_Roma_FieldCoat.description>
+</LanguageData>

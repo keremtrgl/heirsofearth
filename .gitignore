@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local build and test output
+tools/heirs_test/build/
+tools/heirs_test/*.log
+tools/heirs_test/run_output.txt
+
+# Reference masks taken from the game textures (kept local, never shipped)
+tools/art_ref/
+
+# C# build folders
+bin/
+obj/
+
+# Editors and OS
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

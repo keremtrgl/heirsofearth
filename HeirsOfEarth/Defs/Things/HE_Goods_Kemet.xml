@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Kemet_Archive</defName>
+    <label>Kemetic papyrus roll</label>
+    <description>A thick roll of papyrus in a cedar case: flood records, building plans, medical recipes and the tax lists of a dozen nomes. Studying it at a culture table teaches a great deal about Kemet.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Kemet_Archive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>10</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>220</MarketValue>
+      <Mass>0.6</Mass>
+      <Flammability>1</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_KemetGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

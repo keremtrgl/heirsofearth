@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Albion_Tweed</defName>
+    <label>tweed</label>
+    <description>Heavy checked wool woven on Albion's mills. A warm, rain-proof fabric that wears well; weave it from any wool at a textile mill.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Albion_Tweed</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>100</stackLimit>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>4</MarketValue>
+      <Mass>0.03</Mass>
+      <MaxHitPoints>90</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+      <StuffPower_Armor_Sharp>0.45</StuffPower_Armor_Sharp>
+      <StuffPower_Armor_Blunt>0.05</StuffPower_Armor_Blunt>
+      <StuffPower_Armor_Heat>1.1</StuffPower_Armor_Heat>
+      <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>14</StuffPower_Insulation_Heat>
+    </statBases>
+    <thingCategories>
+      <li>Textiles</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_AlbionGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+    </modExtensions>
+    <stuffProps>
+      <categories>
+        <li>Fabric</li>
+      </categories>
+      <commonality>0.05</commonality>
+      <color>(106,106,78)</color>
+      <statFactors>
+        <Flammability>1.5</Flammability>
+        <Beauty>1.6</Beauty>
+      </statFactors>
+      <canSuggestUseDefaultStuff>true</canSuggestUseDefaultStuff>
+    </stuffProps>
+    <burnableByRecipe>true</burnableByRecipe>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <minRewardCount>30</minRewardCount>
+  </ThingDef>
+</Defs>

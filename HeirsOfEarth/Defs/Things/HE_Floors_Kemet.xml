@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Kemet_Silt</defName>
+    <label>irrigated silt</label>
+    <description>Black river silt spread over soil and laced with small canals. Plants grow on it as on rich soil, a little less. It can only be laid on soil.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Kemet_Silt</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1500</WorkToBuild>
+      <Beauty>0</Beauty>
+      <Cleanliness>-0.5</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>2</WoodLog>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Kemet_Irrigation</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+    <fertility>1.25</fertility>
+    <terrainAffordanceNeeded>GrowSoil</terrainAffordanceNeeded>
+    <affordances Inherit="False">
+      <li>Light</li>
+      <li>Medium</li>
+      <li>Heavy</li>
+      <li>Walkable</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <takeFootprints>true</takeFootprints>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Kemet_LotusTiles</defName>
+    <label>lotus tiles</label>
+    <description>Sandstone slabs painted with blue lotus flowers and a border of reeds.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Kemet_LotusTiles</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1100</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSandstone>4</BlocksSandstone>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Kemet_Obelisk</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Kemet_Sandstone</defName>
+    <label>sandstone slabs</label>
+    <description>Golden sandstone cut into even slabs by the royal masons. Temples, courts and tombs of Kemet are floored with it.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Kemet_Sandstone</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>900</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSandstone>3</BlocksSandstone>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Kemet_Stonemasons</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

@@ -1,0 +1,36 @@
+Heirs of Earth 3.3.0 "Art of War"
+
+Every heir nation now makes war in its own way. Raids by a nation follow its war doctrine, its raiders fight with its drill, its caravans walk with its own animals, and every heir can build a manned trebuchet.
+
+WAR DOCTRINES (NEW)
+- Each nation prefers its own raid plan and way of arriving, and its raiders arrive with a drill that lasts while they fight for the raid. The drill leaves a raider who is downed, captured, recruited or goes home. The raid letter names the doctrine.
+- Nova Roma, testudo: legions gather before they attack and walk in from the edge. Raiders close ranks: the more comrades stand within three cells, the more armour they gain (up to +20% sharp, +10% blunt), but packed together they march slowly.
+- Hellas, phalanx: hoplites attack at once and fight shoulder to shoulder. Standing together they gain sharp armour, melee hit chance and dodge; alone they are ordinary soldiers.
+- Nordheim, strandhogg: shore raiders breach walls with axes and run at you. Faster, hit harder in melee and feel less pain.
+- Yamato, bushido: samurai attack in small bands from several sides and pick their targets with care. Better melee hit and dodge, less pain.
+- Tianxia, art of war: armies gather out of reach, wait and then strike with drilled volleys. Better aim and faster aiming.
+- Albion, siege train: often digs in and builds a battery before attacking (less often than the other doctrines take effect). Riflemen fire measured volleys: better aim, faster aiming, a little slower on foot.
+- New Kemet, chariot vanguard: attacks at once from the edge, and its raiders run far faster than others.
+- Pars, cavalry wings: several swift groups attack at once. Faster and better in melee.
+- Inti, mountain sappers: diggers tunnel toward your walls. Better aim and surer feet.
+- A doctrine only replaces a plan the game chose itself and only when it fits the raid, so scripted raids, quests and other mods' raids are not changed.
+- The doctrine of each nation is shown on its encyclopedia page with its effects.
+- New setting: "Nations raid with their war doctrines". Turn it off and heir raids behave like vanilla raids.
+
+NATION ANIMALS (NEW)
+- Every nation's caravans walk with its own pack animals: horses and donkeys for Nova Roma, horses and yaks for Yamato, yaks for Nordheim, donkeys for Hellas, yaks and horses for Tianxia, horses for Albion, dromedaries for New Kemet and Pars, alpacas for the Inti. A few muffalo walk with every caravan so trade works in every biome.
+- Vanilla only lets some animals carry caravan goods in each biome. Horses, donkeys and yaks are now allowed where they belong (horses and donkeys in temperate and arid lands, yaks in cold lands). Vanilla factions do not use them as carriers, so nothing changes for them.
+- Every heir start brings the nation's own animal: a horse for Nova Roma, Yamato and Albion, a husky for Nordheim, a donkey for Hellas, a yak for Tianxia, a dromedary for New Kemet and Pars, an alpaca for the Inti.
+- The encyclopedia names each nation's pack and herd animal.
+
+TREBUCHET (NEW)
+- New shared medieval research and defensive structure: the counterweight trebuchet (3x3). Any heir can build it, whatever their heritage.
+- A colonist must man it, like a mortar. It hurls boulders over walls at enemies far out of bow range (57 cells), and they smash what they land on with a small blast.
+- It cannot hit anything closer than twenty cells, misses often and reloads slowly. Fed with stone chunks: one chunk makes one boulder, twelve fit at a time.
+
+FIXES
+- On frozen maps vanilla gave heir soldiers a "free" warm layer chosen from every piece of clothing in the game, which could replace their uniform: an Albion fusilier could lose his shako to a tuque and his shirt to a Nordic tunic. Heir pawns now take any extra warmth only from their own nation's wardrobe, and never lose a piece their uniform requires.
+
+TECHNICAL
+- New automatic tests: every nation has a complete doctrine, the drill is added to raiders, grows with the formation, breaks when a raider stands alone and leaves a downed raider, the doctrine picks the raid plan and arrival (and does nothing when switched off or when the plan was forced), a real New Kemet raid arrives drilled and faster, nation animals and carriers in every biome, a manned trebuchet firing at a raider, and heir kits on a frozen tile.
+- Save compatible. Caravans and starts made before the update keep their animals.

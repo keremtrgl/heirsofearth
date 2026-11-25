@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Dory.label>dory</HE_Hellas_Dory.label>
+  <HE_Hellas_Dory.description>The long thrusting spear of the hoplite, with a leaf-shaped head and a bronze butt-spike.</HE_Hellas_Dory.description>
+  <HE_Hellas_Toxon.label>toxon</HE_Hellas_Toxon.label>
+  <HE_Hellas_Toxon.description>The Scythian-style recurve bow, short enough to use behind a shield wall.</HE_Hellas_Toxon.description>
+  <HE_Hellas_Meander.label>meander floors</HE_Hellas_Meander.label>
+  <HE_Hellas_Meander.description>Lay pale stone floors bordered with the endless key pattern of the old temples.</HE_Hellas_Meander.description>
+  <HE_Hellas_Chiton.label>chiton</HE_Hellas_Chiton.label>
+  <HE_Hellas_Chiton.description>Sew the light pinned tunic worn by every citizen from the agora to the gymnasium.</HE_Hellas_Chiton.description>
+  <HE_Hellas_Maza.label>maza</HE_Hellas_Maza.label>
+  <HE_Hellas_Maza.description>Barley cakes kneaded with olive oil and honey: plain food that keeps a hoplite marching.</HE_Hellas_Maza.description>
+  <HE_Hellas_Columns.label>fluted columns</HE_Hellas_Columns.label>
+  <HE_Hellas_Columns.description>Carve fluted columns and crown them with statues of the city's heroes.</HE_Hellas_Columns.description>
+  <HE_Hellas_Olympic.label>olympic games</HE_Hellas_Olympic.label>
+  <HE_Hellas_Olympic.description>Every fourth summer the cities stop their wars and race each other instead.
+
+Tradition: Colonists move 3% faster.
+
+Requires 15 Hellenic knowledge unless this is your heritage.</HE_Hellas_Olympic.description>
+  <HE_Hellas_Rhetoric.label>rhetoric</HE_Hellas_Rhetoric.label>
+  <HE_Hellas_Rhetoric.description>In the assembly a good argument is worth more than a good spear.
+
+Tradition: Colonists gain +12% negotiation ability.
+
+Requires 15 Hellenic knowledge unless this is your heritage.</HE_Hellas_Rhetoric.description>
+  <HE_Hellas_Geometry.label>geometry</HE_Hellas_Geometry.label>
+  <HE_Hellas_Geometry.description>Let no one ignorant of geometry build here: measured lines make faster, straighter walls.
+
+Tradition: Colonists build 8% faster.
+
+Requires 20 Hellenic knowledge unless this is your heritage.</HE_Hellas_Geometry.description>
+  <HE_Hellas_Bronze.label>bronze smithing</HE_Hellas_Bronze.label>
+  <HE_Hellas_Bronze.description>Cast and hammer the short xiphos and the heavy, forward-curved kopis.
+
+Requires 10 Hellenic knowledge unless this is your heritage.</HE_Hellas_Bronze.description>
+  <HE_Hellas_Theatron.label>theatron</HE_Hellas_Theatron.label>
+  <HE_Hellas_Theatron.description>Build a stage and a painted backdrop, and the whole colony will gather to watch the old plays.
+
+Requires 15 Hellenic knowledge unless this is your heritage.</HE_Hellas_Theatron.description>
+  <HE_Hellas_Hippocratic.label>hippocratic oath</HE_Hellas_Hippocratic.label>
+  <HE_Hellas_Hippocratic.description>First, do no harm. Hellenic physicians wash their hands, take their time and lose fewer patients.
+
+Tradition: Surgery success chance rises by 12%, but tending is 5% slower.
+
+Requires 25 Hellenic knowledge unless this is your heritage.</HE_Hellas_Hippocratic.description>
+  <HE_Hellas_Hoplite.label>hoplite panoply</HE_Hellas_Hoplite.label>
+  <HE_Hellas_Hoplite.description>The Corinthian helmet, the layered linen linothorax and the great round hoplon.
+
+Requires 25 Hellenic knowledge unless this is your heritage.</HE_Hellas_Hoplite.description>
+  <HE_Hellas_Theatre.label>festival of plays</HE_Hellas_Theatre.label>
+  <HE_Hellas_Theatre.description>Tragedy in the morning, comedy at night. People leave the theatre lighter and kinder.
+
+Tradition: Colonists gain recreation 10% faster and +5% social impact.
+
+Requires 25 Hellenic knowledge unless this is your heritage.</HE_Hellas_Theatre.description>
+  <HE_Hellas_Academy.label>the academy</HE_Hellas_Academy.label>
+  <HE_Hellas_Academy.description>A grove where masters walk with their pupils and every question is followed to its end.
+
+Tradition: Colonists research 10% faster.
+
+Requires 35 Hellenic knowledge unless this is your heritage.</HE_Hellas_Academy.description>
+  <HE_Hellas_Phalanx.label>phalanx</HE_Hellas_Phalanx.label>
+  <HE_Hellas_Phalanx.description>Shield overlapping shield, every man covers the one to his left. The line is slow, and almost unbreakable.
+
+Tradition: Colonists gain +5% blunt and +3% sharp armour but move 3% slower.
+
+Requires 40 Hellenic knowledge unless this is your heritage.</HE_Hellas_Phalanx.description>
+  <HE_Hellas_GoldenAge.label>golden age</HE_Hellas_GoldenAge.label>
+  <HE_Hellas_GoldenAge.description>With the library opened, the league enters an age of plays, cures and arguments that will be remembered for centuries.
+
+Tradition: Colonists learn 5% faster and gain +5% social impact and +5% tend quality.
+
+Requires 50 Hellenic knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</HE_Hellas_GoldenAge.description>
+  <HE_Hellas_Lithobolos.label>lithobolos</HE_Hellas_Lithobolos.label>
+  <HE_Hellas_Lithobolos.description>The engineers of the city measure springs and angles until a machine throws stones further than any slinger.
+
+Requires 40 Hellenic knowledge unless this is your heritage.</HE_Hellas_Lithobolos.description>
+  <HE_Hellas_PowderArms.label>Hellenic powder arms</HE_Hellas_PowderArms.label>
+  <HE_Hellas_PowderArms.description>The Hellas way of making a matchlock or a flintlock: the barrel, the lock, the stock and the drill to use them.
+
+Outside your heritage, this can be researched only once Hellas has reached the Age of Powder.
+
+Requires 30 Hellenic knowledge unless this is your heritage.</HE_Hellas_PowderArms.description>
+  <HE_Hellas_SteamArmy.label>Hellenic steam army</HE_Hellas_SteamArmy.label>
+  <HE_Hellas_SteamArmy.description>Cartridges, rifled barrels and a uniform: the army Hellas raised when the factories came.
+
+Outside your heritage, this can be researched only once Hellas has reached the Age of Steam.
+
+Requires 45 Hellenic knowledge unless this is your heritage.</HE_Hellas_SteamArmy.description>
+</LanguageData>

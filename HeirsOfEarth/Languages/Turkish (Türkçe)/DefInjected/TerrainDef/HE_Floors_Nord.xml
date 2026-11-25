@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Planks.label>yarma tahta zemin</HE_Nord_Planks.label>
+  <HE_Nord_Planks.description>Çam kütüklerinden yarılıp birbirine geçirilmiş geniş tahtalar. Ayak altında sıcaktır.</HE_Nord_Planks.description>
+  <HE_Nord_Slate.label>arduvaz döşeme</HE_Nord_Slate.label>
+  <HE_Nord_Slate.description>Bir yapboz gibi birbirine oturtulmuş, yarılmış koyu arduvaz levhalar. Ayak altında soğuktur ama asla çürümez ve çamuru üstünde tutmaz.</HE_Nord_Slate.description>
+  <HE_Nord_CarvedBoards.label>oymalı tahta</HE_Nord_CarvedBoards.label>
+  <HE_Nord_CarvedBoards.description>Uzun kışlarda salonun ustalarının düğüm desenleri oyduğu ağır meşe tahtalar.</HE_Nord_CarvedBoards.description>
+</LanguageData>

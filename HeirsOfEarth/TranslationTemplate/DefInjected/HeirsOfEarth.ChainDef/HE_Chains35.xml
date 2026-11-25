@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Saga_Roma.label>The Burned Archive</HE_Saga_Roma.label>
+  <HE_Saga_Roma.description>The founders' law was lost when the old archive burned. A scholar believes one copy survived.</HE_Saga_Roma.description>
+  <HE_Saga_Roma.startText>Now that the eagle has come home, an old archivist of the senate seeks you out. The founders' own codex of the law, she says, was carried out of the burning archive by a slave who was never seen again. She thinks she knows where he went.</HE_Saga_Roma.startText>
+  <HE_Saga_Roma.endText>The Founders' Codex is copied, bound and read aloud in your hall. Nova Roma will remember who gave its law back.</HE_Saga_Roma.endText>
+  <HE_Saga_Roma.steps.0.label>Paper and gilt</HE_Saga_Roma.steps.0.label>
+  <HE_Saga_Roma.steps.0.text>A codex worthy of the founders needs good cloth for the pages and gold for the letters. Gather 80 cloth and 15 gold, then deliver them from the Stories page.</HE_Saga_Roma.steps.0.text>
+  <HE_Saga_Roma.steps.0.doneText>The scriptorium is ready. The archivist asks for a sign that your colony honours the founders.</HE_Saga_Roma.steps.0.doneText>
+  <HE_Saga_Roma.steps.1.label>A statue for the founders</HE_Saga_Roma.steps.1.label>
+  <HE_Saga_Roma.steps.1.text>Raise a statue in your colony so the founders may look upon the work.</HE_Saga_Roma.steps.1.text>
+  <HE_Saga_Roma.steps.1.doneText>The statue stands. Now your scholars must learn the full rites of the eagle before the archivist will name the place.</HE_Saga_Roma.steps.1.doneText>
+  <HE_Saga_Roma.steps.2.label>The rites of the eagle</HE_Saga_Roma.steps.2.label>
+  <HE_Saga_Roma.steps.2.text>Research the rites of the eagle, the highest tradition of Nova Roma.</HE_Saga_Roma.steps.2.text>
+  <HE_Saga_Roma.steps.2.doneText>The archivist is satisfied. The codex lies in a villa in the hills, held by men who sell everything they find.</HE_Saga_Roma.steps.2.doneText>
+  <HE_Saga_Roma.steps.3.label>The hill villa</HE_Saga_Roma.steps.3.label>
+  <HE_Saga_Roma.steps.3.text>Send a caravan to the villa marked on the world map, defeat the looters and bring the scorched codex home.</HE_Saga_Roma.steps.3.text>
+  <HE_Saga_Roma.steps.3.doneText>The codex is in your hands. The senate has heard, and so has every scholar in the city.</HE_Saga_Roma.steps.3.doneText>
+  <HE_Saga_Roma.steps.4.label>The fate of the original</HE_Saga_Roma.steps.4.label>
+  <HE_Saga_Roma.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Roma.steps.4.text>
+  <HE_Saga_Roma.steps.4.options.0.label>Return the original to the senate</HE_Saga_Roma.steps.4.options.0.label>
+  <HE_Saga_Roma.steps.4.options.0.text>Your scribes keep a fair copy; the scorched original goes home to the capital.</HE_Saga_Roma.steps.4.options.0.text>
+  <HE_Saga_Roma.steps.4.options.1.label>Keep the original</HE_Saga_Roma.steps.4.options.1.label>
+  <HE_Saga_Roma.steps.4.options.1.text>The original stays in your archive. The senate is not pleased.</HE_Saga_Roma.steps.4.options.1.text>
+  <HE_Saga_Yamato.label>The Silent Chronicle</HE_Saga_Yamato.label>
+  <HE_Saga_Yamato.description>The last court historian of Yamato hid his chronicle before the night of fire. It is time it was read.</HE_Saga_Yamato.description>
+  <HE_Saga_Yamato.startText>The heir you dealt with has not forgotten you. A messenger brings word: the last court historian survived the night of fire as a monk, and before he died he hid his chronicle. It tells who lit the fire.</HE_Saga_Yamato.startText>
+  <HE_Saga_Yamato.endText>The Chronicle of the Eight Islands is copied in your colony. The clans read the last chapter in silence.</HE_Saga_Yamato.endText>
+  <HE_Saga_Yamato.steps.0.label>Sake and silk paper</HE_Saga_Yamato.steps.0.label>
+  <HE_Saga_Yamato.steps.0.text>The monks who guard the historian's memory ask for 20 sake for their festival and 60 cloth for the copyists. Deliver them from the Stories page.</HE_Saga_Yamato.steps.0.text>
+  <HE_Saga_Yamato.steps.0.doneText>The monks bless your copyists and ask for a gate to mark the sacred ground.</HE_Saga_Yamato.steps.0.doneText>
+  <HE_Saga_Yamato.steps.1.label>A gate for the dead</HE_Saga_Yamato.steps.1.label>
+  <HE_Saga_Yamato.steps.1.text>Build a torii in your colony, so the historian's spirit may find its way.</HE_Saga_Yamato.steps.1.text>
+  <HE_Saga_Yamato.steps.1.doneText>The gate stands. The monks say only a house that holds the mandate may read what he wrote.</HE_Saga_Yamato.steps.1.doneText>
+  <HE_Saga_Yamato.steps.2.label>The mandate</HE_Saga_Yamato.steps.2.label>
+  <HE_Saga_Yamato.steps.2.text>Research the mandate, the highest tradition of Yamato.</HE_Saga_Yamato.steps.2.text>
+  <HE_Saga_Yamato.steps.2.doneText>The monks tell you where the chronicle lies: a burned temple in the mountains, now a nest of bandits.</HE_Saga_Yamato.steps.2.doneText>
+  <HE_Saga_Yamato.steps.3.label>The burned temple</HE_Saga_Yamato.steps.3.label>
+  <HE_Saga_Yamato.steps.3.text>Send a caravan to the burned temple marked on the world map, drive out the bandits and bring the silent chronicle home.</HE_Saga_Yamato.steps.3.text>
+  <HE_Saga_Yamato.steps.3.doneText>The chronicle is yours. Its last chapter names names.</HE_Saga_Yamato.steps.3.doneText>
+  <HE_Saga_Yamato.steps.4.label>The fate of the original</HE_Saga_Yamato.steps.4.label>
+  <HE_Saga_Yamato.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Yamato.steps.4.text>
+  <HE_Saga_Yamato.steps.4.options.0.label>Give it to the shogun</HE_Saga_Yamato.steps.4.options.0.label>
+  <HE_Saga_Yamato.steps.4.options.0.text>Your scribes keep a copy; the original goes to the shogun's court, which is grateful.</HE_Saga_Yamato.steps.4.options.0.text>
+  <HE_Saga_Yamato.steps.4.options.1.label>Keep it secret</HE_Saga_Yamato.steps.4.options.1.label>
+  <HE_Saga_Yamato.steps.4.options.1.text>You keep the original and say nothing of the last chapter. The court suspects you know too much.</HE_Saga_Yamato.steps.4.options.1.text>
+  <HE_Saga_Nord.label>The Skald's Last Song</HE_Saga_Nord.label>
+  <HE_Saga_Nord.description>The last great skald of Nordheim is dying, and with him every saga he knows. Save them.</HE_Saga_Nord.description>
+  <HE_Saga_Nord.startText>After the winter rite, an old skald comes to your hall. He is dying, he says, and the sagas will die with him: no one has the patience to learn them any more. His rune staff, with a line for every saga, was stolen by raiders. Find it, and he will sing them all for your carvers.</HE_Saga_Nord.startText>
+  <HE_Saga_Nord.endText>The Edda is carved and the skald sings his last saga in your hall. He dies in the spring, smiling.</HE_Saga_Nord.endText>
+  <HE_Saga_Nord.steps.0.label>Boards and hides</HE_Saga_Nord.steps.0.label>
+  <HE_Saga_Nord.steps.0.text>The sagas will be carved on boards and bound in leather. Gather 200 wood and 60 leather, then deliver them from the Stories page.</HE_Saga_Nord.steps.0.text>
+  <HE_Saga_Nord.steps.0.doneText>The skald wants a rune stone raised first, so the gods know what is being done.</HE_Saga_Nord.steps.0.doneText>
+  <HE_Saga_Nord.steps.1.label>A stone for the gods</HE_Saga_Nord.steps.1.label>
+  <HE_Saga_Nord.steps.1.text>Raise a rune stone in your colony.</HE_Saga_Nord.steps.1.text>
+  <HE_Saga_Nord.steps.1.doneText>The stone stands. The skald says the sagas of the halls of the slain may only be sung to those who know their way.</HE_Saga_Nord.steps.1.doneText>
+  <HE_Saga_Nord.steps.2.label>The hall of the slain</HE_Saga_Nord.steps.2.label>
+  <HE_Saga_Nord.steps.2.text>Research the hall of the slain, the highest tradition of Nordheim.</HE_Saga_Nord.steps.2.text>
+  <HE_Saga_Nord.steps.2.doneText>The skald has learned where the raiders took his staff: a ring fort on the coast.</HE_Saga_Nord.steps.2.doneText>
+  <HE_Saga_Nord.steps.3.label>The ring fort</HE_Saga_Nord.steps.3.label>
+  <HE_Saga_Nord.steps.3.text>Send a caravan to the ring fort marked on the world map, defeat the raiders and bring the rune staff home.</HE_Saga_Nord.steps.3.text>
+  <HE_Saga_Nord.steps.3.doneText>The staff is home. The old skald weeps when he holds it.</HE_Saga_Nord.steps.3.doneText>
+  <HE_Saga_Nord.steps.4.label>The fate of the original</HE_Saga_Nord.steps.4.label>
+  <HE_Saga_Nord.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Nord.steps.4.text>
+  <HE_Saga_Nord.steps.4.options.0.label>Send the staff to the jarls</HE_Saga_Nord.steps.4.options.0.label>
+  <HE_Saga_Nord.steps.4.options.0.text>When the skald dies, his staff goes to the thing of the jarls, to be kept by the next skald.</HE_Saga_Nord.steps.4.options.0.text>
+  <HE_Saga_Nord.steps.4.options.1.label>Bury it with the skald</HE_Saga_Nord.steps.4.options.1.label>
+  <HE_Saga_Nord.steps.4.options.1.text>The staff is buried with him in your colony. The jarls wanted it, but they respect the choice.</HE_Saga_Nord.steps.4.options.1.text>
+  <HE_Saga_Hellas.label>The Sunken Library</HE_Saga_Hellas.label>
+  <HE_Saga_Hellas.description>The great library of the League sank with its island. Divers say some of it is still dry.</HE_Saga_Hellas.description>
+  <HE_Saga_Hellas.startText>A sponge diver from the islands has a story for you: in the ruins of the sunken library, behind a door that still holds, there are scroll cases of lead. One of them, the old men say, holds the Song of the Long Voyage, the epic of the League that no one has heard in full for a hundred years.</HE_Saga_Hellas.startText>
+  <HE_Saga_Hellas.endText>The Song of the Long Voyage is sung again, in full, in your theatre. The League will not forget it.</HE_Saga_Hellas.endText>
+  <HE_Saga_Hellas.steps.0.label>Oil for the lamps</HE_Saga_Hellas.steps.0.label>
+  <HE_Saga_Hellas.steps.0.text>The divers work by lamplight and pray to the sea before every dive. Gather 40 olive oil and 10 gold for the offerings, then deliver them from the Stories page.</HE_Saga_Hellas.steps.0.text>
+  <HE_Saga_Hellas.steps.0.doneText>The divers are ready. If the song is found, it must be sung; build a stage for it.</HE_Saga_Hellas.steps.0.doneText>
+  <HE_Saga_Hellas.steps.1.label>A stage for the song</HE_Saga_Hellas.steps.1.label>
+  <HE_Saga_Hellas.steps.1.text>Build a stage in your colony, where the song can be performed when it is found.</HE_Saga_Hellas.steps.1.text>
+  <HE_Saga_Hellas.steps.1.doneText>The stage is ready. The scholars of the League ask that only a golden age should hear the song again.</HE_Saga_Hellas.steps.1.doneText>
+  <HE_Saga_Hellas.steps.2.label>A golden age</HE_Saga_Hellas.steps.2.label>
+  <HE_Saga_Hellas.steps.2.text>Research the golden age, the highest tradition of Hellas.</HE_Saga_Hellas.steps.2.text>
+  <HE_Saga_Hellas.steps.2.doneText>The divers have found the door. But pirates have found it too, and camp in the ruins above.</HE_Saga_Hellas.steps.2.doneText>
+  <HE_Saga_Hellas.steps.3.label>The drowned library</HE_Saga_Hellas.steps.3.label>
+  <HE_Saga_Hellas.steps.3.text>Send a caravan to the ruins marked on the world map, defeat the pirates and bring the sea-stained scroll home.</HE_Saga_Hellas.steps.3.text>
+  <HE_Saga_Hellas.steps.3.doneText>The scroll is yours. Your scholars weep over the first line.</HE_Saga_Hellas.steps.3.doneText>
+  <HE_Saga_Hellas.steps.4.label>The fate of the original</HE_Saga_Hellas.steps.4.label>
+  <HE_Saga_Hellas.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Hellas.steps.4.text>
+  <HE_Saga_Hellas.steps.4.options.0.label>Give the scroll to the League</HE_Saga_Hellas.steps.4.options.0.label>
+  <HE_Saga_Hellas.steps.4.options.0.text>The original goes to the League's new library; your scribes keep a copy.</HE_Saga_Hellas.steps.4.options.0.text>
+  <HE_Saga_Hellas.steps.4.options.1.label>Keep the scroll</HE_Saga_Hellas.steps.4.options.1.label>
+  <HE_Saga_Hellas.steps.4.options.1.text>The scroll stays with you. The League calls it a theft from all its people.</HE_Saga_Hellas.steps.4.options.1.text>
+  <HE_Saga_Tianxia.label>The Hidden Historian</HE_Saga_Tianxia.label>
+  <HE_Saga_Tianxia.description>A grand historian told the truth about an emperor and was punished. His records were hidden. Find them.</HE_Saga_Tianxia.description>
+  <HE_Saga_Tianxia.startText>A scholar who failed the examinations three times brings you a letter: the records of the grand historian, banned by an emperor long dead, were hidden by his daughter in a cave. He wants them read again. So, it seems, do others, who would rather they burned.</HE_Saga_Tianxia.startText>
+  <HE_Saga_Tianxia.endText>The Records of the Heavenly Court are copied. Somewhere in Tianxia, an old official reads them and smiles.</HE_Saga_Tianxia.endText>
+  <HE_Saga_Tianxia.steps.0.label>Silk and tea</HE_Saga_Tianxia.steps.0.label>
+  <HE_Saga_Tianxia.steps.0.text>The scholar needs silk to rebind the slips and tea to keep his copyists awake. Gather 60 silk and 10 tea bricks, then deliver them from the Stories page.</HE_Saga_Tianxia.steps.0.text>
+  <HE_Saga_Tianxia.steps.0.doneText>The scholar asks for a moon gate, so that the historian's spirit may pass.</HE_Saga_Tianxia.steps.0.doneText>
+  <HE_Saga_Tianxia.steps.1.label>A moon gate</HE_Saga_Tianxia.steps.1.label>
+  <HE_Saga_Tianxia.steps.1.text>Build a moon gate in your colony.</HE_Saga_Tianxia.steps.1.text>
+  <HE_Saga_Tianxia.steps.1.doneText>The gate is built. The scholar says the records can only be kept by a house that lives in harmony.</HE_Saga_Tianxia.steps.1.doneText>
+  <HE_Saga_Tianxia.steps.2.label>Harmony</HE_Saga_Tianxia.steps.2.label>
+  <HE_Saga_Tianxia.steps.2.text>Research harmony, the highest tradition of Tianxia.</HE_Saga_Tianxia.steps.2.text>
+  <HE_Saga_Tianxia.steps.2.doneText>The cave is found. The men who want the records burned are already camped at its mouth.</HE_Saga_Tianxia.steps.2.doneText>
+  <HE_Saga_Tianxia.steps.3.label>The historian's cave</HE_Saga_Tianxia.steps.3.label>
+  <HE_Saga_Tianxia.steps.3.text>Send a caravan to the cave marked on the world map, defeat the men guarding it and bring the hidden records home.</HE_Saga_Tianxia.steps.3.text>
+  <HE_Saga_Tianxia.steps.3.doneText>The records are yours, whole and in order, as if the historian had finished them yesterday.</HE_Saga_Tianxia.steps.3.doneText>
+  <HE_Saga_Tianxia.steps.4.label>The fate of the original</HE_Saga_Tianxia.steps.4.label>
+  <HE_Saga_Tianxia.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Tianxia.steps.4.text>
+  <HE_Saga_Tianxia.steps.4.options.0.label>Give them to the court</HE_Saga_Tianxia.steps.4.options.0.label>
+  <HE_Saga_Tianxia.steps.4.options.0.text>The originals go to the court's library, where the truth will be read by every official.</HE_Saga_Tianxia.steps.4.options.0.text>
+  <HE_Saga_Tianxia.steps.4.options.1.label>Keep them safe</HE_Saga_Tianxia.steps.4.options.1.label>
+  <HE_Saga_Tianxia.steps.4.options.1.text>The court cannot be trusted with the truth. You keep the originals.</HE_Saga_Tianxia.steps.4.options.1.text>
+  <HE_Saga_Albion.label>The Lost Charter</HE_Saga_Albion.label>
+  <HE_Saga_Albion.description>The charter of the Commonwealth was stolen from the guildhall a generation ago. A clockmaker knows where it went.</HE_Saga_Albion.description>
+  <HE_Saga_Albion.startText>A clockmaker from the Commonwealth arrives with a confession: his father stole the Great Charter from the guildhall and sold it to a collector who keeps it in a fortified manor. He wants it returned before he dies, and he will help, if you can protect him.</HE_Saga_Albion.startText>
+  <HE_Saga_Albion.endText>The Great Charter is copied and read aloud in your colony. In the Commonwealth, the guilds ring their bells.</HE_Saga_Albion.endText>
+  <HE_Saga_Albion.steps.0.label>Tools of the trade</HE_Saga_Albion.steps.0.label>
+  <HE_Saga_Albion.steps.0.text>The clockmaker needs steel for his tools and good tweed for the journey. Gather 60 tweed and 150 steel, then deliver them from the Stories page.</HE_Saga_Albion.steps.0.text>
+  <HE_Saga_Albion.steps.0.doneText>The clockmaker asks for a clock of his own design to stand in your hall, as a sign of trust.</HE_Saga_Albion.steps.0.doneText>
+  <HE_Saga_Albion.steps.1.label>The clockmaker's clock</HE_Saga_Albion.steps.1.label>
+  <HE_Saga_Albion.steps.1.text>Build a grandfather clock in your colony.</HE_Saga_Albion.steps.1.text>
+  <HE_Saga_Albion.steps.1.doneText>The clock ticks. The clockmaker says the manor's locks can only be opened by a colony with a proper workshop.</HE_Saga_Albion.steps.1.doneText>
+  <HE_Saga_Albion.steps.2.label>The workshop of the world</HE_Saga_Albion.steps.2.label>
+  <HE_Saga_Albion.steps.2.text>Research the workshop of the world, the highest tradition of Albion.</HE_Saga_Albion.steps.2.text>
+  <HE_Saga_Albion.steps.2.doneText>The keys are made. The collector has hired guards, and they are waiting.</HE_Saga_Albion.steps.2.doneText>
+  <HE_Saga_Albion.steps.3.label>The collector's manor</HE_Saga_Albion.steps.3.label>
+  <HE_Saga_Albion.steps.3.text>Send a caravan to the manor marked on the world map, defeat the guards and bring the lost charter home.</HE_Saga_Albion.steps.3.text>
+  <HE_Saga_Albion.steps.3.doneText>The charter is yours. The clockmaker reads every name on it aloud.</HE_Saga_Albion.steps.3.doneText>
+  <HE_Saga_Albion.steps.4.label>The fate of the original</HE_Saga_Albion.steps.4.label>
+  <HE_Saga_Albion.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Albion.steps.4.text>
+  <HE_Saga_Albion.steps.4.options.0.label>Return it to the guildhall</HE_Saga_Albion.steps.4.options.0.label>
+  <HE_Saga_Albion.steps.4.options.0.text>The charter goes home to the guildhall, and your colony's name is added to the roll of its friends.</HE_Saga_Albion.steps.4.options.0.text>
+  <HE_Saga_Albion.steps.4.options.1.label>Keep it</HE_Saga_Albion.steps.4.options.1.label>
+  <HE_Saga_Albion.steps.4.options.1.text>You keep the charter. The guilds call you no better than the thief.</HE_Saga_Albion.steps.4.options.1.text>
+  <HE_Saga_Kemet.label>The Sealed Tomb</HE_Saga_Kemet.label>
+  <HE_Saga_Kemet.description>The tomb of the first pharaoh of the second sunrise is open, and robbers are in it.</HE_Saga_Kemet.description>
+  <HE_Saga_Kemet.startText>A priest of the sun arrives in your colony, covered in dust: the tomb of the first pharaoh of the second sunrise has been broken open by robbers. The great scroll that guides the king through the night is still inside. If they sell it, the king will be lost forever.</HE_Saga_Kemet.startText>
+  <HE_Saga_Kemet.endText>The Book of Coming Forth is copied in your colony, and the priests sing the king's name again.</HE_Saga_Kemet.endText>
+  <HE_Saga_Kemet.steps.0.label>Papyrus and gold</HE_Saga_Kemet.steps.0.label>
+  <HE_Saga_Kemet.steps.0.text>The priests need papyrus to copy the scroll and gold to reseal the tomb. Gather 40 papyrus and 20 gold, then deliver them from the Stories page.</HE_Saga_Kemet.steps.0.text>
+  <HE_Saga_Kemet.steps.0.doneText>The priests ask for an obelisk, so the sun knows your colony serves the king.</HE_Saga_Kemet.steps.0.doneText>
+  <HE_Saga_Kemet.steps.1.label>An obelisk for the sun</HE_Saga_Kemet.steps.1.label>
+  <HE_Saga_Kemet.steps.1.text>Raise an obelisk in your colony.</HE_Saga_Kemet.steps.1.text>
+  <HE_Saga_Kemet.steps.1.doneText>The obelisk stands. The priests say only those who know the second sunrise may enter the tomb.</HE_Saga_Kemet.steps.1.doneText>
+  <HE_Saga_Kemet.steps.2.label>The second sunrise</HE_Saga_Kemet.steps.2.label>
+  <HE_Saga_Kemet.steps.2.text>Research the second sunrise, the highest tradition of Kemet.</HE_Saga_Kemet.steps.2.text>
+  <HE_Saga_Kemet.steps.2.doneText>The priests lead you to the tomb. The robbers are still inside, and armed.</HE_Saga_Kemet.steps.2.doneText>
+  <HE_Saga_Kemet.steps.3.label>The broken tomb</HE_Saga_Kemet.steps.3.label>
+  <HE_Saga_Kemet.steps.3.text>Send a caravan to the tomb marked on the world map, defeat the robbers and bring the tomb scroll home.</HE_Saga_Kemet.steps.3.text>
+  <HE_Saga_Kemet.steps.3.doneText>The scroll is safe. The priest kisses the cedar box and weeps.</HE_Saga_Kemet.steps.3.doneText>
+  <HE_Saga_Kemet.steps.4.label>The fate of the original</HE_Saga_Kemet.steps.4.label>
+  <HE_Saga_Kemet.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Kemet.steps.4.text>
+  <HE_Saga_Kemet.steps.4.options.0.label>Return it to the tomb</HE_Saga_Kemet.steps.4.options.0.label>
+  <HE_Saga_Kemet.steps.4.options.0.text>The scroll goes back to the king, the tomb is sealed again, and the priests bless your colony.</HE_Saga_Kemet.steps.4.options.0.text>
+  <HE_Saga_Kemet.steps.4.options.1.label>Keep it</HE_Saga_Kemet.steps.4.options.1.label>
+  <HE_Saga_Kemet.steps.4.options.1.text>You keep the scroll. The priests curse your name at the dawn hymn.</HE_Saga_Kemet.steps.4.options.1.text>
+  <HE_Saga_Pars.label>The Poet's Road</HE_Saga_Pars.label>
+  <HE_Saga_Pars.description>An old poet spent thirty years writing the Book of Kings. His only copy was stolen on the road.</HE_Saga_Pars.description>
+  <HE_Saga_Pars.startText>An old poet limps into your colony. He has spent thirty years writing the Book of Kings, he says, and bandits on the King's Road took it from him with his mule. He does not care about the mule.</HE_Saga_Pars.startText>
+  <HE_Saga_Pars.endText>The Book of Kings is copied, and the old poet finishes his last couplet in your garden.</HE_Saga_Pars.endText>
+  <HE_Saga_Pars.steps.0.label>Gifts for the poet</HE_Saga_Pars.steps.0.label>
+  <HE_Saga_Pars.steps.0.text>A poet of his rank must be received properly. Gather 2 carpets and 15 gold, then deliver them from the Stories page.</HE_Saga_Pars.steps.0.text>
+  <HE_Saga_Pars.steps.0.doneText>The poet is comfortable. He asks for a lamassu to guard the gate, as the kings of old had.</HE_Saga_Pars.steps.0.doneText>
+  <HE_Saga_Pars.steps.1.label>A guardian for the gate</HE_Saga_Pars.steps.1.label>
+  <HE_Saga_Pars.steps.1.text>Build a lamassu in your colony.</HE_Saga_Pars.steps.1.text>
+  <HE_Saga_Pars.steps.1.doneText>The guardian stands. The poet says the bandits' road can only be followed by someone who knows the King's Road.</HE_Saga_Pars.steps.1.doneText>
+  <HE_Saga_Pars.steps.2.label>The road of kings</HE_Saga_Pars.steps.2.label>
+  <HE_Saga_Pars.steps.2.text>Research the road of kings, the highest tradition of Pars.</HE_Saga_Pars.steps.2.text>
+  <HE_Saga_Pars.steps.2.doneText>Your riders find the bandits' camp: a ruined caravanserai off the road.</HE_Saga_Pars.steps.2.doneText>
+  <HE_Saga_Pars.steps.3.label>The ruined caravanserai</HE_Saga_Pars.steps.3.label>
+  <HE_Saga_Pars.steps.3.text>Send a caravan to the caravanserai marked on the world map, defeat the bandits and bring the poet's book home.</HE_Saga_Pars.steps.3.text>
+  <HE_Saga_Pars.steps.3.doneText>The book is found, a little more stained than before. The poet holds it to his chest.</HE_Saga_Pars.steps.3.doneText>
+  <HE_Saga_Pars.steps.4.label>The fate of the original</HE_Saga_Pars.steps.4.label>
+  <HE_Saga_Pars.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Pars.steps.4.text>
+  <HE_Saga_Pars.steps.4.options.0.label>Send it to the Satrap's court</HE_Saga_Pars.steps.4.options.0.label>
+  <HE_Saga_Pars.steps.4.options.0.text>The poet's own copy goes to the Satrap's library, and the court is grateful.</HE_Saga_Pars.steps.4.options.0.text>
+  <HE_Saga_Pars.steps.4.options.1.label>Let the poet keep it</HE_Saga_Pars.steps.4.options.1.label>
+  <HE_Saga_Pars.steps.4.options.1.text>The poet keeps his book and stays with you. The Satrap wanted it for his library.</HE_Saga_Pars.steps.4.options.1.text>
+  <HE_Saga_Inti.label>The Knots of the Sun</HE_Saga_Inti.label>
+  <HE_Saga_Inti.description>The great khipu of the empire was hidden in the mountains when the empire fell. Without it, no one knows what the Inti were.</HE_Saga_Inti.description>
+  <HE_Saga_Inti.startText>A chaski runner reaches your colony with a knotted cord: a message from the knot-keepers. The great khipu of the empire, the record of everything the Inti were, was hidden in a mountain storehouse when the empire fell. Thieves have found the storehouse.</HE_Saga_Inti.startText>
+  <HE_Saga_Inti.endText>The Royal Khipu is retied in your colony. The knot-keepers read from it for nine nights.</HE_Saga_Inti.endText>
+  <HE_Saga_Inti.steps.0.label>Wool and gold</HE_Saga_Inti.steps.0.label>
+  <HE_Saga_Inti.steps.0.text>The knot-keepers need alpaca wool to retie the khipu and gold for the offering to the sun. Gather 80 alpaca wool and 20 gold, then deliver them from the Stories page.</HE_Saga_Inti.steps.0.text>
+  <HE_Saga_Inti.steps.0.doneText>The knot-keepers ask for a sun stone, so the sun can see the work.</HE_Saga_Inti.steps.0.doneText>
+  <HE_Saga_Inti.steps.1.label>A stone for the sun</HE_Saga_Inti.steps.1.label>
+  <HE_Saga_Inti.steps.1.text>Raise a sun stone in your colony.</HE_Saga_Inti.steps.1.text>
+  <HE_Saga_Inti.steps.1.doneText>The stone stands. The knot-keepers say only an empire that is counted can read the great khipu.</HE_Saga_Inti.steps.1.doneText>
+  <HE_Saga_Inti.steps.2.label>The counted empire</HE_Saga_Inti.steps.2.label>
+  <HE_Saga_Inti.steps.2.text>Research the counted empire, the highest tradition of the Inti.</HE_Saga_Inti.steps.2.text>
+  <HE_Saga_Inti.steps.2.doneText>The chaski leads your people to the storehouse. The thieves are still there.</HE_Saga_Inti.steps.2.doneText>
+  <HE_Saga_Inti.steps.3.label>The mountain storehouse</HE_Saga_Inti.steps.3.label>
+  <HE_Saga_Inti.steps.3.text>Send a caravan to the storehouse marked on the world map, defeat the thieves and bring the great khipu home.</HE_Saga_Inti.steps.3.text>
+  <HE_Saga_Inti.steps.3.doneText>The khipu is yours. The knot-keepers run their fingers over the cords and laugh.</HE_Saga_Inti.steps.3.doneText>
+  <HE_Saga_Inti.steps.4.label>The fate of the original</HE_Saga_Inti.steps.4.label>
+  <HE_Saga_Inti.steps.4.text>Your scribes have made a fair copy. Now the original must go somewhere.</HE_Saga_Inti.steps.4.text>
+  <HE_Saga_Inti.steps.4.options.0.label>Return it to the Sapa Inti</HE_Saga_Inti.steps.4.options.0.label>
+  <HE_Saga_Inti.steps.4.options.0.text>The great khipu goes to the court of the Sapa Inti, and your colony is counted among its friends.</HE_Saga_Inti.steps.4.options.0.text>
+  <HE_Saga_Inti.steps.4.options.1.label>Keep it</HE_Saga_Inti.steps.4.options.1.label>
+  <HE_Saga_Inti.steps.4.options.1.text>You keep the great khipu. The knot-keepers say a cord has been cut.</HE_Saga_Inti.steps.4.options.1.text>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Nord.label>Jarldom of Nordheim</HE_Faction_Nord.label>
+  <HE_Faction_Nord.description>The free people of Nordheim, heirs of the colony ship Yggdrasil. They hunt in the snow, feast in their mead halls and follow their jarl only as long as the jarl keeps winning.</HE_Faction_Nord.description>
+  <HE_Faction_Nord.fixedName>Jarldom of Nordheim</HE_Faction_Nord.fixedName>
+  <HE_Faction_Nord.pawnSingular>Nordling</HE_Faction_Nord.pawnSingular>
+  <HE_Faction_Nord.pawnsPlural>Nordlings</HE_Faction_Nord.pawnsPlural>
+  <HE_Faction_Nord.leaderTitle>jarl</HE_Faction_Nord.leaderTitle>
+  <HE_Player_Nord.label>Nordheim settlers</HE_Player_Nord.label>
+  <HE_Player_Nord.description>A small crew of Nordheim settlers raising a new longhouse far from their jarl.</HE_Player_Nord.description>
+  <HE_Player_Nord.pawnSingular>colonist</HE_Player_Nord.pawnSingular>
+  <HE_Player_Nord.pawnsPlural>colonists</HE_Player_Nord.pawnsPlural>
+</LanguageData>

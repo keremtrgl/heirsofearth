@@ -1,0 +1,41 @@
+Heirs of Earth 4.2.1 - Maintenance
+
+Performance
+- Storehouses (the Inti qullqa): the slower rot used to look up every storehouse on the map for every rotting item on every tick. Each map's storehouse cells are now remembered and refreshed every 250 ticks (about four seconds), so a map without a storehouse costs almost nothing, and a storehouse you build or tear down takes effect within a few seconds.
+- The Heirs tab no longer creates a new bar texture every frame for the knowledge and ages bars. Over a long session this slowly used up memory; the bars now share one texture per nation.
+- The list of each nation's age arms and uniforms is worked out once and remembered, instead of on every trader visit and every soldier that is generated.
+- The ages tooltip in the Heirs tab is only built when you actually hover over a nation.
+
+Ages of Progress: pace
+- The ages came too fast. In a ten-year test world with the usual peace, allies and towns, most nations reached the Age of Steam in four to six years. The thresholds are now 3 years for the Age of Powder and 9 years for the Age of Steam (were 2.5 and 7) at the base pace. In the same test world the nations now reach the Age of Powder after 1.6 to 3 years and the Age of Steam after 4.8 to 9 years, depending on their rulers, wars and allies.
+- Saves from 4.2.0 keep every age a nation has already reached; only the progress toward the next age follows the new thresholds.
+
+Ages of Progress: firearms
+- Fairer costs and stats. Powder arms are cheaper (45 steel, 25 wood, no components) but slower to reload and less accurate at range than a bolt-action rifle. Steam rifles now stand level with the vanilla bolt-action rifle (warmup 1.7 s, range 37, cooldown 1.5 s) and cost 55 steel, 15 wood and 2 components.
+- Every nation's gun now has its own strength:
+  - Roman arquebus: the most accurate of the powder arms.
+  - Nordic hook gun: fires a heavy ball (28 damage, 45% armour penetration), but reloads slowest.
+  - Hellenic musket: a long bayonet that stabs well in melee.
+  - Tianxia bird gun: the longest reach of the powder arms (31 tiles) and better at range.
+  - Kemetic musket: a longer barrel (29 tiles).
+  - Inti arquebus: light and quick to raise (warmup 1.5 s, 3.2 kg) and the cheapest (40 steel).
+  - Yamato rifle: the most accurate at long range, with a long bayonet.
+  - Nordic rifle: the fastest to work the bolt (cooldown 1.2 s).
+  - Hellenic rifle: very accurate at every range, with a bayonet.
+  - Tianxia rifle: made in workshops at scale: much quicker to make, 45 steel and one component.
+  - Albion breech-loading rifle: the fastest to aim and to reload (warmup 1.2 s, cooldown 1.3 s).
+  - Persian rifle: the longest range of all (42 tiles) and good at long range.
+- The descriptions of the guns tell you their strength (in English and Turkish).
+
+Heirs tab
+- The ten tabs of the Heirs tab now sit in two rows of five. In one row each tab was under 100 pixels wide and the longer names (Encyclopedia, Culture knowledge) ran into each other.
+
+Names
+- In long wars the game could log "Could not get new name" for a nation's men or women. RimWorld keeps every living pawn's short name unique, and it takes a person's short name from either the first or the family name. Each nation now has more than 40 family names (were 12 to 18), and about 40 to 90 more first names per gender. Roman women now carry a feminine cognomen as their family name, as in "Cornelia Prisca", instead of a second nomen that was also a first name. Each nation now has room for roughly 140 to 230 distinct people per gender.
+
+Testing
+- The automated test now also checks the storehouse cache, the shared bar textures, the name pools (50 men and 50 women per nation at once, all with distinct short names) and runs a ten-year world (wars, rulers, allies and ages) to watch the pace.
+- Fixed three tests that could fail by chance: the lyceum test spot, the saved treaty count, and the troop test, whose 720 throwaway soldiers stayed among the world's dead and used up names that the name test then needed.
+- The test now copies the mod's assembly into the game folder outright and checks it, after a run once kept an older copy.
+
+Save compatible.

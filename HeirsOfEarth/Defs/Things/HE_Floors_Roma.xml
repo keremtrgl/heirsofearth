@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Roma_Concrete</defName>
+    <label>Roman concrete</label>
+    <description>Pale concrete poured in square slabs. Durable and easy to clean.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Roma_Concrete</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>600</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <Steel>1</Steel>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Roma_Concrete</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Roma_Road</defName>
+    <label>Roman road</label>
+    <description>Fitted basalt slabs laid on a deep bed of gravel. Walking on it is fast and easy.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Roma_Road</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>900</WorkToBuild>
+      <Beauty>0</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksGranite>2</BlocksGranite>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Roma_Roads</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Roma_Mosaic</defName>
+    <label>Roman mosaic</label>
+    <description>Thousands of small stone tesserae set in a geometric pattern with a red border.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Roma_Mosaic</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1800</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksMarble>3</BlocksMarble>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Roma_Thermae</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

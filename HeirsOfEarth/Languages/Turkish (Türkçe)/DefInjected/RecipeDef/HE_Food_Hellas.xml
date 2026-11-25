@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Hellas_Maza.label>maza pişir</HE_Cook_Hellas_Maza.label>
+  <HE_Cook_Hellas_Maza.description>Maza pişir.</HE_Cook_Hellas_Maza.description>
+  <HE_Cook_Hellas_Maza.jobString>Maza pişiriyor.</HE_Cook_Hellas_Maza.jobString>
+  <HE_Cook_Hellas_Skewers.label>obeliskos skewers pişir</HE_Cook_Hellas_Skewers.label>
+  <HE_Cook_Hellas_Skewers.description>Obeliskos şişleri pişir.</HE_Cook_Hellas_Skewers.description>
+  <HE_Cook_Hellas_Skewers.jobString>Obeliskos şişleri pişiriyor.</HE_Cook_Hellas_Skewers.jobString>
+  <HE_Cook_Hellas_Plakous.label>plakous pişir</HE_Cook_Hellas_Plakous.label>
+  <HE_Cook_Hellas_Plakous.description>Plakous pişir.</HE_Cook_Hellas_Plakous.description>
+  <HE_Cook_Hellas_Plakous.jobString>Plakous pişiriyor.</HE_Cook_Hellas_Plakous.jobString>
+</LanguageData>

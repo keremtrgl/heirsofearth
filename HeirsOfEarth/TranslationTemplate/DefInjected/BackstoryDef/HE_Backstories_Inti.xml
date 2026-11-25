@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_BS_TerraceFarmer.title>terrace farmer</HE_Inti_BS_TerraceFarmer.title>
+  <HE_Inti_BS_TerraceFarmer.titleShort>farmer</HE_Inti_BS_TerraceFarmer.titleShort>
+  <HE_Inti_BS_TerraceFarmer.description>[PAWN_nameDef] farmed a staircase of fields on a mountainside, potatoes at the top, maize at the bottom and quinoa in between. [PAWN_pronoun] can rebuild a fallen terrace wall in a day.</HE_Inti_BS_TerraceFarmer.description>
+  <HE_Inti_BS_Khipukamayuq.title>khipukamayuq</HE_Inti_BS_Khipukamayuq.title>
+  <HE_Inti_BS_Khipukamayuq.titleShort>knot keeper</HE_Inti_BS_Khipukamayuq.titleShort>
+  <HE_Inti_BS_Khipukamayuq.description>[PAWN_nameDef] kept the quipus of a whole province: every llama, every sack of maize and every soldier, tied in coloured knots. [PAWN_pronoun] can still read a cord by touch in the dark.</HE_Inti_BS_Khipukamayuq.description>
+  <HE_Inti_BS_Stonemason.title>imperial stonemason</HE_Inti_BS_Stonemason.title>
+  <HE_Inti_BS_Stonemason.titleShort>mason</HE_Inti_BS_Stonemason.titleShort>
+  <HE_Inti_BS_Stonemason.description>[PAWN_nameDef] shaped blocks so precisely that they fit without mortar, pounding granite with harder stones until the joints vanished.</HE_Inti_BS_Stonemason.description>
+  <HE_Inti_BS_Chaski.title>chaski runner</HE_Inti_BS_Chaski.title>
+  <HE_Inti_BS_Chaski.titleShort>runner</HE_Inti_BS_Chaski.titleShort>
+  <HE_Inti_BS_Chaski.description>[PAWN_nameDef] ran [PAWN_possessive] stretch of the great road day and night, a quipu in [PAWN_possessive] bag and a conch at [PAWN_possessive] lips. [PAWN_pronoun] has never been the one who made a message late.</HE_Inti_BS_Chaski.description>
+  <HE_Inti_BS_Slinger.title>army slinger</HE_Inti_BS_Slinger.title>
+  <HE_Inti_BS_Slinger.titleShort>slinger</HE_Inti_BS_Slinger.titleShort>
+  <HE_Inti_BS_Slinger.description>[PAWN_nameDef] marched in the front ranks of the imperial army, sling in hand and a bag of stones at the hip. [PAWN_pronoun] can split a gourd at fifty paces.</HE_Inti_BS_Slinger.description>
+  <HE_Inti_BS_Herbalist.title>kallawaya healer</HE_Inti_BS_Herbalist.title>
+  <HE_Inti_BS_Herbalist.titleShort>healer</HE_Inti_BS_Herbalist.titleShort>
+  <HE_Inti_BS_Herbalist.description>[PAWN_nameDef] walked from the cloud forests to the high plains with a bag of herbs, setting bones and treating fevers in every village on the way.</HE_Inti_BS_Herbalist.description>
+  <HE_Inti_BS_Weaver.title>aqlla weaver</HE_Inti_BS_Weaver.title>
+  <HE_Inti_BS_Weaver.titleShort>weaver</HE_Inti_BS_Weaver.titleShort>
+  <HE_Inti_BS_Weaver.description>[PAWN_nameDef] wove the fine cloth of the court, so tight it held water, with tocapu patterns that only a few could read.</HE_Inti_BS_Weaver.description>
+  <HE_Inti_BS_Trader.title>llama caravan trader</HE_Inti_BS_Trader.title>
+  <HE_Inti_BS_Trader.titleShort>trader</HE_Inti_BS_Trader.titleShort>
+  <HE_Inti_BS_Trader.description>[PAWN_nameDef] led strings of llamas from the coast to the mountains, trading dried fish and salt for wool and potatoes, and talked [PAWN_possessive] way out of every ambush.</HE_Inti_BS_Trader.description>
+  <HE_Inti_BS_LlamaChild.title>llama herder</HE_Inti_BS_LlamaChild.title>
+  <HE_Inti_BS_LlamaChild.titleShort>herder</HE_Inti_BS_LlamaChild.titleShort>
+  <HE_Inti_BS_LlamaChild.description>[PAWN_nameDef] herded llamas and alpacas on the high grasslands, a sling in one hand to chase off foxes.</HE_Inti_BS_LlamaChild.description>
+  <HE_Inti_BS_TerraceChild.title>terrace child</HE_Inti_BS_TerraceChild.title>
+  <HE_Inti_BS_TerraceChild.titleShort>terrace child</HE_Inti_BS_TerraceChild.titleShort>
+  <HE_Inti_BS_TerraceChild.description>[PAWN_nameDef] carried baskets of soil up the terrace stairs and planted seed potatoes before [PAWN_pronoun] could count.</HE_Inti_BS_TerraceChild.description>
+  <HE_Inti_BS_KnotPupil.title>knot school pupil</HE_Inti_BS_KnotPupil.title>
+  <HE_Inti_BS_KnotPupil.titleShort>pupil</HE_Inti_BS_KnotPupil.titleShort>
+  <HE_Inti_BS_KnotPupil.description>[PAWN_nameDef] was chosen for the school of the knot keepers and spent years tying and untying counts under a strict teacher.</HE_Inti_BS_KnotPupil.description>
+  <HE_Inti_BS_FisherChild.title>lake fisher's child</HE_Inti_BS_FisherChild.title>
+  <HE_Inti_BS_FisherChild.titleShort>fisher's child</HE_Inti_BS_FisherChild.titleShort>
+  <HE_Inti_BS_FisherChild.description>[PAWN_nameDef] grew up on a reed island in a cold high lake, fishing from a reed boat and patching it every evening.</HE_Inti_BS_FisherChild.description>
+</LanguageData>

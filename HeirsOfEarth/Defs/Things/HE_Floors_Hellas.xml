@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Hellas_Meander</defName>
+    <label>meander floor</label>
+    <description>Pale limestone slabs framed by a dark border of the endless key pattern.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Hellas_Meander</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1100</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksLimestone>4</BlocksLimestone>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Hellas_Meander</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Hellas_Marble</defName>
+    <label>marble slabs</label>
+    <description>Large slabs of white marble with grey veins, polished smooth. Every temple and every rich house in Hellas stands on them.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Hellas_Marble</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1400</WorkToBuild>
+      <Beauty>3</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksMarble>4</BlocksMarble>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Hellas_Columns</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Hellas_Pebbles</defName>
+    <label>pebble mosaic</label>
+    <description>Black and white river pebbles set in mortar in a running wave, the oldest kind of Hellenic mosaic.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Hellas_Pebbles</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1000</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksLimestone>2</BlocksLimestone>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Hellas_Meander</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

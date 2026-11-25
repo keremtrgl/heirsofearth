@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_SteamEngine.label>steam engine</HE_Albion_SteamEngine.label>
+  <HE_Albion_SteamEngine.description>A wood-fired boiler driving a beam engine and a dynamo. It produces more power than a simple generator, and plenty of noise and smoke.</HE_Albion_SteamEngine.description>
+  <HE_Albion_PubTable.label>pub table</HE_Albion_PubTable.label>
+  <HE_Albion_PubTable.description>A long, scarred oak table with tankards of ale, a game of cards and a dartboard on the post. Colonists gather here to drink, argue and lose at darts.</HE_Albion_PubTable.description>
+  <HE_Albion_TextileMill.label>textile mill</HE_Albion_TextileMill.label>
+  <HE_Albion_TextileMill.description>A powered loom with an iron frame, a belt wheel and a roll of cloth. It weaves any wool into tweed, a warm and hard-wearing fabric.</HE_Albion_TextileMill.description>
+  <HE_Albion_GasLamp.label>gas lamp</HE_Albion_GasLamp.label>
+  <HE_Albion_GasLamp.description>A cast-iron street lamp with a glass lantern. In the cities gas from the works keeps it burning all night; here a small burner fed from the power grid does the same.</HE_Albion_GasLamp.description>
+  <HE_Albion_GrandfatherClock.label>grandfather clock</HE_Albion_GrandfatherClock.label>
+  <HE_Albion_GrandfatherClock.description>A tall case clock of carved oak with a brass pendulum, wound once a week. Its slow tick is the sound of a well-run house.</HE_Albion_GrandfatherClock.description>
+  <HE_Albion_FieldCannon_Gun.label>cannon</HE_Albion_FieldCannon_Gun.label>
+  <HE_Albion_FieldCannon_Gun.description>The turning top of the field cannon.</HE_Albion_FieldCannon_Gun.description>
+  <HE_Albion_FieldCannon.label>field cannon</HE_Albion_FieldCannon.label>
+  <HE_Albion_FieldCannon.description>A bronze cannon on a wooden carriage behind a ring of sandbags. Each shell bursts where it lands. It cannot fire at anything closer than eight cells, and the gunners need time to swab and reload. Steel is cast into shells: four steel make one shell.</HE_Albion_FieldCannon.description>
+  <HE_Albion_FieldCannon.comps.1.fuelLabel>Shells</HE_Albion_FieldCannon.comps.1.fuelLabel>
+  <HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>Shells</HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>
+  <HE_Albion_FieldCannon.comps.1.outOfFuelMessage>Needs steel for shells</HE_Albion_FieldCannon.comps.1.outOfFuelMessage>
+</LanguageData>

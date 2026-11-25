@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_PostRider</defName>
+    <title>royal post rider</title>
+    <titleShort>rider</titleShort>
+    <description>[PAWN_nameDef] carried the royal post from station to station, changing horses at every one and sleeping in the saddle. [PAWN_pronoun] has crossed the whole satrapy more times than [PAWN_pronoun] can count.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>6</Animals>
+      <Melee>2</Melee>
+      <Social>2</Social>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Weaver</defName>
+    <title>carpet weaver</title>
+    <titleShort>weaver</titleShort>
+    <description>[PAWN_nameDef] knotted carpets in a workshop of twenty looms, a pattern of a thousand flowers held in [PAWN_possessive] head. A single carpet of [PAWN_possessive] hangs in the satrap's hall.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>8</Crafting>
+      <Artistic>4</Artistic>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Gardener</defName>
+    <title>paradise gardener</title>
+    <titleShort>gardener</titleShort>
+    <description>[PAWN_nameDef] kept a royal garden: four beds, four channels, a thousand roses and the satrap's favourite pomegranate tree, which [PAWN_pronoun] talks to.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>8</Plants>
+      <Construction>2</Construction>
+      <Artistic>1</Artistic>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Immortal</defName>
+    <title>immortal guard</title>
+    <titleShort>guard</titleShort>
+    <description>[PAWN_nameDef] stood in the royal guard, one of the ten thousand whose number never falls. [PAWN_pronoun] learned to fight in a line, to obey without a word and to look splendid while doing it.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>7</Melee>
+      <Shooting>3</Shooting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Dabir</defName>
+    <title>court secretary</title>
+    <titleShort>secretary</titleShort>
+    <description>[PAWN_nameDef] wrote the satrap's letters in three scripts and read everyone else's. [PAWN_pronoun] knows which governor owes what to whom, and never says it aloud.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>6</Intellectual>
+      <Social>5</Social>
+    </skillGains>
+    <requiredWorkTags>
+      <li>Intellectual</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Qanat</defName>
+    <title>qanat digger</title>
+    <titleShort>digger</titleShort>
+    <description>[PAWN_nameDef] dug water tunnels under the mountains by lamplight, reading the slope by a plumb line and the air by the flame. [PAWN_pronoun] is not afraid of the dark or of hard rock.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Mining>7</Mining>
+      <Construction>4</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Astronomer</defName>
+    <title>court astronomer</title>
+    <titleShort>astronomer</titleShort>
+    <description>[PAWN_nameDef] measured the stars from a palace roof, kept the calendar and was asked to read the future far more often than [PAWN_pronoun] wanted to.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>7</Intellectual>
+      <Medicine>2</Medicine>
+    </skillGains>
+    <requiredWorkTags>
+      <li>Intellectual</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_Merchant</defName>
+    <title>road merchant</title>
+    <titleShort>merchant</titleShort>
+    <description>[PAWN_nameDef] led camel caravans along the royal road with silk going one way and silver the other, and haggled in every language spoken between the two ends.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Animals>2</Animals>
+      <Intellectual>1</Intellectual>
+    </skillGains>
+    <workDisables>
+      <li>Violent</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_BazaarChild</defName>
+    <title>bazaar runner</title>
+    <titleShort>runner</titleShort>
+    <description>[PAWN_nameDef] ran errands in the covered bazaar, carrying tea, change and gossip between the stalls.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>3</Social>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_HorseChild</defName>
+    <title>horse herder</title>
+    <titleShort>herder</titleShort>
+    <description>[PAWN_nameDef] grew up on the summer pastures with the royal herds and could ride before [PAWN_pronoun] could walk properly.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>3</Animals>
+      <Shooting>1</Shooting>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_LoomChild</defName>
+    <title>loom child</title>
+    <titleShort>loom child</titleShort>
+    <description>[PAWN_nameDef] sat beside [PAWN_possessive] mother at the loom, cutting knots and learning the patterns by their names.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>2</Crafting>
+      <Artistic>2</Artistic>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Pars_BS_CourtPage</defName>
+    <title>court page</title>
+    <titleShort>page</titleShort>
+    <description>[PAWN_nameDef] served at the satrap's table and learned how to bow, when to speak and how to listen to what was not said.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Pars</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>2</Social>
+      <Intellectual>1</Intellectual>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

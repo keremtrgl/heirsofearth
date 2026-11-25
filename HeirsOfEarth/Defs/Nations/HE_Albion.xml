@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Albion</defName>
+    <label>Commonwealth of Albion</label>
+    <description>The colony ship Avalon landed on a rainy island rich in coal and iron, and its people did what their ancestors had done: they dug, built and invented. Albion is the only heir nation with steam engines and rifles, ruled by a Lord Protector and a quarrelsome parliament. Its redcoats are disciplined, its merchants ambitious, and it has been at odds with Nova Roma for as long as anyone can remember.</description>
+    <color>(0.55, 0.10, 0.12)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Albion</iconPath>
+    <rulerTitle>Lord Protector</rulerTitle>
+    <adjective>Albion</adjective>
+    <release>2</release>
+    <friends>
+      <li>HE_Nord</li>
+    </friends>
+    <rivals>
+      <li>HE_Roma</li>
+    </rivals>
+    <faction>HE_Faction_Albion</faction>
+    <playerFaction>HE_Player_Albion</playerFaction>
+    <scenario>HE_Start_Albion</scenario>
+    <archive>HE_Albion_Archive</archive>
+    <doctrine>
+      <label>siege train</label>
+      <description>Albion comes with spades and guns. Its armies often dig in and build a battery before they attack, and its riflemen fire steady, measured volleys.</description>
+      <hediff>HE_Doctrine_Albion</hediff>
+      <strategy>Siege</strategy>
+      <chance>0.4</chance>
+    </doctrine>
+    <animal>Horse</animal>
+    <temperamentBias>
+      <li>Mercantile</li>
+      <li>Warlike</li>
+    </temperamentBias>
+    <honoraryTitle>knight of the Commonwealth</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

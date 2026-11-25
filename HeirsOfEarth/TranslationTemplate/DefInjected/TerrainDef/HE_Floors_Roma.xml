@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Concrete.label>Roman concrete</HE_Roma_Concrete.label>
+  <HE_Roma_Concrete.description>Pale concrete poured in square slabs. Durable and easy to clean.</HE_Roma_Concrete.description>
+  <HE_Roma_Road.label>Roman road</HE_Roma_Road.label>
+  <HE_Roma_Road.description>Fitted basalt slabs laid on a deep bed of gravel. Walking on it is fast and easy.</HE_Roma_Road.description>
+  <HE_Roma_Mosaic.label>Roman mosaic</HE_Roma_Mosaic.label>
+  <HE_Roma_Mosaic.description>Thousands of small stone tesserae set in a geometric pattern with a red border.</HE_Roma_Mosaic.description>
+</LanguageData>

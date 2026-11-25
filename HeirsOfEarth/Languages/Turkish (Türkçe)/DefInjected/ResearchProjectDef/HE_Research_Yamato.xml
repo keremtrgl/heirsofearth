@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Yari.label>yari</HE_Yamato_Yari.label>
+  <HE_Yamato_Yari.description>Piyadelerin düz ağızlı mızrağı; bir atlıyı uzakta tutacak kadar uzundur.</HE_Yamato_Yari.description>
+  <HE_Yamato_Yumi.label>yumi</HE_Yamato_Yumi.label>
+  <HE_Yamato_Yumi.description>Ortasının altından tutulan ve kulağa kadar çekilen, Yamato'nun uzun asimetrik yayı.</HE_Yamato_Yumi.description>
+  <HE_Yamato_Tatami.label>tatami ve çakıl bahçeleri</HE_Yamato_Tatami.label>
+  <HE_Yamato_Tatami.description>Örülmüş saman tatami hasırları ser ve beyaz çakılı durgun su desenlerine tırmıkla.</HE_Yamato_Tatami.description>
+  <HE_Yamato_Kimono.label>kimono</HE_Yamato_Kimono.label>
+  <HE_Yamato_Kimono.description>Yamato'nun her sınıfının giydiği sarmalı ve kuşaklı giysiyi dik.</HE_Yamato_Kimono.description>
+  <HE_Yamato_Onigiri.label>onigiri</HE_Yamato_Onigiri.label>
+  <HE_Yamato_Onigiri.description>Üçgen biçiminde sıkıştırılıp yosuna sarılmış pirinç: askerlerin ve hacıların yol yemeği.</HE_Yamato_Onigiri.description>
+  <HE_Yamato_Torii.label>torii kapıları</HE_Yamato_Torii.label>
+  <HE_Yamato_Torii.description>Gündelik dünyadan kutsal bir yere geçişi işaret eden kırmızı kapıları dik.</HE_Yamato_Torii.description>
+  <HE_Yamato_Levy.label>ashigaru seferberliği</HE_Yamato_Levy.label>
+  <HE_Yamato_Levy.description>Her çiftçi kapısının yanında bir mızrak tutar ve davul çaldığında nereye koşacağını bilir.
+
+Gelenek: Kolonistler %3 daha hızlı yürür.
+
+Mirasın bu değilse 15 Yamato bilgisi gerekir.</HE_Yamato_Levy.description>
+  <HE_Yamato_Kyudo.label>kyudo</HE_Yamato_Kyudo.label>
+  <HE_Yamato_Kyudo.description>Yayın yolu: sakin bir nefes, kusursuz bir duruş ve atılmaktan çok bırakılan bir ok.
+
+Gelenek: Kolonistler +2 atış isabeti kazanır.
+
+Mirasın bu değilse 20 Yamato bilgisi gerekir.</HE_Yamato_Kyudo.description>
+  <HE_Yamato_Zen.label>zen bahçesi</HE_Yamato_Zen.label>
+  <HE_Yamato_Zen.description>Her sabah birkaç taşın çevresindeki çakılı tırmıklamak, zihne kum gibi durulmayı öğretir.
+
+Gelenek: Kolonistlerin zihinsel çöküş eşiği %3 düşer.
+
+Mirasın bu değilse 20 Yamato bilgisi gerekir.</HE_Yamato_Zen.description>
+  <HE_Yamato_Tamahagane.label>tamahagane çeliği</HE_Yamato_Tamahagane.label>
+  <HE_Yamato_Tamahagane.description>Kil bir fırında mücevher çeliği erit ve onu tekrar tekrar katlayarak sırtı yumuşak, ağzı sert bıçaklara dönüştür.
+
+Mirasın bu değilse 10 Yamato bilgisi gerekir.</HE_Yamato_Tamahagane.description>
+  <HE_Yamato_TeaHouse.label>çay evi</HE_Yamato_TeaHouse.label>
+  <HE_Yamato_TeaHouse.description>Çay töreni için alçak bir masa ve bahçe yolunu aydınlatacak taş fenerler yap.
+
+Mirasın bu değilse 15 Yamato bilgisi gerekir.</HE_Yamato_TeaHouse.description>
+  <HE_Yamato_Dojo.label>dojo</HE_Yamato_Dojo.label>
+  <HE_Yamato_Dojo.description>Saman kazıklı ve talim kılıçları için raflı bir eğitim salonu.
+
+Mirasın bu değilse 15 Yamato bilgisi gerekir.</HE_Yamato_Dojo.description>
+  <HE_Yamato_Yoroi.label>yoroi zırhı</HE_Yamato_Yoroi.label>
+  <HE_Yamato_Yoroi.description>İpekle bağlanmış lake lameller zırh ve samurayın boynuzlu kabuto miğferi.
+
+Mirasın bu değilse 25 Yamato bilgisi gerekir.</HE_Yamato_Yoroi.description>
+  <HE_Yamato_Ceremony.label>çay töreni</HE_Yamato_Ceremony.label>
+  <HE_Yamato_Ceremony.description>Ev sahibinin her hareketi belirli ve acelesizdir. Misafirler geldiklerinden daha hafif ayrılır.
+
+Gelenek: Kolonistler eğlenceyi %15 daha hızlı kazanır.
+
+Mirasın bu değilse 25 Yamato bilgisi gerekir.</HE_Yamato_Ceremony.description>
+  <HE_Yamato_Folds.label>katlanmış dövme</HE_Yamato_Folds.label>
+  <HE_Yamato_Folds.description>Demircinin sabrı bütün koloninin alışkanlığı olur: iki kez ölç, bir kez vur.
+
+Gelenek: Kolonistler genel işleri (demircilik, zanaat, kasaplık, taş kesme) %10 daha hızlı yapar.
+
+Mirasın bu değilse 30 Yamato bilgisi gerekir.</HE_Yamato_Folds.description>
+  <HE_Yamato_Bushido.label>bushido</HE_Yamato_Bushido.label>
+  <HE_Yamato_Bushido.description>Savaşçının yolu: hayattan önce görev, acıdan önce sükûnet.
+
+Gelenek: Kolonistler +3 yakın dövüşte kaçınma ve +%5 acı şoku eşiği kazanır.
+
+Mirasın bu değilse 40 Yamato bilgisi gerekir.</HE_Yamato_Bushido.description>
+  <HE_Yamato_MasterCraft.label>usta zanaat</HE_Yamato_MasterCraft.label>
+  <HE_Yamato_MasterCraft.description>Bir Yamato zanaatkârı on iyi şey yerine tek bir kusursuz şey yapmayı yeğler.
+
+Gelenek: Üretilen eşyaların %12 ihtimalle bir kalite üstü çıkar, ama kolonistler %5 daha yavaş çalışır.
+
+Mirasın bu değilse 45 Yamato bilgisi gerekir.</HE_Yamato_MasterCraft.description>
+  <HE_Yamato_Mandate.label>göğün buyruğu</HE_Yamato_Mandate.label>
+  <HE_Yamato_Mandate.description>Haklı düzen yeniden kuruldu; Yamato halkı sakin yüreklerle çalışıp öğreniyor.
+
+Gelenek: Kolonistler %5 daha hızlı öğrenir ve zihinsel çöküş eşikleri %3 düşer.
+
+Mirasın bu değilse 50 Yamato bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Yamato_Mandate.description>
+  <HE_Yamato_Tanegashima.label>tanegaşima</HE_Yamato_Tanegashima.label>
+  <HE_Yamato_Tanegashima.description>Karaya oturmuş bir tüccarın tüfeğinden kopyalanan ve Sakai ocaklarında aslını geçene dek geliştirilen fitilli tüfekler.
+
+Mirasın bu değilse 35 Yamato bilgisi gerekir.</HE_Yamato_Tanegashima.description>
+  <HE_Yamato_Sakai.label>Sakai tüfekçileri</HE_Yamato_Sakai.label>
+  <HE_Yamato_Sakai.description>Üç sıra tüfekçi: biri ateş eder, biri sıkıştırır, biri barut koyar. Her adam nefesini ve sayısını bilir.
+
+Gelenek: Kolonistler %8 daha hızlı nişan alır.
+
+Mirasın bu değilse 45 Yamato bilgisi gerekir.</HE_Yamato_Sakai.description>
+  <HE_Yamato_Yagura.label>yagura</HE_Yamato_Yagura.label>
+  <HE_Yamato_Yagura.description>Kale ustaları surların köşelerine, okçuların sur boyunca atabileceği ok kuleleri dikmeyi öğrenir.
+
+Mirasın bu değilse 40 Yamato bilgisi gerekir.</HE_Yamato_Yagura.description>
+  <HE_Yamato_SteamArmy.label>Yamato buhar ordusu</HE_Yamato_SteamArmy.label>
+  <HE_Yamato_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Yamato'nun kurduğu ordu.
+
+Mirasın bu değilse, ancak Yamato Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Yamato bilgisi gerekir.</HE_Yamato_SteamArmy.description>
+</LanguageData>

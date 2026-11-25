@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Spear.label>ölümsüz mızrağı</HE_Pars_Spear.label>
+  <HE_Pars_Spear.description>Geniş yaprak biçimli bir ağzı ve dipte gümüş bir narı olan, kızılcık ağacından uzun bir mızrak; geçit töreninde dik taşınır, savaşta indirilir.</HE_Pars_Spear.description>
+  <HE_Pars_Spear.tools.0.label>dip</HE_Pars_Spear.tools.0.label>
+  <HE_Pars_Spear.tools.1.label>uç</HE_Pars_Spear.tools.1.label>
+  <HE_Pars_Akinakes.label>akinakes</HE_Pars_Akinakes.label>
+  <HE_Pars_Akinakes.description>Kalp biçimli bir siperi ve iki grifon başından bir topuzu olan kısa, düz bir kılıç. Kalabalıkta çevik; her muhafız subayı taşır.</HE_Pars_Akinakes.description>
+  <HE_Pars_Akinakes.tools.0.label>topuz</HE_Pars_Akinakes.tools.0.label>
+  <HE_Pars_Akinakes.tools.1.label>ağız</HE_Pars_Akinakes.tools.1.label>
+  <HE_Pars_Akinakes.tools.2.label>uç</HE_Pars_Akinakes.tools.2.label>
+  <HE_Pars_Bow.label>çift kavisli yay</HE_Pars_Bow.label>
+  <HE_Pars_Bow.description>Boynuz ve sinirden, kırmızı cilalı kollu, kısa ve derin kavisli bir yay. Çabuk çekilir ve dörtnala giden bir attan atılacak kadar hafiftir.</HE_Pars_Bow.description>
+  <HE_Pars_Bow.tools.0.label>kol</HE_Pars_Bow.tools.0.label>
+  <HE_Pars_Jezail.label>cezayir tüfeği</HE_Pars_Jezail.label>
+  <HE_Pars_Jezail.description>Kemik kakmalı, kıvrık dipçikli çok uzun bir çakmaklı tüfek. Doldurması bir ömür sürer, ama sabırlı bir nişancı vadinin karşısındaki adamı vurabilir.</HE_Pars_Jezail.description>
+  <HE_Pars_Jezail.tools.0.label>dipçik</HE_Pars_Jezail.tools.0.label>
+  <HE_Pars_Jezail.tools.1.label>namlu</HE_Pars_Jezail.tools.1.label>
+  <HE_Pars_Shamshir.label>şimşir</HE_Pars_Shamshir.label>
+  <HE_Pars_Shamshir.description>Su çeliğinden derin eğimli bir kılıç. Kesiğini hedefin içinden bir aslan pençesi gibi çeker ve her Pars süvarisinin gururudur.</HE_Pars_Shamshir.description>
+  <HE_Pars_Shamshir.tools.0.label>kabza</HE_Pars_Shamshir.tools.0.label>
+  <HE_Pars_Shamshir.tools.1.label>uç</HE_Pars_Shamshir.tools.1.label>
+  <HE_Pars_Shamshir.tools.2.label>ağız</HE_Pars_Shamshir.tools.2.label>
+  <HE_Pars_Rifle.label>Pers tüfeği</HE_Pars_Rifle.label>
+  <HE_Pars_Rifle.description>Dipçiği hatemle, kemikten, pirinçten ve tahtadan binlerce küçük yıldızla kakılmış sürgülü bir tüfek. Ateş de eden bir hazine ve devletlerin en uzun menzilli tüfeği.</HE_Pars_Rifle.description>
+  <HE_Pars_Rifle.tools.0.label>dipçik</HE_Pars_Rifle.tools.0.label>
+  <HE_Pars_Rifle.tools.1.label>namlu</HE_Pars_Rifle.tools.1.label>
+</LanguageData>

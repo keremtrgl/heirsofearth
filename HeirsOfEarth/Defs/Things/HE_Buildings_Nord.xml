@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Nord_Hearth</defName>
+    <label>longhouse hearth</label>
+    <description>A long fire pit lined with stones. It heats a large hall, lights it, and keeps a pot of stew warm.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_Hearth</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.2</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>1800</WorkToBuild>
+      <Mass>20</Mass>
+      <Beauty>4</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Longhouse</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>3.5</fuelConsumptionRate>
+        <fuelCapacity>30</fuelCapacity>
+        <fuelConsumptionPerTickInRain>0.0006</fuelConsumptionPerTickInRain>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <heatPerSecond>26</heatPerSecond>
+        <heatPushMaxTemperature>26</heatPushMaxTemperature>
+      </li>
+      <li Class="CompProperties_FireOverlay">
+        <fireSize>0.7</fireSize>
+        <offset>(0,0,0.05)</offset>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>9</glowRadius>
+        <glowColor>(252,180,100,0)</glowColor>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Nord_RuneStone</defName>
+    <label>rune stone</label>
+    <description>A tall grey stone carved with a serpent of runes that tells of a hero's deeds.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_RuneStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.5)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.5</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>130</costStuffCount>
+    <statBases>
+      <MaxHitPoints>320</MaxHitPoints>
+      <WorkToBuild>8000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>22</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Runes</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Nord_ShieldWall</defName>
+    <label>round shield display</label>
+    <description>A painted round shield with an iron boss, hung where everyone can see it.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_ShieldWall</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>35</costStuffCount>
+    <costList>
+      <Steel>10</Steel>
+    </costList>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <WorkToBuild>1800</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>6</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Byrnie</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Nord_MeadTable</defName>
+    <label>mead table</label>
+    <description>A long oak table set with drinking horns and a bowl of mead. Colonists gather here to drink and boast.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_MeadTable</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>70</costStuffCount>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToBuild>2400</WorkToBuild>
+      <Mass>40</Mass>
+      <Beauty>3</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_MeadHall</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Social</joyKind>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Nord_Sauna</defName>
+    <label>sauna</label>
+    <description>A small pine bath house with a stone stove and benches. Colonists sweat out their worries here.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_Sauna</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.3</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(3,2)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>180</costStuffCount>
+    <costList>
+      <BlocksGranite>30</BlocksGranite>
+    </costList>
+    <statBases>
+      <MaxHitPoints>400</MaxHitPoints>
+      <WorkToBuild>9000</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>8</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Sauna</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Meditative</joyKind>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>HE_Nord_BowLoft_Gun</defName>
+    <label>twin bow</label>
+    <description>The turning top of the bow loft.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_BowLoft_Top</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <AccuracyTouch>0.5</AccuracyTouch>
+      <AccuracyShort>0.68</AccuracyShort>
+      <AccuracyMedium>0.62</AccuracyMedium>
+      <AccuracyLong>0.5</AccuracyLong>
+      <RangedWeapon_Cooldown>3.6</RangedWeapon_Cooldown>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>30</Mass>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <defaultProjectile>HE_Arrow_BowLoft</defaultProjectile>
+        <warmupTime>0</warmupTime>
+        <range>34.9</range>
+        <ticksBetweenBurstShots>9</ticksBetweenBurstShots>
+        <burstShotCount>2</burstShotCount>
+        <soundCast>Bow_Large</soundCast>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Nord_BowLoft</defName>
+    <label>bow loft</label>
+    <description>A log platform with a huge twin bow on a pivot, the kind that once guarded the fjord gates. It shoots two great arrows at a time over long range. Wood for new arrows: one log makes two.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <drawHighlight>true</drawHighlight>
+    <drawHighlightOnlyForHostile>true</drawHighlightOnlyForHostile>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_BowLoft</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+      <shadowData>
+        <volume>(1.5,0.35,1.4)</volume>
+        <offset>(0,0,-0.05)</offset>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>280</MaxHitPoints>
+      <Flammability>1</Flammability>
+      <WorkToBuild>8500</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>-4</Beauty>
+      <ShootingAccuracyTurret>0.9</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.5</fillPercent>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <WoodLog>150</WoodLog>
+      <Steel>40</Steel>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HE_Nord_BowLoft_Gun</turretGunDef>
+      <turretBurstCooldownTime>3.6</turretBurstCooldownTime>
+      <turretTopDrawSize>2</turretTopDrawSize>
+      <turretTopOffset>(0, 0.05)</turretTopOffset>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>HE_Nord_BowLoft</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Arrows</fuelLabel>
+        <fuelGizmoLabel>Arrows</fuelGizmoLabel>
+        <outOfFuelMessage>Needs wood for arrows</outOfFuelMessage>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>60</fuelCapacity>
+        <fuelMultiplier>2</fuelMultiplier>
+        <initialFuelPercent>0</initialFuelPercent>
+        <autoRefuelPercent>0.5</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

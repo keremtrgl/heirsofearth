@@ -1,0 +1,10 @@
+Heirs of Earth 4.1.0 - Dress of the Nations
+
+- Every heir tunic, robe, coat, cloak and suit of armour (26 pieces) now has its own hand-drawn look when worn, for all five body types and from every side. Before this they borrowed vanilla graphics such as the plate armour, duster and robe.
+- Armour: the Roman lorica segmentata with shoulder guards and leather pteruges, the samurai do-maru with laced tassets, the Tianxia lamellar with its breast mirror, the Nordic mail byrnie, the Parsian and Kemetic scale, the Greek linothorax, the Inca quilted armour with its sun disc.
+- Clothing: the redcoat with white crossbelts, the frock coat, toga with its purple border, tunica with clavi, chiton, himation, kimono with obi, kamishimo, hanfu, the dragon robe, kaftan, candys, kalasiris with its broad collar, the Nordic tunic and fur cloak, the unku with tocapu squares.
+- The material still colours the cloth or metal; trims, gold, lacing and dyes keep their own colours.
+- Fix: the Inca feather cape and the Kemet leopard mantle used the Royalty cape graphic, which a game without Royalty cannot show. They now have their own.
+- Fix: hats, helmets and crowns (since 3.6) did not take the colour of their material in game, because their colour masks were misnamed. Steel helmets now look like steel, gold crowns like gold, and every new garment is tinted the same way. A test now checks the real material the game builds.
+- New Steam screenshots: a close look at each nation's dress, and every older scene shot again in the new garments.
+- Save compatible.

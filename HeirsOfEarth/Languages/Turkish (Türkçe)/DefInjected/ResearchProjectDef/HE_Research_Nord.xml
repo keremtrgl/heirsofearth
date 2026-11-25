@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Longhouse.label>uzun ev ocağı</HE_Nord_Longhouse.label>
+  <HE_Nord_Longhouse.description>Bütün bir salonu ısıtan ve akşam yemeğini pişiren, taş kaplı uzun bir ateş çukuru.</HE_Nord_Longhouse.description>
+  <HE_Nord_Planks.label>yarma tahta</HE_Nord_Planks.label>
+  <HE_Nord_Planks.description>Kütükleri lif yönünde yararak zemin ve sıralar için geniş tahtalar elde et.</HE_Nord_Planks.description>
+  <HE_Nord_HuntBow.label>av yayı</HE_Nord_HuntBow.label>
+  <HE_Nord_HuntBow.description>Çam ormanlarındaki geyikler için basit bir karaağaç yay; yapması da çekmesi de çabuktur.</HE_Nord_HuntBow.description>
+  <HE_Nord_Fur.label>kürk ve yün</HE_Nord_Fur.label>
+  <HE_Nord_Fur.description>Uzun kışlar için ağır kürk pelerinler ve kalın yün tunikler dik.</HE_Nord_Fur.description>
+  <HE_Nord_Skyr.label>skyr</HE_Nord_Skyr.label>
+  <HE_Nord_Skyr.description>Yağı alınmış sütü pıhtılaştırarak kışa dayanan koyu ve ekşi bir süt ürünü olan skyr yap.</HE_Nord_Skyr.description>
+  <HE_Nord_Runes.label>run taşları</HE_Nord_Runes.label>
+  <HE_Nord_Runes.description>Ölüleri anmak ve yaşayanları övmek için dikili taşlara runlar kazı.</HE_Nord_Runes.description>
+  <HE_Nord_Blood.label>kuzey kanı</HE_Nord_Blood.label>
+  <HE_Nord_Blood.description>Buz gibi nehirlerde yıkanan çocuklar, soğuğu fark etmeyen yetişkinlere dönüşür.
+
+Gelenek: Kolonistler 8°C daha soğukta rahat eder.
+
+Mirasın bu değilse 15 Nordheim bilgisi gerekir.</HE_Nord_Blood.description>
+  <HE_Nord_Hunting.label>av bilgisi</HE_Nord_Hunting.label>
+  <HE_Nord_Hunting.description>Kardaki izleri oku ve rüzgârın altından ilerle: avcıların bilgisi ebeveynden çocuğa geçer.
+
+Gelenek: Kolonistler +%10 av gizliliği ve +1 atış isabeti kazanır.
+
+Mirasın bu değilse 15 Nordheim bilgisi gerekir.</HE_Nord_Hunting.description>
+  <HE_Nord_Saga.label>destan anlatımı</HE_Nord_Saga.label>
+  <HE_Nord_Saga.description>Kış gecelerinde ozanlar ataların kahramanlıklarını anlatır. Herkes dinler, herkes öğrenir.
+
+Gelenek: Kolonistler %5 daha hızlı öğrenir ve +%5 sosyal etki kazanır.
+
+Mirasın bu değilse 20 Nordheim bilgisi gerekir.</HE_Nord_Saga.description>
+  <HE_Nord_Smithing.label>Nordheim demirciliği</HE_Nord_Smithing.label>
+  <HE_Nord_Smithing.description>Bataklık demirinden dövülmüş desenli kılıçlar ve uzun saplı Dane baltası.
+
+Mirasın bu değilse 10 Nordheim bilgisi gerekir.</HE_Nord_Smithing.description>
+  <HE_Nord_Byrnie.label>zırh gömleği ve yuvarlak kalkan</HE_Nord_Byrnie.label>
+  <HE_Nord_Byrnie.description>Binlerce perçinli halka bir zırh gömleği eder. Bir miğfer ve boyalı bir yuvarlak kalkanla savaşçı kalkan duvarına hazırdır.
+
+Mirasın bu değilse 25 Nordheim bilgisi gerekir.</HE_Nord_Byrnie.description>
+  <HE_Nord_MeadHall.label>bal şarabı salonu</HE_Nord_MeadHall.label>
+  <HE_Nord_MeadHall.description>Uzun masalar, içki boynuzları ve bir jarl koltuğu: bal şarabı salonu, Nordheim halkının ziyafet çektiği, övündüğü ve barıştığı yerdir.
+
+Mirasın bu değilse 15 Nordheim bilgisi gerekir.</HE_Nord_MeadHall.description>
+  <HE_Nord_Sauna.label>sauna</HE_Nord_Sauna.label>
+  <HE_Nord_Sauna.description>Taş sobalı küçük bir kütük ev. Buhar, huş dalları ve karda yuvarlanmak bedeni güçlü tutar.
+
+Gelenek: Saunayı açar. Kolonistler %10 daha hızlı bağışıklık kazanır.
+
+Mirasın bu değilse 20 Nordheim bilgisi gerekir.</HE_Nord_Sauna.description>
+  <HE_Nord_Thing.label>Thing meclisi</HE_Nord_Thing.label>
+  <HE_Nord_Thing.description>Özgür insanlar anlaşmazlıkları balta yerine yasayla çözmek için toplanır. Sesleri uzağa ulaşır.
+
+Gelenek: Kolonistler +%8 müzakere yeteneği kazanır.
+
+Mirasın bu değilse 25 Nordheim bilgisi gerekir.</HE_Nord_Thing.description>
+  <HE_Nord_Longships.label>uzun gemi tayfaları</HE_Nord_Longships.label>
+  <HE_Nord_Longships.description>Kürek tayfaları dalgaların ya da karanın üzerinde hafif ve hızlı yolculuk etmeyi öğrenir.
+
+Gelenek: Kervanların %12 daha hızlı yolculuk eder.
+
+Mirasın bu değilse 30 Nordheim bilgisi gerekir.</HE_Nord_Longships.description>
+  <HE_Nord_Berserk.label>berserkergang</HE_Nord_Berserk.label>
+  <HE_Nord_Berserk.description>Bazı savaşçılar hem yaraları hem de temkini yok sayan bir öfkeyle dövüşür.
+
+Gelenek: Kolonistler %10 daha fazla yakın dövüş hasarı verir ama yakın dövüşte kaçınmaları -2 olur.
+
+Mirasın bu değilse 40 Nordheim bilgisi gerekir.</HE_Nord_Berserk.description>
+  <HE_Nord_Valhalla.label>Valhalla yolu</HE_Nord_Valhalla.label>
+  <HE_Nord_Valhalla.description>Kış ayinini görenler artık ölümden korkmaz, yalnızca sıradan bir ölümden korkar.
+
+Gelenek: Kolonistler +%8 acı şoku eşiği ve +1 yakın dövüş isabeti kazanır.
+
+Mirasın bu değilse 50 Nordheim bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Nord_Valhalla.description>
+  <HE_Nord_HarpoonGun.label>zıpkın tüfeği</HE_Nord_HarpoonGun.label>
+  <HE_Nord_HarpoonGun.description>Halata bağlı, dikenli bir demir zıpkın fırlatan bir balinacı tüfeği. Balinalar için yapıldı; akıncılarda da işe yarar.
+
+Mirasın bu değilse 35 Nordheim bilgisi gerekir.</HE_Nord_HarpoonGun.description>
+  <HE_Nord_FolkSchools.label>halk yüksekokulları</HE_Nord_FolkSchools.label>
+  <HE_Nord_FolkSchools.description>Çiftçilerin, balıkçıların ve demircilerin tarihi, türküleri ve Thing yasasını birlikte öğrendiği sınavsız okullar.
+
+Gelenek: Kolonistler %8 daha hızlı öğrenir ve %4 daha hızlı araştırma yapar.
+
+Mirasın bu değilse 45 Nordheim bilgisi gerekir.</HE_Nord_FolkSchools.description>
+  <HE_Nord_BowLoft.label>yay çardağı</HE_Nord_BowLoft.label>
+  <HE_Nord_BowLoft.description>Avcılar ve gemi ustaları becerilerini birleştirir: elle gerilemeyecek kadar büyük, bir vinçle gerilen bir yay.
+
+Mirasın bu değilse 40 Nordheim bilgisi gerekir.</HE_Nord_BowLoft.description>
+  <HE_Nord_PowderArms.label>Nord barutlu silahlar</HE_Nord_PowderArms.label>
+  <HE_Nord_PowderArms.description>Nordheim'ın usulü bir fitilli ya da çakmaklı tüfek yapmak: namlu, kilit, dipçik ve kullanma talimi.
+
+Mirasın bu değilse, ancak Nordheim Barut Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 30 Nordheim bilgisi gerekir.</HE_Nord_PowderArms.description>
+  <HE_Nord_SteamArmy.label>Nord buhar ordusu</HE_Nord_SteamArmy.label>
+  <HE_Nord_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Nordheim'ın kurduğu ordu.
+
+Mirasın bu değilse, ancak Nordheim Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Nordheim bilgisi gerekir.</HE_Nord_SteamArmy.description>
+</LanguageData>

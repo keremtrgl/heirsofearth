@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Pars_Carpet</defName>
+    <label>Parsian carpet</label>
+    <description>A thick hand-knotted carpet of wool in deep red, indigo and ivory, with a garden pattern in the middle. Every court in the world wants one.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Pars_Carpet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>10</stackLimit>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>240</MarketValue>
+      <Mass>3</Mass>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>1</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_ParsGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Pars</nation>
+        <knowledge>2</knowledge>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

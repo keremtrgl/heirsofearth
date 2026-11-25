@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_BS_PostRider.title>royal post rider</HE_Pars_BS_PostRider.title>
+  <HE_Pars_BS_PostRider.titleShort>rider</HE_Pars_BS_PostRider.titleShort>
+  <HE_Pars_BS_PostRider.description>[PAWN_nameDef] carried the royal post from station to station, changing horses at every one and sleeping in the saddle. [PAWN_pronoun] has crossed the whole satrapy more times than [PAWN_pronoun] can count.</HE_Pars_BS_PostRider.description>
+  <HE_Pars_BS_Weaver.title>carpet weaver</HE_Pars_BS_Weaver.title>
+  <HE_Pars_BS_Weaver.titleShort>weaver</HE_Pars_BS_Weaver.titleShort>
+  <HE_Pars_BS_Weaver.description>[PAWN_nameDef] knotted carpets in a workshop of twenty looms, a pattern of a thousand flowers held in [PAWN_possessive] head. A single carpet of [PAWN_possessive] hangs in the satrap's hall.</HE_Pars_BS_Weaver.description>
+  <HE_Pars_BS_Gardener.title>paradise gardener</HE_Pars_BS_Gardener.title>
+  <HE_Pars_BS_Gardener.titleShort>gardener</HE_Pars_BS_Gardener.titleShort>
+  <HE_Pars_BS_Gardener.description>[PAWN_nameDef] kept a royal garden: four beds, four channels, a thousand roses and the satrap's favourite pomegranate tree, which [PAWN_pronoun] talks to.</HE_Pars_BS_Gardener.description>
+  <HE_Pars_BS_Immortal.title>immortal guard</HE_Pars_BS_Immortal.title>
+  <HE_Pars_BS_Immortal.titleShort>guard</HE_Pars_BS_Immortal.titleShort>
+  <HE_Pars_BS_Immortal.description>[PAWN_nameDef] stood in the royal guard, one of the ten thousand whose number never falls. [PAWN_pronoun] learned to fight in a line, to obey without a word and to look splendid while doing it.</HE_Pars_BS_Immortal.description>
+  <HE_Pars_BS_Dabir.title>court secretary</HE_Pars_BS_Dabir.title>
+  <HE_Pars_BS_Dabir.titleShort>secretary</HE_Pars_BS_Dabir.titleShort>
+  <HE_Pars_BS_Dabir.description>[PAWN_nameDef] wrote the satrap's letters in three scripts and read everyone else's. [PAWN_pronoun] knows which governor owes what to whom, and never says it aloud.</HE_Pars_BS_Dabir.description>
+  <HE_Pars_BS_Qanat.title>qanat digger</HE_Pars_BS_Qanat.title>
+  <HE_Pars_BS_Qanat.titleShort>digger</HE_Pars_BS_Qanat.titleShort>
+  <HE_Pars_BS_Qanat.description>[PAWN_nameDef] dug water tunnels under the mountains by lamplight, reading the slope by a plumb line and the air by the flame. [PAWN_pronoun] is not afraid of the dark or of hard rock.</HE_Pars_BS_Qanat.description>
+  <HE_Pars_BS_Astronomer.title>court astronomer</HE_Pars_BS_Astronomer.title>
+  <HE_Pars_BS_Astronomer.titleShort>astronomer</HE_Pars_BS_Astronomer.titleShort>
+  <HE_Pars_BS_Astronomer.description>[PAWN_nameDef] measured the stars from a palace roof, kept the calendar and was asked to read the future far more often than [PAWN_pronoun] wanted to.</HE_Pars_BS_Astronomer.description>
+  <HE_Pars_BS_Merchant.title>road merchant</HE_Pars_BS_Merchant.title>
+  <HE_Pars_BS_Merchant.titleShort>merchant</HE_Pars_BS_Merchant.titleShort>
+  <HE_Pars_BS_Merchant.description>[PAWN_nameDef] led camel caravans along the royal road with silk going one way and silver the other, and haggled in every language spoken between the two ends.</HE_Pars_BS_Merchant.description>
+  <HE_Pars_BS_BazaarChild.title>bazaar runner</HE_Pars_BS_BazaarChild.title>
+  <HE_Pars_BS_BazaarChild.titleShort>runner</HE_Pars_BS_BazaarChild.titleShort>
+  <HE_Pars_BS_BazaarChild.description>[PAWN_nameDef] ran errands in the covered bazaar, carrying tea, change and gossip between the stalls.</HE_Pars_BS_BazaarChild.description>
+  <HE_Pars_BS_HorseChild.title>horse herder</HE_Pars_BS_HorseChild.title>
+  <HE_Pars_BS_HorseChild.titleShort>herder</HE_Pars_BS_HorseChild.titleShort>
+  <HE_Pars_BS_HorseChild.description>[PAWN_nameDef] grew up on the summer pastures with the royal herds and could ride before [PAWN_pronoun] could walk properly.</HE_Pars_BS_HorseChild.description>
+  <HE_Pars_BS_LoomChild.title>loom child</HE_Pars_BS_LoomChild.title>
+  <HE_Pars_BS_LoomChild.titleShort>loom child</HE_Pars_BS_LoomChild.titleShort>
+  <HE_Pars_BS_LoomChild.description>[PAWN_nameDef] sat beside [PAWN_possessive] mother at the loom, cutting knots and learning the patterns by their names.</HE_Pars_BS_LoomChild.description>
+  <HE_Pars_BS_CourtPage.title>court page</HE_Pars_BS_CourtPage.title>
+  <HE_Pars_BS_CourtPage.titleShort>page</HE_Pars_BS_CourtPage.titleShort>
+  <HE_Pars_BS_CourtPage.description>[PAWN_nameDef] served at the satrap's table and learned how to bow, when to speak and how to listen to what was not said.</HE_Pars_BS_CourtPage.description>
+</LanguageData>

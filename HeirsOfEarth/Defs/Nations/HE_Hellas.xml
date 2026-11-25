@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Hellas</defName>
+    <label>League of Hellas</label>
+    <description>The colony ship Argo carried teachers, doctors and philosophers, and their children never stopped arguing. The city-states of Hellas are a quarrelsome league held together by a common tongue, the games and a deep love of learning. Their hoplites fight shoulder to shoulder, their physicians are sought by every nation, and they count the Nova Romans as old friends.</description>
+    <color>(0.18, 0.36, 0.55)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Hellas</iconPath>
+    <rulerTitle>Archon</rulerTitle>
+    <adjective>Hellenic</adjective>
+    <release>2</release>
+    <friends>
+      <li>HE_Roma</li>
+    </friends>
+    <faction>HE_Faction_Hellas</faction>
+    <playerFaction>HE_Player_Hellas</playerFaction>
+    <scenario>HE_Start_Hellas</scenario>
+    <archive>HE_Hellas_Archive</archive>
+    <doctrine>
+      <label>phalanx</label>
+      <description>Hoplites fight shoulder to shoulder, each shield covering the man to the left. In the line they are hard to hit and hard to escape; alone they are ordinary men.</description>
+      <hediff>HE_Doctrine_Hellas</hediff>
+      <strategy>ImmediateAttack</strategy>
+      <arrival>EdgeWalkIn</arrival>
+      <chance>0.75</chance>
+    </doctrine>
+    <animal>Donkey</animal>
+    <temperamentBias>
+      <li>Scholarly</li>
+      <li>Mercantile</li>
+    </temperamentBias>
+    <honoraryTitle>proxenos of the League</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

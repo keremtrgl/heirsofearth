@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThoughtDef>
+    <defName>HE_GamesVictor</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>15</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>victor of the Games</label>
+        <description>I won the Games before the whole world. They will sing of it.</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  <ThoughtDef>
+    <defName>HE_GamesContender</defName>
+    <thoughtClass>Thought_Memory</thoughtClass>
+    <durationDays>6</durationDays>
+    <stackLimit>1</stackLimit>
+    <stages>
+      <li>
+        <label>competed at the Games</label>
+        <description>I did not win, but I stood among the best of the world.</description>
+        <baseMoodEffect>4</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

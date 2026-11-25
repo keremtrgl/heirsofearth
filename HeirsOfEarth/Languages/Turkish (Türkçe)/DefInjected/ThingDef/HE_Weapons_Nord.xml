@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Sword.label>Nordheim kılıcı</HE_Nord_Sword.label>
+  <HE_Nord_Sword.description>Desenli kaynaklı ağzı ve dilimli topuzu olan geniş, iki ağızlı bir kılıç. Bir jarlın sadık bir savaşçıya hediyesi.</HE_Nord_Sword.description>
+  <HE_Nord_Sword.tools.0.label>topuz</HE_Nord_Sword.tools.0.label>
+  <HE_Nord_Sword.tools.1.label>uç</HE_Nord_Sword.tools.1.label>
+  <HE_Nord_Sword.tools.2.label>ağız</HE_Nord_Sword.tools.2.label>
+  <HE_Nord_DaneAxe.label>Dane baltası</HE_Nord_DaneAxe.label>
+  <HE_Nord_DaneAxe.description>Bir insan boyu uzunluğunda bir sapın ucunda ince, geniş bir balta başı. İki elle savrulduğunda kalkanları ve miğferleri yarar.</HE_Nord_DaneAxe.description>
+  <HE_Nord_DaneAxe.tools.0.label>sap</HE_Nord_DaneAxe.tools.0.label>
+  <HE_Nord_DaneAxe.tools.1.label>ağız</HE_Nord_DaneAxe.tools.1.label>
+  <HE_Nord_HuntBow.label>av yayı</HE_Nord_HuntBow.label>
+  <HE_Nord_HuntBow.description>Sinirle kirişlenmiş sade bir karaağaç yay. Hafif, sessiz ve av mesafelerinde isabetli.</HE_Nord_HuntBow.description>
+  <HE_Nord_HuntBow.tools.0.label>kol</HE_Nord_HuntBow.tools.0.label>
+  <HE_Nord_HarpoonGun.label>zıpkın tüfeği</HE_Nord_HarpoonGun.label>
+  <HE_Nord_HarpoonGun.description>Dikenli bir demir zıpkın fırlatan ağır, kısa namlulu bir tüfek. Yavaş ve kısa menzilli, ama vurduğu şey vurulmuş kalır.</HE_Nord_HarpoonGun.description>
+  <HE_Nord_HarpoonGun.tools.0.label>dipçik</HE_Nord_HarpoonGun.tools.0.label>
+  <HE_Nord_HarpoonGun.tools.1.label>namlu</HE_Nord_HarpoonGun.tools.1.label>
+  <HE_Nord_Seax.label>seaks</HE_Nord_Seax.label>
+  <HE_Nord_Seax.description>Her özgür adamın taşıdığı, sırtı kırık, ağır, tek ağızlı bir bıçak. Sofrada bir alet, kalkan duvarında bir silahtır.</HE_Nord_Seax.description>
+  <HE_Nord_Seax.tools.0.label>kabza</HE_Nord_Seax.tools.0.label>
+  <HE_Nord_Seax.tools.1.label>uç</HE_Nord_Seax.tools.1.label>
+  <HE_Nord_Seax.tools.2.label>ağız</HE_Nord_Seax.tools.2.label>
+  <HE_Nord_HookGun.label>kancalı tüfek</HE_Nord_HookGun.label>
+  <HE_Nord_HookGun.description>Namlunun altında, bir duvara ya da korkuluğa dayamak için demir kancası olan ağır bir fitilli tüfek. At gibi teper, at gibi vurur.</HE_Nord_HookGun.description>
+  <HE_Nord_HookGun.tools.0.label>dipçik</HE_Nord_HookGun.tools.0.label>
+  <HE_Nord_HookGun.tools.1.label>namlu</HE_Nord_HookGun.tools.1.label>
+  <HE_Nord_Rifle.label>Nord tüfeği</HE_Nord_Rifle.label>
+  <HE_Nord_Rifle.description>Soluk huş dipçikli ve yan tarafında, mekanizma açılmadan doldurulan bir kutu şarjörü olan sürgülü bir tüfek; bu yüzden diğer sürgülü tüfeklerden hızlı ateş eder.</HE_Nord_Rifle.description>
+  <HE_Nord_Rifle.tools.0.label>dipçik</HE_Nord_Rifle.tools.0.label>
+  <HE_Nord_Rifle.tools.1.label>namlu</HE_Nord_Rifle.tools.1.label>
+</LanguageData>

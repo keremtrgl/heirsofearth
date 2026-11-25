@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HeirsOfEarth.NationDef>
+    <defName>HE_Tianxia</defName>
+    <label>Celestial Tianxia</label>
+    <description>The colony ship Kunlun carried the largest crew of all the heirs, and their descendants built the largest realm. An emperor rules all under heaven through scholar-officials chosen by examination, and the silk roads of Tianxia carry tea, porcelain and silk to every market. They are patient, numerous and proud, and they have never forgiven Yamato for an old war.</description>
+    <color>(0.62, 0.14, 0.12)</color>
+    <iconPath>HeirsOfEarth/UI/HE_Tianxia</iconPath>
+    <rulerTitle>Emperor</rulerTitle>
+    <adjective>Tianxia</adjective>
+    <release>2</release>
+    <rivals>
+      <li>HE_Yamato</li>
+    </rivals>
+    <faction>HE_Faction_Tianxia</faction>
+    <playerFaction>HE_Player_Tianxia</playerFaction>
+    <scenario>HE_Start_Tianxia</scenario>
+    <archive>HE_Tianxia_Archive</archive>
+    <doctrine>
+      <label>art of war</label>
+      <description>Every battle is won before it is fought. Tianxia armies gather out of reach, wait for the right moment and then strike with drilled crossbow volleys.</description>
+      <hediff>HE_Doctrine_Tianxia</hediff>
+      <strategy>StageThenAttack</strategy>
+      <chance>0.75</chance>
+    </doctrine>
+    <animal>Yak</animal>
+    <temperamentBias>
+      <li>Scholarly</li>
+      <li>Cautious</li>
+    </temperamentBias>
+    <honoraryTitle>marquis of the outer realm</honoraryTitle>
+  </HeirsOfEarth.NationDef>
+</Defs>

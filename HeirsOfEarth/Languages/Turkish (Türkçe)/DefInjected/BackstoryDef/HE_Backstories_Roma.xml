@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_BS_Tiro.title>lejyon acemisi</HE_Roma_BS_Tiro.title>
+  <HE_Roma_BS_Tiro.titleShort>acemi</HE_Roma_BS_Tiro.titleShort>
+  <HE_Roma_BS_Tiro.description>[PAWN_nameDef] on sekizinde lejyona yazıldı ve ayakları kanayana dek yürüdü. Talim çavuşları ona dövüşmeyi öğretmeden önce hendek kazmayı, kazık çit dikmeyi ve hattı tutmayı öğretti.</HE_Roma_BS_Tiro.description>
+  <HE_Roma_BS_Faber.title>lejyon demircisi</HE_Roma_BS_Faber.title>
+  <HE_Roma_BS_Faber.titleShort>demirci</HE_Roma_BS_Faber.titleShort>
+  <HE_Roma_BS_Faber.description>[PAWN_nameDef] yıllarca bir sınır kalesinin ocaklarını yaktı; gladius dövdü, zincir zırh onardı, subayların atlarını nalladı. İyi demiri kötüsünden çıkardığı sesten ayırabilir.</HE_Roma_BS_Faber.description>
+  <HE_Roma_BS_Architectus.title>su kemeri mimarı</HE_Roma_BS_Architectus.title>
+  <HE_Roma_BS_Architectus.titleShort>mimar</HE_Roma_BS_Architectus.titleShort>
+  <HE_Roma_BS_Architectus.description>[PAWN_nameDef] suyu vadilerin üzerinden taşıyan kemerler tasarladı. Her duvarı çekül ipiyle yoklar, eğri bir duvarın önünden kaşlarını çatmadan geçemez.</HE_Roma_BS_Architectus.description>
+  <HE_Roma_BS_Senator.title>genç senatör</HE_Roma_BS_Senator.title>
+  <HE_Roma_BS_Senator.titleShort>senatör</HE_Roma_BS_Senator.titleShort>
+  <HE_Roma_BS_Senator.description>[PAWN_nameDef] Nova Roma senatosunda söz aldı, tahıl yasaları üzerine tartıştı ve her dostluğun bir bedeli olduğunu öğrendi. Kazı ve taşıma işlerini kendi rütbesindeki bir yurttaşa yakıştırmaz.</HE_Roma_BS_Senator.description>
+  <HE_Roma_BS_Medicus.title>sahra hekimi</HE_Roma_BS_Medicus.title>
+  <HE_Roma_BS_Medicus.titleShort>hekim</HE_Roma_BS_Medicus.titleShort>
+  <HE_Roma_BS_Medicus.description>[PAWN_nameDef] bronz aletler ve sirkeye batırılmış sargılarla dolu bir çantayla lejyonu savaştan savaşa izledi. Sayamayacağı kadar çok yara dikti.</HE_Roma_BS_Medicus.description>
+  <HE_Roma_BS_Agricola.title>villa çiftçisi</HE_Roma_BS_Agricola.title>
+  <HE_Roma_BS_Agricola.titleShort>çiftçi</HE_Roma_BS_Agricola.titleShort>
+  <HE_Roma_BS_Agricola.description>[PAWN_nameDef] bir kır villasının basamaklı zeytinliklerinde ve buğday tarlalarında çalıştı. Ekim takvimini ezbere bilir ve hiç saban tutmamış kimseye güvenmez.</HE_Roma_BS_Agricola.description>
+  <HE_Roma_BS_Centurio.title>kıdemli centurion</HE_Roma_BS_Centurio.title>
+  <HE_Roma_BS_Centurio.titleShort>centurion</HE_Roma_BS_Centurio.titleShort>
+  <HE_Roma_BS_Centurio.description>[PAWN_nameDef] on yıl boyunca seksen lejyonere komuta etti ve rütbesinin asma değneğini taşır. Serttir, adildir, yüksek sesle konuşur; askerleri onu bir nehre kadar izler.</HE_Roma_BS_Centurio.description>
+  <HE_Roma_BS_Mercator.title>yol tüccarı</HE_Roma_BS_Mercator.title>
+  <HE_Roma_BS_Mercator.titleShort>tüccar</HE_Roma_BS_Mercator.titleShort>
+  <HE_Roma_BS_Mercator.description>[PAWN_nameDef] taş yollar boyunca katır kervanları sürdü, kasabadan kasabaya şarap, zeytinyağı ve dedikodu sattı. Bir araba malın değerini tek bakışta biçer.</HE_Roma_BS_Mercator.description>
+  <HE_Roma_BS_CastraChild.title>kamp çocuğu</HE_Roma_BS_CastraChild.title>
+  <HE_Roma_BS_CastraChild.titleShort>kamp çocuğu</HE_Roma_BS_CastraChild.titleShort>
+  <HE_Roma_BS_CastraChild.description>[PAWN_nameDef] bir yürüyüş kampının çadırları ve toprak setleri arasında büyüdü; askerlere ayak işleri yaptı, harflerden önce boru işaretlerini öğrendi.</HE_Roma_BS_CastraChild.description>
+  <HE_Roma_BS_Scriba.title>kâtip çırağı</HE_Roma_BS_Scriba.title>
+  <HE_Roma_BS_Scriba.titleShort>çırak</HE_Roma_BS_Scriba.titleShort>
+  <HE_Roma_BS_Scriba.description>[PAWN_nameDef] çocukluğunu tabularium'da yasaları balmumu tabletlere kopyalayarak geçirdi; tek bir leke dayak demekti.</HE_Roma_BS_Scriba.description>
+  <HE_Roma_BS_Subura.title>sokak çocuğu</HE_Roma_BS_Subura.title>
+  <HE_Roma_BS_Subura.titleShort>haylaz</HE_Roma_BS_Subura.titleShort>
+  <HE_Roma_BS_Subura.description>[PAWN_nameDef] aşağı şehrin kalabalık apartmanlarında büyüdü; orada ekmek çalmayı, damlara tırmanmayı ve dilini kullanarak beladan sıyrılmayı öğrendi.</HE_Roma_BS_Subura.description>
+  <HE_Roma_BS_Villa.title>villa çocuğu</HE_Roma_BS_Villa.title>
+  <HE_Roma_BS_Villa.titleShort>villa çocuğu</HE_Roma_BS_Villa.titleShort>
+  <HE_Roma_BS_Villa.description>[PAWN_nameDef] asmalar, keçiler ve hikâye anlatan büyükanne büyükbabalar arasında bir kır malikânesinde büyüdü.</HE_Roma_BS_Villa.description>
+</LanguageData>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Book_Roma_Annals.label>Annals of Nova Roma</HE_Book_Roma_Annals.label>
+  <HE_Book_Roma_Annals.description>Year by year and consul by consul, the pontiffs' record of the city: its founding among the ruins, its wars, its laws and the omens that came before each of them.</HE_Book_Roma_Annals.description>
+  <HE_Book_Roma_Building.label>Ten Books on Building</HE_Book_Roma_Building.label>
+  <HE_Book_Roma_Building.description>An engineer's treatise on roads, aqueducts, baths and the secret of good concrete. Half of it is mathematics; the other half is complaints about lazy masons.</HE_Book_Roma_Building.description>
+  <HE_Book_Yamato_BrushBlade.label>The Brush and the Blade</HE_Book_Yamato_BrushBlade.label>
+  <HE_Book_Yamato_BrushBlade.description>Short essays by a swordsman who was also a calligrapher. He writes that a single stroke of ink and a single cut of the sword are learned in the same way: ten thousand times, then once.</HE_Book_Yamato_BrushBlade.description>
+  <HE_Book_Yamato_TeaDiary.label>Diary of the Sakai Tea Masters</HE_Book_Yamato_TeaDiary.label>
+  <HE_Book_Yamato_TeaDiary.description>Three generations of tea masters kept this diary: the guests, the bowls, the flowers in the alcove and what the merchants of Sakai whispered over the kettle.</HE_Book_Yamato_TeaDiary.description>
+  <HE_Book_Nord_FirstJarl.label>Saga of the First Jarl</HE_Book_Nord_FirstJarl.label>
+  <HE_Book_Nord_FirstJarl.description>How the first jarl led his people over the ice, broke the frost giants' hold on the fjords and was buried with his horn. The skalds still argue over which parts are true.</HE_Book_Nord_FirstJarl.description>
+  <HE_Book_Nord_LongWinter.label>Lay of the Long Winter</HE_Book_Nord_LongWinter.label>
+  <HE_Book_Nord_LongWinter.description>A long poem about the winter that lasted three years: who shared their food, who did not, and how the halls that stood together were the only ones still standing in spring.</HE_Book_Nord_LongWinter.description>
+  <HE_Book_Hellas_Dialogues.label>Dialogues of the Academy</HE_Book_Hellas_Dialogues.label>
+  <HE_Book_Hellas_Dialogues.description>A teacher and his pupils argue under an olive tree about justice, courage and whether a city can be governed by its wisest. No one wins, and everyone learns.</HE_Book_Hellas_Dialogues.description>
+  <HE_Book_Hellas_Elements.label>Elements of the Geometers</HE_Book_Hellas_Elements.label>
+  <HE_Book_Hellas_Elements.description>From five simple truths, the whole of geometry, proved line by line. Builders, navigators and astronomers of the League all learned from a copy of this book.</HE_Book_Hellas_Elements.description>
+  <HE_Book_Tianxia_Analects.label>Analects of the Examination Hall</HE_Book_Tianxia_Analects.label>
+  <HE_Book_Tianxia_Analects.description>Sayings of the old masters, learned by heart by every candidate for the imperial examinations: on filial duty, on ritual, on the gentleman who is ashamed when his words outrun his deeds.</HE_Book_Tianxia_Analects.description>
+  <HE_Book_Tianxia_Strategy.label>Thirteen Chapters on Strategy</HE_Book_Tianxia_Strategy.label>
+  <HE_Book_Tianxia_Strategy.description>A general's thirteen chapters on war, spies, terrain and fire. Its first lesson is that the best victory is the battle you never had to fight.</HE_Book_Tianxia_Strategy.description>
+  <HE_Book_Albion_Almanac.label>The Commonwealth Almanac</HE_Book_Albion_Almanac.label>
+  <HE_Book_Albion_Almanac.description>Tides, feast days, crop prices, the phases of the moon and a hundred useful recipes, printed every year since the first presses of the Commonwealth.</HE_Book_Albion_Almanac.description>
+  <HE_Book_Albion_Steam.label>A Treatise on the Steam Engine</HE_Book_Albion_Steam.label>
+  <HE_Book_Albion_Steam.description>Cylinders, valves, boilers and the arithmetic of coal, with engraved plates. The author warns, more than once, never to tie down a safety valve.</HE_Book_Albion_Steam.description>
+  <HE_Book_Kemet_Instructions.label>Instructions of the Scribe</HE_Book_Kemet_Instructions.label>
+  <HE_Book_Kemet_Instructions.description>An old scribe's advice to his son: be patient, keep your accounts honest, speak little at the table of a great man, and never forget that the scribe is the one who does not carry the load.</HE_Book_Kemet_Instructions.description>
+  <HE_Book_Kemet_SecondSunrise.label>Book of the Second Sunrise</HE_Book_Kemet_SecondSunrise.label>
+  <HE_Book_Kemet_SecondSunrise.description>Hymns and calendars of the priests of the sun, written when Kemet rose again from the sand: when to sow, when the river rises, and what to say to the dawn.</HE_Book_Kemet_SecondSunrise.description>
+  <HE_Book_Pars_Garden.label>Verses of the Garden</HE_Book_Pars_Garden.label>
+  <HE_Book_Pars_Garden.description>Four-line verses about roses, wine, friendship and the shortness of life, written in the margins of a gardener's ledger by a poet who was also a very good gardener.</HE_Book_Pars_Garden.description>
+  <HE_Book_Pars_KingsRoad.label>Book of the King's Road</HE_Book_Pars_KingsRoad.label>
+  <HE_Book_Pars_KingsRoad.description>Every post station, well, bridge and caravanserai on the great road of the satraps, with the distances between them and the names of the men who keep them.</HE_Book_Pars_KingsRoad.description>
+  <HE_Book_Inti_Harvests.label>Khipu of the Harvests</HE_Book_Inti_Harvests.label>
+  <HE_Book_Inti_Harvests.description>Knotted cords that count the harvests of a whole valley over fifty years: maize, potatoes, quinoa, the good years and the lean. A knot-keeper can read it like a book.</HE_Book_Inti_Harvests.description>
+  <HE_Book_Inti_SunSongs.label>Khipu of the Sun Songs</HE_Book_Inti_SunSongs.label>
+  <HE_Book_Inti_SunSongs.description>The songs sung at the feast of the sun, kept in coloured cords. The knots hold the words; the colours hold the melody, or so the knot-keepers say.</HE_Book_Inti_SunSongs.description>
+  <HE_Book_Roma_FoundersCodex.label>The Founders' Codex</HE_Book_Roma_FoundersCodex.label>
+  <HE_Book_Roma_FoundersCodex.description>The law of Nova Roma as its founders wrote it, copied fair by your scribes from the scorched original. Reading it teaches the deepest Roman knowledge, and every page reminds the reader why the city was worth founding.</HE_Book_Roma_FoundersCodex.description>
+  <HE_Book_Yamato_EightIslands.label>Chronicle of the Eight Islands</HE_Book_Yamato_EightIslands.label>
+  <HE_Book_Yamato_EightIslands.description>The history of Yamato from the first emperor to the night of fire, in the hand of the court's last historian, copied by your scribes. It is said that no one who reads it ends their life without honour.</HE_Book_Yamato_EightIslands.description>
+  <HE_Book_Nord_Edda.label>The Edda of Nordheim</HE_Book_Nord_Edda.label>
+  <HE_Book_Nord_Edda.description>Every saga of Nordheim, from the first jarl to the long winter, gathered from the last skald's memory and cut onto boards by your carvers. A skald who reads it can sing for a year without repeating a verse.</HE_Book_Nord_Edda.description>
+  <HE_Book_Hellas_LongVoyage.label>The Song of the Long Voyage</HE_Book_Hellas_LongVoyage.label>
+  <HE_Book_Hellas_LongVoyage.description>The lost epic of the League: the voyage of the first colonists across a dead sea to the islands where Hellas was born again. Twenty-four books in hexameter, restored from the library's last scroll.</HE_Book_Hellas_LongVoyage.description>
+  <HE_Book_Tianxia_HeavenlyCourt.label>Records of the Heavenly Court</HE_Book_Tianxia_HeavenlyCourt.label>
+  <HE_Book_Tianxia_HeavenlyCourt.description>The true history of the dynasties, written by a grand historian who would not change a word to please an emperor, and copied by your scribes. Officials of Tianxia still quote it when they disagree with their superiors.</HE_Book_Tianxia_HeavenlyCourt.description>
+  <HE_Book_Albion_GreatCharter.label>The Great Charter</HE_Book_Albion_GreatCharter.label>
+  <HE_Book_Albion_GreatCharter.description>The charter of the Commonwealth's liberties, copied fair from the original the guilds signed. Every reader learns the rights of a free subject, and the price that was paid for them.</HE_Book_Albion_GreatCharter.description>
+  <HE_Book_Kemet_ComingForth.label>The Book of Coming Forth</HE_Book_Kemet_ComingForth.label>
+  <HE_Book_Kemet_ComingForth.description>The great book of the priests of Kemet: the spells that guide the dead through the night, the names of the gates and the words that open them. Your scribes copied it from the tomb's own scroll.</HE_Book_Kemet_ComingForth.description>
+  <HE_Book_Pars_BookOfKings.label>The Book of Kings</HE_Book_Pars_BookOfKings.label>
+  <HE_Book_Pars_BookOfKings.description>Fifty thousand couplets on the kings and heroes of Pars, from the first fire to the last satrap, finished by an old poet on the road and copied by your scribes. Every child of Pars knows some of it by heart.</HE_Book_Pars_BookOfKings.description>
+  <HE_Book_Inti_RoyalKhipu.label>The Royal Khipu</HE_Book_Inti_RoyalKhipu.label>
+  <HE_Book_Inti_RoyalKhipu.description>The great census of the empire of the sun: every valley, every storehouse, every family and every song, in a khipu so large it fills a chest. Your knot-keepers retied it from the original.</HE_Book_Inti_RoyalKhipu.description>
+</LanguageData>

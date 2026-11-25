@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_CultureTable</defName>
+    <label>culture studies</label>
+    <description>Build a culture table, where scholars study the goods of the heir nations to earn Culture Knowledge.</description>
+    <baseCost>300</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0</researchViewY>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Translators</defName>
+    <label>translators</label>
+    <description>Train colonists to read the old languages of the heir nations, so every studied item teaches more.
+
+Tradition: Studying culture items gives 10% more Culture Knowledge.</description>
+    <baseCost>600</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_CultureTable</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <tradition>true</tradition>
+        <studyFactor>0.1</studyFactor>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Envoys</defName>
+    <label>envoys</label>
+    <description>Send envoys with gifts and letters to the old nations. Traders learn your name and treat you more fairly.
+
+Tradition: Colonists get 3% better trade prices.</description>
+    <baseCost>700</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>1</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_CultureTable</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>TradePriceImprovement</stat>
+            <offset>0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Academy</defName>
+    <label>culture academy</label>
+    <description>A school where the knowledge of every heir nation is copied, compared and taught.
+
+Tradition: Studying culture items gives 15% more Culture Knowledge and colonists learn 3% faster.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Translators</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>GlobalLearningFactor</stat>
+            <offset>0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <studyFactor>0.15</studyFactor>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_WorldCouncil</defName>
+    <label>world council</label>
+    <description>A standing council where every heir nation sends a voice: one hall, one table, nine banners. From here the heirs can be united by vote, or a single power can call them to swear fealty.
+
+Opens after you finish 3 nation stories, or keep 3 trade roads open for a year.</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>0</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Academy</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <council>true</council>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Trebuchet</defName>
+    <label>trebuchet</label>
+    <description>A long arm on an axle with a box of stones at the short end: when the box falls, the long end flings a boulder over any wall. Every heir nation built some kind of it.</description>
+    <baseCost>1600</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt" />
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Embassies</defName>
+    <label>embassies</label>
+    <description>Permanent envoys, sealed letters and a house where foreign guests are received with honour. Opens the embassy, which makes science exchanges and defensive alliances possible.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>2</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt" />
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Yamato_Onigiri.label>cook onigiri</HE_Cook_Yamato_Onigiri.label>
+  <HE_Cook_Yamato_Onigiri.description>Cook onigiri.</HE_Cook_Yamato_Onigiri.description>
+  <HE_Cook_Yamato_Onigiri.jobString>Cooking onigiri.</HE_Cook_Yamato_Onigiri.jobString>
+  <HE_Cook_Yamato_Miso.label>cook miso soup</HE_Cook_Yamato_Miso.label>
+  <HE_Cook_Yamato_Miso.description>Cook miso soup.</HE_Cook_Yamato_Miso.description>
+  <HE_Cook_Yamato_Miso.jobString>Cooking miso soup.</HE_Cook_Yamato_Miso.jobString>
+  <HE_Cook_Yamato_Mochi.label>cook mochi</HE_Cook_Yamato_Mochi.label>
+  <HE_Cook_Yamato_Mochi.description>Cook mochi.</HE_Cook_Yamato_Mochi.description>
+  <HE_Cook_Yamato_Mochi.jobString>Cooking mochi.</HE_Cook_Yamato_Mochi.jobString>
+</LanguageData>

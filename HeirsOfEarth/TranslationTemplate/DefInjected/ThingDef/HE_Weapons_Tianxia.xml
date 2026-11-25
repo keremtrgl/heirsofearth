@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Jian.label>jian</HE_Tianxia_Jian.label>
+  <HE_Tianxia_Jian.description>A straight double-edged sword, light and quick, used with precise thrusts and flicks of the wrist.</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Jian.tools.0.label>handle</HE_Tianxia_Jian.tools.0.label>
+  <HE_Tianxia_Jian.tools.1.label>point</HE_Tianxia_Jian.tools.1.label>
+  <HE_Tianxia_Jian.tools.2.label>edge</HE_Tianxia_Jian.tools.2.label>
+  <HE_Tianxia_Guandao.label>guandao</HE_Tianxia_Guandao.label>
+  <HE_Tianxia_Guandao.description>A heavy curved blade on a long pole with a dragon-head guard, swung in great sweeping arcs.</HE_Tianxia_Guandao.description>
+  <HE_Tianxia_Guandao.tools.0.label>shaft</HE_Tianxia_Guandao.tools.0.label>
+  <HE_Tianxia_Guandao.tools.1.label>edge</HE_Tianxia_Guandao.tools.1.label>
+  <HE_Tianxia_Repeater.label>repeating crossbow</HE_Tianxia_Repeater.label>
+  <HE_Tianxia_Repeater.description>A crossbow with a box of ten bolts mounted on top. It throws three light bolts in quick succession, then must be reloaded.</HE_Tianxia_Repeater.description>
+  <HE_Tianxia_Repeater.tools.0.label>limb</HE_Tianxia_Repeater.tools.0.label>
+  <HE_Tianxia_FireLance.label>fire lance</HE_Tianxia_FireLance.label>
+  <HE_Tianxia_FireLance.description>A spear with a bamboo tube of black powder lashed behind the head. Lit, it spits a short jet of fire that sets targets alight; then it is only a spear again.</HE_Tianxia_FireLance.description>
+  <HE_Tianxia_FireLance.tools.0.label>shaft</HE_Tianxia_FireLance.tools.0.label>
+  <HE_Tianxia_FireLance.tools.1.label>point</HE_Tianxia_FireLance.tools.1.label>
+  <HE_Tianxia_Dao.label>dao</HE_Tianxia_Dao.label>
+  <HE_Tianxia_Dao.description>The broad sabre of the common soldier, with a disc guard and a red tassel. It cuts deep and is easy to learn.</HE_Tianxia_Dao.description>
+  <HE_Tianxia_Dao.tools.0.label>handle</HE_Tianxia_Dao.tools.0.label>
+  <HE_Tianxia_Dao.tools.1.label>point</HE_Tianxia_Dao.tools.1.label>
+  <HE_Tianxia_Dao.tools.2.label>edge</HE_Tianxia_Dao.tools.2.label>
+  <HE_Tianxia_BirdGun.label>bird gun</HE_Tianxia_BirdGun.label>
+  <HE_Tianxia_BirdGun.description>The long, slender matchlock called the bird gun: accurate enough to hit a bird in flight, light enough to carry all day.</HE_Tianxia_BirdGun.description>
+  <HE_Tianxia_BirdGun.tools.0.label>stock</HE_Tianxia_BirdGun.tools.0.label>
+  <HE_Tianxia_BirdGun.tools.1.label>barrel</HE_Tianxia_BirdGun.tools.1.label>
+  <HE_Tianxia_Rifle.label>Tianxia rifle</HE_Tianxia_Rifle.label>
+  <HE_Tianxia_Rifle.description>A bolt rifle from the new arsenals, its dark red stock bound in brass and a red tassel at the muzzle for luck. Made by the thousand, it needs less work and fewer parts than any other rifle.</HE_Tianxia_Rifle.description>
+  <HE_Tianxia_Rifle.tools.0.label>stock</HE_Tianxia_Rifle.tools.0.label>
+  <HE_Tianxia_Rifle.tools.1.label>barrel</HE_Tianxia_Rifle.tools.1.label>
+</LanguageData>

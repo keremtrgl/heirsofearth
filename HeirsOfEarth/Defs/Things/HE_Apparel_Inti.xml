@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Inti_Unku</defName>
+    <label>unku tunic</label>
+    <description>A knee-length tunic of fine alpaca wool, woven with squares of tocapu patterns and a stepped band at the waist. Warm on cold mornings.</description>
+    <techLevel>Neolithic</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Inti_Unku</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <WorkToMake>3800</WorkToMake>
+      <Mass>0.6</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>110</MaxHitPoints>
+      <StuffEffectMultiplierArmor>0.15</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.6</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.25</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.02</SocialImpact>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_IntiGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+        <li>Legs</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Inti_Unku</wornGraphicPath>
+      <layers>
+        <li>OnSkin</li>
+      </layers>
+      <tags>
+        <li>HE_IntiApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>HE_Inti_Unku</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Inti_QuiltedTunic</defName>
+    <label>quilted war tunic</label>
+    <description>Layers of cotton quilted tight and soaked in brine until stiff, then faced with a chequered war pattern. Light, but it stops slings and arrows.</description>
+    <techLevel>Medieval</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Inti_QuiltedTunic</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>140</costStuffCount>
+    <statBases>
+      <WorkToMake>16000</WorkToMake>
+      <Mass>3</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>170</MaxHitPoints>
+      <StuffEffectMultiplierArmor>0.52</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.5</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.2</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <MoveSpeed>-0.03</MoveSpeed>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_IntiGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Inti_QuiltedTunic</wornGraphicPath>
+      <layers>
+        <li>Middle</li>
+      </layers>
+      <tags>
+        <li>HE_IntiApparel</li>
+        <li>MedievalMilitary</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>HE_Inti_RoyalGuard</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ArmorHelmetMakeableBase">
+    <defName>HE_Inti_PlumedHelm</defName>
+    <label>plumed war helmet</label>
+    <description>A round helmet of woven cane faced with bronze, crowned with a fan of macaw feathers. Officers are seen and followed across the field.</description>
+    <techLevel>Medieval</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Inti_PlumedHelm</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stuffCategories>
+      <li>Metallic</li>
+    </stuffCategories>
+    <costStuffCount>35</costStuffCount>
+    <costList>
+      <WoodLog>10</WoodLog>
+    </costList>
+    <statBases>
+      <WorkToMake>4800</WorkToMake>
+      <Mass>1.3</Mass>
+      <EquipDelay>1</EquipDelay>
+      <MaxHitPoints>100</MaxHitPoints>
+      <StuffEffectMultiplierArmor>0.55</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.15</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.03</SocialImpact>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_IntiGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/HE_Inti_PlumedHelm</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>HE_IntiApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>HE_Inti_RoyalGuard</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>5</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Inti_Mascaypacha</defName>
+    <label>mascaypacha</label>
+    <description>A braided band wound around the head with a fringe of red wool over the brow and three feathers above. It is the crown of the Sapa Inca.</description>
+    <techLevel>Medieval</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Inti_Mascaypacha</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>25</costStuffCount>
+    <statBases>
+      <WorkToMake>5000</WorkToMake>
+      <Mass>0.3</Mass>
+      <EquipDelay>1</EquipDelay>
+      <MaxHitPoints>60</MaxHitPoints>
+      <StuffEffectMultiplierArmor>0.05</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.05</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.05</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.14</SocialImpact>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Headgear</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_IntiGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/HE_Inti_Mascaypacha</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>HE_IntiApparel</li>
+        <li>RoyalTier5</li>
+        <li>RoyalTier6</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <renderSkipFlags>
+        <li>None</li>
+      </renderSkipFlags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>HE_Inti_KnotKeepers</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Inti_FeatherCape</defName>
+    <label>feather cape</label>
+    <description>Thousands of red, yellow, green and blue feathers knotted onto cotton in rows. It takes the weavers of a whole village a season to make one.</description>
+    <techLevel>Medieval</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Inti_FeatherCape</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stuffCategories>
+      <li>Fabric</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <WorkToMake>8000</WorkToMake>
+      <Mass>1</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>120</MaxHitPoints>
+      <StuffEffectMultiplierArmor>0.15</StuffEffectMultiplierArmor>
+      <StuffEffectMultiplierInsulation_Cold>0.35</StuffEffectMultiplierInsulation_Cold>
+      <StuffEffectMultiplierInsulation_Heat>0.3</StuffEffectMultiplierInsulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.08</SocialImpact>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_IntiGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Shoulders</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Inti_FeatherCape</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>HE_IntiApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <recipeMaker>
+      <researchPrerequisite>HE_Inti_Qullqa</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Inti_FieldCoat</defName>
+    <label>Inti field coat</label>
+    <description>An ochre field coat with a band of tocapu across the chest and a gold sun badge at the throat.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Inti_FieldCoat</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Cloth>70</Cloth>
+      <Steel>5</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>9500</WorkToMake>
+      <Mass>1.6</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>180</MaxHitPoints>
+      <ArmorRating_Sharp>0.16</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.12</ArmorRating_Heat>
+      <Insulation_Cold>20</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+    </statBases>
+    <equippedStatOffsets>
+      <SocialImpact>0.04</SocialImpact>
+    </equippedStatOffsets>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_IntiGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Inti_FieldCoat</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>HE_IntiApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.72, 0.52, 0.20)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Inti_SteamArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Inti</nation>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

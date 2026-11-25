@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Shako.label>şako</HE_Albion_Shako.label>
+  <HE_Albion_Shako.description>Pirinç plakalı ve kısa sorguçlu, uzun, sert bir başlık. Bir askeri yarım baş daha uzun gösterir.</HE_Albion_Shako.description>
+  <HE_Albion_Redcoat.label>kızılceket</HE_Albion_Redcoat.label>
+  <HE_Albion_Redcoat.description>Beyaz yakalı, pirinç düğmeli ve çapraz beyaz kemerli kırmızı yün bir ceket. Sıcak, sağlam ve gözden kaçması imkânsız.</HE_Albion_Redcoat.description>
+  <HE_Albion_FrockCoat.label>redingot</HE_Albion_FrockCoat.label>
+  <HE_Albion_FrockCoat.description>Kuyruklu, ipek yakalı ve pirinç düğmeli diz boyu siyah yün bir ceket. Bankacılar, mühendisler ve milletvekilleri hep bir tane giyer.</HE_Albion_FrockCoat.description>
+  <HE_Albion_TopHat.label>silindir şapka</HE_Albion_TopHat.label>
+  <HE_Albion_TopHat.description>Siyah ipek peluştan uzun bir şapka. Bir baş boyu uzunluk ve epey saygınlık katar.</HE_Albion_TopHat.description>
+  <HE_Albion_Bicorne.label>bikorn</HE_Albion_Bicorne.label>
+  <HE_Albion_Bicorne.description>Altın şeritle ve ulusal kokartla süslü, iki köşeli bir subay şapkası. Amiraller ve generaller onu yan giyer; herkes selam verir.</HE_Albion_Bicorne.description>
+  <HE_Albion_RifleGreen.label>avcı yeşili ceket</HE_Albion_RifleGreen.label>
+  <HE_Albion_RifleGreen.description>Siyah yakalı, siyah düğmeli ve çapraz kemerli avcı alaylarının koyu yeşili. Bir çalılıkta kaybolur; amaç da budur.</HE_Albion_RifleGreen.description>
+</LanguageData>

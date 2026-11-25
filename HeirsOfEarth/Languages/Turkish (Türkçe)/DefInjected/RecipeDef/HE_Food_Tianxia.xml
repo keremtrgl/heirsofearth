@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Tianxia_Dumplings.label>dumplings pişir</HE_Cook_Tianxia_Dumplings.label>
+  <HE_Cook_Tianxia_Dumplings.description>Mantı pişir.</HE_Cook_Tianxia_Dumplings.description>
+  <HE_Cook_Tianxia_Dumplings.jobString>Mantı pişiriyor.</HE_Cook_Tianxia_Dumplings.jobString>
+  <HE_Cook_Tianxia_Congee.label>congee pişir</HE_Cook_Tianxia_Congee.label>
+  <HE_Cook_Tianxia_Congee.description>Pirinç lapası pişir.</HE_Cook_Tianxia_Congee.description>
+  <HE_Cook_Tianxia_Congee.jobString>Pirinç lapası pişiriyor.</HE_Cook_Tianxia_Congee.jobString>
+  <HE_Cook_Tianxia_Mooncake.label>mooncakes pişir</HE_Cook_Tianxia_Mooncake.label>
+  <HE_Cook_Tianxia_Mooncake.description>Ay kekleri pişir.</HE_Cook_Tianxia_Mooncake.description>
+  <HE_Cook_Tianxia_Mooncake.jobString>Ay kekleri pişiriyor.</HE_Cook_Tianxia_Mooncake.jobString>
+</LanguageData>

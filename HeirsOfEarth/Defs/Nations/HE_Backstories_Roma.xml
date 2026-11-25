@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Tiro</defName>
+    <title>legion recruit</title>
+    <titleShort>recruit</titleShort>
+    <description>[PAWN_nameDef] signed on with the legion at eighteen and marched until [PAWN_possessive] feet bled. The drill sergeants taught [PAWN_objective] to dig a ditch, raise a palisade and hold a line before they ever taught [PAWN_objective] to fight.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>5</Melee>
+      <Construction>4</Construction>
+      <Mining>2</Mining>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Faber</defName>
+    <title>legion smith</title>
+    <titleShort>smith</titleShort>
+    <description>For years [PAWN_nameDef] kept the forges of a frontier fort burning, hammering out gladii, mending mail and shoeing the officers' horses. [PAWN_pronoun] can tell good iron from bad by the sound it makes.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>7</Crafting>
+      <Construction>2</Construction>
+    </skillGains>
+    <requiredWorkTags>
+      <li>ManualSkilled</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Architectus</defName>
+    <title>aqueduct architect</title>
+    <titleShort>architect</titleShort>
+    <description>[PAWN_nameDef] designed arches that carried water across valleys. [PAWN_pronoun] checks every wall with a plumb line and cannot pass a crooked one without frowning.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Construction>8</Construction>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Senator</defName>
+    <title>junior senator</title>
+    <titleShort>senator</titleShort>
+    <description>[PAWN_nameDef] spoke in the senate of Nova Roma, argued over grain laws and learned that every friendship has a price. [PAWN_pronoun] considers digging and hauling beneath a citizen of [PAWN_possessive] rank.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>8</Social>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <workDisables>
+      <li>ManualDumb</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Medicus</defName>
+    <title>field medicus</title>
+    <titleShort>medicus</titleShort>
+    <description>[PAWN_nameDef] followed the legion from battle to battle with a bag of bronze tools and vinegar-soaked bandages. [PAWN_pronoun] has stitched more wounds than [PAWN_pronoun] can count.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>8</Medicine>
+      <Intellectual>2</Intellectual>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Agricola</defName>
+    <title>villa farmer</title>
+    <titleShort>farmer</titleShort>
+    <description>[PAWN_nameDef] worked the terraced olive groves and wheat fields of a country villa. [PAWN_pronoun] knows the calendar of sowing by heart and distrusts anyone who has never held a plough.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>7</Plants>
+      <Animals>3</Animals>
+      <Cooking>2</Cooking>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Centurio</defName>
+    <title>veteran centurion</title>
+    <titleShort>centurion</titleShort>
+    <description>[PAWN_nameDef] commanded eighty legionaries for a decade and carries the vine staff of [PAWN_possessive] rank. [PAWN_pronoun] is hard, fair and loud, and [PAWN_possessive] soldiers would follow [PAWN_objective] into a river.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>8</Melee>
+      <Social>4</Social>
+      <Shooting>2</Shooting>
+    </skillGains>
+    <bodyTypeGlobal>Hulk</bodyTypeGlobal>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Mercator</defName>
+    <title>road merchant</title>
+    <titleShort>merchant</titleShort>
+    <description>[PAWN_nameDef] drove mule trains along the stone roads, selling wine, oil and gossip from town to town. [PAWN_pronoun] can price a cart of goods at a glance.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Animals>2</Animals>
+      <Plants>1</Plants>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_CastraChild</defName>
+    <title>camp child</title>
+    <titleShort>camp child</titleShort>
+    <description>[PAWN_nameDef] grew up among the tents and earthworks of a marching camp, running errands for soldiers and learning the bugle calls before [PAWN_possessive] letters.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>2</Melee>
+      <Construction>2</Construction>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Scriba</defName>
+    <title>scribe's pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] spent [PAWN_possessive] childhood copying laws onto wax tablets in the tabularium, where a single blot meant a beating.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>4</Intellectual>
+      <Social>1</Social>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Subura</defName>
+    <title>street urchin</title>
+    <titleShort>urchin</titleShort>
+    <description>[PAWN_nameDef] grew up in the crowded tenements of the lower city, where [PAWN_pronoun] learned to steal bread, climb roofs and talk [PAWN_possessive] way out of trouble.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>2</Social>
+      <Melee>2</Melee>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Roma_BS_Villa</defName>
+    <title>villa child</title>
+    <titleShort>villa child</titleShort>
+    <description>[PAWN_nameDef] grew up on a country estate among vines, goats and storytelling grandparents.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Roma</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>2</Plants>
+      <Animals>2</Animals>
+      <Cooking>1</Cooking>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

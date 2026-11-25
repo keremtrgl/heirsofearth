@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Albion_MeatPie.label>meat pie pişir</HE_Cook_Albion_MeatPie.label>
+  <HE_Cook_Albion_MeatPie.description>Etli börek pişir.</HE_Cook_Albion_MeatPie.description>
+  <HE_Cook_Albion_MeatPie.jobString>Etli börek pişiriyor.</HE_Cook_Albion_MeatPie.jobString>
+  <HE_Cook_Albion_Roast.label>Sunday roast pişir</HE_Cook_Albion_Roast.label>
+  <HE_Cook_Albion_Roast.description>Pazar rostosu pişir.</HE_Cook_Albion_Roast.description>
+  <HE_Cook_Albion_Roast.jobString>Pazar rostosu pişiriyor.</HE_Cook_Albion_Roast.jobString>
+  <HE_Cook_Albion_Scones.label>tea and scones pişir</HE_Cook_Albion_Scones.label>
+  <HE_Cook_Albion_Scones.description>Çay ve çörek pişir.</HE_Cook_Albion_Scones.description>
+  <HE_Cook_Albion_Scones.jobString>Çay ve çörek pişiriyor.</HE_Cook_Albion_Scones.jobString>
+</LanguageData>

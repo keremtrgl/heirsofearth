@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Dory.label>dory</HE_Hellas_Dory.label>
+  <HE_Hellas_Dory.description>A two-and-a-half metre ash spear with a leaf-shaped iron head. If the head breaks, the hoplite turns it round and fights with the bronze spike.</HE_Hellas_Dory.description>
+  <HE_Hellas_Dory.tools.0.label>shaft</HE_Hellas_Dory.tools.0.label>
+  <HE_Hellas_Dory.tools.1.label>point</HE_Hellas_Dory.tools.1.label>
+  <HE_Hellas_Xiphos.label>xiphos</HE_Hellas_Xiphos.label>
+  <HE_Hellas_Xiphos.description>A short double-edged sword with a leaf-shaped blade, carried as a sidearm when the spear is lost.</HE_Hellas_Xiphos.description>
+  <HE_Hellas_Xiphos.tools.0.label>handle</HE_Hellas_Xiphos.tools.0.label>
+  <HE_Hellas_Xiphos.tools.1.label>point</HE_Hellas_Xiphos.tools.1.label>
+  <HE_Hellas_Xiphos.tools.2.label>edge</HE_Hellas_Xiphos.tools.2.label>
+  <HE_Hellas_Kopis.label>kopis</HE_Hellas_Kopis.label>
+  <HE_Hellas_Kopis.description>A heavy single-edged blade that curves forward, so that every blow lands like an axe.</HE_Hellas_Kopis.description>
+  <HE_Hellas_Kopis.tools.0.label>handle</HE_Hellas_Kopis.tools.0.label>
+  <HE_Hellas_Kopis.tools.1.label>edge</HE_Hellas_Kopis.tools.1.label>
+  <HE_Hellas_Toxon.label>toxon</HE_Hellas_Toxon.label>
+  <HE_Hellas_Toxon.description>A short recurve bow of horn and sinew. It draws fast and shoots hard for its size.</HE_Hellas_Toxon.description>
+  <HE_Hellas_Toxon.tools.0.label>limb</HE_Hellas_Toxon.tools.0.label>
+  <HE_Hellas_Gastraphetes.label>gastraphetes</HE_Hellas_Gastraphetes.label>
+  <HE_Hellas_Gastraphetes.description>The 'belly bow': a heavy bow on a long stock, spanned by leaning the belly on a curved rest. It shoots harder and further than any hand bow.</HE_Hellas_Gastraphetes.description>
+  <HE_Hellas_Gastraphetes.tools.0.label>limb</HE_Hellas_Gastraphetes.tools.0.label>
+  <HE_Hellas_Musket.label>Hellenic musket</HE_Hellas_Musket.label>
+  <HE_Hellas_Musket.description>A flintlock musket with silver bands and a meander inlaid along the stock, carried by the volunteers who first marched under the blue and white. A socket bayonet makes it a spear when the powder runs out.</HE_Hellas_Musket.description>
+  <HE_Hellas_Musket.tools.0.label>stock</HE_Hellas_Musket.tools.0.label>
+  <HE_Hellas_Musket.tools.1.label>bayonet</HE_Hellas_Musket.tools.1.label>
+  <HE_Hellas_Rifle.label>Hellenic rifle</HE_Hellas_Rifle.label>
+  <HE_Hellas_Rifle.description>A single-shot bolt rifle with silver bands and a long sword bayonet. The evzones carried it into the mountains.</HE_Hellas_Rifle.description>
+  <HE_Hellas_Rifle.tools.0.label>stock</HE_Hellas_Rifle.tools.0.label>
+  <HE_Hellas_Rifle.tools.1.label>bayonet</HE_Hellas_Rifle.tools.1.label>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_BS_Militia.title>sınır milisi</HE_Tianxia_BS_Militia.title>
+  <HE_Tianxia_BS_Militia.titleShort>milis</HE_Tianxia_BS_Militia.titleShort>
+  <HE_Tianxia_BS_Militia.description>[PAWN_nameDef] kuzey sınırında bir tarla işledi ve her on günde bir köy milisiyle talim yaptı. Akıncılar geldiğinde kapıyı tuttu.</HE_Tianxia_BS_Militia.description>
+  <HE_Tianxia_BS_Scholar.title>sınav âlimi</HE_Tianxia_BS_Scholar.title>
+  <HE_Tianxia_BS_Scholar.titleShort>âlim</HE_Tianxia_BS_Scholar.titleShort>
+  <HE_Tianxia_BS_Scholar.description>[PAWN_nameDef] klasikleri on beş yıl çalıştı ve eyalet sınavını üçüncü denemesinde geçti. Her durum için bir bilgeden alıntı yapabilir ve vergileri kafadan hesaplar.</HE_Tianxia_BS_Scholar.description>
+  <HE_Tianxia_BS_Potter.title>porselen ustası</HE_Tianxia_BS_Potter.title>
+  <HE_Tianxia_BS_Potter.titleShort>çömlekçi</HE_Tianxia_BS_Potter.titleShort>
+  <HE_Tianxia_BS_Potter.description>[PAWN_nameDef] tek bir kusurun parçanın kırılması demek olduğu bir fırınlar kasabasında imparatorluk porseleni pişirdi. Binlercesini kırdı.</HE_Tianxia_BS_Potter.description>
+  <HE_Tianxia_BS_Physician.title>iğne hekimi</HE_Tianxia_BS_Physician.title>
+  <HE_Tianxia_BS_Physician.titleShort>hekim</HE_Tianxia_BS_Physician.titleShort>
+  <HE_Tianxia_BS_Physician.description>[PAWN_nameDef], meridyenleri ve yüz otu yaşlı bir saray hekiminden öğrendi. Bir hastalığı nabızdan okuyabilir.</HE_Tianxia_BS_Physician.description>
+  <HE_Tianxia_BS_Crossbowman.title>sur arbaletçisi</HE_Tianxia_BS_Crossbowman.title>
+  <HE_Tianxia_BS_Crossbowman.titleShort>arbaletçi</HE_Tianxia_BS_Crossbowman.titleShort>
+  <HE_Tianxia_BS_Crossbowman.description>[PAWN_nameDef] on yıl boyunca tekrarlı bir arbaletle büyük surda durdu ve bozkırın toz bulutlarını saydı.</HE_Tianxia_BS_Crossbowman.description>
+  <HE_Tianxia_BS_Silkweaver.title>ipek dokumacısı</HE_Tianxia_BS_Silkweaver.title>
+  <HE_Tianxia_BS_Silkweaver.titleShort>dokumacı</HE_Tianxia_BS_Silkweaver.titleShort>
+  <HE_Tianxia_BS_Silkweaver.description>[PAWN_nameDef] dut ağaçlarına ve ipek böceklerine baktı, saray için brokar dokudu. Parmakları çabuk, sabrı sonsuzdur.</HE_Tianxia_BS_Silkweaver.description>
+  <HE_Tianxia_BS_Bannerman.title>sancak subayı</HE_Tianxia_BS_Bannerman.title>
+  <HE_Tianxia_BS_Bannerman.titleShort>subay</HE_Tianxia_BS_Bannerman.titleShort>
+  <HE_Tianxia_BS_Bannerman.description>[PAWN_nameDef] kırmızı sancak altında yüz kişiye komuta etti ve bir nehir geçidini üç gün tuttuğu için terfi etti.</HE_Tianxia_BS_Bannerman.description>
+  <HE_Tianxia_BS_Merchant.title>kervan başı</HE_Tianxia_BS_Merchant.title>
+  <HE_Tianxia_BS_Merchant.titleShort>kervan başı</HE_Tianxia_BS_Merchant.titleShort>
+  <HE_Tianxia_BS_Merchant.description>[PAWN_nameDef] ipek yolu boyunca deve kervanları yönetti; çayı atla, ipeği gümüşle takas etti. Yol üzerindeki her dilden biraz konuşur.</HE_Tianxia_BS_Merchant.description>
+  <HE_Tianxia_BS_Schoolboy.title>köy okulu öğrencisi</HE_Tianxia_BS_Schoolboy.title>
+  <HE_Tianxia_BS_Schoolboy.titleShort>öğrenci</HE_Tianxia_BS_Schoolboy.titleShort>
+  <HE_Tianxia_BS_Schoolboy.description>[PAWN_nameDef], sınav salonlarının hayalini kurarak her sabah soğuk bir köy okulunda fırçayla karakter kopyaladı.</HE_Tianxia_BS_Schoolboy.description>
+  <HE_Tianxia_BS_RiceTerrace.title>teras çiftliği çocuğu</HE_Tianxia_BS_RiceTerrace.title>
+  <HE_Tianxia_BS_RiceTerrace.titleShort>çiftlik çocuğu</HE_Tianxia_BS_RiceTerrace.titleShort>
+  <HE_Tianxia_BS_RiceTerrace.description>[PAWN_nameDef] dağ pirinç teraslarında su taşıyarak ve ördekleri tarlalarda güderek büyüdü.</HE_Tianxia_BS_RiceTerrace.description>
+  <HE_Tianxia_BS_Kitchen.title>çay evi çocuğu</HE_Tianxia_BS_Kitchen.title>
+  <HE_Tianxia_BS_Kitchen.titleShort>çay evi çocuğu</HE_Tianxia_BS_Kitchen.titleShort>
+  <HE_Tianxia_BS_Kitchen.description>[PAWN_nameDef] kalabalık bir çay evinde, mutfakta mantı katlayarak ve salonda hikâye anlatıcılarını dinleyerek büyüdü.</HE_Tianxia_BS_Kitchen.description>
+  <HE_Tianxia_BS_Martial.title>tapınak dövüş öğrencisi</HE_Tianxia_BS_Martial.title>
+  <HE_Tianxia_BS_Martial.titleShort>öğrenci</HE_Tianxia_BS_Martial.titleShort>
+  <HE_Tianxia_BS_Martial.description>[PAWN_nameDef], keşişlerin ona bir saat at duruşunda durmayı ve öfkesizce vurmayı öğrettiği bir dağ tapınağına gönderildi.</HE_Tianxia_BS_Martial.description>
+</LanguageData>

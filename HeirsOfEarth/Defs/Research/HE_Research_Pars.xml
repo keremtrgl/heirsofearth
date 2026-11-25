@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Spear</defName>
+    <label>immortal's spear</label>
+    <description>A long spear with a leaf blade at one end and a silver pomegranate at the other, the weapon of the royal guard.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Kaftan</defName>
+    <label>silk kaftan</label>
+    <description>Cut the long open coat of the court, lined, embroidered and belted with a sash.</description>
+    <baseCost>450</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>25.8</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Garden</defName>
+    <label>paradise garden</label>
+    <description>Wall a square of ground, split it in four with water channels and plant it with roses, cypress and fruit trees. The old word for it was paradise.</description>
+    <baseCost>550</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>0</researchViewY>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Bow</defName>
+    <label>recurve bow</label>
+    <description>A short recurve bow carried in a combined case with its arrows, light enough to shoot from the saddle.</description>
+    <baseCost>550</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Spear</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Pilaf</defName>
+    <label>saffron pilaf</label>
+    <description>Rice steamed with saffron, barberries and butter until the bottom turns to a golden crust, the best part.</description>
+    <baseCost>400</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>25.8</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Kaftan</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_GardenCulture</defName>
+    <label>culture of gardens</label>
+    <description>Every house has a courtyard, every courtyard a pool and every pool a bench beside it. Parsians go into the garden to cool their tempers.
+
+Tradition: The mental break threshold of colonists drops by 3%.
+
+Requires 15 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>0.72</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Garden</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>MentalBreakThreshold</stat>
+            <offset>-0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_SatrapLaw</defName>
+    <label>law of the satraps</label>
+    <description>One law for every province, written down, read aloud in the market and enforced by the satrap's own men. People know where they stand.
+
+Tradition: Colonists make arrests 15% more successfully and negotiate 5% better.
+
+Requires 15 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>750</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Bow</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>15</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ArrestSuccessChance</stat>
+            <offset>0.15</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_RoyalPost</defName>
+    <label>royal post</label>
+    <description>A station every day's ride, a fresh horse in every station and a rider who does not stop for snow, rain, heat or night.
+
+Tradition: Caravans travel 10% faster and colonists get 5% better trade prices.
+
+Requires 20 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>25.8</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Pilaf</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>TradePriceImprovement</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <caravanSpeed>0.1</caravanSpeed>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Qanats</defName>
+    <label>qanats</label>
+    <description>Tunnels dug from the foot of the mountains to bring cold, clean water to every village without losing a drop to the sun.
+
+Tradition: Colonists gain immunity 6% faster.
+
+Requires 20 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>800</baseCost>
+    <techLevel>Neolithic</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>1.44</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_GardenCulture</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>20</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>ImmunityGainSpeed</stat>
+            <factor>1.06</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Akinakes</defName>
+    <label>akinakes</label>
+    <description>Forge the short straight sword of the guard, worn on the right hip in a gold-capped scabbard.
+
+Requires 10 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>900</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>Smithing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>10</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_CarpetLoom</defName>
+    <label>carpet loom</label>
+    <description>An upright loom, a hundred colours of wool and a pattern held in the weaver's head. A good carpet takes a season and outlives its maker.
+
+Requires 15 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>25.8</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_RoyalPost</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>15</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Polo</defName>
+    <label>polo</label>
+    <description>Riders, mallets and a wooden ball on a long field. The princes play it to learn horsemanship, and the horses learn too.
+
+Tradition: Colonists train and tame animals 10% more successfully.
+
+Requires 25 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>3.6</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Qanats</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>TrainAnimalChance</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>TameAnimalChance</stat>
+            <factor>1.1</factor>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Immortals</defName>
+    <label>the Immortals</label>
+    <description>The scale coat and the winged helmet of the royal guard. Their number never drops: when one falls, another steps into the empty place.
+
+Requires 25 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1200</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Akinakes</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_KingsEars</defName>
+    <label>ears of the king</label>
+    <description>Officials who travel the provinces, listen to everyone and report only to the court. Envoys of Pars always know whom they are talking to.
+
+Tradition: Colonists negotiate 8% better and have 4% more social impact.
+
+Requires 25 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1100</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>25.8</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_CarpetLoom</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>25</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.08</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.04</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_TenThousand</defName>
+    <label>the ten thousand</label>
+    <description>Drill until the line holds by itself. A wounded guard holds the line until the one behind can take the place.
+
+Tradition: Colonists withstand 5% more pain and hit 1 point more often in melee.
+
+Requires 35 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1300</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Immortals</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>35</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>PainShockThreshold</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>MeleeHitChance</stat>
+            <offset>1</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_Jezail</defName>
+    <label>jezail</label>
+    <description>A long-barrelled flintlock with a sharply curved stock, inlaid with bone and brass. Mountain shots swear by it.
+
+Requires 35 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>24.8</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>HE_Pars_Akinakes</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>35</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_GrandBazaar</defName>
+    <label>grand bazaar</label>
+    <description>A covered street of a thousand shops, its guilds, its money changers and its tea houses. Everything has a price and everyone knows it.
+
+Tradition: Colonists get 4% better trade prices and negotiate 3% better.
+
+Requires 45 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1700</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Polo</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>45</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>TradePriceImprovement</stat>
+            <offset>0.04</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.03</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_RoadOfKings</defName>
+    <label>road of kings</label>
+    <description>With the western road open again, Parsian caravans move like the post and Parsian envoys are welcome everywhere.
+
+Tradition: Caravans travel 8% faster, and colonists negotiate 5% better and have 5% more social impact.
+
+Requires 50 Parsian knowledge unless this is your heritage.
+
+Unlocked by finishing the nation's story.</description>
+    <baseCost>1800</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>25.8</researchViewX>
+    <researchViewY>5.04</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_KingsEars</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>50</knowledge>
+        <tradition>true</tradition>
+        <stats>
+          <li>
+            <stat>NegotiationAbility</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+          <li>
+            <stat>SocialImpact</stat>
+            <offset>0.05</offset>
+            <scope>Colonists</scope>
+          </li>
+        </stats>
+        <caravanSpeed>0.08</caravanSpeed>
+        <requiresChain>HE_Chain_Pars</requiresChain>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_NaftThrower</defName>
+    <label>naft thrower</label>
+    <description>The kings' engineers learn to pump naft through a bronze pipe and light it at the mouth.
+
+Requires 40 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>1500</baseCost>
+    <techLevel>Medieval</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>4.32</researchViewY>
+    <prerequisites>
+      <li>HE_Pars_Immortals</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>40</knowledge>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Pars_SteamArmy</defName>
+    <label>Persian steam army</label>
+    <description>Cartridges, rifled barrels and a uniform: the army Pars raised when the factories came.
+
+Outside your heritage, this can be researched only once Pars has reached the Age of Steam.
+
+Requires 45 Parsian knowledge unless this is your heritage.</description>
+    <baseCost>2200</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>27.8</researchViewX>
+    <researchViewY>7.2</researchViewY>
+    <prerequisites>
+      <li>Gunsmithing</li>
+      <li>ComplexClothing</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Pars</nation>
+        <knowledge>45</knowledge>
+        <age>3</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+</Defs>

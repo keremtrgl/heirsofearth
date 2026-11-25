@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Tianxia_Archive</defName>
+    <label>Tianxia bamboo annals</label>
+    <description>Bundles of bamboo strips tied with red cord: imperial annals, examination essays and recipes for tea and porcelain glaze. Studying them at a culture table teaches a great deal about Tianxia.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Tianxia_Archive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>10</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>220</MarketValue>
+      <Mass>0.6</Mass>
+      <Flammability>1</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_TianxiaGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

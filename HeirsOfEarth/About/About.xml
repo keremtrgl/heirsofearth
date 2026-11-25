@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Heirs of Earth</name>
+  <author>Kerem</author>
+  <packageId>kerem.heirs</packageId>
+  <modVersion>4.2.1</modVersion>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
+  <description>Centuries ago, nine colony ships left Earth. Their descendants founded nine heir nations that carry the heritage of real cultures: Nova Roma, the Yamato Shogunate, the Jarldom of Nordheim, the League of Hellas, Celestial Tianxia, the industrial Commonwealth of Albion, the river kingdom of New Kemet, the Satrapy of Pars and the mountain empire of Inti.
+
+Start as the heir of one nation or as an independent colony. Learn the knowledge of the others through trade, study, alliances and war: each nation has its own research branch with seven or more traditions, weapons, armour, buildings, floors, food, people, traders and a start scenario. Every nation has a story chain that ends with a lost relic, a hard choice and a legendary artifact.
+
+The nations live their own politics: they ally, declare war, capture each other's towns, send envoys, ask for tribute, offer marriages and can collapse.
+
+Requires Harmony. Core only; no DLC needed (with Royalty, the heir crowns count as noble headwear). English and Turkish, with a translation template for other languages.</description>
+</ModMetaData>

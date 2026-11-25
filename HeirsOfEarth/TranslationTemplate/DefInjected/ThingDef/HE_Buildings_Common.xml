@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_CouncilHall.label>council hall of the heirs</HE_CouncilHall.label>
+  <HE_CouncilHall.description>A great round table of polished stone under a ring of nine banners, one for every heir nation, with a seat for each envoy. Once it stands, you can call the World Council from the Heirs tab once per quadrum.</HE_CouncilHall.description>
+  <HE_Trebuchet_Gun.label>trebuchet arm</HE_Trebuchet_Gun.label>
+  <HE_Trebuchet_Gun.description>The throwing arm and counterweight of a trebuchet.</HE_Trebuchet_Gun.description>
+  <HE_Trebuchet.label>trebuchet</HE_Trebuchet.label>
+  <HE_Trebuchet.description>A counterweight trebuchet on a bed of rammed earth. A crew member must man it; it then hurls boulders over walls at enemies far out of bow range, smashing what they land on. It cannot hit anything closer than twenty cells, misses often and reloads slowly, but nothing an heir can build reaches further before the age of gunpowder. Fed with stone chunks: one chunk makes one boulder.</HE_Trebuchet.description>
+  <HE_Trebuchet.comps.2.fuelLabel>Boulders</HE_Trebuchet.comps.2.fuelLabel>
+  <HE_Trebuchet.comps.2.fuelGizmoLabel>Boulders</HE_Trebuchet.comps.2.fuelGizmoLabel>
+  <HE_Trebuchet.comps.2.outOfFuelMessage>Needs stone chunks</HE_Trebuchet.comps.2.outOfFuelMessage>
+  <HE_Embassy.label>embassy</HE_Embassy.label>
+  <HE_Embassy.description>A hall to receive the envoys of the heir nations: a desk for letters and seals, chairs for guests and a banner stand for every nation. With an embassy you can sign science exchanges and defensive alliances, and every nation you hold a treaty with grows a little fonder of you each month. One is enough.</HE_Embassy.description>
+</LanguageData>

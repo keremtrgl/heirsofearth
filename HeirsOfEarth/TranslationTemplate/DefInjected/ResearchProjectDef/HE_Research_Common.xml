@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_CultureTable.label>culture studies</HE_CultureTable.label>
+  <HE_CultureTable.description>Build a culture table, where scholars study the goods of the heir nations to earn Culture Knowledge.</HE_CultureTable.description>
+  <HE_Translators.label>translators</HE_Translators.label>
+  <HE_Translators.description>Train colonists to read the old languages of the heir nations, so every studied item teaches more.
+
+Tradition: Studying culture items gives 10% more Culture Knowledge.</HE_Translators.description>
+  <HE_Envoys.label>envoys</HE_Envoys.label>
+  <HE_Envoys.description>Send envoys with gifts and letters to the old nations. Traders learn your name and treat you more fairly.
+
+Tradition: Colonists get 3% better trade prices.</HE_Envoys.description>
+  <HE_Academy.label>culture academy</HE_Academy.label>
+  <HE_Academy.description>A school where the knowledge of every heir nation is copied, compared and taught.
+
+Tradition: Studying culture items gives 15% more Culture Knowledge and colonists learn 3% faster.</HE_Academy.description>
+  <HE_WorldCouncil.label>world council</HE_WorldCouncil.label>
+  <HE_WorldCouncil.description>A standing council where every heir nation sends a voice: one hall, one table, nine banners. From here the heirs can be united by vote, or a single power can call them to swear fealty.
+
+Opens after you finish 3 nation stories, or keep 3 trade roads open for a year.</HE_WorldCouncil.description>
+  <HE_Trebuchet.label>trebuchet</HE_Trebuchet.label>
+  <HE_Trebuchet.description>A long arm on an axle with a box of stones at the short end: when the box falls, the long end flings a boulder over any wall. Every heir nation built some kind of it.</HE_Trebuchet.description>
+  <HE_Embassies.label>embassies</HE_Embassies.label>
+  <HE_Embassies.description>Permanent envoys, sealed letters and a house where foreign guests are received with honour. Opens the embassy, which makes science exchanges and defensive alliances possible.</HE_Embassies.description>
+</LanguageData>

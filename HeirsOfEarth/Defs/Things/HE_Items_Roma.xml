@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Roma_Garum</defName>
+    <label>garum amphora</label>
+    <description>A sealed clay amphora of garum, the fermented fish sauce of Nova Roma. Prized by traders and cooks across the world.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Roma_Garum</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>25</stackLimit>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+    <statBases>
+      <MarketValue>14</MarketValue>
+      <Mass>1.2</Mass>
+      <MaxHitPoints>80</MaxHitPoints>
+      <Flammability>1</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_RomaGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion.label>Albion Topluluğu</HE_Albion.label>
+  <HE_Albion.description>Avalon koloni gemisi kömür ve demir bakımından zengin, yağmurlu bir adaya indi; halkı atalarının yaptığını yaptı: kazdı, inşa etti ve icat etti. Albion, buhar makineleri ve tüfekleri olan tek mirasçı devlettir; bir Lord Koruyucu ve kavgacı bir parlamento tarafından yönetilir. Kızılceketlileri disiplinli, tüccarları hırslıdır ve kimsenin hatırlayabildiği kadar uzun zamandır Nova Roma ile arası açıktır.</HE_Albion.description>
+  <HE_Albion.rulerTitle>Lord Koruyucu</HE_Albion.rulerTitle>
+  <HE_Albion.adjective>Albion</HE_Albion.adjective>
+  <HE_Albion.doctrine.label>kuşatma kolu</HE_Albion.doctrine.label>
+  <HE_Albion.doctrine.description>Albion kürek ve topla gelir. Orduları çoğu zaman saldırmadan önce siper kazar ve bir batarya kurar; tüfekçileri sakin, ölçülü yaylımlar atar.</HE_Albion.doctrine.description>
+  <HE_Albion.honoraryTitle>Devletler Topluluğu şövalyesi</HE_Albion.honoraryTitle>
+</LanguageData>

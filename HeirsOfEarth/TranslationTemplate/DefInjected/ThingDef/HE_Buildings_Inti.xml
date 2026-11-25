@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Qullqa.label>qullqa storehouse</HE_Inti_Qullqa.label>
+  <HE_Inti_Qullqa.description>A round stone storehouse with a thatched roof and vents at the floor, built where the wind blows. Food stored in it rots at half the normal speed. It holds three stacks per cell.</HE_Inti_Qullqa.description>
+  <HE_Inti_QuipuTable.label>quipu table</HE_Inti_QuipuTable.label>
+  <HE_Inti_QuipuTable.description>A low table with a frame from which hang dozens of knotted cords in every colour, the counts of the colony. Placed near a research bench, it speeds up research by 5%.</HE_Inti_QuipuTable.description>
+  <HE_Inti_SunStone.label>sun stone</HE_Inti_SunStone.label>
+  <HE_Inti_SunStone.description>A carved granite outcrop with a short post rising from it. On the two days of the year when the sun stands right above it, the post casts no shadow.</HE_Inti_SunStone.description>
+  <HE_Inti_SunDisc.label>sun disc</HE_Inti_SunDisc.label>
+  <HE_Inti_SunDisc.description>A face of the sun beaten from gold and raised on a stone stand. In the temple of the sun such discs caught the dawn and filled the hall with light.</HE_Inti_SunDisc.description>
+  <HE_Inti_PumaStone.label>puma stone</HE_Inti_PumaStone.label>
+  <HE_Inti_PumaStone.description>A crouching puma carved from a single block. The puma guards the world of the living, between the condor above and the serpent below.</HE_Inti_PumaStone.description>
+  <HE_Inti_SlingStand_Gun.label>sling arm</HE_Inti_SlingStand_Gun.label>
+  <HE_Inti_SlingStand_Gun.description>The turning top of the sling stand.</HE_Inti_SlingStand_Gun.description>
+  <HE_Inti_SlingStand.label>sling stand</HE_Inti_SlingStand.label>
+  <HE_Inti_SlingStand.description>A ring of fitted stones with a long sling arm on a pivot and a basket of round stones. It whirls three stones in a row at anyone who comes close. Feed it stone chunks: one chunk makes ten stones.</HE_Inti_SlingStand.description>
+  <HE_Inti_SlingStand.comps.1.fuelLabel>Stones</HE_Inti_SlingStand.comps.1.fuelLabel>
+  <HE_Inti_SlingStand.comps.1.fuelGizmoLabel>Stones</HE_Inti_SlingStand.comps.1.fuelGizmoLabel>
+  <HE_Inti_SlingStand.comps.1.outOfFuelMessage>Needs stone chunks</HE_Inti_SlingStand.comps.1.outOfFuelMessage>
+</LanguageData>

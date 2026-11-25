@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Raider</defName>
+    <title>coastal raider</title>
+    <titleShort>raider</titleShort>
+    <description>[PAWN_nameDef] rowed with a raiding crew every summer, striking fast at undefended coasts and gone before the alarm bells stopped ringing.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>6</Melee>
+      <Shooting>2</Shooting>
+      <Construction>1</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Hunter</defName>
+    <title>snow hunter</title>
+    <titleShort>hunter</titleShort>
+    <description>[PAWN_nameDef] followed elk and wolves through deep snow for weeks at a time with nothing but a bow, a knife and a fur bag.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>7</Shooting>
+      <Animals>4</Animals>
+      <Cooking>1</Cooking>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Smith</defName>
+    <title>bog-iron smith</title>
+    <titleShort>smith</titleShort>
+    <description>[PAWN_nameDef] dug iron from the bogs, smelted it in clay furnaces and twisted it into the patterned blades the jarls prize.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>7</Crafting>
+      <Mining>3</Mining>
+    </skillGains>
+    <requiredWorkTags>
+      <li>ManualSkilled</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Skald</defName>
+    <title>skald</title>
+    <titleShort>skald</titleShort>
+    <description>[PAWN_nameDef] knows a thousand verses and the family tree of every jarl. [PAWN_pronoun] won more feuds with mocking poems than others did with axes.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>8</Social>
+      <Artistic>4</Artistic>
+      <Intellectual>2</Intellectual>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Shipwright</defName>
+    <title>shipwright</title>
+    <titleShort>shipwright</titleShort>
+    <description>[PAWN_nameDef] built longships with overlapping planks and rivets, shaping every rib by eye. [PAWN_pronoun] can build a house as easily as a hull.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Construction>8</Construction>
+      <Crafting>3</Crafting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Farmer</defName>
+    <title>steading farmer</title>
+    <titleShort>farmer</titleShort>
+    <description>[PAWN_nameDef] kept goats, barley and a stubborn cow on a steading by a cold fjord. Every summer was too short and every winter too long.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>5</Plants>
+      <Animals>5</Animals>
+      <Cooking>2</Cooking>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Berserker</defName>
+    <title>berserker</title>
+    <titleShort>berserker</titleShort>
+    <description>[PAWN_nameDef] wore a bear skin into battle and fought like the animal itself. Afterwards [PAWN_pronoun] remembered nothing, and the others did not like to talk about it.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>9</Melee>
+    </skillGains>
+    <workDisables>
+      <li>Social</li>
+      <li>Intellectual</li>
+    </workDisables>
+    <bodyTypeGlobal>Hulk</bodyTypeGlobal>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Trader</defName>
+    <title>amber trader</title>
+    <titleShort>trader</titleShort>
+    <description>[PAWN_nameDef] carried amber, furs and walrus ivory south and came back with silver and stories. [PAWN_pronoun] speaks a little of every language.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Animals>2</Animals>
+      <Shooting>1</Shooting>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_FjordChild</defName>
+    <title>fjord child</title>
+    <titleShort>fjord child</titleShort>
+    <description>[PAWN_nameDef] grew up fishing from small boats and swimming in water so cold it stopped the breath.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>1</Animals>
+      <Cooking>2</Cooking>
+      <Melee>1</Melee>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_HallChild</defName>
+    <title>mead hall child</title>
+    <titleShort>hall child</titleShort>
+    <description>[PAWN_nameDef] grew up in the jarl's hall, carrying horns of mead to warriors and listening to their boasts late into the night.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>3</Social>
+      <Melee>1</Melee>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_Thrall</defName>
+    <title>thrall's child</title>
+    <titleShort>thrall</titleShort>
+    <description>[PAWN_nameDef] was born unfree and worked in the fields from the day [PAWN_pronoun] could carry a basket, until a kind jarl set [PAWN_objective] free.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>3</Plants>
+      <Mining>1</Mining>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Nord_BS_ForestChild</defName>
+    <title>forest child</title>
+    <titleShort>forest child</titleShort>
+    <description>[PAWN_nameDef] grew up in a hunter's cabin deep in the pine woods, learning tracks before letters.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Nord</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>2</Shooting>
+      <Animals>2</Animals>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

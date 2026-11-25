@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Spear.label>immortal's spear</HE_Pars_Spear.label>
+  <HE_Pars_Spear.description>A long spear of cornel wood with a broad leaf blade and a silver pomegranate on the butt, carried upright on parade and levelled in battle.</HE_Pars_Spear.description>
+  <HE_Pars_Spear.tools.0.label>butt</HE_Pars_Spear.tools.0.label>
+  <HE_Pars_Spear.tools.1.label>point</HE_Pars_Spear.tools.1.label>
+  <HE_Pars_Akinakes.label>akinakes</HE_Pars_Akinakes.label>
+  <HE_Pars_Akinakes.description>A short straight sword with a heart-shaped guard and a pommel of two griffin heads. Quick in a press and worn by every guard officer.</HE_Pars_Akinakes.description>
+  <HE_Pars_Akinakes.tools.0.label>pommel</HE_Pars_Akinakes.tools.0.label>
+  <HE_Pars_Akinakes.tools.1.label>edge</HE_Pars_Akinakes.tools.1.label>
+  <HE_Pars_Akinakes.tools.2.label>point</HE_Pars_Akinakes.tools.2.label>
+  <HE_Pars_Bow.label>recurve bow</HE_Pars_Bow.label>
+  <HE_Pars_Bow.description>A short, deeply recurved bow of horn and sinew with lacquered red limbs. Fast to draw and light enough to shoot from a galloping horse.</HE_Pars_Bow.description>
+  <HE_Pars_Bow.tools.0.label>limb</HE_Pars_Bow.tools.0.label>
+  <HE_Pars_Jezail.label>jezail</HE_Pars_Jezail.label>
+  <HE_Pars_Jezail.description>A very long flintlock with a curved, bone-inlaid stock. It takes an age to reload, but a patient shooter can hit a man across a valley.</HE_Pars_Jezail.description>
+  <HE_Pars_Jezail.tools.0.label>stock</HE_Pars_Jezail.tools.0.label>
+  <HE_Pars_Jezail.tools.1.label>barrel</HE_Pars_Jezail.tools.1.label>
+  <HE_Pars_Shamshir.label>shamshir</HE_Pars_Shamshir.label>
+  <HE_Pars_Shamshir.description>A deeply curved sabre of watered steel. It draws its cut through the target like a lion's claw and is the pride of every Parsian rider.</HE_Pars_Shamshir.description>
+  <HE_Pars_Shamshir.tools.0.label>handle</HE_Pars_Shamshir.tools.0.label>
+  <HE_Pars_Shamshir.tools.1.label>point</HE_Pars_Shamshir.tools.1.label>
+  <HE_Pars_Shamshir.tools.2.label>edge</HE_Pars_Shamshir.tools.2.label>
+  <HE_Pars_Rifle.label>Persian rifle</HE_Pars_Rifle.label>
+  <HE_Pars_Rifle.description>A bolt rifle whose stock is inlaid in khatam, thousands of tiny stars of bone, brass and wood. A treasure that also shoots, and the longest-ranged rifle of the nations.</HE_Pars_Rifle.description>
+  <HE_Pars_Rifle.tools.0.label>stock</HE_Pars_Rifle.tools.0.label>
+  <HE_Pars_Rifle.tools.1.label>barrel</HE_Pars_Rifle.tools.1.label>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_StudyCulture.label>study culture item</HE_StudyCulture.label>
+  <HE_StudyCulture.description>Take apart an item from one of the heir nations to learn from it. The item is destroyed; the colony gains Culture Knowledge of its nation.</HE_StudyCulture.description>
+  <HE_StudyCulture.jobString>Studying a culture item.</HE_StudyCulture.jobString>
+</LanguageData>

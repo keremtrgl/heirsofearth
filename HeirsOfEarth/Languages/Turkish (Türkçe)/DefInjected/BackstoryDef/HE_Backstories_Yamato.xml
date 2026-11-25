@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_BS_Ashigaru.title>ashigaru piyadesi</HE_Yamato_BS_Ashigaru.title>
+  <HE_Yamato_BS_Ashigaru.titleShort>piyade</HE_Yamato_BS_Ashigaru.titleShort>
+  <HE_Yamato_BS_Ashigaru.description>[PAWN_nameDef] klan davulları çalana dek bir çiftçinin çocuğuydu. Sıkı bir hatta mızrak tutmayı ve oklar yağmaya başlayınca hızla siper kazmayı öğrendi.</HE_Yamato_BS_Ashigaru.description>
+  <HE_Yamato_BS_Swordsmith.title>kılıç ustası</HE_Yamato_BS_Swordsmith.title>
+  <HE_Yamato_BS_Swordsmith.titleShort>kılıççı</HE_Yamato_BS_Swordsmith.titleShort>
+  <HE_Yamato_BS_Swordsmith.description>[PAWN_nameDef] yirmi kış boyunca bir dağ ocağında tamahagane katlayıp dövdü. Kusurlu bir kılıcın atölyeden çıkmasına izin vermektense onu kırmayı yeğler.</HE_Yamato_BS_Swordsmith.description>
+  <HE_Yamato_BS_Ronin.title>efendisiz samuray</HE_Yamato_BS_Ronin.title>
+  <HE_Yamato_BS_Ronin.titleShort>ronin</HE_Yamato_BS_Ronin.titleShort>
+  <HE_Yamato_BS_Ronin.description>Efendisi düştüğünde [PAWN_nameDef] utanç verici bir ölüm yerine gezginliği seçti. Kılıcını parayı verene sattı ve onurun bir pirinç kâsesini doldurmadığını öğrendi.</HE_Yamato_BS_Ronin.description>
+  <HE_Yamato_BS_Monk.title>tapınak keşişi</HE_Yamato_BS_Monk.title>
+  <HE_Yamato_BS_Monk.titleShort>keşiş</HE_Yamato_BS_Monk.titleShort>
+  <HE_Yamato_BS_Monk.description>[PAWN_nameDef] yıllarca bir dağ tapınağının taş basamaklarını süpürdü, şifalı ot bahçesine baktı ve hasta gelen yolculara bakım verdi. Şiddet için el kaldırmaz.</HE_Yamato_BS_Monk.description>
+  <HE_Yamato_BS_TeaMaster.title>çay ustası</HE_Yamato_BS_TeaMaster.title>
+  <HE_Yamato_BS_TeaMaster.titleShort>çay ustası</HE_Yamato_BS_TeaMaster.titleShort>
+  <HE_Yamato_BS_TeaMaster.description>[PAWN_nameDef] beylere ve generallere çay sundu, fincanların başında söyledikleri her şeyi dinledi. Onun sessiz bir sözü, herhangi bir kılıçtan daha çok kan davasını çözmüştür.</HE_Yamato_BS_TeaMaster.description>
+  <HE_Yamato_BS_RiceFarmer.title>pirinç çiftçisi</HE_Yamato_BS_RiceFarmer.title>
+  <HE_Yamato_BS_RiceFarmer.titleShort>çiftçi</HE_Yamato_BS_RiceFarmer.titleShort>
+  <HE_Yamato_BS_RiceFarmer.description>[PAWN_nameDef] her baharı su basmış tarlalarda dizine kadar suyun içinde, fideleri tek tek dikerek geçirdi. Sabah gökyüzünün renginden havayı okuyabilir.</HE_Yamato_BS_RiceFarmer.description>
+  <HE_Yamato_BS_Hatamoto.title>şogunun sancaktarı</HE_Yamato_BS_Hatamoto.title>
+  <HE_Yamato_BS_Hatamoto.titleShort>sancaktar</HE_Yamato_BS_Hatamoto.titleShort>
+  <HE_Yamato_BS_Hatamoto.description>[PAWN_nameDef] üç büyük savaşta şogunun sancağının yanında durdu ve hiç geri adım atmadı. Az sözle komuta eder ve hemen itaat edilmesini bekler.</HE_Yamato_BS_Hatamoto.description>
+  <HE_Yamato_BS_Akindo.title>liman tüccarı</HE_Yamato_BS_Akindo.title>
+  <HE_Yamato_BS_Akindo.titleShort>tüccar</HE_Yamato_BS_Akindo.titleShort>
+  <HE_Yamato_BS_Akindo.description>[PAWN_nameDef] limanda ipek, sake ve lake eşya alıp iç bölgelerde iki katına sattı. Derin eğilir ve hızlı sayar.</HE_Yamato_BS_Akindo.description>
+  <HE_Yamato_BS_DojoChild.title>dojo öğrencisi</HE_Yamato_BS_DojoChild.title>
+  <HE_Yamato_BS_DojoChild.titleShort>öğrenci</HE_Yamato_BS_DojoChild.titleShort>
+  <HE_Yamato_BS_DojoChild.description>[PAWN_nameDef] bir kılıç okulunun zeminini süpürerek ve kolları ağrıyana dek saman demetlerinde kesik çalışarak büyüdü.</HE_Yamato_BS_DojoChild.description>
+  <HE_Yamato_BS_TempleChild.title>tapınak acemisi</HE_Yamato_BS_TempleChild.title>
+  <HE_Yamato_BS_TempleChild.titleShort>acemi</HE_Yamato_BS_TempleChild.titleShort>
+  <HE_Yamato_BS_TempleChild.description>[PAWN_nameDef], ona eski sutraları okumayı, saatlerce kıpırdamadan oturmayı ve tapınak bahçesinde ot yetiştirmeyi öğreten keşişler tarafından büyütüldü.</HE_Yamato_BS_TempleChild.description>
+  <HE_Yamato_BS_FishingVillage.title>balıkçı köyü çocuğu</HE_Yamato_BS_FishingVillage.title>
+  <HE_Yamato_BS_FishingVillage.titleShort>balıkçı çocuğu</HE_Yamato_BS_FishingVillage.titleShort>
+  <HE_Yamato_BS_FishingVillage.description>[PAWN_nameDef] rüzgârlı bir kıyıda ağ onararak ve balık temizleyerek büyüdü; orada her aile avını paylaşırdı.</HE_Yamato_BS_FishingVillage.description>
+  <HE_Yamato_BS_CastleTown.title>kale kasabası çocuğu</HE_Yamato_BS_CastleTown.title>
+  <HE_Yamato_BS_CastleTown.titleShort>kasaba çocuğu</HE_Yamato_BS_CastleTown.titleShort>
+  <HE_Yamato_BS_CastleTown.description>[PAWN_nameDef] bir beyin kalesinin altındaki kalabalık sokaklarda, zanaatkâr dükkânları arasında koşturarak ve samurayların geçit törenini izleyerek büyüdü.</HE_Yamato_BS_CastleTown.description>
+</LanguageData>

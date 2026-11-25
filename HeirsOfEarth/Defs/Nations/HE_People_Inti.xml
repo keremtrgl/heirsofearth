@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnKindDef Name="HE_Inti_KindBase" Abstract="True">
+    <race>Human</race>
+    <defaultFactionDef>HE_Faction_Inti</defaultFactionDef>
+    <chemicalAddictionChance>0.02</chemicalAddictionChance>
+    <backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+    <invNutrition>2.5</invNutrition>
+    <initialResistanceRange>10~18</initialResistanceRange>
+    <initialWillRange>1~3</initialWillRange>
+    <nameMaker>HE_Names_Inti_Male</nameMaker>
+    <nameMakerFemale>HE_Names_Inti_Female</nameMakerFemale>
+    <backstoryFiltersOverride>
+      <li>
+        <categories>
+          <li>HE_Inti</li>
+        </categories>
+      </li>
+    </backstoryFiltersOverride>
+  </PawnKindDef>
+  <PawnKindDef ParentName="BasePlayerPawnKind">
+    <defName>HE_Inti_Colonist</defName>
+    <label>colonist</label>
+    <defaultFactionDef>HE_Player_Inti</defaultFactionDef>
+    <nameMaker>HE_Names_Inti_Male</nameMaker>
+    <nameMakerFemale>HE_Names_Inti_Female</nameMakerFemale>
+    <chemicalAddictionChance>0.02</chemicalAddictionChance>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+    </apparelRequired>
+    <apparelAllowHeadgearChance>0</apparelAllowHeadgearChance>
+    <apparelMoney>350~600</apparelMoney>
+    <backstoryCryptosleepCommonality>0</backstoryCryptosleepCommonality>
+    <initialResistanceRange>13~21</initialResistanceRange>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_Slinger</defName>
+    <label>slinger</label>
+    <combatPower>50</combatPower>
+    <isFighter>true</isFighter>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>HE_IntiRanged</li>
+    </weaponTags>
+    <weaponMoney>80~200</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>200~400</apparelMoney>
+    <apparelAllowHeadgearChance>0.2</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+    </apparelRequired>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_Warrior</defName>
+    <label>Inti warrior</label>
+    <combatPower>60</combatPower>
+    <isFighter>true</isFighter>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>HE_IntiMelee</li>
+    </weaponTags>
+    <weaponMoney>250~400</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>250~450</apparelMoney>
+    <apparelAllowHeadgearChance>0.4</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+    </apparelRequired>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_Guard</defName>
+    <label>royal guard</label>
+    <combatPower>85</combatPower>
+    <isFighter>true</isFighter>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>HE_IntiMelee</li>
+    </weaponTags>
+    <weaponMoney>300~550</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>600~1000</apparelMoney>
+    <apparelAllowHeadgearChance>0.8</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+      <li>HE_Inti_QuiltedTunic</li>
+      <li>HE_Inti_PlumedHelm</li>
+    </apparelRequired>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_Counter</defName>
+    <label>knot keeper</label>
+    <combatPower>35</combatPower>
+    <isFighter>false</isFighter>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>NeolithicMeleeBasic</li>
+    </weaponTags>
+    <weaponMoney>50~120</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>250~450</apparelMoney>
+    <apparelAllowHeadgearChance>0</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+    </apparelRequired>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_Apu</defName>
+    <label>apu commander</label>
+    <combatPower>130</combatPower>
+    <isFighter>true</isFighter>
+    <itemQuality>Good</itemQuality>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>HE_IntiMelee</li>
+    </weaponTags>
+    <weaponMoney>500~800</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>1100~1800</apparelMoney>
+    <apparelAllowHeadgearChance>1</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+      <li>HE_Inti_QuiltedTunic</li>
+      <li>HE_Inti_PlumedHelm</li>
+    </apparelRequired>
+    <minGenerationAge>28</minGenerationAge>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_SapaInti</defName>
+    <label>Sapa Inti</label>
+    <combatPower>70</combatPower>
+    <isFighter>false</isFighter>
+    <itemQuality>Good</itemQuality>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>HE_IntiMelee</li>
+    </weaponTags>
+    <weaponMoney>350~600</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>1000~1600</apparelMoney>
+    <apparelAllowHeadgearChance>0.6</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+      <li>HE_Inti_QuiltedTunic</li>
+    </apparelRequired>
+    <factionLeader>true</factionLeader>
+    <minGenerationAge>30</minGenerationAge>
+  </PawnKindDef>
+  <PawnKindDef ParentName="HE_Inti_KindBase">
+    <defName>HE_Inti_Trader</defName>
+    <label>llama trader</label>
+    <combatPower>45</combatPower>
+    <isFighter>false</isFighter>
+    <itemQuality>Normal</itemQuality>
+    <gearHealthRange>0.7~1.6</gearHealthRange>
+    <weaponTags>
+      <li>MedievalMeleeBasic</li>
+    </weaponTags>
+    <weaponMoney>100~200</weaponMoney>
+    <apparelTags>
+      <li>HE_Base</li>
+      <li>HE_IntiApparel</li>
+    </apparelTags>
+    <apparelMoney>400~700</apparelMoney>
+    <apparelAllowHeadgearChance>0.1</apparelAllowHeadgearChance>
+    <apparelRequired>
+      <li>HE_Inti_Unku</li>
+    </apparelRequired>
+    <trader>true</trader>
+  </PawnKindDef>
+</Defs>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Standard.label>legion standard</HE_Roma_Standard.label>
+  <HE_Roma_Standard.description>A red standard of the legions on a tall pole, crowned with a golden eagle. Soldiers stand straighter when they see it.</HE_Roma_Standard.description>
+  <HE_Roma_Aqueduct.label>aqueduct span</HE_Roma_Aqueduct.label>
+  <HE_Roma_Aqueduct.description>A span of arched aqueduct in pale stone, carrying a channel of running water. Impressive, beautiful and very heavy.</HE_Roma_Aqueduct.description>
+  <HE_Roma_Brazier.label>legion brazier</HE_Roma_Brazier.label>
+  <HE_Roma_Brazier.description>A bronze brazier on iron legs. It lights the camp at night and warms the hands of the watch.</HE_Roma_Brazier.description>
+  <HE_Roma_ScutumDisplay.label>scutum display</HE_Roma_ScutumDisplay.label>
+  <HE_Roma_ScutumDisplay.description>A curved legionary shield painted with golden wings, hung on a stand. Veterans touch it for luck before a battle.</HE_Roma_ScutumDisplay.description>
+  <HE_Roma_Statue.label>forum statue</HE_Roma_Statue.label>
+  <HE_Roma_Statue.description>A marble statue of a toga-clad citizen raising a golden laurel. It makes any square feel like a forum.</HE_Roma_Statue.description>
+  <HE_Roma_Triclinium.label>triclinium table</HE_Roma_Triclinium.label>
+  <HE_Roma_Triclinium.description>A low marble dining table covered with a red cloth, set for wine, olives and long conversations.</HE_Roma_Triclinium.description>
+  <HE_Roma_Thermae.label>thermae pool</HE_Roma_Thermae.label>
+  <HE_Roma_Thermae.description>A heated marble bathing pool. Colonists come here to soak, talk and let their worries drift away.</HE_Roma_Thermae.description>
+  <HE_Roma_Scorpio_Gun.label>scorpio</HE_Roma_Scorpio_Gun.label>
+  <HE_Roma_Scorpio_Gun.description>The turning top of the scorpio.</HE_Roma_Scorpio_Gun.description>
+  <HE_Roma_Scorpio.label>scorpio</HE_Roma_Scorpio.label>
+  <HE_Roma_Scorpio.description>A torsion bolt thrower on a stone platform. Twisted sinew springs send a heavy iron-tipped bolt through a shield and the man behind it. It shoots one bolt at a time, slowly, but very far and very hard. Wood is cut into new bolts: one log makes two.</HE_Roma_Scorpio.description>
+  <HE_Roma_Scorpio.comps.1.fuelLabel>Arrows</HE_Roma_Scorpio.comps.1.fuelLabel>
+  <HE_Roma_Scorpio.comps.1.fuelGizmoLabel>Arrows</HE_Roma_Scorpio.comps.1.fuelGizmoLabel>
+  <HE_Roma_Scorpio.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Roma_Scorpio.comps.1.outOfFuelMessage>
+</LanguageData>

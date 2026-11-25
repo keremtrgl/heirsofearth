@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Concrete.label>Roma betonu</HE_Roma_Concrete.label>
+  <HE_Roma_Concrete.description>Kare levhalar halinde dökülmüş açık renk beton. Dayanıklı ve kolay temizlenir.</HE_Roma_Concrete.description>
+  <HE_Roma_Road.label>Roma yolu</HE_Roma_Road.label>
+  <HE_Roma_Road.description>Derin bir çakıl yatağı üzerine döşenmiş basalt levhalar. Üzerinde yürümek hızlı ve kolaydır.</HE_Roma_Road.description>
+  <HE_Roma_Mosaic.label>Roma mozaiği</HE_Roma_Mosaic.label>
+  <HE_Roma_Mosaic.description>Kırmızı bir kenarlıkla geometrik bir desene dizilmiş binlerce küçük taş tessera.</HE_Roma_Mosaic.description>
+</LanguageData>

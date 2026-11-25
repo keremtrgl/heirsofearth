@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Spear.label>nehir mızrağı</HE_Kemet_Spear.label>
+  <HE_Kemet_Spear.description>Nilüfer yaprağı biçiminde soketli bronz bir ucu olan, akasya ağacından hafif bir mızrak.</HE_Kemet_Spear.description>
+  <HE_Kemet_Spear.tools.0.label>gövde</HE_Kemet_Spear.tools.0.label>
+  <HE_Kemet_Spear.tools.1.label>uç</HE_Kemet_Spear.tools.1.label>
+  <HE_Kemet_Khopesh.label>hopeş</HE_Kemet_Khopesh.label>
+  <HE_Kemet_Khopesh.description>Kıvrık dış ağzı balta gibi ısıran ve kancası kalkanları ve mızrakları yana çeken bronz renkli bir orak-kılıç.</HE_Kemet_Khopesh.description>
+  <HE_Kemet_Khopesh.tools.0.label>kabza</HE_Kemet_Khopesh.tools.0.label>
+  <HE_Kemet_Khopesh.tools.1.label>ağız</HE_Kemet_Khopesh.tools.1.label>
+  <HE_Kemet_Khopesh.tools.2.label>çivi</HE_Kemet_Khopesh.tools.2.label>
+  <HE_Kemet_CompositeBow.label>kompozit yay</HE_Kemet_CompositeBow.label>
+  <HE_Kemet_CompositeBow.description>Nilüfer şeritleriyle boyanmış, boynuz, ahşap ve sinirden kısa, köşeli bir yay. Arabacılar onu hareket eden bir platformdan atar.</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_CompositeBow.tools.0.label>kol</HE_Kemet_CompositeBow.tools.0.label>
+  <HE_Kemet_DesertRifle.label>çöl tüfeği</HE_Kemet_DesertRifle.label>
+  <HE_Kemet_DesertRifle.description>Pirinç bağlı dipçikli ve kilidinde oyma bir şahin olan uzun, ince bir tüfek. Nişan alması yavaş, ama açık arazide ölümcül.</HE_Kemet_DesertRifle.description>
+  <HE_Kemet_DesertRifle.tools.0.label>dipçik</HE_Kemet_DesertRifle.tools.0.label>
+  <HE_Kemet_DesertRifle.tools.1.label>namlu</HE_Kemet_DesertRifle.tools.1.label>
+  <HE_Kemet_Hedj.label>hedj topuzu</HE_Kemet_Hedj.label>
+  <HE_Kemet_Hedj.description>Altınla sarılmış bir sap üzerinde beyaz taştan armut biçimli bir topuz başı. En eski kabartmalarda kral onu düşmanlarının üzerine kaldırır.</HE_Kemet_Hedj.description>
+  <HE_Kemet_Hedj.tools.0.label>kabza</HE_Kemet_Hedj.tools.0.label>
+  <HE_Kemet_Hedj.tools.1.label>baş</HE_Kemet_Hedj.tools.1.label>
+  <HE_Kemet_Musket.label>Kemet tüfeği</HE_Kemet_Musket.label>
+  <HE_Kemet_Musket.description>Pirinçle sarılı, dipçiği turkuaz kakmalı ve dibinde bir nilüfer olan uzun bir tüfek. Nehrin cephaneliklerinde, çoğu tüfekten daha uzağa erişen uzun bir namluyla yapılır.</HE_Kemet_Musket.description>
+  <HE_Kemet_Musket.tools.0.label>dipçik</HE_Kemet_Musket.tools.0.label>
+  <HE_Kemet_Musket.tools.1.label>namlu</HE_Kemet_Musket.tools.1.label>
+</LanguageData>

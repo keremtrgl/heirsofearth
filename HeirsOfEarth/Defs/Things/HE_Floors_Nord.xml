@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Nord_Planks</defName>
+    <label>split plank floor</label>
+    <description>Wide planks split from pine logs and fitted together. Warm underfoot.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Nord_Planks</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>600</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>3</WoodLog>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Planks</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Nord_Slate</defName>
+    <label>slate flagstones</label>
+    <description>Split slabs of dark slate fitted together like a puzzle. Cold underfoot, but they never rot and they shrug off mud.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Nord_Slate</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>800</WorkToBuild>
+      <Beauty>1</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <BlocksSlate>3</BlocksSlate>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Longhouse</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+  <TerrainDef ParentName="FloorBase">
+    <defName>HE_Nord_CarvedBoards</defName>
+    <label>carved boards</label>
+    <description>Heavy oak boards with knotwork carved into them by the hall's craftsmen during the long winters.</description>
+    <texturePath>HeirsOfEarth/Terrain/HE_Nord_CarvedBoards</texturePath>
+    <pathCost>0</pathCost>
+    <statBases>
+      <WorkToBuild>1100</WorkToBuild>
+      <Beauty>2</Beauty>
+      <Cleanliness>0.2</Cleanliness>
+    </statBases>
+    <costList>
+      <WoodLog>4</WoodLog>
+    </costList>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Nord_Runes</li>
+    </researchPrerequisites>
+    <constructionSkillPrerequisite>3</constructionSkillPrerequisite>
+    <uiOrder>2400</uiOrder>
+  </TerrainDef>
+</Defs>

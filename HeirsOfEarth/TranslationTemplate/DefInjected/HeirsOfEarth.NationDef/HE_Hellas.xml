@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas.label>League of Hellas</HE_Hellas.label>
+  <HE_Hellas.description>The colony ship Argo carried teachers, doctors and philosophers, and their children never stopped arguing. The city-states of Hellas are a quarrelsome league held together by a common tongue, the games and a deep love of learning. Their hoplites fight shoulder to shoulder, their physicians are sought by every nation, and they count the Nova Romans as old friends.</HE_Hellas.description>
+  <HE_Hellas.rulerTitle>Archon</HE_Hellas.rulerTitle>
+  <HE_Hellas.adjective>Hellenic</HE_Hellas.adjective>
+  <HE_Hellas.doctrine.label>phalanx</HE_Hellas.doctrine.label>
+  <HE_Hellas.doctrine.description>Hoplites fight shoulder to shoulder, each shield covering the man to the left. In the line they are hard to hit and hard to escape; alone they are ordinary men.</HE_Hellas.doctrine.description>
+  <HE_Hellas.honoraryTitle>proxenos of the League</HE_Hellas.honoraryTitle>
+</LanguageData>

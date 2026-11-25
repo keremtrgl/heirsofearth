@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord.label>Nordheim Jarllığı</HE_Nord.label>
+  <HE_Nord.description>Yggdrasil koloni gemisinin mürettebatı soğuk bir kıyıya indi ve hiçbir zaman daha sıcağını istemedi. Jarlları, özgür insanların meclisi Thing'de seçilir; uzun evleri karın içinde ters dönmüş gemiler gibi durur. Dayanıklı avcılar ve vahşi akıncılardır; eski destanları ocak başında yaşatırlar ve Romalıların her hakaretini hatırlarlar.</HE_Nord.description>
+  <HE_Nord.rulerTitle>Jarl</HE_Nord.rulerTitle>
+  <HE_Nord.adjective>Nordheim</HE_Nord.adjective>
+  <HE_Nord.doctrine.label>strandhogg</HE_Nord.doctrine.label>
+  <HE_Nord.doctrine.description>Kıyı baskını: kuşatma yok, bekleme yok. Akıncılar duvarları baltayla yarar ve düşmana koşar; hızlı, öfkeli ve acıyla durdurulması zor.</HE_Nord.doctrine.description>
+  <HE_Nord.honoraryTitle>jarlların yeminli dostu</HE_Nord.honoraryTitle>
+</LanguageData>

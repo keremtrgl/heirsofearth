@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_CultureTable.label>kültür incelemeleri</HE_CultureTable.label>
+  <HE_CultureTable.description>Âlimlerin mirasçı devletlerin mallarını inceleyip Kültür Bilgisi kazandığı kültür masasını inşa et.</HE_CultureTable.description>
+  <HE_Translators.label>tercümanlar</HE_Translators.label>
+  <HE_Translators.description>Kolonistleri mirasçı devletlerin eski dillerini okuyacak şekilde eğit; böylece incelenen her eşya daha çok şey öğretir.
+
+Gelenek: Kültür eşyası incelemek %10 daha fazla Kültür Bilgisi verir.</HE_Translators.description>
+  <HE_Envoys.label>elçiler</HE_Envoys.label>
+  <HE_Envoys.description>Eski devletlere hediyeler ve mektuplarla elçiler gönder. Tüccarlar adını öğrenir ve sana daha adil davranır.
+
+Gelenek: Kolonistler %3 daha iyi ticaret fiyatı alır.</HE_Envoys.description>
+  <HE_Academy.label>kültür akademisi</HE_Academy.label>
+  <HE_Academy.description>Her mirasçı devletin bilgisinin kopyalandığı, karşılaştırıldığı ve öğretildiği bir okul.
+
+Gelenek: Kültür eşyası incelemek %15 daha fazla Kültür Bilgisi verir ve kolonistler %3 daha hızlı öğrenir.</HE_Academy.description>
+  <HE_WorldCouncil.label>dünya konseyi</HE_WorldCouncil.label>
+  <HE_WorldCouncil.description>Her mirasçı devletin bir temsilci gönderdiği kalıcı bir konsey: tek salon, tek masa, dokuz sancak. Buradan mirasçılar oylamayla birleştirilebilir ya da tek bir güç onları biat etmeye çağırabilir.
+
+3 devlet hikâyesini bitirince ya da 3 ticaret yolunu bir yıl açık tutunca açılır.</HE_WorldCouncil.description>
+  <HE_Trebuchet.label>mancınık</HE_Trebuchet.label>
+  <HE_Trebuchet.description>Bir mil üzerinde uzun bir kol ve kısa ucunda taş dolu bir sandık: sandık düştüğünde uzun uç bir kaya parçasını her surun üzerinden fırlatır. Her mirasçı devlet bunun bir türünü yapmıştır.</HE_Trebuchet.description>
+  <HE_Embassies.label>elçilikler</HE_Embassies.label>
+  <HE_Embassies.description>Kalıcı elçiler, mühürlü mektuplar ve yabancı konukların onurla karşılandığı bir ev. Bilim değişimini ve savunma ittifakını mümkün kılan elçiliği açar.</HE_Embassies.description>
+</LanguageData>

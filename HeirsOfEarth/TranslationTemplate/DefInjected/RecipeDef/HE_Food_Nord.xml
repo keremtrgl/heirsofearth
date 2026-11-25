@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Nord_Skyr.label>cook skyr bowl</HE_Cook_Nord_Skyr.label>
+  <HE_Cook_Nord_Skyr.description>Cook skyr bowl.</HE_Cook_Nord_Skyr.description>
+  <HE_Cook_Nord_Skyr.jobString>Cooking skyr bowl.</HE_Cook_Nord_Skyr.jobString>
+  <HE_Cook_Nord_HunterStew.label>cook hunter's stew</HE_Cook_Nord_HunterStew.label>
+  <HE_Cook_Nord_HunterStew.description>Cook hunter's stew.</HE_Cook_Nord_HunterStew.description>
+  <HE_Cook_Nord_HunterStew.jobString>Cooking hunter's stew.</HE_Cook_Nord_HunterStew.jobString>
+  <HE_Cook_Nord_Flatbread.label>cook honey flatbread</HE_Cook_Nord_Flatbread.label>
+  <HE_Cook_Nord_Flatbread.description>Cook honey flatbread.</HE_Cook_Nord_Flatbread.description>
+  <HE_Cook_Nord_Flatbread.jobString>Cooking honey flatbread.</HE_Cook_Nord_Flatbread.jobString>
+</LanguageData>

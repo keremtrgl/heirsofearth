@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Hearth.label>uzun ev ocağı</HE_Nord_Hearth.label>
+  <HE_Nord_Hearth.description>Taşlarla çevrili uzun bir ateş çukuru. Büyük bir salonu ısıtır, aydınlatır ve bir tencere yahniyi sıcak tutar.</HE_Nord_Hearth.description>
+  <HE_Nord_RuneStone.label>run taşı</HE_Nord_RuneStone.label>
+  <HE_Nord_RuneStone.description>Bir kahramanın yaptıklarını anlatan runlardan bir yılanla oyulmuş, uzun, gri bir taş.</HE_Nord_RuneStone.description>
+  <HE_Nord_ShieldWall.label>yuvarlak kalkan sergisi</HE_Nord_ShieldWall.label>
+  <HE_Nord_ShieldWall.description>Herkesin görebileceği bir yere asılmış, demir umbolu, boyalı yuvarlak bir kalkan.</HE_Nord_ShieldWall.description>
+  <HE_Nord_MeadTable.label>bal şarabı masası</HE_Nord_MeadTable.label>
+  <HE_Nord_MeadTable.description>İçki boynuzları ve bir kâse bal şarabıyla kurulmuş uzun bir meşe masa. Kolonistler içmek ve övünmek için burada toplanır.</HE_Nord_MeadTable.description>
+  <HE_Nord_Sauna.label>sauna</HE_Nord_Sauna.label>
+  <HE_Nord_Sauna.description>Taş sobası ve sıraları olan küçük, çam bir yıkanma evi. Kolonistler dertlerini burada terleyerek atar.</HE_Nord_Sauna.description>
+  <HE_Nord_BowLoft_Gun.label>çift yay</HE_Nord_BowLoft_Gun.label>
+  <HE_Nord_BowLoft_Gun.description>yay çardağı yapısının dönen üst kısmı.</HE_Nord_BowLoft_Gun.description>
+  <HE_Nord_BowLoft.label>yay çardağı</HE_Nord_BowLoft.label>
+  <HE_Nord_BowLoft.description>Bir mil üzerinde dev bir çift yay taşıyan kütük platform; bir zamanlar fiyort kapılarını koruyanlardan. Uzun menzile ikişer büyük ok atar. Yeni oklar için odun: bir kütük iki ok eder.</HE_Nord_BowLoft.description>
+  <HE_Nord_BowLoft.comps.1.fuelLabel>Oklar</HE_Nord_BowLoft.comps.1.fuelLabel>
+  <HE_Nord_BowLoft.comps.1.fuelGizmoLabel>Oklar</HE_Nord_BowLoft.comps.1.fuelGizmoLabel>
+  <HE_Nord_BowLoft.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Nord_BowLoft.comps.1.outOfFuelMessage>
+</LanguageData>

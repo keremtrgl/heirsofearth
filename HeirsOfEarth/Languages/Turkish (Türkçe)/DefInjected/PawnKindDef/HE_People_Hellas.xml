@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Colonist.label>kolonist</HE_Hellas_Colonist.label>
+  <HE_Hellas_Hoplite.label>hoplit</HE_Hellas_Hoplite.label>
+  <HE_Hellas_Hoplite.labelPlural>hoplitler</HE_Hellas_Hoplite.labelPlural>
+  <HE_Hellas_Ephebe.label>efeb</HE_Hellas_Ephebe.label>
+  <HE_Hellas_Toxotes.label>toksotes okçu</HE_Hellas_Toxotes.label>
+  <HE_Hellas_Physician.label>hekim</HE_Hellas_Physician.label>
+  <HE_Hellas_Strategos.label>strategos</HE_Hellas_Strategos.label>
+  <HE_Hellas_Archon.label>arkon</HE_Hellas_Archon.label>
+  <HE_Hellas_Emporos.label>emporos tüccar</HE_Hellas_Emporos.label>
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Colonist.label>colonist</HE_Hellas_Colonist.label>
+  <HE_Hellas_Hoplite.label>hoplite</HE_Hellas_Hoplite.label>
+  <HE_Hellas_Hoplite.labelPlural>hoplites</HE_Hellas_Hoplite.labelPlural>
+  <HE_Hellas_Ephebe.label>ephebe</HE_Hellas_Ephebe.label>
+  <HE_Hellas_Toxotes.label>toxotes archer</HE_Hellas_Toxotes.label>
+  <HE_Hellas_Physician.label>physician</HE_Hellas_Physician.label>
+  <HE_Hellas_Strategos.label>strategos</HE_Hellas_Strategos.label>
+  <HE_Hellas_Archon.label>archon</HE_Hellas_Archon.label>
+  <HE_Hellas_Emporos.label>emporos merchant</HE_Hellas_Emporos.label>
+</LanguageData>

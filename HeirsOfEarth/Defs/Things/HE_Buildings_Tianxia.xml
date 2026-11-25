@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Tianxia_Vase</defName>
+    <label>porcelain vase</label>
+    <description>A tall white vase painted in cobalt blue with dragons among clouds. Merchants travel half the world to buy one.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_Vase</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.5)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <costList>
+      <BlocksMarble>20</BlocksMarble>
+      <Silver>15</Silver>
+    </costList>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <WorkToBuild>4000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>16</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_PorcelainKiln</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Tianxia_MoonGate</defName>
+    <label>moon gate</label>
+    <description>A perfectly round opening in a garden wall. Stepping through it is said to bring luck.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_MoonGate</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,2.25)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Standable</passability>
+    <fillPercent>0</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(3,1)</size>
+    <stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>180</costStuffCount>
+    <statBases>
+      <MaxHitPoints>500</MaxHitPoints>
+      <WorkToBuild>7000</WorkToBuild>
+      <Mass>30</Mass>
+      <Beauty>18</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_JadeFloor</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Tianxia_Lantern</defName>
+    <label>paper lantern</label>
+    <description>A red paper lantern on a lacquered post, with a small oil lamp inside.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_Lantern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1.5)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>25</costStuffCount>
+    <costList>
+      <Cloth>10</Cloth>
+    </costList>
+    <statBases>
+      <MaxHitPoints>80</MaxHitPoints>
+      <WorkToBuild>1600</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>5</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_PaperLantern</li>
+    </researchPrerequisites>
+    <building>
+      <isInert>true</isInert>
+    </building>
+    <comps>
+      <li Class="CompProperties_Refuelable">
+        <fuelConsumptionRate>1</fuelConsumptionRate>
+        <fuelCapacity>10</fuelCapacity>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <initialFuelPercent>1</initialFuelPercent>
+        <showAllowAutoRefuelToggle>true</showAllowAutoRefuelToggle>
+      </li>
+      <li Class="CompProperties_Glower">
+        <glowRadius>6</glowRadius>
+        <glowColor>(255,120,90,0)</glowColor>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Tianxia_TeaTable</defName>
+    <label>gongfu tea table</label>
+    <description>A carved wooden tray table with a clay teapot and tiny cups. Tea is brewed again and again, a little stronger each time.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_TeaTable</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <stuffCategories>
+      <li>Woody</li>
+    </stuffCategories>
+    <costStuffCount>60</costStuffCount>
+    <statBases>
+      <MaxHitPoints>140</MaxHitPoints>
+      <WorkToBuild>2800</WorkToBuild>
+      <Mass>40</Mass>
+      <Beauty>5</Beauty>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_TeaCulture</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Social</joyKind>
+    </building>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="BaseWeaponTurret">
+    <defName>HE_Tianxia_FireArrowBattery_Gun</defName>
+    <label>fire-arrow rack</label>
+    <description>A hexagonal box of rocket arrows mounted on a turning cart.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_FireArrowBattery_Top</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <statBases>
+      <AccuracyTouch>0.3</AccuracyTouch>
+      <AccuracyShort>0.45</AccuracyShort>
+      <AccuracyMedium>0.38</AccuracyMedium>
+      <AccuracyLong>0.26</AccuracyLong>
+      <RangedWeapon_Cooldown>6.5</RangedWeapon_Cooldown>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>30</Mass>
+      <Flammability>0.5</Flammability>
+    </statBases>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <defaultProjectile>HE_Arrow_Fire</defaultProjectile>
+        <warmupTime>0</warmupTime>
+        <minRange>4.9</minRange>
+        <range>27.9</range>
+        <ticksBetweenBurstShots>5</ticksBetweenBurstShots>
+        <burstShotCount>8</burstShotCount>
+        <soundCast>HE_Shot_FireArrows</soundCast>
+        <consumeFuelPerShot>1</consumeFuelPerShot>
+      </li>
+    </verbs>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Tianxia_FireArrowBattery</defName>
+    <label>fire-arrow battery</label>
+    <description>A wheeled 'nest of bees' that looses eight fire arrows in one volley at anything hostile in range. It needs no power, only wood to make new arrows: one log becomes two arrows. The arrows are not accurate, but they set the enemy alight.</description>
+    <thingClass>Building_TurretGun</thingClass>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <drawHighlight>true</drawHighlight>
+    <drawHighlightOnlyForHostile>true</drawHighlightOnlyForHostile>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_FireArrowBattery</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+      <damageData>
+        <rect>(0.2,0.2,0.6,0.6)</rect>
+      </damageData>
+      <shadowData>
+        <volume>(1.5,0.35,1.4)</volume>
+        <offset>(0,0,-0.05)</offset>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <stealable>false</stealable>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <statBases>
+      <MaxHitPoints>260</MaxHitPoints>
+      <Flammability>1</Flammability>
+      <WorkToBuild>9000</WorkToBuild>
+      <Mass>60</Mass>
+      <Beauty>-5</Beauty>
+      <ShootingAccuracyTurret>0.9</ShootingAccuracyTurret>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <fillPercent>0.5</fillPercent>
+    <hasTooltip>true</hasTooltip>
+    <costList>
+      <WoodLog>120</WoodLog>
+      <Steel>40</Steel>
+    </costList>
+    <terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+    <designationCategory>Security</designationCategory>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <building>
+      <ai_combatDangerous>true</ai_combatDangerous>
+      <turretGunDef>HE_Tianxia_FireArrowBattery_Gun</turretGunDef>
+      <turretBurstCooldownTime>7</turretBurstCooldownTime>
+      <turretTopDrawSize>2</turretTopDrawSize>
+      <turretTopOffset>(0, 0.05)</turretTopOffset>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_TurretTop</li>
+      <li>PlaceWorker_ShowTurretRadius</li>
+    </placeWorkers>
+    <researchPrerequisites>
+      <li>HE_Tianxia_FireArrowBattery</li>
+    </researchPrerequisites>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+      <li Class="CompProperties_Refuelable">
+        <fuelLabel>Fire arrows</fuelLabel>
+        <fuelGizmoLabel>Arrows</fuelGizmoLabel>
+        <outOfFuelMessage>Needs wood for arrows</outOfFuelMessage>
+        <fuelFilter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </fuelFilter>
+        <fuelCapacity>64</fuelCapacity>
+        <fuelMultiplier>2</fuelMultiplier>
+        <initialFuelPercent>0</initialFuelPercent>
+        <autoRefuelPercent>0.5</autoRefuelPercent>
+        <showFuelGizmo>true</showFuelGizmo>
+        <minimumFueledThreshold>1</minimumFueledThreshold>
+        <factorByDifficulty>true</factorByDifficulty>
+        <consumeFuelOnlyWhenUsed>true</consumeFuelOnlyWhenUsed>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

@@ -1,0 +1,41 @@
+Heirs of Earth 4.0.0 - the great update (everything since 3.2: Art of War, Palace and Treaty, Epics, Sound and Sight, Common Ground)
+
+ART OF WAR
+- Every nation raids with its own war doctrine and drill: the Roman testudo, the Greek phalanx, Nordic shore raids, Yamato bushido, Tianxia's art of war, Albion's siege train, the Kemet chariot vanguard, Pars cavalry wings and Inti mountain sappers. Each changes the raid plan and gives raiders a fitting bonus while they fight (formation armour, speed, aim, melee). Scripted and other mods' raids are untouched; a setting turns doctrines off.
+- Nation pack animals: horses, donkeys, yaks, dromedaries and alpacas walk with each nation's caravans, and every heir start brings its nation's animal.
+- New counterweight trebuchet for every heir: manned, fed with stone chunks, hurls boulders over walls at long range.
+- Fix: on frozen maps heir soldiers no longer swap their uniform for random warm clothes.
+
+PALACE AND TREATY
+- Every nation has a ruler with a name, epithet and temperament (warlike, mercantile, scholarly, pious, cautious). Reigns end, crowns pass, and a new ruler may change course.
+- Four treaties: peace, trade, science exchange and defensive alliance, each with a fee and a goodwill threshold; rulers sometimes offer one for free. Breaking a treaty costs goodwill everywhere.
+- New embassy building, needed for the higher treaties.
+- Titles of standing, up to each nation's own highest honour (honorary citizen of Nova Roma, friend of the Pharaoh, kin of the Sun and more).
+- World events: the Games, great fairs, famine and plague.
+- Fix: when a reign ends, the crown always passes to someone new (the game could hand it back to the old ruler).
+
+EPICS
+- 18 classic books (two per nation) and 9 legendary great books, in each nation's own form: codices, rune boards, scrolls, bamboo slips, khipu cords. Reading teaches culture knowledge; better copies teach faster.
+- A second saga for every nation: five steps ending with a lost original to return or keep, and the nation's great book either way.
+- Errands: friendly nations ask small favours by letter (goods, fine crafts, books) for silver, knowledge and goodwill.
+- Fix: a story choice now takes a forbidden relic too.
+
+SOUND AND SIGHT
+- Every nation has its own music, made for this mod, and a short signature call that sounds with its news. Its music plays when its story ends, when it honours you or when you win its Games, and now and then among the usual songs (your heritage and nations that honoured you). A setting turns it off.
+- 18 heir weapons got their own firing sounds (muskets, matchlock, flintlock, blunderbuss, cannon, scorpio, manuballista, trebuchet, sling, repeating crossbow, fire lance, naft, fire arrows, harpoon), and three artifacts their own calls.
+- All 19 heir hats, helmets, crowns and wreaths now have their own look when worn, from all sides (five were invisible before). The stuff colours the main part; plumes, gold and jewels keep their colours.
+- The laurel, olive wreath, circlet and mascaypacha now sit on the hair instead of hiding it, like the vanilla coronet.
+- Fix: nation calls no longer go silent after loading an earlier save.
+
+COMMON GROUND
+- Every nation can be switched off on its own in the settings: it keeps its faction and goods but leaves stories, errands, letters, music and world politics.
+- A translation template folder with every text in English and a short guide, for anyone translating the mod.
+- A world where an heir nation has fallen keeps running cleanly.
+- The "Translation data for language Turkish has errors" warning comes from the official language pack, not from this mod.
+
+DLC EXTRAS
+- Royalty: the khepresh, kidaris and mascaypacha count as a noble's crown (Baron to Consul); the laurel, nemes and circlet as a coronet (Baron and Count). Without Royalty nothing changes.
+
+TECHNICAL
+- About 380 new automatic in-game checks since 3.2 (about 2,880 in all); the full suite passes.
+- Save compatible: rulers are crowned and new systems start when an older save is loaded.

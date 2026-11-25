@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars.label>Pars Satraplığı</HE_Pars.label>
+  <HE_Pars.description>Pasargad koloni gemisi dağlarla çevrili yüksek bir yaylaya indi ve halkı surlardan önce yollar yaptı. Pars; bir kraliyet yolu, hiç durmayan bir posta ve her iyiliği hatırlayan bir sarayla bir arada tutulan eyaletlerden oluşur. Satrapları bahçeleri, atları ve iyi halıları sever, sözlerini tutar ve başkalarının da tutmasını bekler. Tianxia'nın eski dostu, Nova Roma'nın eski rakibidir.</HE_Pars.description>
+  <HE_Pars.rulerTitle>Satrap</HE_Pars.rulerTitle>
+  <HE_Pars.adjective>Pars</HE_Pars.adjective>
+  <HE_Pars.doctrine.label>süvari kanatları</HE_Pars.doctrine.label>
+  <HE_Pars.doctrine.description>Pars orduları kanatlardan saldırır: aynı anda birkaç hızlı grup, eyerden dövüşmeye ve hızla yaklaşmaya alışkın.</HE_Pars.doctrine.description>
+  <HE_Pars.honoraryTitle>Satrabın velinimeti</HE_Pars.honoraryTitle>
+</LanguageData>

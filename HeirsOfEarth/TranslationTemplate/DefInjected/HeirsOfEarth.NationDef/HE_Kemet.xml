@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet.label>Kingdom of New Kemet</HE_Kemet.label>
+  <HE_Kemet.description>The colony ship Iteru came down beside a great river in a land of red sand, and its people did what their ancestors had done: they measured the flood, dug canals and built in stone. New Kemet is an old-fashioned kingdom of farmers, scribes and stonemasons, proud, patient and very hard to starve. They count the Hellenes as friends and trade with everyone who brings timber.</HE_Kemet.description>
+  <HE_Kemet.rulerTitle>Pharaoh</HE_Kemet.rulerTitle>
+  <HE_Kemet.adjective>Kemetic</HE_Kemet.adjective>
+  <HE_Kemet.doctrine.label>chariot vanguard</HE_Kemet.doctrine.label>
+  <HE_Kemet.doctrine.description>Kemet's attack opens with speed: the vanguard runs ahead as the chariots once did and is on the walls before the defenders are ready.</HE_Kemet.doctrine.description>
+  <HE_Kemet.honoraryTitle>friend of the Pharaoh</HE_Kemet.honoraryTitle>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_BS_Farmer.title>river farmer</HE_Kemet_BS_Farmer.title>
+  <HE_Kemet_BS_Farmer.titleShort>farmer</HE_Kemet_BS_Farmer.titleShort>
+  <HE_Kemet_BS_Farmer.description>Every year [PAWN_nameDef] waited for the flood, then planted the black silt it left behind. [PAWN_pronoun] knows the weight of a good harvest by eye and the taste of a bad one by heart.</HE_Kemet_BS_Farmer.description>
+  <HE_Kemet_BS_Scribe.title>royal scribe</HE_Kemet_BS_Scribe.title>
+  <HE_Kemet_BS_Scribe.titleShort>scribe</HE_Kemet_BS_Scribe.titleShort>
+  <HE_Kemet_BS_Scribe.description>[PAWN_nameDef] sat cross-legged in the granary for years, counting sacks, copying letters and catching overseers who stole. Many people owe [PAWN_objective] favours; some owe [PAWN_objective] grudges.</HE_Kemet_BS_Scribe.description>
+  <HE_Kemet_BS_Mason.title>royal stonemason</HE_Kemet_BS_Mason.title>
+  <HE_Kemet_BS_Mason.titleShort>mason</HE_Kemet_BS_Mason.titleShort>
+  <HE_Kemet_BS_Mason.description>[PAWN_nameDef] worked in the quarry gangs that cut and dragged the great blocks. [PAWN_pronoun] can split granite with wooden wedges and water, and [PAWN_possessive] walls never lean.</HE_Kemet_BS_Mason.description>
+  <HE_Kemet_BS_Medjay.title>medjay scout</HE_Kemet_BS_Medjay.title>
+  <HE_Kemet_BS_Medjay.titleShort>medjay</HE_Kemet_BS_Medjay.titleShort>
+  <HE_Kemet_BS_Medjay.description>[PAWN_nameDef] patrolled the desert roads with the medjay, tracking thieves across rock and sand. [PAWN_pronoun] can run all day and still shoot straight at sunset.</HE_Kemet_BS_Medjay.description>
+  <HE_Kemet_BS_Charioteer.title>charioteer</HE_Kemet_BS_Charioteer.title>
+  <HE_Kemet_BS_Charioteer.titleShort>charioteer</HE_Kemet_BS_Charioteer.titleShort>
+  <HE_Kemet_BS_Charioteer.description>[PAWN_nameDef] drove a war chariot in the king's corps, a pair of horses in one hand and a bow in the other. [PAWN_pronoun] still talks to animals more gently than to people.</HE_Kemet_BS_Charioteer.description>
+  <HE_Kemet_BS_Physician.title>house of life physician</HE_Kemet_BS_Physician.title>
+  <HE_Kemet_BS_Physician.titleShort>physician</HE_Kemet_BS_Physician.titleShort>
+  <HE_Kemet_BS_Physician.description>In the House of Life [PAWN_nameDef] learned to set bones, stitch wounds and read the old medical papyri, which are right more often than people expect.</HE_Kemet_BS_Physician.description>
+  <HE_Kemet_BS_Boatman.title>river boatman</HE_Kemet_BS_Boatman.title>
+  <HE_Kemet_BS_Boatman.titleShort>boatman</HE_Kemet_BS_Boatman.titleShort>
+  <HE_Kemet_BS_Boatman.description>[PAWN_nameDef] poled cargo barges up and down the river, carrying grain north and stone south. [PAWN_pronoun] knows every sandbank and every tavern on the way.</HE_Kemet_BS_Boatman.description>
+  <HE_Kemet_BS_Merchant.title>incense trader</HE_Kemet_BS_Merchant.title>
+  <HE_Kemet_BS_Merchant.titleShort>trader</HE_Kemet_BS_Merchant.titleShort>
+  <HE_Kemet_BS_Merchant.description>[PAWN_nameDef] led donkey caravans to the southern lands for incense, ebony and ostrich feathers, and came back with all of them and most of [PAWN_possessive] donkeys.</HE_Kemet_BS_Merchant.description>
+  <HE_Kemet_BS_ScribeSchool.title>scribe school pupil</HE_Kemet_BS_ScribeSchool.title>
+  <HE_Kemet_BS_ScribeSchool.titleShort>pupil</HE_Kemet_BS_ScribeSchool.titleShort>
+  <HE_Kemet_BS_ScribeSchool.description>[PAWN_nameDef] copied the same proverbs onto pottery shards a thousand times while the teacher walked behind [PAWN_objective] with a stick.</HE_Kemet_BS_ScribeSchool.description>
+  <HE_Kemet_BS_ReedChild.title>reed cutter</HE_Kemet_BS_ReedChild.title>
+  <HE_Kemet_BS_ReedChild.titleShort>reed cutter</HE_Kemet_BS_ReedChild.titleShort>
+  <HE_Kemet_BS_ReedChild.description>[PAWN_nameDef] grew up in the marshes, cutting reeds for papyrus and boats and keeping one eye open for crocodiles.</HE_Kemet_BS_ReedChild.description>
+  <HE_Kemet_BS_PotterChild.title>potter's child</HE_Kemet_BS_PotterChild.title>
+  <HE_Kemet_BS_PotterChild.titleShort>potter's child</HE_Kemet_BS_PotterChild.titleShort>
+  <HE_Kemet_BS_PotterChild.description>[PAWN_nameDef] kneaded clay and fed the kiln in a potter's yard, making the jars that carried the whole kingdom's beer and grain.</HE_Kemet_BS_PotterChild.description>
+  <HE_Kemet_BS_DesertChild.title>desert-edge herder</HE_Kemet_BS_DesertChild.title>
+  <HE_Kemet_BS_DesertChild.titleShort>herder</HE_Kemet_BS_DesertChild.titleShort>
+  <HE_Kemet_BS_DesertChild.description>[PAWN_nameDef] herded goats where the green fields end and the red sand begins, and learned to find water where there seemed to be none.</HE_Kemet_BS_DesertChild.description>
+</LanguageData>

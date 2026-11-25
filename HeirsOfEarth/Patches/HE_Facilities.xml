@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Heirs of Earth 2.1/3.0: lets the Hellas lyceum and the Inti quipu table link to research benches and the asclepion link to beds.
+     Written by hand (not generated); heirs_build.py does not touch the Patches folder. -->
+<Patch>
+  <!-- Hi-tech research bench already takes facilities: add the lyceum to its list. -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="HiTechResearchBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HE_Hellas_Lyceum</li>
+      <li>HE_Inti_QuipuTable</li>
+    </value>
+  </Operation>
+
+  <!-- Simple research bench: add to an existing facility list, or give it one. -->
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="SimpleResearchBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName="SimpleResearchBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+      <value>
+        <li>HE_Hellas_Lyceum</li>
+        <li>HE_Inti_QuipuTable</li>
+      </value>
+    </match>
+    <nomatch Class="PatchOperationConditional">
+      <xpath>Defs/ThingDef[defName="SimpleResearchBench"]/comps</xpath>
+      <match Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="SimpleResearchBench"]/comps</xpath>
+        <value>
+          <li Class="CompProperties_AffectedByFacilities">
+            <linkableFacilities>
+              <li>HE_Hellas_Lyceum</li>
+              <li>HE_Inti_QuipuTable</li>
+            </linkableFacilities>
+          </li>
+        </value>
+      </match>
+      <nomatch Class="PatchOperationAdd">
+        <xpath>Defs/ThingDef[defName="SimpleResearchBench"]</xpath>
+        <value>
+          <comps>
+            <li Class="CompProperties_AffectedByFacilities">
+              <linkableFacilities>
+                <li>HE_Hellas_Lyceum</li>
+                <li>HE_Inti_QuipuTable</li>
+              </linkableFacilities>
+            </li>
+          </comps>
+        </value>
+      </nomatch>
+    </nomatch>
+  </Operation>
+
+  <!-- Every bed that links to end tables (vanilla and most modded beds) also links to the asclepion. -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities[li="EndTable"]</xpath>
+    <value>
+      <li>HE_Hellas_Asclepion</li>
+    </value>
+  </Operation>
+</Patch>

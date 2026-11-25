@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma.label>Nova Roma Republic</HE_Roma.label>
+  <HE_Roma.description>Heirs of the colony ship Aeternitas, the citizens of Nova Roma rebuilt the republic of their ancestors on a new world: a senate, two consuls, roads that run straight across any land and legions that march in step. They are master builders and disciplined soldiers, proud of their law and slow to forgive.</HE_Roma.description>
+  <HE_Roma.rulerTitle>Consul</HE_Roma.rulerTitle>
+  <HE_Roma.adjective>Nova Roman</HE_Roma.adjective>
+  <HE_Roma.doctrine.label>testudo</HE_Roma.doctrine.label>
+  <HE_Roma.doctrine.description>Legionaries close ranks and lock their shields into a roof. Packed together they shrug off arrows and blows, but they march slowly.</HE_Roma.doctrine.description>
+  <HE_Roma.honoraryTitle>honorary citizen of Nova Roma</HE_Roma.honoraryTitle>
+</LanguageData>

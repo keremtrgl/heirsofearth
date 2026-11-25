@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Saga_Roma.label>Yanmış Arşiv</HE_Saga_Roma.label>
+  <HE_Saga_Roma.description>Kurucuların yasası eski arşiv yandığında kayboldu. Bir âlim tek bir kopyanın kurtulduğuna inanıyor.</HE_Saga_Roma.description>
+  <HE_Saga_Roma.startText>Kartal yuvasına döndüğüne göre, senatonun yaşlı bir arşivcisi seni arıyor. Kurucuların kendi yasa kodeksinin, bir daha hiç görülmeyen bir köle tarafından yanan arşivden çıkarıldığını söylüyor. Onun nereye gittiğini bildiğini düşünüyor.</HE_Saga_Roma.startText>
+  <HE_Saga_Roma.endText>Kurucuların Kodeksi kopyalandı, ciltlendi ve salonunda yüksek sesle okundu. Nova Roma, yasasını kimin geri verdiğini hatırlayacak.</HE_Saga_Roma.endText>
+  <HE_Saga_Roma.steps.0.label>Kâğıt ve yaldız</HE_Saga_Roma.steps.0.label>
+  <HE_Saga_Roma.steps.0.text>Kuruculara layık bir kodeks, sayfalar için iyi kumaş ve harfler için altın ister. 80 kumaş ve 15 altın topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Roma.steps.0.text>
+  <HE_Saga_Roma.steps.0.doneText>Yazıhane hazır. Arşivci, koloninin kurucuları onurlandırdığını gösteren bir işaret istiyor.</HE_Saga_Roma.steps.0.doneText>
+  <HE_Saga_Roma.steps.1.label>Kurucular için bir heykel</HE_Saga_Roma.steps.1.label>
+  <HE_Saga_Roma.steps.1.text>Kurucuların bu işe bakabilmesi için kolonine bir heykel dik.</HE_Saga_Roma.steps.1.text>
+  <HE_Saga_Roma.steps.1.doneText>Heykel dikildi. Arşivcinin yeri söylemesi için âlimlerinin önce kartalın bütün ayinlerini öğrenmesi gerekiyor.</HE_Saga_Roma.steps.1.doneText>
+  <HE_Saga_Roma.steps.2.label>Kartalın ayinleri</HE_Saga_Roma.steps.2.label>
+  <HE_Saga_Roma.steps.2.text>Nova Roma'nın en yüksek geleneği olan kartalın ayinlerini araştır.</HE_Saga_Roma.steps.2.text>
+  <HE_Saga_Roma.steps.2.doneText>Arşivci tatmin oldu. Kodeks tepelerdeki bir villada, buldukları her şeyi satan adamların elinde duruyor.</HE_Saga_Roma.steps.2.doneText>
+  <HE_Saga_Roma.steps.3.label>Tepedeki villa</HE_Saga_Roma.steps.3.label>
+  <HE_Saga_Roma.steps.3.text>Dünya haritasında işaretli villaya bir kervan gönder, yağmacıları yen ve kavrulmuş kodeksi eve getir.</HE_Saga_Roma.steps.3.text>
+  <HE_Saga_Roma.steps.3.doneText>Kodeks artık senin elinde. Senato bunu duydu, şehrin bütün âlimleri de.</HE_Saga_Roma.steps.3.doneText>
+  <HE_Saga_Roma.steps.4.label>Aslın kaderi</HE_Saga_Roma.steps.4.label>
+  <HE_Saga_Roma.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Roma.steps.4.text>
+  <HE_Saga_Roma.steps.4.options.0.label>Aslını senatoya geri ver</HE_Saga_Roma.steps.4.options.0.label>
+  <HE_Saga_Roma.steps.4.options.0.text>Kâtiplerin temiz bir kopya saklar; kavrulmuş asıl başkentteki yerine döner.</HE_Saga_Roma.steps.4.options.0.text>
+  <HE_Saga_Roma.steps.4.options.1.label>Aslını sakla</HE_Saga_Roma.steps.4.options.1.label>
+  <HE_Saga_Roma.steps.4.options.1.text>Asıl senin arşivinde kalır. Senato bundan hoşnut değil.</HE_Saga_Roma.steps.4.options.1.text>
+  <HE_Saga_Yamato.label>Sessiz Vakayiname</HE_Saga_Yamato.label>
+  <HE_Saga_Yamato.description>Yamato'nun son saray tarihçisi, ateş gecesinden önce vakayinamesini sakladı. Artık okunma zamanı geldi.</HE_Saga_Yamato.description>
+  <HE_Saga_Yamato.startText>İlişki kurduğun varis seni unutmadı. Bir haberci haber getiriyor: son saray tarihçisi ateş gecesinden keşiş olarak kurtulmuş ve ölmeden önce vakayinamesini saklamış. Ateşi kimin yaktığını anlatıyor.</HE_Saga_Yamato.startText>
+  <HE_Saga_Yamato.endText>Sekiz Ada Vakayinamesi kolonide kopyalandı. Klanlar son bölümü sessizlik içinde okudu.</HE_Saga_Yamato.endText>
+  <HE_Saga_Yamato.steps.0.label>Sake ve ipek kâğıt</HE_Saga_Yamato.steps.0.label>
+  <HE_Saga_Yamato.steps.0.text>Tarihçinin hatırasını koruyan keşişler bayramları için 20 sake ve kâtipler için 60 kumaş istiyor. Bunları Hikâyeler sayfasından teslim et.</HE_Saga_Yamato.steps.0.text>
+  <HE_Saga_Yamato.steps.0.doneText>Keşişler kâtiplerini kutsuyor ve kutsal toprağı işaretleyecek bir kapı istiyor.</HE_Saga_Yamato.steps.0.doneText>
+  <HE_Saga_Yamato.steps.1.label>Ölüler için bir kapı</HE_Saga_Yamato.steps.1.label>
+  <HE_Saga_Yamato.steps.1.text>Tarihçinin ruhu yolunu bulabilsin diye kolonine bir torii inşa et.</HE_Saga_Yamato.steps.1.text>
+  <HE_Saga_Yamato.steps.1.doneText>Kapı dikildi. Keşişler, onun yazdıklarını yalnızca buyruğu taşıyan bir hanenin okuyabileceğini söylüyor.</HE_Saga_Yamato.steps.1.doneText>
+  <HE_Saga_Yamato.steps.2.label>Buyruk</HE_Saga_Yamato.steps.2.label>
+  <HE_Saga_Yamato.steps.2.text>Yamato'nun en yüksek geleneği olan buyruğu araştır.</HE_Saga_Yamato.steps.2.text>
+  <HE_Saga_Yamato.steps.2.doneText>Keşişler vakayinamenin yerini söylüyor: dağlarda yanmış bir tapınak, şimdi bir haydut yuvası.</HE_Saga_Yamato.steps.2.doneText>
+  <HE_Saga_Yamato.steps.3.label>Yanmış tapınak</HE_Saga_Yamato.steps.3.label>
+  <HE_Saga_Yamato.steps.3.text>Dünya haritasında işaretli yanmış tapınağa bir kervan gönder, haydutları kov ve sessiz vakayinameyi eve getir.</HE_Saga_Yamato.steps.3.text>
+  <HE_Saga_Yamato.steps.3.doneText>Vakayiname artık senin. Son bölümü isimler veriyor.</HE_Saga_Yamato.steps.3.doneText>
+  <HE_Saga_Yamato.steps.4.label>Aslın kaderi</HE_Saga_Yamato.steps.4.label>
+  <HE_Saga_Yamato.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Yamato.steps.4.text>
+  <HE_Saga_Yamato.steps.4.options.0.label>Şoguna ver</HE_Saga_Yamato.steps.4.options.0.label>
+  <HE_Saga_Yamato.steps.4.options.0.text>Kâtiplerin bir kopya saklar; asıl, minnettar olan şogunun sarayına gider.</HE_Saga_Yamato.steps.4.options.0.text>
+  <HE_Saga_Yamato.steps.4.options.1.label>Gizli tut</HE_Saga_Yamato.steps.4.options.1.label>
+  <HE_Saga_Yamato.steps.4.options.1.text>Aslını saklarsın ve son bölüm hakkında hiçbir şey söylemezsin. Saray, çok fazla şey bildiğinden şüpheleniyor.</HE_Saga_Yamato.steps.4.options.1.text>
+  <HE_Saga_Nord.label>Skaldın Son Şarkısı</HE_Saga_Nord.label>
+  <HE_Saga_Nord.description>Nordheim'in son büyük skaldı ölüyor ve onunla birlikte bildiği her destan. Onları kurtar.</HE_Saga_Nord.description>
+  <HE_Saga_Nord.startText>Kış ayininden sonra yaşlı bir skald salonuna gelir. Öldüğünü, destanların da onunla öleceğini söylüyor: artık kimsenin onları öğrenecek sabrı yok. Her destan için bir satırı olan run asası akıncılar tarafından çalındı. Onu bul, o da hepsini oymacıların için söylesin.</HE_Saga_Nord.startText>
+  <HE_Saga_Nord.endText>Edda oyuldu ve skald son destanını salonunda söyledi. İlkbaharda gülümseyerek ölüyor.</HE_Saga_Nord.endText>
+  <HE_Saga_Nord.steps.0.label>Tahtalar ve deriler</HE_Saga_Nord.steps.0.label>
+  <HE_Saga_Nord.steps.0.text>Destanlar tahtalara oyulacak ve deriyle ciltlenecek. 200 odun ve 60 deri topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Nord.steps.0.text>
+  <HE_Saga_Nord.steps.0.doneText>Skald, tanrılar ne yapıldığını bilsin diye önce bir run taşı dikilmesini istiyor.</HE_Saga_Nord.steps.0.doneText>
+  <HE_Saga_Nord.steps.1.label>Tanrılar için bir taş</HE_Saga_Nord.steps.1.label>
+  <HE_Saga_Nord.steps.1.text>Kolonine bir run taşı dik.</HE_Saga_Nord.steps.1.text>
+  <HE_Saga_Nord.steps.1.doneText>Taş dikildi. Skald, ölülerin salonlarının destanlarının yalnızca onların yolunu bilenlere söylenebileceğini söylüyor.</HE_Saga_Nord.steps.1.doneText>
+  <HE_Saga_Nord.steps.2.label>Ölülerin salonu</HE_Saga_Nord.steps.2.label>
+  <HE_Saga_Nord.steps.2.text>Nordheim'in en yüksek geleneği olan ölülerin salonunu araştır.</HE_Saga_Nord.steps.2.text>
+  <HE_Saga_Nord.steps.2.doneText>Skald, akıncıların asasını nereye götürdüğünü öğrendi: kıyıda halka biçimli bir kale.</HE_Saga_Nord.steps.2.doneText>
+  <HE_Saga_Nord.steps.3.label>Halka kale</HE_Saga_Nord.steps.3.label>
+  <HE_Saga_Nord.steps.3.text>Dünya haritasında işaretli halka kaleye bir kervan gönder, akıncıları yen ve run asasını eve getir.</HE_Saga_Nord.steps.3.text>
+  <HE_Saga_Nord.steps.3.doneText>Asa evde. Yaşlı skald onu eline aldığında ağlıyor.</HE_Saga_Nord.steps.3.doneText>
+  <HE_Saga_Nord.steps.4.label>Aslın kaderi</HE_Saga_Nord.steps.4.label>
+  <HE_Saga_Nord.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Nord.steps.4.text>
+  <HE_Saga_Nord.steps.4.options.0.label>Asayı jarllara gönder</HE_Saga_Nord.steps.4.options.0.label>
+  <HE_Saga_Nord.steps.4.options.0.text>Skald öldüğünde asası, bir sonraki skald tarafından saklanmak üzere jarlların meclisine gider.</HE_Saga_Nord.steps.4.options.0.text>
+  <HE_Saga_Nord.steps.4.options.1.label>Skaldla birlikte göm</HE_Saga_Nord.steps.4.options.1.label>
+  <HE_Saga_Nord.steps.4.options.1.text>Asa onunla birlikte kolonine gömülür. Jarllar onu istiyordu, ama seçime saygı duyuyorlar.</HE_Saga_Nord.steps.4.options.1.text>
+  <HE_Saga_Hellas.label>Batık Kütüphane</HE_Saga_Hellas.label>
+  <HE_Saga_Hellas.description>Birliğin büyük kütüphanesi adasıyla birlikte battı. Dalgıçlar bir kısmının hâlâ kuru olduğunu söylüyor.</HE_Saga_Hellas.description>
+  <HE_Saga_Hellas.startText>Adalardan bir sünger dalgıcının sana anlatacak bir hikâyesi var: batık kütüphanenin yıkıntılarında, hâlâ sağlam duran bir kapının ardında kurşun tomar kutuları var. Yaşlılara göre bunlardan biri, yüz yıldır kimsenin tamamını duymadığı Birlik destanı Uzun Yolculuğun Şarkısı'nı saklıyor.</HE_Saga_Hellas.startText>
+  <HE_Saga_Hellas.endText>Uzun Yolculuğun Şarkısı yeniden, eksiksiz olarak tiyatronda söylendi. Birlik bunu unutmayacak.</HE_Saga_Hellas.endText>
+  <HE_Saga_Hellas.steps.0.label>Kandiller için yağ</HE_Saga_Hellas.steps.0.label>
+  <HE_Saga_Hellas.steps.0.text>Dalgıçlar kandil ışığında çalışıyor ve her dalıştan önce denize dua ediyor. Adaklar için 40 zeytinyağı ve 10 altın topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Hellas.steps.0.text>
+  <HE_Saga_Hellas.steps.0.doneText>Dalgıçlar hazır. Şarkı bulunursa söylenmeli; onun için bir sahne inşa et.</HE_Saga_Hellas.steps.0.doneText>
+  <HE_Saga_Hellas.steps.1.label>Şarkı için bir sahne</HE_Saga_Hellas.steps.1.label>
+  <HE_Saga_Hellas.steps.1.text>Kolonine, şarkı bulunduğunda sergilenebileceği bir sahne inşa et.</HE_Saga_Hellas.steps.1.text>
+  <HE_Saga_Hellas.steps.1.doneText>Sahne hazır. Birliğin âlimleri şarkıyı yeniden yalnızca bir altın çağın duyması gerektiğini söylüyor.</HE_Saga_Hellas.steps.1.doneText>
+  <HE_Saga_Hellas.steps.2.label>Bir altın çağ</HE_Saga_Hellas.steps.2.label>
+  <HE_Saga_Hellas.steps.2.text>Hellas'ın en yüksek geleneği olan altın çağı araştır.</HE_Saga_Hellas.steps.2.text>
+  <HE_Saga_Hellas.steps.2.doneText>Dalgıçlar kapıyı buldu. Ama korsanlar da onu buldu ve yukarıdaki yıkıntılarda kamp kurdu.</HE_Saga_Hellas.steps.2.doneText>
+  <HE_Saga_Hellas.steps.3.label>Boğulmuş kütüphane</HE_Saga_Hellas.steps.3.label>
+  <HE_Saga_Hellas.steps.3.text>Dünya haritasında işaretli yıkıntılara bir kervan gönder, korsanları yen ve deniz lekeli tomarı eve getir.</HE_Saga_Hellas.steps.3.text>
+  <HE_Saga_Hellas.steps.3.doneText>Tomar artık senin. Âlimlerin ilk dizede ağlıyor.</HE_Saga_Hellas.steps.3.doneText>
+  <HE_Saga_Hellas.steps.4.label>Aslın kaderi</HE_Saga_Hellas.steps.4.label>
+  <HE_Saga_Hellas.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Hellas.steps.4.text>
+  <HE_Saga_Hellas.steps.4.options.0.label>Tomarı Birliğe ver</HE_Saga_Hellas.steps.4.options.0.label>
+  <HE_Saga_Hellas.steps.4.options.0.text>Asıl Birliğin yeni kütüphanesine gider; kâtiplerin bir kopya saklar.</HE_Saga_Hellas.steps.4.options.0.text>
+  <HE_Saga_Hellas.steps.4.options.1.label>Tomarı sakla</HE_Saga_Hellas.steps.4.options.1.label>
+  <HE_Saga_Hellas.steps.4.options.1.text>Tomar sende kalır. Birlik bunu bütün halkından bir hırsızlık olarak görüyor.</HE_Saga_Hellas.steps.4.options.1.text>
+  <HE_Saga_Tianxia.label>Saklı Tarihçi</HE_Saga_Tianxia.label>
+  <HE_Saga_Tianxia.description>Büyük bir tarihçi bir imparator hakkında doğruyu söyledi ve cezalandırıldı. Kayıtları saklandı. Onları bul.</HE_Saga_Tianxia.description>
+  <HE_Saga_Tianxia.startText>Sınavlarda üç kez başarısız olmuş bir âlim sana bir mektup getirir: çoktan ölmüş bir imparatorun yasakladığı büyük tarihçinin kayıtları, kızı tarafından bir mağaraya saklanmış. Yeniden okunmalarını istiyor. Görünüşe göre başkaları da istiyor, ama yanmalarını yeğleyerek.</HE_Saga_Tianxia.startText>
+  <HE_Saga_Tianxia.endText>Göksel Saray Kayıtları kopyalandı. Tianxia'nın bir yerinde yaşlı bir memur onları okuyor ve gülümsüyor.</HE_Saga_Tianxia.endText>
+  <HE_Saga_Tianxia.steps.0.label>İpek ve çay</HE_Saga_Tianxia.steps.0.label>
+  <HE_Saga_Tianxia.steps.0.text>Âlimin şeritleri yeniden bağlamak için ipeğe, kâtiplerini uyanık tutmak için çaya ihtiyacı var. 60 ipek ve 10 çay tuğlası topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Tianxia.steps.0.text>
+  <HE_Saga_Tianxia.steps.0.doneText>Âlim, tarihçinin ruhu geçebilsin diye bir ay kapısı istiyor.</HE_Saga_Tianxia.steps.0.doneText>
+  <HE_Saga_Tianxia.steps.1.label>Bir ay kapısı</HE_Saga_Tianxia.steps.1.label>
+  <HE_Saga_Tianxia.steps.1.text>Kolonine bir ay kapısı inşa et.</HE_Saga_Tianxia.steps.1.text>
+  <HE_Saga_Tianxia.steps.1.doneText>Kapı inşa edildi. Âlim, kayıtların ancak uyum içinde yaşayan bir hane tarafından saklanabileceğini söylüyor.</HE_Saga_Tianxia.steps.1.doneText>
+  <HE_Saga_Tianxia.steps.2.label>Uyum</HE_Saga_Tianxia.steps.2.label>
+  <HE_Saga_Tianxia.steps.2.text>Tianxia'nın en yüksek geleneği olan uyumu araştır.</HE_Saga_Tianxia.steps.2.text>
+  <HE_Saga_Tianxia.steps.2.doneText>Mağara bulundu. Kayıtların yanmasını isteyen adamlar şimdiden ağzında kamp kurmuş.</HE_Saga_Tianxia.steps.2.doneText>
+  <HE_Saga_Tianxia.steps.3.label>Tarihçinin mağarası</HE_Saga_Tianxia.steps.3.label>
+  <HE_Saga_Tianxia.steps.3.text>Dünya haritasında işaretli mağaraya bir kervan gönder, onu koruyan adamları yen ve saklı kayıtları eve getir.</HE_Saga_Tianxia.steps.3.text>
+  <HE_Saga_Tianxia.steps.3.doneText>Kayıtlar artık senin; sanki tarihçi onları dün bitirmiş gibi eksiksiz ve düzenli.</HE_Saga_Tianxia.steps.3.doneText>
+  <HE_Saga_Tianxia.steps.4.label>Aslın kaderi</HE_Saga_Tianxia.steps.4.label>
+  <HE_Saga_Tianxia.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Tianxia.steps.4.text>
+  <HE_Saga_Tianxia.steps.4.options.0.label>Saraya ver</HE_Saga_Tianxia.steps.4.options.0.label>
+  <HE_Saga_Tianxia.steps.4.options.0.text>Asılları sarayın kütüphanesine gider; orada doğruyu her memur okuyacak.</HE_Saga_Tianxia.steps.4.options.0.text>
+  <HE_Saga_Tianxia.steps.4.options.1.label>Güvende tut</HE_Saga_Tianxia.steps.4.options.1.label>
+  <HE_Saga_Tianxia.steps.4.options.1.text>Saraya doğru emanet edilemez. Asılları sen saklarsın.</HE_Saga_Tianxia.steps.4.options.1.text>
+  <HE_Saga_Albion.label>Kayıp Ferman</HE_Saga_Albion.label>
+  <HE_Saga_Albion.description>Devletler Topluluğu'nun fermanı bir kuşak önce lonca salonundan çalındı. Bir saatçi nereye gittiğini biliyor.</HE_Saga_Albion.description>
+  <HE_Saga_Albion.startText>Devletler Topluluğu'ndan bir saatçi bir itirafla gelir: babası Büyük Ferman'ı lonca salonundan çalmış ve onu müstahkem bir malikânede saklayan bir koleksiyoncuya satmış. Ölmeden önce geri verilmesini istiyor ve onu koruyabilirsen yardım edecek.</HE_Saga_Albion.startText>
+  <HE_Saga_Albion.endText>Büyük Ferman kopyalandı ve kolonide yüksek sesle okundu. Devletler Topluluğu'nda loncalar çanlarını çalıyor.</HE_Saga_Albion.endText>
+  <HE_Saga_Albion.steps.0.label>Zanaat aletleri</HE_Saga_Albion.steps.0.label>
+  <HE_Saga_Albion.steps.0.text>Saatçinin aletleri için çeliğe ve yolculuk için iyi tüvide ihtiyacı var. 60 tüvit ve 150 çelik topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Albion.steps.0.text>
+  <HE_Saga_Albion.steps.0.doneText>Saatçi, bir güven işareti olarak salonunda kendi tasarımı bir saatin durmasını istiyor.</HE_Saga_Albion.steps.0.doneText>
+  <HE_Saga_Albion.steps.1.label>Saatçinin saati</HE_Saga_Albion.steps.1.label>
+  <HE_Saga_Albion.steps.1.text>Kolonine bir büyük ayaklı saat inşa et.</HE_Saga_Albion.steps.1.text>
+  <HE_Saga_Albion.steps.1.doneText>Saat tıkırdıyor. Saatçi, malikânenin kilitlerinin ancak düzgün bir atölyesi olan bir koloni tarafından açılabileceğini söylüyor.</HE_Saga_Albion.steps.1.doneText>
+  <HE_Saga_Albion.steps.2.label>Dünyanın atölyesi</HE_Saga_Albion.steps.2.label>
+  <HE_Saga_Albion.steps.2.text>Albion'un en yüksek geleneği olan dünyanın atölyesini araştır.</HE_Saga_Albion.steps.2.text>
+  <HE_Saga_Albion.steps.2.doneText>Anahtarlar yapıldı. Koleksiyoncu muhafızlar tuttu ve bekliyorlar.</HE_Saga_Albion.steps.2.doneText>
+  <HE_Saga_Albion.steps.3.label>Koleksiyoncunun malikânesi</HE_Saga_Albion.steps.3.label>
+  <HE_Saga_Albion.steps.3.text>Dünya haritasında işaretli malikâneye bir kervan gönder, muhafızları yen ve kayıp fermanı eve getir.</HE_Saga_Albion.steps.3.text>
+  <HE_Saga_Albion.steps.3.doneText>Ferman artık senin. Saatçi üzerindeki her ismi yüksek sesle okuyor.</HE_Saga_Albion.steps.3.doneText>
+  <HE_Saga_Albion.steps.4.label>Aslın kaderi</HE_Saga_Albion.steps.4.label>
+  <HE_Saga_Albion.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Albion.steps.4.text>
+  <HE_Saga_Albion.steps.4.options.0.label>Lonca salonuna geri ver</HE_Saga_Albion.steps.4.options.0.label>
+  <HE_Saga_Albion.steps.4.options.0.text>Ferman lonca salonundaki yerine döner ve koloninin adı dostlarının listesine eklenir.</HE_Saga_Albion.steps.4.options.0.text>
+  <HE_Saga_Albion.steps.4.options.1.label>Sakla</HE_Saga_Albion.steps.4.options.1.label>
+  <HE_Saga_Albion.steps.4.options.1.text>Fermanı saklarsın. Loncalar seni hırsızdan farksız görüyor.</HE_Saga_Albion.steps.4.options.1.text>
+  <HE_Saga_Kemet.label>Mühürlü Mezar</HE_Saga_Kemet.label>
+  <HE_Saga_Kemet.description>İkinci gündoğumunun ilk firavununun mezarı açılmış ve içinde soyguncular var.</HE_Saga_Kemet.description>
+  <HE_Saga_Kemet.startText>Toza bulanmış bir güneş rahibi kolonine gelir: ikinci gündoğumunun ilk firavununun mezarı soyguncular tarafından kırılıp açılmış. Kralı gece boyunca yönlendiren büyük tomar hâlâ içeride. Onu satarlarsa, kral sonsuza dek kaybolacak.</HE_Saga_Kemet.startText>
+  <HE_Saga_Kemet.endText>Gün Işığına Çıkış Kitabı kolonide kopyalandı ve rahipler kralın adını yeniden söylüyor.</HE_Saga_Kemet.endText>
+  <HE_Saga_Kemet.steps.0.label>Papirüs ve altın</HE_Saga_Kemet.steps.0.label>
+  <HE_Saga_Kemet.steps.0.text>Rahiplerin tomarı kopyalamak için papirüse ve mezarı yeniden mühürlemek için altına ihtiyacı var. 40 papirüs ve 20 altın topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Kemet.steps.0.text>
+  <HE_Saga_Kemet.steps.0.doneText>Rahipler, güneş koloninin krala hizmet ettiğini bilsin diye bir dikilitaş istiyor.</HE_Saga_Kemet.steps.0.doneText>
+  <HE_Saga_Kemet.steps.1.label>Güneş için bir dikilitaş</HE_Saga_Kemet.steps.1.label>
+  <HE_Saga_Kemet.steps.1.text>Kolonine bir dikilitaş dik.</HE_Saga_Kemet.steps.1.text>
+  <HE_Saga_Kemet.steps.1.doneText>Dikilitaş dikildi. Rahipler mezara yalnızca ikinci gündoğumunu bilenlerin girebileceğini söylüyor.</HE_Saga_Kemet.steps.1.doneText>
+  <HE_Saga_Kemet.steps.2.label>İkinci gündoğumu</HE_Saga_Kemet.steps.2.label>
+  <HE_Saga_Kemet.steps.2.text>Kemet'in en yüksek geleneği olan ikinci gündoğumunu araştır.</HE_Saga_Kemet.steps.2.text>
+  <HE_Saga_Kemet.steps.2.doneText>Rahipler seni mezara götürüyor. Soyguncular hâlâ içeride ve silahlı.</HE_Saga_Kemet.steps.2.doneText>
+  <HE_Saga_Kemet.steps.3.label>Kırılmış mezar</HE_Saga_Kemet.steps.3.label>
+  <HE_Saga_Kemet.steps.3.text>Dünya haritasında işaretli mezara bir kervan gönder, soyguncuları yen ve mezar tomarını eve getir.</HE_Saga_Kemet.steps.3.text>
+  <HE_Saga_Kemet.steps.3.doneText>Tomar güvende. Rahip sedir kutuyu öpüyor ve ağlıyor.</HE_Saga_Kemet.steps.3.doneText>
+  <HE_Saga_Kemet.steps.4.label>Aslın kaderi</HE_Saga_Kemet.steps.4.label>
+  <HE_Saga_Kemet.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Kemet.steps.4.text>
+  <HE_Saga_Kemet.steps.4.options.0.label>Mezara geri ver</HE_Saga_Kemet.steps.4.options.0.label>
+  <HE_Saga_Kemet.steps.4.options.0.text>Tomar krala geri döner, mezar yeniden mühürlenir ve rahipler kolonini kutsar.</HE_Saga_Kemet.steps.4.options.0.text>
+  <HE_Saga_Kemet.steps.4.options.1.label>Sakla</HE_Saga_Kemet.steps.4.options.1.label>
+  <HE_Saga_Kemet.steps.4.options.1.text>Tomarı saklarsın. Rahipler şafak ilahisinde adına lanet okuyor.</HE_Saga_Kemet.steps.4.options.1.text>
+  <HE_Saga_Pars.label>Şairin Yolu</HE_Saga_Pars.label>
+  <HE_Saga_Pars.description>Yaşlı bir şair Krallar Kitabı'nı yazmak için otuz yıl harcadı. Tek kopyası yolda çalındı.</HE_Saga_Pars.description>
+  <HE_Saga_Pars.startText>Yaşlı bir şair topallayarak kolonine gelir. Krallar Kitabı'nı yazmak için otuz yıl harcadığını ve Kral Yolu'ndaki haydutların onu katırıyla birlikte aldığını söylüyor. Katır umurunda değil.</HE_Saga_Pars.startText>
+  <HE_Saga_Pars.endText>Krallar Kitabı kopyalandı ve yaşlı şair son beytini bahçende tamamladı.</HE_Saga_Pars.endText>
+  <HE_Saga_Pars.steps.0.label>Şaire armağanlar</HE_Saga_Pars.steps.0.label>
+  <HE_Saga_Pars.steps.0.text>Onun mertebesinde bir şair layıkıyla karşılanmalı. 2 halı ve 15 altın topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Pars.steps.0.text>
+  <HE_Saga_Pars.steps.0.doneText>Şair rahat. Eski kralların sahip olduğu gibi kapıyı koruyacak bir lamassu istiyor.</HE_Saga_Pars.steps.0.doneText>
+  <HE_Saga_Pars.steps.1.label>Kapı için bir bekçi</HE_Saga_Pars.steps.1.label>
+  <HE_Saga_Pars.steps.1.text>Kolonine bir lamassu inşa et.</HE_Saga_Pars.steps.1.text>
+  <HE_Saga_Pars.steps.1.doneText>Bekçi dikildi. Şair, haydutların yolunun ancak Kral Yolu'nu bilen biri tarafından izlenebileceğini söylüyor.</HE_Saga_Pars.steps.1.doneText>
+  <HE_Saga_Pars.steps.2.label>Kralların yolu</HE_Saga_Pars.steps.2.label>
+  <HE_Saga_Pars.steps.2.text>Pars'ın en yüksek geleneği olan kralların yolunu araştır.</HE_Saga_Pars.steps.2.text>
+  <HE_Saga_Pars.steps.2.doneText>Atlıların haydutların kampını buluyor: yoldan sapan yıkık bir kervansaray.</HE_Saga_Pars.steps.2.doneText>
+  <HE_Saga_Pars.steps.3.label>Yıkık kervansaray</HE_Saga_Pars.steps.3.label>
+  <HE_Saga_Pars.steps.3.text>Dünya haritasında işaretli kervansaraya bir kervan gönder, haydutları yen ve şairin kitabını eve getir.</HE_Saga_Pars.steps.3.text>
+  <HE_Saga_Pars.steps.3.doneText>Kitap bulundu, öncekinden biraz daha lekeli. Şair onu göğsüne bastırıyor.</HE_Saga_Pars.steps.3.doneText>
+  <HE_Saga_Pars.steps.4.label>Aslın kaderi</HE_Saga_Pars.steps.4.label>
+  <HE_Saga_Pars.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Pars.steps.4.text>
+  <HE_Saga_Pars.steps.4.options.0.label>Satrabın sarayına gönder</HE_Saga_Pars.steps.4.options.0.label>
+  <HE_Saga_Pars.steps.4.options.0.text>Şairin kendi kopyası Satrabın kütüphanesine gider ve saray minnettardır.</HE_Saga_Pars.steps.4.options.0.text>
+  <HE_Saga_Pars.steps.4.options.1.label>Şair saklasın</HE_Saga_Pars.steps.4.options.1.label>
+  <HE_Saga_Pars.steps.4.options.1.text>Şair kitabını saklar ve seninle kalır. Satrap onu kütüphanesi için istiyordu.</HE_Saga_Pars.steps.4.options.1.text>
+  <HE_Saga_Inti.label>Güneşin Düğümleri</HE_Saga_Inti.label>
+  <HE_Saga_Inti.description>İmparatorluk düştüğünde büyük kipu dağlarda saklandı. Onsuz, kimse İntilerin ne olduğunu bilmiyor.</HE_Saga_Inti.description>
+  <HE_Saga_Inti.startText>Bir çaski koşucusu düğümlü bir iple kolonine ulaşır: düğüm bekçilerinden bir mesaj. İntilerin olduğu her şeyin kaydı olan imparatorluğun büyük kipusu, imparatorluk düştüğünde bir dağ ambarına saklanmış. Hırsızlar ambarı buldu.</HE_Saga_Inti.startText>
+  <HE_Saga_Inti.endText>Kraliyet Kipusu kolonide yeniden bağlandı. Düğüm bekçileri dokuz gece boyunca ondan okudu.</HE_Saga_Inti.endText>
+  <HE_Saga_Inti.steps.0.label>Yün ve altın</HE_Saga_Inti.steps.0.label>
+  <HE_Saga_Inti.steps.0.text>Düğüm bekçilerinin kipuyu yeniden bağlamak için alpaka yününe ve güneşe adak için altına ihtiyacı var. 80 alpaka yünü ve 20 altın topla, sonra Hikâyeler sayfasından teslim et.</HE_Saga_Inti.steps.0.text>
+  <HE_Saga_Inti.steps.0.doneText>Düğüm bekçileri, güneş işi görebilsin diye bir güneş taşı istiyor.</HE_Saga_Inti.steps.0.doneText>
+  <HE_Saga_Inti.steps.1.label>Güneş için bir taş</HE_Saga_Inti.steps.1.label>
+  <HE_Saga_Inti.steps.1.text>Kolonine bir güneş taşı dik.</HE_Saga_Inti.steps.1.text>
+  <HE_Saga_Inti.steps.1.doneText>Taş dikildi. Düğüm bekçileri büyük kipuyu yalnızca sayılmış bir imparatorluğun okuyabileceğini söylüyor.</HE_Saga_Inti.steps.1.doneText>
+  <HE_Saga_Inti.steps.2.label>Sayılmış imparatorluk</HE_Saga_Inti.steps.2.label>
+  <HE_Saga_Inti.steps.2.text>İntilerin en yüksek geleneği olan sayılmış imparatorluğu araştır.</HE_Saga_Inti.steps.2.text>
+  <HE_Saga_Inti.steps.2.doneText>Çaski halkını ambara götürüyor. Hırsızlar hâlâ orada.</HE_Saga_Inti.steps.2.doneText>
+  <HE_Saga_Inti.steps.3.label>Dağ ambarı</HE_Saga_Inti.steps.3.label>
+  <HE_Saga_Inti.steps.3.text>Dünya haritasında işaretli ambara bir kervan gönder, hırsızları yen ve büyük kipuyu eve getir.</HE_Saga_Inti.steps.3.text>
+  <HE_Saga_Inti.steps.3.doneText>Kipu artık senin. Düğüm bekçileri parmaklarını ipler üzerinde gezdiriyor ve gülüyor.</HE_Saga_Inti.steps.3.doneText>
+  <HE_Saga_Inti.steps.4.label>Aslın kaderi</HE_Saga_Inti.steps.4.label>
+  <HE_Saga_Inti.steps.4.text>Kâtiplerin temiz bir kopya çıkardı. Şimdi aslının bir yere gitmesi gerekiyor.</HE_Saga_Inti.steps.4.text>
+  <HE_Saga_Inti.steps.4.options.0.label>Sapa İnti'ye geri ver</HE_Saga_Inti.steps.4.options.0.label>
+  <HE_Saga_Inti.steps.4.options.0.text>Büyük kipu Sapa İnti'nin sarayına gider ve kolonin onun dostları arasında sayılır.</HE_Saga_Inti.steps.4.options.0.text>
+  <HE_Saga_Inti.steps.4.options.1.label>Sakla</HE_Saga_Inti.steps.4.options.1.label>
+  <HE_Saga_Inti.steps.4.options.1.text>Büyük kipuyu saklarsın. Düğüm bekçileri bir ipin kesildiğini söylüyor.</HE_Saga_Inti.steps.4.options.1.text>
+</LanguageData>

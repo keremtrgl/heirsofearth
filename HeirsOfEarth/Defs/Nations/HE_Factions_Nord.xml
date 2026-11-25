@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <FactionDef ParentName="FactionBase">
+    <defName>HE_Faction_Nord</defName>
+    <label>Jarldom of Nordheim</label>
+    <description>The free people of Nordheim, heirs of the colony ship Yggdrasil. They hunt in the snow, feast in their mead halls and follow their jarl only as long as the jarl keeps winning.</description>
+    <fixedName>Jarldom of Nordheim</fixedName>
+    <pawnSingular>Nordling</pawnSingular>
+    <pawnsPlural>Nordlings</pawnsPlural>
+    <leaderTitle>jarl</leaderTitle>
+    <categoryTag>HE_Nord</categoryTag>
+    <listOrderPriority>32</listOrderPriority>
+    <settlementGenerationWeight>1</settlementGenerationWeight>
+    <requiredCountAtGameStart>1</requiredCountAtGameStart>
+    <maxConfigurableAtWorldCreation>3</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>60</configurationListOrderPriority>
+    <canSiege>true</canSiege>
+    <canStageAttacks>true</canStageAttacks>
+    <humanlikeFaction>true</humanlikeFaction>
+    <techLevel>Medieval</techLevel>
+    <basicMemberKind>HE_Nord_Karl</basicMemberKind>
+    <fixedLeaderKinds>
+      <li>HE_Nord_Jarl</li>
+    </fixedLeaderKinds>
+    <factionIconPath>HeirsOfEarth/UI/HE_Nord</factionIconPath>
+    <settlementTexturePath>HeirsOfEarth/World/HE_Settlement_Nord</settlementTexturePath>
+    <colorSpectrum>
+      <li>(0.23, 0.33, 0.38)</li>
+      <li>(0.45, 0.30, 0.20)</li>
+    </colorSpectrum>
+    <settlementNameMaker>HE_Names_Nord_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Nord</li>
+        </categories>
+        <commonality>1</commonality>
+      </li>
+    </backstoryFilters>
+    <caravanTraderKinds>
+      <li>HE_Nord_Caravan</li>
+    </caravanTraderKinds>
+    <visitorTraderKinds>
+      <li>HE_Nord_Caravan</li>
+    </visitorTraderKinds>
+    <baseTraderKinds>
+      <li>HE_Nord_Settlement</li>
+    </baseTraderKinds>
+    <allowedArrivalTemperatureRange>-60~30</allowedArrivalTemperatureRange>
+    <raidLootMaker>OutlanderRaidLootMaker</raidLootMaker>
+    <maxPawnCostPerTotalPointsCurve>
+      <points>
+        <li>(0,35)</li>
+        <li>(70,50)</li>
+        <li>(700,100)</li>
+        <li>(1300,150)</li>
+        <li>(100000,10000)</li>
+      </points>
+    </maxPawnCostPerTotalPointsCurve>
+    <earliestRaidDays>25</earliestRaidDays>
+    <pawnGroupMakers>
+      <li>
+        <kindDef>Combat</kindDef>
+        <options>
+          <HE_Nord_Karl>12</HE_Nord_Karl>
+          <HE_Nord_Huscarl>7</HE_Nord_Huscarl>
+          <HE_Nord_Hunter>7</HE_Nord_Hunter>
+          <HE_Nord_Berserker>4</HE_Nord_Berserker>
+          <HE_Nord_Skald>1</HE_Nord_Skald>
+        </options>
+      </li>
+      <li>
+        <kindDef>Peaceful</kindDef>
+        <options>
+          <HE_Nord_Karl>10</HE_Nord_Karl>
+          <HE_Nord_Skald>5</HE_Nord_Skald>
+          <HE_Nord_Hunter>5</HE_Nord_Hunter>
+        </options>
+      </li>
+      <li>
+        <kindDef>Trader</kindDef>
+        <traders>
+          <HE_Nord_Trader>1</HE_Nord_Trader>
+        </traders>
+        <carriers>
+          <Yak>5</Yak>
+          <Muffalo>4</Muffalo>
+        </carriers>
+        <guards>
+          <HE_Nord_Huscarl>10</HE_Nord_Huscarl>
+          <HE_Nord_Karl>8</HE_Nord_Karl>
+          <HE_Nord_Hunter>5</HE_Nord_Hunter>
+        </guards>
+      </li>
+      <li>
+        <kindDef>Settlement</kindDef>
+        <options>
+          <HE_Nord_Karl>12</HE_Nord_Karl>
+          <HE_Nord_Huscarl>8</HE_Nord_Huscarl>
+          <HE_Nord_Hunter>7</HE_Nord_Hunter>
+          <HE_Nord_Berserker>3</HE_Nord_Berserker>
+          <HE_Nord_Skald>3</HE_Nord_Skald>
+          <HE_Nord_Jarl>1</HE_Nord_Jarl>
+        </options>
+      </li>
+    </pawnGroupMakers>
+  </FactionDef>
+  <FactionDef ParentName="PlayerFactionBase">
+    <defName>HE_Player_Nord</defName>
+    <label>Nordheim settlers</label>
+    <description>A small crew of Nordheim settlers raising a new longhouse far from their jarl.</description>
+    <isPlayer>true</isPlayer>
+    <basicMemberKind>HE_Nord_Colonist</basicMemberKind>
+    <pawnSingular>colonist</pawnSingular>
+    <pawnsPlural>colonists</pawnsPlural>
+    <techLevel>Medieval</techLevel>
+    <factionNameMaker>NamerFactionOutlander</factionNameMaker>
+    <settlementNameMaker>HE_Names_Nord_Settlement</settlementNameMaker>
+    <backstoryFilters>
+      <li>
+        <categories>
+          <li>HE_Nord</li>
+        </categories>
+        <commonality>0.85</commonality>
+      </li>
+      <li>
+        <categories>
+          <li>Offworld</li>
+        </categories>
+        <commonality>0.15</commonality>
+      </li>
+    </backstoryFilters>
+    <factionIconPath>HeirsOfEarth/UI/HE_Nord</factionIconPath>
+    <startingResearchTags>
+      <li>TribalStart</li>
+    </startingResearchTags>
+    <colorSpectrum>
+      <li>(0.23, 0.33, 0.38)</li>
+    </colorSpectrum>
+  </FactionDef>
+  <ScenarioDef ParentName="ScenarioBase">
+    <defName>HE_Start_Nord</defName>
+    <label>Heirs of Nordheim</label>
+    <description>Five people of Nordheim raise a new longhouse on cold land. They start with the Nordheim heritage, warm furs, a hunting bow, a spear and a bundle of saga staves.</description>
+    <scenario>
+      <summary>Five Nordheim settlers raise a longhouse. Nordheim heritage.</summary>
+      <playerFaction>
+        <def>PlayerFaction</def>
+        <factionDef>HE_Player_Nord</factionDef>
+      </playerFaction>
+      <parts>
+        <li Class="ScenPart_ConfigPage_ConfigureStartingPawns">
+          <def>ConfigPage_ConfigureStartingPawns</def>
+          <pawnCount>5</pawnCount>
+          <pawnChoiceCount>10</pawnChoiceCount>
+        </li>
+        <li Class="ScenPart_PlayerPawnsArriveMethod">
+          <def>PlayerPawnsArriveMethod</def>
+          <method>Standing</method>
+          <visible>false</visible>
+        </li>
+        <li Class="HeirsOfEarth.ScenPart_HeirsHeritage">
+          <def>HE_Heritage</def>
+          <nation>HE_Nord</nation>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Nord_HuntBow</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MeleeWeapon_Spear</thingDef>
+          <count>1</count>
+          <stuff>Steel</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Nord_FurCloak</thingDef>
+          <count>2</count>
+          <stuff>Leather_Plain</stuff>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Silver</thingDef>
+          <count>400</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Pemmican</thingDef>
+          <count>200</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>MedicineHerbal</thingDef>
+          <count>35</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>Cloth</thingDef>
+          <count>60</count>
+        </li>
+        <li Class="ScenPart_StartingThing_Defined">
+          <def>StartingThing_Defined</def>
+          <thingDef>HE_Nord_Archive</thingDef>
+          <count>1</count>
+        </li>
+        <li Class="ScenPart_StartingAnimal">
+          <def>StartingAnimal</def>
+          <count>1</count>
+          <bondToRandomPlayerPawnChance>0.5</bondToRandomPlayerPawnChance>
+          <animalKind>Husky</animalKind>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>WoodLog</thingDef>
+          <count>300</count>
+        </li>
+        <li Class="ScenPart_ScatterThingsNearPlayerStart">
+          <def>ScatterThingsNearPlayerStart</def>
+          <thingDef>Steel</thingDef>
+          <count>250</count>
+        </li>
+        <li Class="ScenPart_GameStartDialog">
+          <def>GameStartDialog</def>
+          <textKey>HE_StartNordDialog</textKey>
+          <closeSound>GameStartSting</closeSound>
+        </li>
+      </parts>
+    </scenario>
+  </ScenarioDef>
+</Defs>

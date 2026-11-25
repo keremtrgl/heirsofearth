@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_BS_PostRider.title>kraliyet ulağı</HE_Pars_BS_PostRider.title>
+  <HE_Pars_BS_PostRider.titleShort>ulak</HE_Pars_BS_PostRider.titleShort>
+  <HE_Pars_BS_PostRider.description>[PAWN_nameDef] kraliyet postasını menzilden menzile taşıdı; her birinde at değiştirdi ve eyerde uyudu. Bütün satraplığı sayamayacağı kadar çok kez geçti.</HE_Pars_BS_PostRider.description>
+  <HE_Pars_BS_Weaver.title>halı dokumacısı</HE_Pars_BS_Weaver.title>
+  <HE_Pars_BS_Weaver.titleShort>dokumacı</HE_Pars_BS_Weaver.titleShort>
+  <HE_Pars_BS_Weaver.description>[PAWN_nameDef] yirmi tezgâhlı bir atölyede, bin çiçekli bir deseni kafasında tutarak halı düğümledi. Halılarından biri satrabın salonunda asılı.</HE_Pars_BS_Weaver.description>
+  <HE_Pars_BS_Gardener.title>cennet bahçıvanı</HE_Pars_BS_Gardener.title>
+  <HE_Pars_BS_Gardener.titleShort>bahçıvan</HE_Pars_BS_Gardener.titleShort>
+  <HE_Pars_BS_Gardener.description>[PAWN_nameDef] bir kraliyet bahçesine baktı: dört tarh, dört kanal, bin gül ve satrabın en sevdiği, kendisinin konuştuğu nar ağacı.</HE_Pars_BS_Gardener.description>
+  <HE_Pars_BS_Immortal.title>ölümsüz muhafız</HE_Pars_BS_Immortal.title>
+  <HE_Pars_BS_Immortal.titleShort>muhafız</HE_Pars_BS_Immortal.titleShort>
+  <HE_Pars_BS_Immortal.description>[PAWN_nameDef] sayısı hiç azalmayan on binlerden biri olarak kraliyet muhafızlarında durdu. Safta dövüşmeyi, tek söz etmeden itaat etmeyi ve bunu yaparken göz kamaştırmayı öğrendi.</HE_Pars_BS_Immortal.description>
+  <HE_Pars_BS_Dabir.title>saray kâtibi</HE_Pars_BS_Dabir.title>
+  <HE_Pars_BS_Dabir.titleShort>kâtip</HE_Pars_BS_Dabir.titleShort>
+  <HE_Pars_BS_Dabir.description>[PAWN_nameDef] satrabın mektuplarını üç yazıyla yazdı ve herkesinkini okudu. Hangi valinin kime ne borçlu olduğunu bilir ve bunu asla yüksek sesle söylemez.</HE_Pars_BS_Dabir.description>
+  <HE_Pars_BS_Qanat.title>kanat kazıcısı</HE_Pars_BS_Qanat.title>
+  <HE_Pars_BS_Qanat.titleShort>kazıcı</HE_Pars_BS_Qanat.titleShort>
+  <HE_Pars_BS_Qanat.description>[PAWN_nameDef] kandil ışığında dağların altında su tünelleri kazdı; eğimi çekül ipinden, havayı alevden okudu. Ne karanlıktan ne de sert kayadan korkar.</HE_Pars_BS_Qanat.description>
+  <HE_Pars_BS_Astronomer.title>saray müneccimi</HE_Pars_BS_Astronomer.title>
+  <HE_Pars_BS_Astronomer.titleShort>müneccim</HE_Pars_BS_Astronomer.titleShort>
+  <HE_Pars_BS_Astronomer.description>[PAWN_nameDef] bir saray damından yıldızları ölçtü, takvimi tuttu ve istediğinden çok daha sık geleceği okuması istendi.</HE_Pars_BS_Astronomer.description>
+  <HE_Pars_BS_Merchant.title>yol tüccarı</HE_Pars_BS_Merchant.title>
+  <HE_Pars_BS_Merchant.titleShort>tüccar</HE_Pars_BS_Merchant.titleShort>
+  <HE_Pars_BS_Merchant.description>[PAWN_nameDef] kraliyet yolu boyunca deve kervanları götürdü; ipek bir yöne, gümüş öbür yöne gitti ve iki uç arasında konuşulan her dilde pazarlık etti.</HE_Pars_BS_Merchant.description>
+  <HE_Pars_BS_BazaarChild.title>çarşı çırağı</HE_Pars_BS_BazaarChild.title>
+  <HE_Pars_BS_BazaarChild.titleShort>çırak</HE_Pars_BS_BazaarChild.titleShort>
+  <HE_Pars_BS_BazaarChild.description>[PAWN_nameDef] kapalı çarşıda ayak işlerine koştu; tezgâhlar arasında çay, bozuk para ve dedikodu taşıdı.</HE_Pars_BS_BazaarChild.description>
+  <HE_Pars_BS_HorseChild.title>at çobanı</HE_Pars_BS_HorseChild.title>
+  <HE_Pars_BS_HorseChild.titleShort>çoban</HE_Pars_BS_HorseChild.titleShort>
+  <HE_Pars_BS_HorseChild.description>[PAWN_nameDef] yaz otlaklarında kraliyet sürüleriyle büyüdü ve doğru dürüst yürüyemeden ata binebiliyordu.</HE_Pars_BS_HorseChild.description>
+  <HE_Pars_BS_LoomChild.title>tezgâh çocuğu</HE_Pars_BS_LoomChild.title>
+  <HE_Pars_BS_LoomChild.titleShort>tezgâh çocuğu</HE_Pars_BS_LoomChild.titleShort>
+  <HE_Pars_BS_LoomChild.description>[PAWN_nameDef] tezgâhta annesinin yanında oturdu, düğümleri kesti ve desenleri adlarıyla öğrendi.</HE_Pars_BS_LoomChild.description>
+  <HE_Pars_BS_CourtPage.title>saray içoğlanı</HE_Pars_BS_CourtPage.title>
+  <HE_Pars_BS_CourtPage.titleShort>içoğlanı</HE_Pars_BS_CourtPage.titleShort>
+  <HE_Pars_BS_CourtPage.description>[PAWN_nameDef] satrabın sofrasında hizmet etti; nasıl eğileceğini, ne zaman konuşacağını ve söylenmeyeni nasıl dinleyeceğini öğrendi.</HE_Pars_BS_CourtPage.description>
+</LanguageData>

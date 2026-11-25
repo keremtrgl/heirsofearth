@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Heirs of Earth 4.2: the fourth game speed is a real button now (HeirsSpeed.cs), so its key shows in the keyboard settings
+     like the other three and can be changed there. Written by hand (not generated); heirs_build.py does not touch the Patches folder. -->
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/KeyBindingDef[defName="TimeSpeed_Ultrafast"]/devModeOnly</xpath>
+    <value>
+      <devModeOnly>false</devModeOnly>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/KeyBindingDef[defName="TimeSpeed_Ultrafast"]/label</xpath>
+    <value>
+      <label>game speed: fastest</label>
+    </value>
+  </Operation>
+</Patch>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_TerraceFarmer</defName>
+    <title>terrace farmer</title>
+    <titleShort>farmer</titleShort>
+    <description>[PAWN_nameDef] farmed a staircase of fields on a mountainside, potatoes at the top, maize at the bottom and quinoa in between. [PAWN_pronoun] can rebuild a fallen terrace wall in a day.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>7</Plants>
+      <Construction>3</Construction>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Khipukamayuq</defName>
+    <title>khipukamayuq</title>
+    <titleShort>knot keeper</titleShort>
+    <description>[PAWN_nameDef] kept the quipus of a whole province: every llama, every sack of maize and every soldier, tied in coloured knots. [PAWN_pronoun] can still read a cord by touch in the dark.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>7</Intellectual>
+      <Social>3</Social>
+    </skillGains>
+    <requiredWorkTags>
+      <li>Intellectual</li>
+    </requiredWorkTags>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Stonemason</defName>
+    <title>imperial stonemason</title>
+    <titleShort>mason</titleShort>
+    <description>[PAWN_nameDef] shaped blocks so precisely that they fit without mortar, pounding granite with harder stones until the joints vanished.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Construction>8</Construction>
+      <Mining>4</Mining>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Chaski</defName>
+    <title>chaski runner</title>
+    <titleShort>runner</titleShort>
+    <description>[PAWN_nameDef] ran [PAWN_possessive] stretch of the great road day and night, a quipu in [PAWN_possessive] bag and a conch at [PAWN_possessive] lips. [PAWN_pronoun] has never been the one who made a message late.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Melee>3</Melee>
+      <Social>3</Social>
+      <Animals>2</Animals>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Slinger</defName>
+    <title>army slinger</title>
+    <titleShort>slinger</titleShort>
+    <description>[PAWN_nameDef] marched in the front ranks of the imperial army, sling in hand and a bag of stones at the hip. [PAWN_pronoun] can split a gourd at fifty paces.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Shooting>7</Shooting>
+      <Melee>2</Melee>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Herbalist</defName>
+    <title>kallawaya healer</title>
+    <titleShort>healer</titleShort>
+    <description>[PAWN_nameDef] walked from the cloud forests to the high plains with a bag of herbs, setting bones and treating fevers in every village on the way.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Medicine>7</Medicine>
+      <Plants>3</Plants>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Weaver</defName>
+    <title>aqlla weaver</title>
+    <titleShort>weaver</titleShort>
+    <description>[PAWN_nameDef] wove the fine cloth of the court, so tight it held water, with tocapu patterns that only a few could read.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>7</Crafting>
+      <Artistic>4</Artistic>
+    </skillGains>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_Trader</defName>
+    <title>llama caravan trader</title>
+    <titleShort>trader</titleShort>
+    <description>[PAWN_nameDef] led strings of llamas from the coast to the mountains, trading dried fish and salt for wool and potatoes, and talked [PAWN_possessive] way out of every ambush.</description>
+    <slot>Adulthood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Social>7</Social>
+      <Animals>3</Animals>
+    </skillGains>
+    <workDisables>
+      <li>Violent</li>
+    </workDisables>
+    <bodyTypeMale>Male</bodyTypeMale>
+    <bodyTypeFemale>Female</bodyTypeFemale>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_LlamaChild</defName>
+    <title>llama herder</title>
+    <titleShort>herder</titleShort>
+    <description>[PAWN_nameDef] herded llamas and alpacas on the high grasslands, a sling in one hand to chase off foxes.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Animals>3</Animals>
+      <Shooting>1</Shooting>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_TerraceChild</defName>
+    <title>terrace child</title>
+    <titleShort>terrace child</titleShort>
+    <description>[PAWN_nameDef] carried baskets of soil up the terrace stairs and planted seed potatoes before [PAWN_pronoun] could count.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Plants>2</Plants>
+      <Construction>1</Construction>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_KnotPupil</defName>
+    <title>knot school pupil</title>
+    <titleShort>pupil</titleShort>
+    <description>[PAWN_nameDef] was chosen for the school of the knot keepers and spent years tying and untying counts under a strict teacher.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Intellectual>3</Intellectual>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+  <BackstoryDef>
+    <defName>HE_Inti_BS_FisherChild</defName>
+    <title>lake fisher's child</title>
+    <titleShort>fisher's child</titleShort>
+    <description>[PAWN_nameDef] grew up on a reed island in a cold high lake, fishing from a reed boat and patching it every evening.</description>
+    <slot>Childhood</slot>
+    <spawnCategories>
+      <li>HE_Inti</li>
+    </spawnCategories>
+    <skillGains>
+      <Crafting>2</Crafting>
+      <Cooking>1</Cooking>
+    </skillGains>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Inti</nation>
+      </li>
+    </modExtensions>
+  </BackstoryDef>
+</Defs>

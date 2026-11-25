@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="ResourceBase">
+    <defName>HE_Hellas_Archive</defName>
+    <label>Hellenic codex</label>
+    <description>A bound codex of copied works: geometry, medicine, plays and the laws of a dozen cities, with arguments in the margins. Studying it at a culture table teaches a great deal about Hellas.</description>
+    <graphicData>
+      <texPath>HeirsOfEarth/Items/HE_Hellas_Archive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <stackLimit>10</stackLimit>
+    <healthAffectsPrice>false</healthAffectsPrice>
+    <statBases>
+      <MaxHitPoints>60</MaxHitPoints>
+      <MarketValue>220</MarketValue>
+      <Mass>0.6</Mass>
+      <Flammability>1</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+    </statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+    <tradeTags>
+      <li>HE_HellasGoods</li>
+    </tradeTags>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+        <knowledge>25</knowledge>
+      </li>
+    </modExtensions>
+  </ThingDef>
+</Defs>

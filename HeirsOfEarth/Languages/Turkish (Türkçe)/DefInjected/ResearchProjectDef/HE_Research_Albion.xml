@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Sabre.label>süvari kılıcı</HE_Albion_Sabre.label>
+  <HE_Albion_Sabre.description>Eyerden kesmek için yapılmış, sepet siperli, eğri, tek ağızlı bir kılıç.
+
+Mirasın bu değilse 10 Albion bilgisi gerekir.</HE_Albion_Sabre.description>
+  <HE_Albion_Tweed.label>tüvit dokuma</HE_Albion_Tweed.label>
+  <HE_Albion_Tweed.description>Yağmuru sırtından atan, sönük kareli, kaba ve sıcak yün kumaş doku.</HE_Albion_Tweed.description>
+  <HE_Albion_Brick.label>tuğla ve arnavut kaldırımı</HE_Albion_Brick.label>
+  <HE_Albion_Brick.description>Avlular için kırmızı tuğla pişir ve sokaklara yuvarlak arnavut taşları döşe.</HE_Albion_Brick.description>
+  <HE_Albion_MeatPie.label>etli börek</HE_Albion_MeatPie.label>
+  <HE_Albion_MeatPie.description>Eti ve sosu günlerce dayanan ve yolda iyi taşınan kalın bir hamur kabuğuna kapat.</HE_Albion_MeatPie.description>
+  <HE_Albion_Pub.label>meyhane</HE_Albion_Pub.label>
+  <HE_Albion_Pub.description>Uzun bir meşe masa, bir fıçı bira ve bir dart tahtası: Albion'un gerçek parlamentosu.</HE_Albion_Pub.description>
+  <HE_Albion_Enclosure.label>çitleme</HE_Albion_Enclosure.label>
+  <HE_Albion_Enclosure.description>Ortak tarlaları çitle ve kâr için işle. Hasat büyür; komşular homurdanır.
+
+Gelenek: Kolonistler bitkilerden %5 daha fazla hasat alır ama %5 müzakere yeteneği kaybeder.
+
+Mirasın bu değilse 20 Albion bilgisi gerekir.</HE_Albion_Enclosure.description>
+  <HE_Albion_Sanitation.label>sağlık düzeni</HE_Albion_Sanitation.label>
+  <HE_Albion_Sanitation.description>Suyu kaynat, sokakları kurut, elleri yıka. Temiz bir kasabada ateşli hastalıklar daha çabuk geçer.
+
+Gelenek: Kolonistler %10 daha hızlı bağışıklık kazanır.
+
+Mirasın bu değilse 25 Albion bilgisi gerekir.</HE_Albion_Sanitation.description>
+  <HE_Albion_JointStock.label>anonim şirket</HE_Albion_JointStock.label>
+  <HE_Albion_JointStock.description>Birçok kişinin parasını birleştir, her seferin riskini ve her pazarlığın kârını paylaş.
+
+Gelenek: Kolonistler %5 daha iyi ticaret fiyatı alır.
+
+Mirasın bu değilse 25 Albion bilgisi gerekir.</HE_Albion_JointStock.description>
+  <HE_Albion_Charts.label>kraliyet donanması haritaları</HE_Albion_Charts.label>
+  <HE_Albion_Charts.description>Ölçülmüş kıyılar, haritalanmış nehirler ve bakımlı yollar: Albion kervanları yolunu hiç kaybetmez.
+
+Gelenek: Kervanlar %10 daha hızlı yol alır.
+
+Mirasın bu değilse 30 Albion bilgisi gerekir.</HE_Albion_Charts.description>
+  <HE_Albion_Musket.label>çakmaklı tüfek</HE_Albion_Musket.label>
+  <HE_Albion_Musket.description>Yivsiz bir çakmaklı tüfek: doldurması yavaş, gürültülü, elli adımdan sonra isabetsiz ve yaylım ateşinde dehşet verici.
+
+Mirasın bu değilse 20 Albion bilgisi gerekir.</HE_Albion_Musket.description>
+  <HE_Albion_Redcoat.label>kızılceket üniforması</HE_Albion_Redcoat.label>
+  <HE_Albion_Redcoat.description>Beyaz yakalı kırmızı yün bir ceket ve uzun bir şako. Bir sıra kızılceketli bir milden görülür; amaç da budur.
+
+Mirasın bu değilse 15 Albion bilgisi gerekir.</HE_Albion_Redcoat.description>
+  <HE_Albion_SteamEngine.label>buhar makinesi</HE_Albion_SteamEngine.label>
+  <HE_Albion_SteamEngine.description>Suyu odunla kaynat, buharla bir pistonu it ve pistonla bir dinamoyu döndür.
+
+Mirasın bu değilse 25 Albion bilgisi gerekir.</HE_Albion_SteamEngine.description>
+  <HE_Albion_Rifle.label>yivli tüfek</HE_Albion_Rifle.label>
+  <HE_Albion_Rifle.description>Namluya sarmal yivler aç ve bir süngü tak: daha uzun menzil, daha iyi nişan ve ucunda bir mızrak.
+
+Mirasın bu değilse 35 Albion bilgisi gerekir.</HE_Albion_Rifle.description>
+  <HE_Albion_Drill.label>talim çavuşu</HE_Albion_Drill.label>
+  <HE_Albion_Drill.description>Doldur, nişan al, ateş. Yine. Yine. Düşünmeden yapılana kadar.
+
+Gelenek: Kolonistler +2 atış isabeti kazanır.
+
+Mirasın bu değilse 35 Albion bilgisi gerekir.</HE_Albion_Drill.description>
+  <HE_Albion_SteamPower.label>buhar gücü</HE_Albion_SteamPower.label>
+  <HE_Albion_SteamPower.description>Kayışlar ve miller makinenin gücünü her tezgâha taşır. Daha az israf, daha çok iş.
+
+Gelenek: Çalışma tezgâhların %5 daha az malzeme kullanır.
+
+Mirasın bu değilse 40 Albion bilgisi gerekir.</HE_Albion_SteamPower.description>
+  <HE_Albion_FactoryOrder.label>fabrika düzeni</HE_Albion_FactoryOrder.label>
+  <HE_Albion_FactoryOrder.description>Şafakta düdük, vardiya, kota. Tezgâhlar hiç boş durmaz, işçiler de.
+
+Gelenek: Çalışma tezgâhların %12 daha hızlı çalışır, ama kolonistlerin zihinsel çöküş eşiği %2 yükselir.
+
+Mirasın bu değilse 45 Albion bilgisi gerekir.</HE_Albion_FactoryOrder.description>
+  <HE_Albion_Workshop.label>dünyanın atölyesi</HE_Albion_Workshop.label>
+  <HE_Albion_Workshop.description>Albion'un makineleri gece gündüz döner ve bütün koloni onlarla aynı tempoyu tutar.
+
+Gelenek: Kolonistler %4 daha hızlı çalışır ve +1 atış isabeti kazanır.
+
+Mirasın bu değilse 50 Albion bilgisi gerekir.
+
+Devletin hikâyesini bitirince açılır.</HE_Albion_Workshop.description>
+  <HE_Albion_TextileMill.label>dokuma fabrikası</HE_Albion_TextileMill.label>
+  <HE_Albion_TextileMill.description>Bir balya yünü on el dokumacısından daha hızlı tüvite çeviren buharlı bir dokuma tezgâhı.
+
+Mirasın bu değilse 40 Albion bilgisi gerekir.</HE_Albion_TextileMill.description>
+  <HE_Albion_FieldCannon.label>sahra topu</HE_Albion_FieldCannon.label>
+  <HE_Albion_FieldCannon.description>Talimli top ekipleri ve dökme bronz namlular: imparatorluğun savaşlarını kazanan topçu.
+
+Mirasın bu değilse 40 Albion bilgisi gerekir.</HE_Albion_FieldCannon.description>
+  <HE_Albion_SteamArmy.label>Albion buhar ordusu</HE_Albion_SteamArmy.label>
+  <HE_Albion_SteamArmy.description>Fişekler, yivli namlular ve bir üniforma: fabrikalar geldiğinde Albion'un kurduğu ordu.
+
+Mirasın bu değilse, ancak Albion Buhar Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 45 Albion bilgisi gerekir.</HE_Albion_SteamArmy.description>
+</LanguageData>
