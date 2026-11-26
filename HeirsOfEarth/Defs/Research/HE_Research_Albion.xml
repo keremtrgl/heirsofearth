@@ -24,7 +24,9 @@ Requires 10 Albion knowledge unless this is your heritage.</description>
   <ResearchProjectDef>
     <defName>HE_Albion_Tweed</defName>
     <label>tweed mills</label>
-    <description>Weave rough, warm wool cloth in muted checks that shrugs off rain.</description>
+    <description>Weave rough, warm wool cloth in muted checks that shrugs off rain.
+
+Requires 5 Albion knowledge unless this is your heritage.</description>
     <baseCost>600</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -33,13 +35,16 @@ Requires 10 Albion knowledge unless this is your heritage.</description>
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Albion</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Albion_Brick</defName>
     <label>bricks and cobbles</label>
-    <description>Fire red bricks for courtyards and set rounded cobbles into the streets.</description>
+    <description>Fire red bricks for courtyards and set rounded cobbles into the streets.
+
+Requires 5 Albion knowledge unless this is your heritage.</description>
     <baseCost>600</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -48,13 +53,16 @@ Requires 10 Albion knowledge unless this is your heritage.</description>
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Albion</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Albion_MeatPie</defName>
     <label>meat pie</label>
-    <description>Seal meat and gravy into a thick pastry crust that keeps for days and travels well.</description>
+    <description>Seal meat and gravy into a thick pastry crust that keeps for days and travels well.
+
+Requires 5 Albion knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -63,13 +71,16 @@ Requires 10 Albion knowledge unless this is your heritage.</description>
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Albion</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Albion_Pub</defName>
     <label>public house</label>
-    <description>A long oak table, a barrel of ale and a dartboard: the true parliament of Albion.</description>
+    <description>A long oak table, a barrel of ale and a dartboard: the true parliament of Albion.
+
+Requires 5 Albion knowledge unless this is your heritage.</description>
     <baseCost>700</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -81,6 +92,7 @@ Requires 10 Albion knowledge unless this is your heritage.</description>
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Albion</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -481,8 +493,8 @@ Requires 45 Albion knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>21.4</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>10.8</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -506,8 +518,8 @@ Requires 60 Albion knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>21.4</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>11.52</researchViewY>
     <prerequisites>
       <li>HE_Albion_SteamArmy</li>
       <li>Machining</li>
@@ -531,8 +543,8 @@ Requires 50 Albion knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>21.4</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>20.4</researchViewX>
+    <researchViewY>12.24</researchViewY>
     <prerequisites>
       <li>HE_Albion_SteamArmy</li>
       <li>Electricity</li>

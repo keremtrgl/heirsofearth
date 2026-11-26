@@ -18,6 +18,7 @@ NATION_X = {"Common": 0.0, "Roma": 2.4, "Yamato": 5.6, "Nord": 8.8, "Hellas": 12
             "Kemet": 21.6, "Pars": 24.8, "Inti": 28.0}
 ERA_Y = {"Neolithic": 0.0, "Medieval": 3.6, "Industrial": 7.2}
 ROW = 0.72
+ENTRY_KNOWLEDGE = 5
 
 TOOL_TR = {"handle": "kabza", "point": "uç", "edge": "ağız", "blade": "ağız", "haft": "sap", "head": "baş", "shaft": "gövde",
            "limb": "kol", "stock": "dipçik", "barrel": "namlu", "bayonet": "süngü", "pommel": "topuz", "spike": "çivi",
@@ -65,6 +66,10 @@ def recipe_maker(research, skill, users=None, order=None, unfinished=None, skill
 def research(nation, key, en, tr, den, dtr, cost, tech, col, row, prereqs=(), knowledge=0, tradition=False, stats=(),
              quality=0.0, caravan=0.0, study=0.0, chain=None, effect=None, file=None, hidden=()):
     name = f"HE_{nation}_{key}" if nation != "Common" else f"HE_{key}"
+    if nation != "Common" and not knowledge:
+        # 4.3.1: every foreign project needs some knowledge of its nation (design: "a foreign nation's research cannot be started
+        # without enough knowledge"); before, the 46 entry projects with no knowledge set were open to every colony.
+        knowledge = ENTRY_KNOWLEDGE
     ext = None
     if nation != "Common" or tradition:
         ext = {"@Class": "HeirsOfEarth.HeirsResearchExt"}

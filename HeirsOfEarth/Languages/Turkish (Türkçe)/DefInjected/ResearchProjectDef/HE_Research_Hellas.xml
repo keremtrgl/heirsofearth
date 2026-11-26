@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Hellas_Dory.label>dory</HE_Hellas_Dory.label>
-  <HE_Hellas_Dory.description>Hoplitin uzun saplı mızrağı: yaprak biçimli bir ucu ve bronz bir dip çivisi vardır.</HE_Hellas_Dory.description>
+  <HE_Hellas_Dory.description>Hoplitin uzun saplı mızrağı: yaprak biçimli bir ucu ve bronz bir dip çivisi vardır.
+
+Mirasın bu değilse 5 Hellas bilgisi gerekir.</HE_Hellas_Dory.description>
   <HE_Hellas_Toxon.label>toxon</HE_Hellas_Toxon.label>
-  <HE_Hellas_Toxon.description>Bir kalkan duvarının arkasında kullanılacak kadar kısa, İskit tarzı çift kavisli yay.</HE_Hellas_Toxon.description>
+  <HE_Hellas_Toxon.description>Bir kalkan duvarının arkasında kullanılacak kadar kısa, İskit tarzı çift kavisli yay.
+
+Mirasın bu değilse 5 Hellas bilgisi gerekir.</HE_Hellas_Toxon.description>
   <HE_Hellas_Meander.label>menderes zeminler</HE_Hellas_Meander.label>
-  <HE_Hellas_Meander.description>Eski tapınakların sonsuz anahtar deseniyle çevrili açık renkli taş zeminler döşe.</HE_Hellas_Meander.description>
+  <HE_Hellas_Meander.description>Eski tapınakların sonsuz anahtar deseniyle çevrili açık renkli taş zeminler döşe.
+
+Mirasın bu değilse 5 Hellas bilgisi gerekir.</HE_Hellas_Meander.description>
   <HE_Hellas_Chiton.label>khiton</HE_Hellas_Chiton.label>
-  <HE_Hellas_Chiton.description>Agoradan gymnasiuma kadar her yurttaşın giydiği hafif, iğneli tuniği dik.</HE_Hellas_Chiton.description>
+  <HE_Hellas_Chiton.description>Agoradan gymnasiuma kadar her yurttaşın giydiği hafif, iğneli tuniği dik.
+
+Mirasın bu değilse 5 Hellas bilgisi gerekir.</HE_Hellas_Chiton.description>
   <HE_Hellas_Maza.label>maza</HE_Hellas_Maza.label>
-  <HE_Hellas_Maza.description>Zeytinyağı ve balla yoğrulmuş arpa çörekleri: bir hoplitin yürümesini sağlayan sade yiyecek.</HE_Hellas_Maza.description>
+  <HE_Hellas_Maza.description>Zeytinyağı ve balla yoğrulmuş arpa çörekleri: bir hoplitin yürümesini sağlayan sade yiyecek.
+
+Mirasın bu değilse 5 Hellas bilgisi gerekir.</HE_Hellas_Maza.description>
   <HE_Hellas_Columns.label>yivli sütunlar</HE_Hellas_Columns.label>
-  <HE_Hellas_Columns.description>Yivli sütunlar oy ve onları şehrin kahramanlarının heykelleriyle taçlandır.</HE_Hellas_Columns.description>
+  <HE_Hellas_Columns.description>Yivli sütunlar oy ve onları şehrin kahramanlarının heykelleriyle taçlandır.
+
+Mirasın bu değilse 5 Hellas bilgisi gerekir.</HE_Hellas_Columns.description>
   <HE_Hellas_Olympic.label>olimpiyat oyunları</HE_Hellas_Olympic.label>
   <HE_Hellas_Olympic.description>Her dördüncü yaz şehirler savaşlarını durdurur ve onun yerine birbirleriyle yarışır.
 

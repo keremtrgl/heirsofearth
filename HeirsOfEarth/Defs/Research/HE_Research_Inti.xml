@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Inti_Sling</defName>
     <label>sling</label>
-    <description>A braided wool sling and a pouch of river stones. A good slinger can break a helmet at a hundred paces.</description>
+    <description>A braided wool sling and a pouch of river stones. A good slinger can break a helmet at a hundred paces.
+
+Requires 5 Inti knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Inti</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Inti_Unku</defName>
     <label>unku tunic</label>
-    <description>Weave the knee-length tunic of alpaca wool, its squares of tocapu patterns telling who the wearer is.</description>
+    <description>Weave the knee-length tunic of alpaca wool, its squares of tocapu patterns telling who the wearer is.
+
+Requires 5 Inti knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Inti</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Inti_Terraces</defName>
     <label>terraces</label>
-    <description>Cut the hillside into steps, wall each one with stone and fill it with carried soil. A slope becomes a field.</description>
+    <description>Cut the hillside into steps, wall each one with stone and fill it with carried soil. A slope becomes a field.
+
+Requires 5 Inti knowledge unless this is your heritage.</description>
     <baseCost>600</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,6 +50,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Inti</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -79,7 +88,9 @@ Requires 15 Inti knowledge unless this is your heritage.</description>
   <ResearchProjectDef>
     <defName>HE_Inti_Pachamanca</defName>
     <label>pachamanca</label>
-    <description>Heat stones in a pit, lay meat, potatoes and maize on them, cover everything with herbs and earth and wait.</description>
+    <description>Heat stones in a pit, lay meat, potatoes and maize on them, cover everything with herbs and earth and wait.
+
+Requires 5 Inti knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -91,6 +102,7 @@ Requires 15 Inti knowledge unless this is your heritage.</description>
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Inti</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -564,8 +576,8 @@ Requires 45 Inti knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>31</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>30</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -590,8 +602,8 @@ Requires 60 Inti knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>31</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>30</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Inti_SteamArmy</li>
       <li>Machining</li>
@@ -615,8 +627,8 @@ Requires 50 Inti knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>31</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>30</researchViewX>
+    <researchViewY>10.08</researchViewY>
     <prerequisites>
       <li>HE_Inti_SteamArmy</li>
       <li>Electricity</li>

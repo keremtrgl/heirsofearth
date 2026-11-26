@@ -1,0 +1,5 @@
+Heirs of Earth 4.3.1 - Research tree fixes
+
+- Fixed: 46 entry projects of the nations (such as the Hellenic dory, the Nordic longhouse or the Tianxia silk) could be researched by any colony, without any knowledge of that nation. Every nation's project now needs at least 5 knowledge of that nation, unless the nation is your heritage. Your heritage branch stays open from the start, as before. Projects you have already finished stay finished.
+- Fixed: 10 research projects in the World Heritage tab sat on top of each other, mostly where one nation's late projects ran into the next nation's column (for example the Albion musket and the Tianxia steam army). Every project now stays inside its own nation's columns, and no two projects overlap.
+- Save compatible.

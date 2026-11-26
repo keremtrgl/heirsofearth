@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Yamato_Yari</defName>
     <label>yari</label>
-    <description>The straight-bladed spear of the foot soldiers, long enough to keep a horseman at bay.</description>
+    <description>The straight-bladed spear of the foot soldiers, long enough to keep a horseman at bay.
+
+Requires 5 Yamato knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Yamato</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Yamato_Yumi</defName>
     <label>yumi</label>
-    <description>The tall asymmetric bow of Yamato, gripped below its middle and drawn to the ear.</description>
+    <description>The tall asymmetric bow of Yamato, gripped below its middle and drawn to the ear.
+
+Requires 5 Yamato knowledge unless this is your heritage.</description>
     <baseCost>550</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Yamato</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Yamato_Tatami</defName>
     <label>tatami and gravel gardens</label>
-    <description>Lay woven straw tatami mats and rake white gravel into the patterns of still water.</description>
+    <description>Lay woven straw tatami mats and rake white gravel into the patterns of still water.
+
+Requires 5 Yamato knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,13 +50,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Yamato</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Yamato_Kimono</defName>
     <label>kimono</label>
-    <description>Sew the wrapped and belted robe worn by every class of Yamato.</description>
+    <description>Sew the wrapped and belted robe worn by every class of Yamato.
+
+Requires 5 Yamato knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -60,13 +71,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Yamato</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Yamato_Onigiri</defName>
     <label>onigiri</label>
-    <description>Rice pressed into triangles and wrapped in seaweed: the travelling food of soldiers and pilgrims.</description>
+    <description>Rice pressed into triangles and wrapped in seaweed: the travelling food of soldiers and pilgrims.
+
+Requires 5 Yamato knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -75,13 +89,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Yamato</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Yamato_Torii</defName>
     <label>torii gates</label>
-    <description>Raise the red gates that mark the passage from the everyday world into a sacred place.</description>
+    <description>Raise the red gates that mark the passage from the everyday world into a sacred place.
+
+Requires 5 Yamato knowledge unless this is your heritage.</description>
     <baseCost>600</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -93,6 +110,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Yamato</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -527,7 +545,7 @@ Requires 45 Yamato knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>8.6</researchViewX>
+    <researchViewX>7.6</researchViewX>
     <researchViewY>7.2</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
@@ -552,7 +570,7 @@ Requires 60 Yamato knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>8.6</researchViewX>
+    <researchViewX>7.6</researchViewX>
     <researchViewY>7.92</researchViewY>
     <prerequisites>
       <li>HE_Yamato_SteamArmy</li>
@@ -577,7 +595,7 @@ Requires 50 Yamato knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>8.6</researchViewX>
+    <researchViewX>7.6</researchViewX>
     <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>HE_Yamato_SteamArmy</li>

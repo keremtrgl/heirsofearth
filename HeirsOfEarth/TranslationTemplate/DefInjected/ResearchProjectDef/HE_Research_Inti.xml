@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Inti_Sling.label>sling</HE_Inti_Sling.label>
-  <HE_Inti_Sling.description>A braided wool sling and a pouch of river stones. A good slinger can break a helmet at a hundred paces.</HE_Inti_Sling.description>
+  <HE_Inti_Sling.description>A braided wool sling and a pouch of river stones. A good slinger can break a helmet at a hundred paces.
+
+Requires 5 Inti knowledge unless this is your heritage.</HE_Inti_Sling.description>
   <HE_Inti_Unku.label>unku tunic</HE_Inti_Unku.label>
-  <HE_Inti_Unku.description>Weave the knee-length tunic of alpaca wool, its squares of tocapu patterns telling who the wearer is.</HE_Inti_Unku.description>
+  <HE_Inti_Unku.description>Weave the knee-length tunic of alpaca wool, its squares of tocapu patterns telling who the wearer is.
+
+Requires 5 Inti knowledge unless this is your heritage.</HE_Inti_Unku.description>
   <HE_Inti_Terraces.label>terraces</HE_Inti_Terraces.label>
-  <HE_Inti_Terraces.description>Cut the hillside into steps, wall each one with stone and fill it with carried soil. A slope becomes a field.</HE_Inti_Terraces.description>
+  <HE_Inti_Terraces.description>Cut the hillside into steps, wall each one with stone and fill it with carried soil. A slope becomes a field.
+
+Requires 5 Inti knowledge unless this is your heritage.</HE_Inti_Terraces.description>
   <HE_Inti_Chaski.label>chaski runners</HE_Inti_Chaski.label>
   <HE_Inti_Chaski.description>Relay runners posted along every road, a conch to announce themselves and a quipu to carry. A message crosses the empire in days.
 
@@ -13,7 +19,9 @@ Tradition: Colonists move 3% faster.
 
 Requires 15 Inti knowledge unless this is your heritage.</HE_Inti_Chaski.description>
   <HE_Inti_Pachamanca.label>pachamanca</HE_Inti_Pachamanca.label>
-  <HE_Inti_Pachamanca.description>Heat stones in a pit, lay meat, potatoes and maize on them, cover everything with herbs and earth and wait.</HE_Inti_Pachamanca.description>
+  <HE_Inti_Pachamanca.description>Heat stones in a pit, lay meat, potatoes and maize on them, cover everything with herbs and earth and wait.
+
+Requires 5 Inti knowledge unless this is your heritage.</HE_Inti_Pachamanca.description>
   <HE_Inti_Ayni.label>ayni</HE_Inti_Ayni.label>
   <HE_Inti_Ayni.description>Today I help you dig your field, tomorrow you help me roof my house. Work is lent and always repaid.
 

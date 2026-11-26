@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Pars_Spear.label>immortal's spear</HE_Pars_Spear.label>
-  <HE_Pars_Spear.description>A long spear with a leaf blade at one end and a silver pomegranate at the other, the weapon of the royal guard.</HE_Pars_Spear.description>
+  <HE_Pars_Spear.description>A long spear with a leaf blade at one end and a silver pomegranate at the other, the weapon of the royal guard.
+
+Requires 5 Parsian knowledge unless this is your heritage.</HE_Pars_Spear.description>
   <HE_Pars_Kaftan.label>silk kaftan</HE_Pars_Kaftan.label>
-  <HE_Pars_Kaftan.description>Cut the long open coat of the court, lined, embroidered and belted with a sash.</HE_Pars_Kaftan.description>
+  <HE_Pars_Kaftan.description>Cut the long open coat of the court, lined, embroidered and belted with a sash.
+
+Requires 5 Parsian knowledge unless this is your heritage.</HE_Pars_Kaftan.description>
   <HE_Pars_Garden.label>paradise garden</HE_Pars_Garden.label>
-  <HE_Pars_Garden.description>Wall a square of ground, split it in four with water channels and plant it with roses, cypress and fruit trees. The old word for it was paradise.</HE_Pars_Garden.description>
+  <HE_Pars_Garden.description>Wall a square of ground, split it in four with water channels and plant it with roses, cypress and fruit trees. The old word for it was paradise.
+
+Requires 5 Parsian knowledge unless this is your heritage.</HE_Pars_Garden.description>
   <HE_Pars_Bow.label>recurve bow</HE_Pars_Bow.label>
-  <HE_Pars_Bow.description>A short recurve bow carried in a combined case with its arrows, light enough to shoot from the saddle.</HE_Pars_Bow.description>
+  <HE_Pars_Bow.description>A short recurve bow carried in a combined case with its arrows, light enough to shoot from the saddle.
+
+Requires 5 Parsian knowledge unless this is your heritage.</HE_Pars_Bow.description>
   <HE_Pars_Pilaf.label>saffron pilaf</HE_Pars_Pilaf.label>
-  <HE_Pars_Pilaf.description>Rice steamed with saffron, barberries and butter until the bottom turns to a golden crust, the best part.</HE_Pars_Pilaf.description>
+  <HE_Pars_Pilaf.description>Rice steamed with saffron, barberries and butter until the bottom turns to a golden crust, the best part.
+
+Requires 5 Parsian knowledge unless this is your heritage.</HE_Pars_Pilaf.description>
   <HE_Pars_GardenCulture.label>culture of gardens</HE_Pars_GardenCulture.label>
   <HE_Pars_GardenCulture.description>Every house has a courtyard, every courtyard a pool and every pool a bench beside it. Parsians go into the garden to cool their tempers.
 

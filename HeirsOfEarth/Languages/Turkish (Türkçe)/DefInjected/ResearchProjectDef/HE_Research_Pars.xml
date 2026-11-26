@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Pars_Spear.label>ölümsüz mızrağı</HE_Pars_Spear.label>
-  <HE_Pars_Spear.description>Bir ucunda yaprak biçimli bir ağız, öbür ucunda gümüş bir nar bulunan uzun bir mızrak; kraliyet muhafızlarının silahı.</HE_Pars_Spear.description>
+  <HE_Pars_Spear.description>Bir ucunda yaprak biçimli bir ağız, öbür ucunda gümüş bir nar bulunan uzun bir mızrak; kraliyet muhafızlarının silahı.
+
+Mirasın bu değilse 5 Pars bilgisi gerekir.</HE_Pars_Spear.description>
   <HE_Pars_Kaftan.label>ipek kaftan</HE_Pars_Kaftan.label>
-  <HE_Pars_Kaftan.description>Sarayın astarlı, nakışlı ve kuşakla bağlanan uzun, önü açık ceketini dik.</HE_Pars_Kaftan.description>
+  <HE_Pars_Kaftan.description>Sarayın astarlı, nakışlı ve kuşakla bağlanan uzun, önü açık ceketini dik.
+
+Mirasın bu değilse 5 Pars bilgisi gerekir.</HE_Pars_Kaftan.description>
   <HE_Pars_Garden.label>cennet bahçesi</HE_Pars_Garden.label>
-  <HE_Pars_Garden.description>Bir toprak karesini duvarla çevir, su kanallarıyla dörde böl ve güller, serviler ve meyve ağaçlarıyla doldur. Eski dilde adı cennetti.</HE_Pars_Garden.description>
+  <HE_Pars_Garden.description>Bir toprak karesini duvarla çevir, su kanallarıyla dörde böl ve güller, serviler ve meyve ağaçlarıyla doldur. Eski dilde adı cennetti.
+
+Mirasın bu değilse 5 Pars bilgisi gerekir.</HE_Pars_Garden.description>
   <HE_Pars_Bow.label>çift kavisli yay</HE_Pars_Bow.label>
-  <HE_Pars_Bow.description>Oklarıyla birlikte tek bir kılıfta taşınan, eyerden atılacak kadar hafif, kısa ve çift kavisli bir yay.</HE_Pars_Bow.description>
+  <HE_Pars_Bow.description>Oklarıyla birlikte tek bir kılıfta taşınan, eyerden atılacak kadar hafif, kısa ve çift kavisli bir yay.
+
+Mirasın bu değilse 5 Pars bilgisi gerekir.</HE_Pars_Bow.description>
   <HE_Pars_Pilaf.label>safranlı pilav</HE_Pars_Pilaf.label>
-  <HE_Pars_Pilaf.description>Altı en güzel kısmı olan altın bir kabuk tutana dek safran, kızamık üzümü ve tereyağıyla demlenmiş pirinç.</HE_Pars_Pilaf.description>
+  <HE_Pars_Pilaf.description>Altı en güzel kısmı olan altın bir kabuk tutana dek safran, kızamık üzümü ve tereyağıyla demlenmiş pirinç.
+
+Mirasın bu değilse 5 Pars bilgisi gerekir.</HE_Pars_Pilaf.description>
   <HE_Pars_GardenCulture.label>bahçe kültürü</HE_Pars_GardenCulture.label>
   <HE_Pars_GardenCulture.description>Her evin bir avlusu, her avlunun bir havuzu, her havuzun yanında bir bankı vardır. Parslılar öfkelerini soğutmak için bahçeye çıkar.
 

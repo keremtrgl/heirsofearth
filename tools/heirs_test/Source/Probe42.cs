@@ -233,7 +233,7 @@ namespace HeProbe
             List<NationDef> nations = HeirsWorld.LiveNations.ToList();
             var towns0 = nations.ToDictionary(n => n, n => Find.WorldObjects.Settlements.Count(s => s.Faction == HeirsWorld.FactionOf(n)));
             var reached = new Dictionary<NationDef, float[]>();
-            foreach (NationDef n in nations) reached[n] = new[] { 0f, 0f, -1f, -1f };
+            foreach (NationDef n in nations) reached[n] = new[] { 0f, 0f, -1f, -1f, -1f }; // 4.3: room for the Electric Age
             int days = 10 * GenDate.DaysPerYear, interval = Mathf.Max(1, HeirsMod.Settings.politicsIntervalDays), warMonths = 0, maxWars = 0;
             var wars = new HashSet<string>();
             var watch = System.Diagnostics.Stopwatch.StartNew();
@@ -261,7 +261,7 @@ namespace HeProbe
             {
                 int towns = Find.WorldObjects.Settlements.Count(s => s.Faction == HeirsWorld.FactionOf(n));
                 P.Say("ten years " + n.defName + ": age II at year " + (reached[n][2] < 0 ? "-" : reached[n][2].ToString("0.0"))
-                      + ", age III at year " + (reached[n][3] < 0 ? "-" : reached[n][3].ToString("0.0")) + ", towns " + towns0[n] + " -> " + towns
+                      + ", age III at year " + (reached[n][3] < 0 ? "-" : reached[n][3].ToString("0.0")) + ", age IV at year " + (reached[n][4] < 0 ? "-" : reached[n][4].ToString("0.0")) + ", towns " + towns0[n] + " -> " + towns
                       + ", progress " + g.AgeProgress(n).ToString("0.00") + ", pace now " + HeirsAges.Rate(n).ToStringPercent());
             }
             P.Say("ten years: " + wars.Count + " wars, " + warMonths + " of " + (days / interval) + " months with a war, at most " + maxWars + " at once, "

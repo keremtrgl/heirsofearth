@@ -10,18 +10,29 @@ from heirs_kit import ERA_Y, NATION_X, ROW, food
 
 
 def free_slot(nation, tech, col=2.0):
-    """First free (col, row) in a nation's research column for an age, so new projects never overlap old ones."""
-    taken = set()
-    for rel, defs in FILES.items():
-        if not rel.startswith("Research/"):
-            continue
+    """First free (col, row) in a nation's research band for an age, so new projects never overlap old ones.
+
+    4.3.1: a slot is taken when any research node sits closer than one column and most of a row (nodes are about a column wide),
+    not only at the exact same spot, and the search stays inside the nation's own columns (0-2, or 0-1 for the common branch, whose
+    neighbour Roma starts at 2.4). Before, it could pick column 3, 0.2 from the next nation's first column, and nodes overlapped."""
+    taken = []
+    for defs in FILES.values():
         for d in defs:
+            if d.cls != "ResearchProjectDef":
+                continue
             x, y = d.fields.get("researchViewX"), d.fields.get("researchViewY")
             if x is not None and y is not None:
-                taken.add((round(float(x), 2), round(float(y), 2)))
-    for c in (col, col - 1, col + 1, col - 2, 0.0, 3.0):
-        for r in range(0, 5):
-            if (round(NATION_X[nation] + c, 2), round(ERA_Y[tech] + r * ROW, 2)) not in taken:
+                taken.append((float(x), float(y)))
+    last = 1.0 if nation == "Common" else 2.0
+    cols = []
+    for c in (col, col - 1, col + 1, col - 2, 0.0, 1.0, 2.0):
+        if 0.0 <= c <= last and c not in cols:
+            cols.append(c)
+    rows = 8 if tech == "Industrial" else 5
+    for c in cols:
+        for r in range(rows):
+            x, y = NATION_X[nation] + c, ERA_Y[tech] + r * ROW
+            if all(abs(x - tx) >= 0.99 or abs(y - ty) >= 0.6 for tx, ty in taken):
                 return c, r
     raise ValueError(f"no free research slot for {nation} {tech}")
 

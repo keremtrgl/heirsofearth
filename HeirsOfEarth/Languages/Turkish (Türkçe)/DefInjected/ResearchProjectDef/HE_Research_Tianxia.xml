@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Tianxia_Jian.label>jian</HE_Tianxia_Jian.label>
-  <HE_Tianxia_Jian.description>Silahların beyefendisi denen düz, çift ağızlı kılıç.</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Jian.description>Silahların beyefendisi denen düz, çift ağızlı kılıç.
+
+Mirasın bu değilse 5 Tianxia bilgisi gerekir.</HE_Tianxia_Jian.description>
   <HE_Tianxia_Silk.label>ipek dokuma</HE_Tianxia_Silk.label>
-  <HE_Tianxia_Silk.description>İpek böceklerini dut yapraklarıyla besle ve ipliklerini dünyanın en yumuşak kumaşına doku.</HE_Tianxia_Silk.description>
+  <HE_Tianxia_Silk.description>İpek böceklerini dut yapraklarıyla besle ve ipliklerini dünyanın en yumuşak kumaşına doku.
+
+Mirasın bu değilse 5 Tianxia bilgisi gerekir.</HE_Tianxia_Silk.description>
   <HE_Tianxia_JadeFloor.label>yeşim avlular</HE_Tianxia_JadeFloor.label>
-  <HE_Tianxia_JadeFloor.description>Avluları bulut desenleriyle döşenmiş cilalı yeşil taşla kapla.</HE_Tianxia_JadeFloor.description>
+  <HE_Tianxia_JadeFloor.description>Avluları bulut desenleriyle döşenmiş cilalı yeşil taşla kapla.
+
+Mirasın bu değilse 5 Tianxia bilgisi gerekir.</HE_Tianxia_JadeFloor.description>
   <HE_Tianxia_Hanfu.label>hanfu</HE_Tianxia_Hanfu.label>
-  <HE_Tianxia_Hanfu.description>Âlimlerin ve memurların giydiği çapraz yakalı, geniş kollu dökümlü kaftanları dik.</HE_Tianxia_Hanfu.description>
+  <HE_Tianxia_Hanfu.description>Âlimlerin ve memurların giydiği çapraz yakalı, geniş kollu dökümlü kaftanları dik.
+
+Mirasın bu değilse 5 Tianxia bilgisi gerekir.</HE_Tianxia_Hanfu.description>
   <HE_Tianxia_Dumplings.label>mantı</HE_Tianxia_Dumplings.label>
-  <HE_Tianxia_Dumplings.description>Kıyılmış eti ve yeşillikleri ince hamura sarıp bambu sepetlerde buharda pişir.</HE_Tianxia_Dumplings.description>
+  <HE_Tianxia_Dumplings.description>Kıyılmış eti ve yeşillikleri ince hamura sarıp bambu sepetlerde buharda pişir.
+
+Mirasın bu değilse 5 Tianxia bilgisi gerekir.</HE_Tianxia_Dumplings.description>
   <HE_Tianxia_PaperLantern.label>kâğıt fenerler</HE_Tianxia_PaperLantern.label>
-  <HE_Tianxia_PaperLantern.description>Yağlı kâğıdı bambu çerçevelere ger ve her yol boyunca kırmızı fenerler as.</HE_Tianxia_PaperLantern.description>
+  <HE_Tianxia_PaperLantern.description>Yağlı kâğıdı bambu çerçevelere ger ve her yol boyunca kırmızı fenerler as.
+
+Mirasın bu değilse 5 Tianxia bilgisi gerekir.</HE_Tianxia_PaperLantern.description>
   <HE_Tianxia_TeaCulture.label>çay kültürü</HE_Tianxia_TeaCulture.label>
   <HE_Tianxia_TeaCulture.description>Uyumadan önce bir fincan çay, uyanınca bir fincan. Zihin sakin olunca beden daha iyi dinlenir.
 

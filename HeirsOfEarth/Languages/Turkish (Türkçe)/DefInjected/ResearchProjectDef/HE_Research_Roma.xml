@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Roma_Standard.label>lejyon sancakları</HE_Roma_Standard.label>
-  <HE_Roma_Standard.description>Lejyonların kırmızı sancaklarını doku ve salonlarının üzerine dik.</HE_Roma_Standard.description>
+  <HE_Roma_Standard.description>Lejyonların kırmızı sancaklarını doku ve salonlarının üzerine dik.
+
+Mirasın bu değilse 5 Nova Roma bilgisi gerekir.</HE_Roma_Standard.description>
   <HE_Roma_Concrete.label>Roma betonu</HE_Roma_Concrete.label>
-  <HE_Roma_Concrete.description>Kireç, volkanik kül ve molozu su altında bile sertleşen bir betona dönüştür. Beton zemini açar.</HE_Roma_Concrete.description>
+  <HE_Roma_Concrete.description>Kireç, volkanik kül ve molozu su altında bile sertleşen bir betona dönüştür. Beton zemini açar.
+
+Mirasın bu değilse 5 Nova Roma bilgisi gerekir.</HE_Roma_Concrete.description>
   <HE_Roma_Smithing.label>lejyon demirciliği</HE_Roma_Smithing.label>
-  <HE_Roma_Smithing.description>Lejyonların kısa kılıcı gladiusu döv.</HE_Roma_Smithing.description>
+  <HE_Roma_Smithing.description>Lejyonların kısa kılıcı gladiusu döv.
+
+Mirasın bu değilse 5 Nova Roma bilgisi gerekir.</HE_Roma_Smithing.description>
   <HE_Roma_Pilum.label>pilum</HE_Roma_Pilum.label>
   <HE_Roma_Pilum.description>Kalkan ve zırhı delen uzun demir saplı ağır mızrak pilumu yap.
 
@@ -33,7 +39,9 @@ Gelenek: Nova Roma eşyalarını incelemek %25 daha fazla bilgi verir.
 
 Mirasın bu değilse 25 Nova Roma bilgisi gerekir.</HE_Roma_Senate.description>
   <HE_Roma_Garum.label>garum ve puls</HE_Roma_Garum.label>
-  <HE_Roma_Garum.description>Lejyonların mutfağını öğren: koyu puls lapası ve her Roma sofrasının beklediği fermente balık sosu garum.</HE_Roma_Garum.description>
+  <HE_Roma_Garum.description>Lejyonların mutfağını öğren: koyu puls lapası ve her Roma sofrasının beklediği fermente balık sosu garum.
+
+Mirasın bu değilse 5 Nova Roma bilgisi gerekir.</HE_Roma_Garum.description>
   <HE_Roma_Cursus.label>cursus honorum</HE_Roma_Cursus.label>
   <HE_Roma_Cursus.description>Kamu görevlerinin merdiveni: yönetmek isteyen her yurttaş önce hizmet etmeli, öğrenmeli ve yargılanmalıdır.
 

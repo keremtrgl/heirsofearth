@@ -182,7 +182,7 @@ powershell -NoProfile -File heirs_test\run.ps1        # full in-game test run
 
 ## Version history
 
-The current version is **4.3.0**. See [CHANGELOG.md](CHANGELOG.md) for every release, from the first three nations to the Electric Age. Next on the roadmap: nation cities, quests on the world map, and Combat Extended and more languages.
+The current version is **4.3.1**. See [CHANGELOG.md](CHANGELOG.md) for every release, from the first three nations to the Electric Age. Next on the roadmap: nation cities, quests on the world map, and Combat Extended and more languages.
 
 ## Feedback
 

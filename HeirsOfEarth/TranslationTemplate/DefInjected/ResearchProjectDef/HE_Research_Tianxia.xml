@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Tianxia_Jian.label>jian</HE_Tianxia_Jian.label>
-  <HE_Tianxia_Jian.description>The straight double-edged sword, called the gentleman of weapons.</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Jian.description>The straight double-edged sword, called the gentleman of weapons.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Jian.description>
   <HE_Tianxia_Silk.label>silk weaving</HE_Tianxia_Silk.label>
-  <HE_Tianxia_Silk.description>Raise silkworms on mulberry leaves and weave their thread into the softest cloth in the world.</HE_Tianxia_Silk.description>
+  <HE_Tianxia_Silk.description>Raise silkworms on mulberry leaves and weave their thread into the softest cloth in the world.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Silk.description>
   <HE_Tianxia_JadeFloor.label>jade courtyards</HE_Tianxia_JadeFloor.label>
-  <HE_Tianxia_JadeFloor.description>Pave courtyards with polished green stone set in patterns of clouds.</HE_Tianxia_JadeFloor.description>
+  <HE_Tianxia_JadeFloor.description>Pave courtyards with polished green stone set in patterns of clouds.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</HE_Tianxia_JadeFloor.description>
   <HE_Tianxia_Hanfu.label>hanfu</HE_Tianxia_Hanfu.label>
-  <HE_Tianxia_Hanfu.description>Sew the flowing robes with crossed collars and wide sleeves worn by scholars and officials.</HE_Tianxia_Hanfu.description>
+  <HE_Tianxia_Hanfu.description>Sew the flowing robes with crossed collars and wide sleeves worn by scholars and officials.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Hanfu.description>
   <HE_Tianxia_Dumplings.label>dumplings</HE_Tianxia_Dumplings.label>
-  <HE_Tianxia_Dumplings.description>Fold minced meat and greens into thin dough and steam them in bamboo baskets.</HE_Tianxia_Dumplings.description>
+  <HE_Tianxia_Dumplings.description>Fold minced meat and greens into thin dough and steam them in bamboo baskets.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Dumplings.description>
   <HE_Tianxia_PaperLantern.label>paper lanterns</HE_Tianxia_PaperLantern.label>
-  <HE_Tianxia_PaperLantern.description>Stretch oiled paper over bamboo frames and hang red lanterns along every path.</HE_Tianxia_PaperLantern.description>
+  <HE_Tianxia_PaperLantern.description>Stretch oiled paper over bamboo frames and hang red lanterns along every path.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</HE_Tianxia_PaperLantern.description>
   <HE_Tianxia_TeaCulture.label>tea culture</HE_Tianxia_TeaCulture.label>
   <HE_Tianxia_TeaCulture.description>A cup of tea before sleep, a cup on waking. The body rests better when the mind is calm.
 

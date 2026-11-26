@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Kemet_Spear.label>river spear</HE_Kemet_Spear.label>
-  <HE_Kemet_Spear.description>A light spear with a socketed bronze head, carried by every levy that marches out when the flood is low.</HE_Kemet_Spear.description>
+  <HE_Kemet_Spear.description>A light spear with a socketed bronze head, carried by every levy that marches out when the flood is low.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</HE_Kemet_Spear.description>
   <HE_Kemet_Kalasiris.label>kalasiris</HE_Kemet_Kalasiris.label>
-  <HE_Kemet_Kalasiris.description>Weave fine linen into the long sheath dress worn in the heat of the river valley.</HE_Kemet_Kalasiris.description>
+  <HE_Kemet_Kalasiris.description>Weave fine linen into the long sheath dress worn in the heat of the river valley.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</HE_Kemet_Kalasiris.description>
   <HE_Kemet_Irrigation.label>irrigation</HE_Kemet_Irrigation.label>
-  <HE_Kemet_Irrigation.description>Dig shallow canals, carry the river's black silt onto the fields and let the water do the rest.</HE_Kemet_Irrigation.description>
+  <HE_Kemet_Irrigation.description>Dig shallow canals, carry the river's black silt onto the fields and let the water do the rest.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</HE_Kemet_Irrigation.description>
   <HE_Kemet_CompositeBow.label>composite bow</HE_Kemet_CompositeBow.label>
-  <HE_Kemet_CompositeBow.description>Glue horn, wood and sinew into a short, angled bow that shoots further than a plain stave.</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_CompositeBow.description>Glue horn, wood and sinew into a short, angled bow that shoots further than a plain stave.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</HE_Kemet_CompositeBow.description>
   <HE_Kemet_Bread.label>date bread</HE_Kemet_Bread.label>
-  <HE_Kemet_Bread.description>Bake round loaves of emmer and dates in clay moulds, with onions and soft cheese on the side.</HE_Kemet_Bread.description>
+  <HE_Kemet_Bread.description>Bake round loaves of emmer and dates in clay moulds, with onions and soft cheese on the side.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</HE_Kemet_Bread.description>
   <HE_Kemet_RiverSoil.label>gift of the river</HE_Kemet_RiverSoil.label>
   <HE_Kemet_RiverSoil.description>Every field is measured after the flood and planted in the same week. Nothing grows by luck in Kemet.
 

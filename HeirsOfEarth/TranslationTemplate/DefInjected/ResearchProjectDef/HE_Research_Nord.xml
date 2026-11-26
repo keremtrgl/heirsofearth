@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Nord_Longhouse.label>longhouse hearth</HE_Nord_Longhouse.label>
-  <HE_Nord_Longhouse.description>A long stone-lined fire pit that warms a whole hall and cooks the evening meal.</HE_Nord_Longhouse.description>
+  <HE_Nord_Longhouse.description>A long stone-lined fire pit that warms a whole hall and cooks the evening meal.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</HE_Nord_Longhouse.description>
   <HE_Nord_Planks.label>split planks</HE_Nord_Planks.label>
-  <HE_Nord_Planks.description>Split logs along the grain into wide planks for floors and benches.</HE_Nord_Planks.description>
+  <HE_Nord_Planks.description>Split logs along the grain into wide planks for floors and benches.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</HE_Nord_Planks.description>
   <HE_Nord_HuntBow.label>hunting bow</HE_Nord_HuntBow.label>
-  <HE_Nord_HuntBow.description>A simple elm bow for deer in the pine forests, quick to make and quick to draw.</HE_Nord_HuntBow.description>
+  <HE_Nord_HuntBow.description>A simple elm bow for deer in the pine forests, quick to make and quick to draw.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</HE_Nord_HuntBow.description>
   <HE_Nord_Fur.label>fur and wool</HE_Nord_Fur.label>
-  <HE_Nord_Fur.description>Sew heavy fur cloaks and thick woollen tunics for the long winters.</HE_Nord_Fur.description>
+  <HE_Nord_Fur.description>Sew heavy fur cloaks and thick woollen tunics for the long winters.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</HE_Nord_Fur.description>
   <HE_Nord_Skyr.label>skyr</HE_Nord_Skyr.label>
-  <HE_Nord_Skyr.description>Curdle skimmed milk into skyr, a thick sour dairy that keeps through the winter.</HE_Nord_Skyr.description>
+  <HE_Nord_Skyr.description>Curdle skimmed milk into skyr, a thick sour dairy that keeps through the winter.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</HE_Nord_Skyr.description>
   <HE_Nord_Runes.label>rune stones</HE_Nord_Runes.label>
-  <HE_Nord_Runes.description>Carve runes into standing stones to remember the dead and boast of the living.</HE_Nord_Runes.description>
+  <HE_Nord_Runes.description>Carve runes into standing stones to remember the dead and boast of the living.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</HE_Nord_Runes.description>
   <HE_Nord_Blood.label>northern blood</HE_Nord_Blood.label>
   <HE_Nord_Blood.description>Children who bathe in icy rivers grow into adults who do not notice the cold.
 

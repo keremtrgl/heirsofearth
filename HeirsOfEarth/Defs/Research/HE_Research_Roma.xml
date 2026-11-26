@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Roma_Standard</defName>
     <label>legion standards</label>
-    <description>Weave the red standards of the legions and raise them over your halls.</description>
+    <description>Weave the red standards of the legions and raise them over your halls.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Roma</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Roma_Concrete</defName>
     <label>Roman concrete</label>
-    <description>Mix lime, volcanic ash and rubble into a concrete that hardens even under water. Unlocks concrete floors.</description>
+    <description>Mix lime, volcanic ash and rubble into a concrete that hardens even under water. Unlocks concrete floors.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Roma</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Roma_Smithing</defName>
     <label>legion smithing</label>
-    <description>Forge the gladius, the short sword of the legions.</description>
+    <description>Forge the gladius, the short sword of the legions.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>700</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -45,6 +53,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Roma</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -179,7 +188,9 @@ Requires 25 Nova Roman knowledge unless this is your heritage.</description>
   <ResearchProjectDef>
     <defName>HE_Roma_Garum</defName>
     <label>garum and puls</label>
-    <description>Learn the kitchen of the legions: thick puls porridge and the fermented fish sauce garum that every Roman table expects.</description>
+    <description>Learn the kitchen of the legions: thick puls porridge and the fermented fish sauce garum that every Roman table expects.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -188,6 +199,7 @@ Requires 25 Nova Roman knowledge unless this is your heritage.</description>
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Roma</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -579,8 +591,8 @@ Requires 45 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>5.4</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -605,8 +617,8 @@ Requires 60 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>5.4</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Roma_SteamArmy</li>
       <li>Machining</li>
@@ -630,8 +642,8 @@ Requires 50 Nova Roman knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>5.4</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>4.4</researchViewX>
+    <researchViewY>10.08</researchViewY>
     <prerequisites>
       <li>HE_Roma_SteamArmy</li>
       <li>Electricity</li>

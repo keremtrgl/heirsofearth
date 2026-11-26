@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Hellas_Dory</defName>
     <label>dory</label>
-    <description>The long thrusting spear of the hoplite, with a leaf-shaped head and a bronze butt-spike.</description>
+    <description>The long thrusting spear of the hoplite, with a leaf-shaped head and a bronze butt-spike.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Hellas</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Hellas_Toxon</defName>
     <label>toxon</label>
-    <description>The Scythian-style recurve bow, short enough to use behind a shield wall.</description>
+    <description>The Scythian-style recurve bow, short enough to use behind a shield wall.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Hellas</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Hellas_Meander</defName>
     <label>meander floors</label>
-    <description>Lay pale stone floors bordered with the endless key pattern of the old temples.</description>
+    <description>Lay pale stone floors bordered with the endless key pattern of the old temples.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,13 +50,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Hellas</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Hellas_Chiton</defName>
     <label>chiton</label>
-    <description>Sew the light pinned tunic worn by every citizen from the agora to the gymnasium.</description>
+    <description>Sew the light pinned tunic worn by every citizen from the agora to the gymnasium.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -60,13 +71,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Hellas</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Hellas_Maza</defName>
     <label>maza</label>
-    <description>Barley cakes kneaded with olive oil and honey: plain food that keeps a hoplite marching.</description>
+    <description>Barley cakes kneaded with olive oil and honey: plain food that keeps a hoplite marching.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -75,13 +89,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Hellas</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Hellas_Columns</defName>
     <label>fluted columns</label>
-    <description>Carve fluted columns and crown them with statues of the city's heroes.</description>
+    <description>Carve fluted columns and crown them with statues of the city's heroes.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>600</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -93,6 +110,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Hellas</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -493,8 +511,8 @@ Requires 45 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>15</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>14</researchViewX>
+    <researchViewY>7.92</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -519,8 +537,8 @@ Requires 60 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>15</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>14</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>HE_Hellas_SteamArmy</li>
       <li>Machining</li>
@@ -544,8 +562,8 @@ Requires 50 Hellenic knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>15</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>14</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Hellas_SteamArmy</li>
       <li>Electricity</li>

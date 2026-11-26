@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Inti_Sling.label>sapan</HE_Inti_Sling.label>
-  <HE_Inti_Sling.description>Örgü yünden bir sapan ve bir kese dere taşı. İyi bir sapancı yüz adımdan bir miğferi kırabilir.</HE_Inti_Sling.description>
+  <HE_Inti_Sling.description>Örgü yünden bir sapan ve bir kese dere taşı. İyi bir sapancı yüz adımdan bir miğferi kırabilir.
+
+Mirasın bu değilse 5 İnti bilgisi gerekir.</HE_Inti_Sling.description>
   <HE_Inti_Unku.label>unku tuniği</HE_Inti_Unku.label>
-  <HE_Inti_Unku.description>Alpaka yününden dize kadar uzun tuniği doku; tocapu desenli kareleri onu giyenin kim olduğunu anlatır.</HE_Inti_Unku.description>
+  <HE_Inti_Unku.description>Alpaka yününden dize kadar uzun tuniği doku; tocapu desenli kareleri onu giyenin kim olduğunu anlatır.
+
+Mirasın bu değilse 5 İnti bilgisi gerekir.</HE_Inti_Unku.description>
   <HE_Inti_Terraces.label>teraslar</HE_Inti_Terraces.label>
-  <HE_Inti_Terraces.description>Yamacı basamaklara böl, her birini taşla duvarla ve taşınan toprakla doldur. Bir yamaç tarlaya dönüşür.</HE_Inti_Terraces.description>
+  <HE_Inti_Terraces.description>Yamacı basamaklara böl, her birini taşla duvarla ve taşınan toprakla doldur. Bir yamaç tarlaya dönüşür.
+
+Mirasın bu değilse 5 İnti bilgisi gerekir.</HE_Inti_Terraces.description>
   <HE_Inti_Chaski.label>çaski koşucuları</HE_Inti_Chaski.label>
   <HE_Inti_Chaski.description>Her yol boyunca konuşlanmış bayrak koşucuları; kendilerini duyurmak için bir deniz kabuğu ve taşımak için bir quipu. Bir haber imparatorluğu günler içinde geçer.
 
@@ -13,7 +19,9 @@ Gelenek: Kolonistler %3 daha hızlı yürür.
 
 Mirasın bu değilse 15 İnti bilgisi gerekir.</HE_Inti_Chaski.description>
   <HE_Inti_Pachamanca.label>paçamanka</HE_Inti_Pachamanca.label>
-  <HE_Inti_Pachamanca.description>Bir çukurda taşları ısıt, üzerlerine et, patates ve mısır koy, her şeyi otlar ve toprakla ört ve bekle.</HE_Inti_Pachamanca.description>
+  <HE_Inti_Pachamanca.description>Bir çukurda taşları ısıt, üzerlerine et, patates ve mısır koy, her şeyi otlar ve toprakla ört ve bekle.
+
+Mirasın bu değilse 5 İnti bilgisi gerekir.</HE_Inti_Pachamanca.description>
   <HE_Inti_Ayni.label>ayni</HE_Inti_Ayni.label>
   <HE_Inti_Ayni.description>Bugün ben senin tarlanı kazmana yardım ederim, yarın sen benim damımı örtmeme. İş ödünç verilir ve her zaman geri ödenir.
 

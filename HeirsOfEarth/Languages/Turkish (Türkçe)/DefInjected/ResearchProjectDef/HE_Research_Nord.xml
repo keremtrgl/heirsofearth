@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Nord_Longhouse.label>uzun ev ocağı</HE_Nord_Longhouse.label>
-  <HE_Nord_Longhouse.description>Bütün bir salonu ısıtan ve akşam yemeğini pişiren, taş kaplı uzun bir ateş çukuru.</HE_Nord_Longhouse.description>
+  <HE_Nord_Longhouse.description>Bütün bir salonu ısıtan ve akşam yemeğini pişiren, taş kaplı uzun bir ateş çukuru.
+
+Mirasın bu değilse 5 Nordheim bilgisi gerekir.</HE_Nord_Longhouse.description>
   <HE_Nord_Planks.label>yarma tahta</HE_Nord_Planks.label>
-  <HE_Nord_Planks.description>Kütükleri lif yönünde yararak zemin ve sıralar için geniş tahtalar elde et.</HE_Nord_Planks.description>
+  <HE_Nord_Planks.description>Kütükleri lif yönünde yararak zemin ve sıralar için geniş tahtalar elde et.
+
+Mirasın bu değilse 5 Nordheim bilgisi gerekir.</HE_Nord_Planks.description>
   <HE_Nord_HuntBow.label>av yayı</HE_Nord_HuntBow.label>
-  <HE_Nord_HuntBow.description>Çam ormanlarındaki geyikler için basit bir karaağaç yay; yapması da çekmesi de çabuktur.</HE_Nord_HuntBow.description>
+  <HE_Nord_HuntBow.description>Çam ormanlarındaki geyikler için basit bir karaağaç yay; yapması da çekmesi de çabuktur.
+
+Mirasın bu değilse 5 Nordheim bilgisi gerekir.</HE_Nord_HuntBow.description>
   <HE_Nord_Fur.label>kürk ve yün</HE_Nord_Fur.label>
-  <HE_Nord_Fur.description>Uzun kışlar için ağır kürk pelerinler ve kalın yün tunikler dik.</HE_Nord_Fur.description>
+  <HE_Nord_Fur.description>Uzun kışlar için ağır kürk pelerinler ve kalın yün tunikler dik.
+
+Mirasın bu değilse 5 Nordheim bilgisi gerekir.</HE_Nord_Fur.description>
   <HE_Nord_Skyr.label>skyr</HE_Nord_Skyr.label>
-  <HE_Nord_Skyr.description>Yağı alınmış sütü pıhtılaştırarak kışa dayanan koyu ve ekşi bir süt ürünü olan skyr yap.</HE_Nord_Skyr.description>
+  <HE_Nord_Skyr.description>Yağı alınmış sütü pıhtılaştırarak kışa dayanan koyu ve ekşi bir süt ürünü olan skyr yap.
+
+Mirasın bu değilse 5 Nordheim bilgisi gerekir.</HE_Nord_Skyr.description>
   <HE_Nord_Runes.label>run taşları</HE_Nord_Runes.label>
-  <HE_Nord_Runes.description>Ölüleri anmak ve yaşayanları övmek için dikili taşlara runlar kazı.</HE_Nord_Runes.description>
+  <HE_Nord_Runes.description>Ölüleri anmak ve yaşayanları övmek için dikili taşlara runlar kazı.
+
+Mirasın bu değilse 5 Nordheim bilgisi gerekir.</HE_Nord_Runes.description>
   <HE_Nord_Blood.label>kuzey kanı</HE_Nord_Blood.label>
   <HE_Nord_Blood.description>Buz gibi nehirlerde yıkanan çocuklar, soğuğu fark etmeyen yetişkinlere dönüşür.
 

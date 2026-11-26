@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Yamato_Yari.label>yari</HE_Yamato_Yari.label>
-  <HE_Yamato_Yari.description>Piyadelerin düz ağızlı mızrağı; bir atlıyı uzakta tutacak kadar uzundur.</HE_Yamato_Yari.description>
+  <HE_Yamato_Yari.description>Piyadelerin düz ağızlı mızrağı; bir atlıyı uzakta tutacak kadar uzundur.
+
+Mirasın bu değilse 5 Yamato bilgisi gerekir.</HE_Yamato_Yari.description>
   <HE_Yamato_Yumi.label>yumi</HE_Yamato_Yumi.label>
-  <HE_Yamato_Yumi.description>Ortasının altından tutulan ve kulağa kadar çekilen, Yamato'nun uzun asimetrik yayı.</HE_Yamato_Yumi.description>
+  <HE_Yamato_Yumi.description>Ortasının altından tutulan ve kulağa kadar çekilen, Yamato'nun uzun asimetrik yayı.
+
+Mirasın bu değilse 5 Yamato bilgisi gerekir.</HE_Yamato_Yumi.description>
   <HE_Yamato_Tatami.label>tatami ve çakıl bahçeleri</HE_Yamato_Tatami.label>
-  <HE_Yamato_Tatami.description>Örülmüş saman tatami hasırları ser ve beyaz çakılı durgun su desenlerine tırmıkla.</HE_Yamato_Tatami.description>
+  <HE_Yamato_Tatami.description>Örülmüş saman tatami hasırları ser ve beyaz çakılı durgun su desenlerine tırmıkla.
+
+Mirasın bu değilse 5 Yamato bilgisi gerekir.</HE_Yamato_Tatami.description>
   <HE_Yamato_Kimono.label>kimono</HE_Yamato_Kimono.label>
-  <HE_Yamato_Kimono.description>Yamato'nun her sınıfının giydiği sarmalı ve kuşaklı giysiyi dik.</HE_Yamato_Kimono.description>
+  <HE_Yamato_Kimono.description>Yamato'nun her sınıfının giydiği sarmalı ve kuşaklı giysiyi dik.
+
+Mirasın bu değilse 5 Yamato bilgisi gerekir.</HE_Yamato_Kimono.description>
   <HE_Yamato_Onigiri.label>onigiri</HE_Yamato_Onigiri.label>
-  <HE_Yamato_Onigiri.description>Üçgen biçiminde sıkıştırılıp yosuna sarılmış pirinç: askerlerin ve hacıların yol yemeği.</HE_Yamato_Onigiri.description>
+  <HE_Yamato_Onigiri.description>Üçgen biçiminde sıkıştırılıp yosuna sarılmış pirinç: askerlerin ve hacıların yol yemeği.
+
+Mirasın bu değilse 5 Yamato bilgisi gerekir.</HE_Yamato_Onigiri.description>
   <HE_Yamato_Torii.label>torii kapıları</HE_Yamato_Torii.label>
-  <HE_Yamato_Torii.description>Gündelik dünyadan kutsal bir yere geçişi işaret eden kırmızı kapıları dik.</HE_Yamato_Torii.description>
+  <HE_Yamato_Torii.description>Gündelik dünyadan kutsal bir yere geçişi işaret eden kırmızı kapıları dik.
+
+Mirasın bu değilse 5 Yamato bilgisi gerekir.</HE_Yamato_Torii.description>
   <HE_Yamato_Levy.label>ashigaru seferberliği</HE_Yamato_Levy.label>
   <HE_Yamato_Levy.description>Her çiftçi kapısının yanında bir mızrak tutar ve davul çaldığında nereye koşacağını bilir.
 

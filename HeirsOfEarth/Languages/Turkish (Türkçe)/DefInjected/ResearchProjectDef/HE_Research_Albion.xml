@@ -5,13 +5,21 @@
 
 Mirasın bu değilse 10 Albion bilgisi gerekir.</HE_Albion_Sabre.description>
   <HE_Albion_Tweed.label>tüvit dokuma</HE_Albion_Tweed.label>
-  <HE_Albion_Tweed.description>Yağmuru sırtından atan, sönük kareli, kaba ve sıcak yün kumaş doku.</HE_Albion_Tweed.description>
+  <HE_Albion_Tweed.description>Yağmuru sırtından atan, sönük kareli, kaba ve sıcak yün kumaş doku.
+
+Mirasın bu değilse 5 Albion bilgisi gerekir.</HE_Albion_Tweed.description>
   <HE_Albion_Brick.label>tuğla ve arnavut kaldırımı</HE_Albion_Brick.label>
-  <HE_Albion_Brick.description>Avlular için kırmızı tuğla pişir ve sokaklara yuvarlak arnavut taşları döşe.</HE_Albion_Brick.description>
+  <HE_Albion_Brick.description>Avlular için kırmızı tuğla pişir ve sokaklara yuvarlak arnavut taşları döşe.
+
+Mirasın bu değilse 5 Albion bilgisi gerekir.</HE_Albion_Brick.description>
   <HE_Albion_MeatPie.label>etli börek</HE_Albion_MeatPie.label>
-  <HE_Albion_MeatPie.description>Eti ve sosu günlerce dayanan ve yolda iyi taşınan kalın bir hamur kabuğuna kapat.</HE_Albion_MeatPie.description>
+  <HE_Albion_MeatPie.description>Eti ve sosu günlerce dayanan ve yolda iyi taşınan kalın bir hamur kabuğuna kapat.
+
+Mirasın bu değilse 5 Albion bilgisi gerekir.</HE_Albion_MeatPie.description>
   <HE_Albion_Pub.label>meyhane</HE_Albion_Pub.label>
-  <HE_Albion_Pub.description>Uzun bir meşe masa, bir fıçı bira ve bir dart tahtası: Albion'un gerçek parlamentosu.</HE_Albion_Pub.description>
+  <HE_Albion_Pub.description>Uzun bir meşe masa, bir fıçı bira ve bir dart tahtası: Albion'un gerçek parlamentosu.
+
+Mirasın bu değilse 5 Albion bilgisi gerekir.</HE_Albion_Pub.description>
   <HE_Albion_Enclosure.label>çitleme</HE_Albion_Enclosure.label>
   <HE_Albion_Enclosure.description>Ortak tarlaları çitle ve kâr için işle. Hasat büyür; komşular homurdanır.
 

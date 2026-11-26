@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Hellas_Dory.label>dory</HE_Hellas_Dory.label>
-  <HE_Hellas_Dory.description>The long thrusting spear of the hoplite, with a leaf-shaped head and a bronze butt-spike.</HE_Hellas_Dory.description>
+  <HE_Hellas_Dory.description>The long thrusting spear of the hoplite, with a leaf-shaped head and a bronze butt-spike.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</HE_Hellas_Dory.description>
   <HE_Hellas_Toxon.label>toxon</HE_Hellas_Toxon.label>
-  <HE_Hellas_Toxon.description>The Scythian-style recurve bow, short enough to use behind a shield wall.</HE_Hellas_Toxon.description>
+  <HE_Hellas_Toxon.description>The Scythian-style recurve bow, short enough to use behind a shield wall.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</HE_Hellas_Toxon.description>
   <HE_Hellas_Meander.label>meander floors</HE_Hellas_Meander.label>
-  <HE_Hellas_Meander.description>Lay pale stone floors bordered with the endless key pattern of the old temples.</HE_Hellas_Meander.description>
+  <HE_Hellas_Meander.description>Lay pale stone floors bordered with the endless key pattern of the old temples.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</HE_Hellas_Meander.description>
   <HE_Hellas_Chiton.label>chiton</HE_Hellas_Chiton.label>
-  <HE_Hellas_Chiton.description>Sew the light pinned tunic worn by every citizen from the agora to the gymnasium.</HE_Hellas_Chiton.description>
+  <HE_Hellas_Chiton.description>Sew the light pinned tunic worn by every citizen from the agora to the gymnasium.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</HE_Hellas_Chiton.description>
   <HE_Hellas_Maza.label>maza</HE_Hellas_Maza.label>
-  <HE_Hellas_Maza.description>Barley cakes kneaded with olive oil and honey: plain food that keeps a hoplite marching.</HE_Hellas_Maza.description>
+  <HE_Hellas_Maza.description>Barley cakes kneaded with olive oil and honey: plain food that keeps a hoplite marching.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</HE_Hellas_Maza.description>
   <HE_Hellas_Columns.label>fluted columns</HE_Hellas_Columns.label>
-  <HE_Hellas_Columns.description>Carve fluted columns and crown them with statues of the city's heroes.</HE_Hellas_Columns.description>
+  <HE_Hellas_Columns.description>Carve fluted columns and crown them with statues of the city's heroes.
+
+Requires 5 Hellenic knowledge unless this is your heritage.</HE_Hellas_Columns.description>
   <HE_Hellas_Olympic.label>olympic games</HE_Hellas_Olympic.label>
   <HE_Hellas_Olympic.description>Every fourth summer the cities stop their wars and race each other instead.
 

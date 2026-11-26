@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Tianxia_Jian</defName>
     <label>jian</label>
-    <description>The straight double-edged sword, called the gentleman of weapons.</description>
+    <description>The straight double-edged sword, called the gentleman of weapons.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Tianxia</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Tianxia_Silk</defName>
     <label>silk weaving</label>
-    <description>Raise silkworms on mulberry leaves and weave their thread into the softest cloth in the world.</description>
+    <description>Raise silkworms on mulberry leaves and weave their thread into the softest cloth in the world.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>500</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Tianxia</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Tianxia_JadeFloor</defName>
     <label>jade courtyards</label>
-    <description>Pave courtyards with polished green stone set in patterns of clouds.</description>
+    <description>Pave courtyards with polished green stone set in patterns of clouds.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>550</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,13 +50,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Tianxia</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Tianxia_Hanfu</defName>
     <label>hanfu</label>
-    <description>Sew the flowing robes with crossed collars and wide sleeves worn by scholars and officials.</description>
+    <description>Sew the flowing robes with crossed collars and wide sleeves worn by scholars and officials.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -60,13 +71,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Tianxia</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Tianxia_Dumplings</defName>
     <label>dumplings</label>
-    <description>Fold minced meat and greens into thin dough and steam them in bamboo baskets.</description>
+    <description>Fold minced meat and greens into thin dough and steam them in bamboo baskets.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -75,13 +89,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Tianxia</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Tianxia_PaperLantern</defName>
     <label>paper lanterns</label>
-    <description>Stretch oiled paper over bamboo frames and hang red lanterns along every path.</description>
+    <description>Stretch oiled paper over bamboo frames and hang red lanterns along every path.
+
+Requires 5 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -93,6 +110,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Tianxia</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -491,8 +509,8 @@ Requires 45 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>18.2</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>7.92</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -517,8 +535,8 @@ Requires 60 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>18.2</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>HE_Tianxia_SteamArmy</li>
       <li>Machining</li>
@@ -542,8 +560,8 @@ Requires 50 Tianxia knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>18.2</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>17.2</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Tianxia_SteamArmy</li>
       <li>Electricity</li>

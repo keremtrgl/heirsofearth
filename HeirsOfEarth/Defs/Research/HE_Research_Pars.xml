@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Pars_Spear</defName>
     <label>immortal's spear</label>
-    <description>A long spear with a leaf blade at one end and a silver pomegranate at the other, the weapon of the royal guard.</description>
+    <description>A long spear with a leaf blade at one end and a silver pomegranate at the other, the weapon of the royal guard.
+
+Requires 5 Parsian knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Pars</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Pars_Kaftan</defName>
     <label>silk kaftan</label>
-    <description>Cut the long open coat of the court, lined, embroidered and belted with a sash.</description>
+    <description>Cut the long open coat of the court, lined, embroidered and belted with a sash.
+
+Requires 5 Parsian knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Pars</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Pars_Garden</defName>
     <label>paradise garden</label>
-    <description>Wall a square of ground, split it in four with water channels and plant it with roses, cypress and fruit trees. The old word for it was paradise.</description>
+    <description>Wall a square of ground, split it in four with water channels and plant it with roses, cypress and fruit trees. The old word for it was paradise.
+
+Requires 5 Parsian knowledge unless this is your heritage.</description>
     <baseCost>550</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,13 +50,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Pars</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Pars_Bow</defName>
     <label>recurve bow</label>
-    <description>A short recurve bow carried in a combined case with its arrows, light enough to shoot from the saddle.</description>
+    <description>A short recurve bow carried in a combined case with its arrows, light enough to shoot from the saddle.
+
+Requires 5 Parsian knowledge unless this is your heritage.</description>
     <baseCost>550</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -60,13 +71,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Pars</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Pars_Pilaf</defName>
     <label>saffron pilaf</label>
-    <description>Rice steamed with saffron, barberries and butter until the bottom turns to a golden crust, the best part.</description>
+    <description>Rice steamed with saffron, barberries and butter until the bottom turns to a golden crust, the best part.
+
+Requires 5 Parsian knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -78,6 +92,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Pars</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -512,8 +527,8 @@ Requires 45 Parsian knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>27.8</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>7.92</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -537,8 +552,8 @@ Requires 60 Parsian knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>27.8</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>HE_Pars_SteamArmy</li>
       <li>Machining</li>
@@ -562,8 +577,8 @@ Requires 50 Parsian knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>27.8</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>26.8</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Pars_SteamArmy</li>
       <li>Electricity</li>

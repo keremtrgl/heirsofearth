@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Roma_Standard.label>legion standards</HE_Roma_Standard.label>
-  <HE_Roma_Standard.description>Weave the red standards of the legions and raise them over your halls.</HE_Roma_Standard.description>
+  <HE_Roma_Standard.description>Weave the red standards of the legions and raise them over your halls.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</HE_Roma_Standard.description>
   <HE_Roma_Concrete.label>Roman concrete</HE_Roma_Concrete.label>
-  <HE_Roma_Concrete.description>Mix lime, volcanic ash and rubble into a concrete that hardens even under water. Unlocks concrete floors.</HE_Roma_Concrete.description>
+  <HE_Roma_Concrete.description>Mix lime, volcanic ash and rubble into a concrete that hardens even under water. Unlocks concrete floors.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</HE_Roma_Concrete.description>
   <HE_Roma_Smithing.label>legion smithing</HE_Roma_Smithing.label>
-  <HE_Roma_Smithing.description>Forge the gladius, the short sword of the legions.</HE_Roma_Smithing.description>
+  <HE_Roma_Smithing.description>Forge the gladius, the short sword of the legions.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</HE_Roma_Smithing.description>
   <HE_Roma_Pilum.label>pilum</HE_Roma_Pilum.label>
   <HE_Roma_Pilum.description>Make the pilum, a heavy spear with a long iron shank that punches through shields and armor.
 
@@ -33,7 +39,9 @@ Tradition: Studying Nova Roman items gives 25% more knowledge.
 
 Requires 25 Nova Roman knowledge unless this is your heritage.</HE_Roma_Senate.description>
   <HE_Roma_Garum.label>garum and puls</HE_Roma_Garum.label>
-  <HE_Roma_Garum.description>Learn the kitchen of the legions: thick puls porridge and the fermented fish sauce garum that every Roman table expects.</HE_Roma_Garum.description>
+  <HE_Roma_Garum.description>Learn the kitchen of the legions: thick puls porridge and the fermented fish sauce garum that every Roman table expects.
+
+Requires 5 Nova Roman knowledge unless this is your heritage.</HE_Roma_Garum.description>
   <HE_Roma_Cursus.label>cursus honorum</HE_Roma_Cursus.label>
   <HE_Roma_Cursus.description>The ladder of public offices: every citizen who wants to lead must first serve, learn and be judged.
 

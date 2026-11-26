@@ -12,6 +12,28 @@ namespace HeProbe
         private static List<ThingDef> AgeFour(NationDef n) => DefDatabase<ThingDef>.AllDefsListForReading
             .Where(d => d.GetModExtension<HeirsAgeExt>() is HeirsAgeExt e && e.nation == n && e.age == 4).ToList();
 
+        /// <summary>4.3.1: every nation's project needs some knowledge of that nation, and no two research nodes overlap.</summary>
+        public static void ResearchTree()
+        {
+            List<ResearchProjectDef> mine = DefDatabase<ResearchProjectDef>.AllDefsListForReading.Where(r => r.tab?.defName == "HE_WorldHeritage").ToList();
+            List<string> free = mine.Where(r => r.GetModExtension<HeirsResearchExt>() is HeirsResearchExt e && e.nation != null && e.knowledge <= 0f)
+                .Select(r => r.defName).ToList();
+            P.Check("every foreign project needs knowledge", free.Count == 0, string.Join(",", free.Take(8)));
+            List<string> overlap = new List<string>();
+            for (int i = 0; i < mine.Count; i++)
+                for (int j = i + 1; j < mine.Count; j++)
+                    if (Mathf.Abs(mine[i].ResearchViewX - mine[j].ResearchViewX) < 0.99f && Mathf.Abs(mine[i].ResearchViewY - mine[j].ResearchViewY) < 0.6f)
+                        overlap.Add(mine[i].defName + "/" + mine[j].defName);
+            P.Check("no research nodes overlap", mine.Count > 200 && overlap.Count == 0, mine.Count + " nodes, " + string.Join(",", overlap.Take(5)));
+            HeirsGame g = HeirsGame.Get;
+            ResearchProjectDef foreign = mine.FirstOrDefault(r => r.GetModExtension<HeirsResearchExt>() is HeirsResearchExt e && e.nation != null
+                && e.nation != g.heritage && g.Knowledge(e.nation) < e.knowledge && e.age <= 1 && e.requiresChain == null && !r.IsFinished);
+            if (foreign != null)
+            {
+                P.Check("a foreign entry project waits for knowledge", !g.CanStart(foreign, out string why) && !why.NullOrEmpty(), foreign.defName);
+            }
+        }
+
         /// <summary>Each nation has exactly one Electric gun, helmet, uniform and work, all drawn, and its two researches.</summary>
         public static void Content()
         {

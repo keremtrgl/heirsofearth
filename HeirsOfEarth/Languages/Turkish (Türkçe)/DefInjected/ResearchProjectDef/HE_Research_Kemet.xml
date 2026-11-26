@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Kemet_Spear.label>nehir mızrağı</HE_Kemet_Spear.label>
-  <HE_Kemet_Spear.description>Taşkın çekildiğinde yola çıkan her askerin taşıdığı, soketli bronz uçlu hafif bir mızrak.</HE_Kemet_Spear.description>
+  <HE_Kemet_Spear.description>Taşkın çekildiğinde yola çıkan her askerin taşıdığı, soketli bronz uçlu hafif bir mızrak.
+
+Mirasın bu değilse 5 Kemet bilgisi gerekir.</HE_Kemet_Spear.description>
   <HE_Kemet_Kalasiris.label>kalasiris</HE_Kemet_Kalasiris.label>
-  <HE_Kemet_Kalasiris.description>İnce keteni nehir vadisinin sıcağında giyilen uzun, dar elbiseye doku.</HE_Kemet_Kalasiris.description>
+  <HE_Kemet_Kalasiris.description>İnce keteni nehir vadisinin sıcağında giyilen uzun, dar elbiseye doku.
+
+Mirasın bu değilse 5 Kemet bilgisi gerekir.</HE_Kemet_Kalasiris.description>
   <HE_Kemet_Irrigation.label>sulama</HE_Kemet_Irrigation.label>
-  <HE_Kemet_Irrigation.description>Sığ kanallar kaz, nehrin kara balçığını tarlalara taşı ve gerisini suya bırak.</HE_Kemet_Irrigation.description>
+  <HE_Kemet_Irrigation.description>Sığ kanallar kaz, nehrin kara balçığını tarlalara taşı ve gerisini suya bırak.
+
+Mirasın bu değilse 5 Kemet bilgisi gerekir.</HE_Kemet_Irrigation.description>
   <HE_Kemet_CompositeBow.label>kompozit yay</HE_Kemet_CompositeBow.label>
-  <HE_Kemet_CompositeBow.description>Boynuz, ahşap ve siniri yapıştırarak düz bir yaydan daha uzağa atan kısa, köşeli bir yay yap.</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_CompositeBow.description>Boynuz, ahşap ve siniri yapıştırarak düz bir yaydan daha uzağa atan kısa, köşeli bir yay yap.
+
+Mirasın bu değilse 5 Kemet bilgisi gerekir.</HE_Kemet_CompositeBow.description>
   <HE_Kemet_Bread.label>hurmalı ekmek</HE_Kemet_Bread.label>
-  <HE_Kemet_Bread.description>Kızıl buğday ve hurmadan yuvarlak somunları kil kalıplarda pişir; yanına soğan ve yumuşak peynir koy.</HE_Kemet_Bread.description>
+  <HE_Kemet_Bread.description>Kızıl buğday ve hurmadan yuvarlak somunları kil kalıplarda pişir; yanına soğan ve yumuşak peynir koy.
+
+Mirasın bu değilse 5 Kemet bilgisi gerekir.</HE_Kemet_Bread.description>
   <HE_Kemet_RiverSoil.label>nehrin armağanı</HE_Kemet_RiverSoil.label>
   <HE_Kemet_RiverSoil.description>Her tarla taşkından sonra ölçülür ve aynı hafta ekilir. Kemet'te hiçbir şey şans eseri yetişmez.
 

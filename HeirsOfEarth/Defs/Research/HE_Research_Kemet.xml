@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Kemet_Spear</defName>
     <label>river spear</label>
-    <description>A light spear with a socketed bronze head, carried by every levy that marches out when the flood is low.</description>
+    <description>A light spear with a socketed bronze head, carried by every levy that marches out when the flood is low.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Kemet</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Kemet_Kalasiris</defName>
     <label>kalasiris</label>
-    <description>Weave fine linen into the long sheath dress worn in the heat of the river valley.</description>
+    <description>Weave fine linen into the long sheath dress worn in the heat of the river valley.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Kemet</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Kemet_Irrigation</defName>
     <label>irrigation</label>
-    <description>Dig shallow canals, carry the river's black silt onto the fields and let the water do the rest.</description>
+    <description>Dig shallow canals, carry the river's black silt onto the fields and let the water do the rest.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>550</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,13 +50,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Kemet</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Kemet_CompositeBow</defName>
     <label>composite bow</label>
-    <description>Glue horn, wood and sinew into a short, angled bow that shoots further than a plain stave.</description>
+    <description>Glue horn, wood and sinew into a short, angled bow that shoots further than a plain stave.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>550</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -60,13 +71,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Kemet</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Kemet_Bread</defName>
     <label>date bread</label>
-    <description>Bake round loaves of emmer and dates in clay moulds, with onions and soft cheese on the side.</description>
+    <description>Bake round loaves of emmer and dates in clay moulds, with onions and soft cheese on the side.
+
+Requires 5 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -78,6 +92,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Kemet</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -576,8 +591,8 @@ Requires 45 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>24.6</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>23.6</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -602,8 +617,8 @@ Requires 60 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>24.6</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>23.6</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Kemet_SteamArmy</li>
       <li>Machining</li>
@@ -627,8 +642,8 @@ Requires 50 Kemetic knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>24.6</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>23.6</researchViewX>
+    <researchViewY>10.08</researchViewY>
     <prerequisites>
       <li>HE_Kemet_SteamArmy</li>
       <li>Electricity</li>

@@ -113,7 +113,7 @@ Opens after you finish 3 nation stories, or keep 3 trade roads open for a year.<
     <baseCost>1600</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>2</researchViewX>
+    <researchViewX>1</researchViewX>
     <researchViewY>3.6</researchViewY>
     <prerequisites>
       <li>Smithing</li>
@@ -129,7 +129,7 @@ Opens after you finish 3 nation stories, or keep 3 trade roads open for a year.<
     <baseCost>900</baseCost>
     <techLevel>Medieval</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>2</researchViewX>
+    <researchViewX>1</researchViewX>
     <researchViewY>4.32</researchViewY>
     <prerequisites>
       <li>Smithing</li>

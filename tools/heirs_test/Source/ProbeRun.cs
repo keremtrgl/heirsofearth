@@ -153,6 +153,7 @@ namespace HeProbe
                 Add("4.3 electric gates", Probe43.Gates);
                 Add("4.3 electric troops", Probe43.Troops);
                 Add("4.3 electric content", Probe43.Content);
+                Add("4.3.1 research tree", Probe43.ResearchTree);
                 Add("4.3 works", Probe43.Works);
                 Add("4.3 world fair", Probe43.Fair);
                 Add("art references", ProbeArt.References);

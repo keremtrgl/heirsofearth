@@ -3,7 +3,9 @@
   <ResearchProjectDef>
     <defName>HE_Nord_Longhouse</defName>
     <label>longhouse hearth</label>
-    <description>A long stone-lined fire pit that warms a whole hall and cooks the evening meal.</description>
+    <description>A long stone-lined fire pit that warms a whole hall and cooks the evening meal.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -12,13 +14,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Nord</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Nord_Planks</defName>
     <label>split planks</label>
-    <description>Split logs along the grain into wide planks for floors and benches.</description>
+    <description>Split logs along the grain into wide planks for floors and benches.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -27,13 +32,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Nord</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Nord_HuntBow</defName>
     <label>hunting bow</label>
-    <description>A simple elm bow for deer in the pine forests, quick to make and quick to draw.</description>
+    <description>A simple elm bow for deer in the pine forests, quick to make and quick to draw.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -42,13 +50,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Nord</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Nord_Fur</defName>
     <label>fur and wool</label>
-    <description>Sew heavy fur cloaks and thick woollen tunics for the long winters.</description>
+    <description>Sew heavy fur cloaks and thick woollen tunics for the long winters.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>450</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -60,13 +71,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Nord</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Nord_Skyr</defName>
     <label>skyr</label>
-    <description>Curdle skimmed milk into skyr, a thick sour dairy that keeps through the winter.</description>
+    <description>Curdle skimmed milk into skyr, a thick sour dairy that keeps through the winter.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>400</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -75,13 +89,16 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Nord</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
   <ResearchProjectDef>
     <defName>HE_Nord_Runes</defName>
     <label>rune stones</label>
-    <description>Carve runes into standing stones to remember the dead and boast of the living.</description>
+    <description>Carve runes into standing stones to remember the dead and boast of the living.
+
+Requires 5 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>600</baseCost>
     <techLevel>Neolithic</techLevel>
     <tab>HE_WorldHeritage</tab>
@@ -93,6 +110,7 @@
     <modExtensions>
       <li Class="HeirsOfEarth.HeirsResearchExt">
         <nation>HE_Nord</nation>
+        <knowledge>5</knowledge>
       </li>
     </modExtensions>
   </ResearchProjectDef>
@@ -538,8 +556,8 @@ Requires 45 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>2200</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>11.8</researchViewX>
-    <researchViewY>7.2</researchViewY>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>8.64</researchViewY>
     <prerequisites>
       <li>Gunsmithing</li>
       <li>ComplexClothing</li>
@@ -564,8 +582,8 @@ Requires 60 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>3000</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>11.8</researchViewX>
-    <researchViewY>7.92</researchViewY>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>9.36</researchViewY>
     <prerequisites>
       <li>HE_Nord_SteamArmy</li>
       <li>Machining</li>
@@ -589,8 +607,8 @@ Requires 50 Nordheim knowledge unless this is your heritage.</description>
     <baseCost>2600</baseCost>
     <techLevel>Industrial</techLevel>
     <tab>HE_WorldHeritage</tab>
-    <researchViewX>11.8</researchViewX>
-    <researchViewY>8.64</researchViewY>
+    <researchViewX>10.8</researchViewX>
+    <researchViewY>10.08</researchViewY>
     <prerequisites>
       <li>HE_Nord_SteamArmy</li>
       <li>Electricity</li>

@@ -1,17 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
   <HE_Yamato_Yari.label>yari</HE_Yamato_Yari.label>
-  <HE_Yamato_Yari.description>The straight-bladed spear of the foot soldiers, long enough to keep a horseman at bay.</HE_Yamato_Yari.description>
+  <HE_Yamato_Yari.description>The straight-bladed spear of the foot soldiers, long enough to keep a horseman at bay.
+
+Requires 5 Yamato knowledge unless this is your heritage.</HE_Yamato_Yari.description>
   <HE_Yamato_Yumi.label>yumi</HE_Yamato_Yumi.label>
-  <HE_Yamato_Yumi.description>The tall asymmetric bow of Yamato, gripped below its middle and drawn to the ear.</HE_Yamato_Yumi.description>
+  <HE_Yamato_Yumi.description>The tall asymmetric bow of Yamato, gripped below its middle and drawn to the ear.
+
+Requires 5 Yamato knowledge unless this is your heritage.</HE_Yamato_Yumi.description>
   <HE_Yamato_Tatami.label>tatami and gravel gardens</HE_Yamato_Tatami.label>
-  <HE_Yamato_Tatami.description>Lay woven straw tatami mats and rake white gravel into the patterns of still water.</HE_Yamato_Tatami.description>
+  <HE_Yamato_Tatami.description>Lay woven straw tatami mats and rake white gravel into the patterns of still water.
+
+Requires 5 Yamato knowledge unless this is your heritage.</HE_Yamato_Tatami.description>
   <HE_Yamato_Kimono.label>kimono</HE_Yamato_Kimono.label>
-  <HE_Yamato_Kimono.description>Sew the wrapped and belted robe worn by every class of Yamato.</HE_Yamato_Kimono.description>
+  <HE_Yamato_Kimono.description>Sew the wrapped and belted robe worn by every class of Yamato.
+
+Requires 5 Yamato knowledge unless this is your heritage.</HE_Yamato_Kimono.description>
   <HE_Yamato_Onigiri.label>onigiri</HE_Yamato_Onigiri.label>
-  <HE_Yamato_Onigiri.description>Rice pressed into triangles and wrapped in seaweed: the travelling food of soldiers and pilgrims.</HE_Yamato_Onigiri.description>
+  <HE_Yamato_Onigiri.description>Rice pressed into triangles and wrapped in seaweed: the travelling food of soldiers and pilgrims.
+
+Requires 5 Yamato knowledge unless this is your heritage.</HE_Yamato_Onigiri.description>
   <HE_Yamato_Torii.label>torii gates</HE_Yamato_Torii.label>
-  <HE_Yamato_Torii.description>Raise the red gates that mark the passage from the everyday world into a sacred place.</HE_Yamato_Torii.description>
+  <HE_Yamato_Torii.description>Raise the red gates that mark the passage from the everyday world into a sacred place.
+
+Requires 5 Yamato knowledge unless this is your heritage.</HE_Yamato_Torii.description>
   <HE_Yamato_Levy.label>ashigaru levy</HE_Yamato_Levy.label>
   <HE_Yamato_Levy.description>Every farmer keeps a spear by the door and knows where to run when the drum sounds.
 
