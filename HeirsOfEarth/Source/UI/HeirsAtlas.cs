@@ -328,7 +328,7 @@ namespace HeirsOfEarth
             {
                 int age = HeirsAges.AgeOf(nation);
                 lines.Add("HE_AtlasAge".Translate() + ": " + HeirsAges.AgeLabel(age)
-                          + (age < 3 ? " (" + "HE_AgesToward".Translate(HeirsAges.AgeLabel(age + 1), HeirsAges.ToNext(nation).ToStringPercent()).Resolve() + ")" : ""));
+                          + (age < HeirsAges.LastAge ? " (" + "HE_AgesToward".Translate(HeirsAges.AgeLabel(age + 1), HeirsAges.ToNext(nation).ToStringPercent()).Resolve() + ")" : ""));
             }
             return string.Join("\n", lines);
         }

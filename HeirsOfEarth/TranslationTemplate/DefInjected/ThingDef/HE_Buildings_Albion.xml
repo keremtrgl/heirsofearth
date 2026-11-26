@@ -17,4 +17,6 @@
   <HE_Albion_FieldCannon.comps.1.fuelLabel>Shells</HE_Albion_FieldCannon.comps.1.fuelLabel>
   <HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>Shells</HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>
   <HE_Albion_FieldCannon.comps.1.outOfFuelMessage>Needs steel for shells</HE_Albion_FieldCannon.comps.1.outOfFuelMessage>
+  <HE_Albion_TelegraphOffice.label>telegraph office</HE_Albion_TelegraphOffice.label>
+  <HE_Albion_TelegraphOffice.description>A desk with a brass telegraph key, a sounder and a battery of cells, wired to a mast outside. While it has power it sends greetings to the other nations every quadrum: +1 goodwill with each heir nation that is not hostile. Only one office counts.</HE_Albion_TelegraphOffice.description>
 </LanguageData>

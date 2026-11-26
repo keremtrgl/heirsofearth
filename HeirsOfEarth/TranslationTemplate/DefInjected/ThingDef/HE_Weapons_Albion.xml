@@ -25,4 +25,8 @@
   <HE_Albion_Breechloader.description>A falling-block rifle: pull the lever, drop in a cartridge, close it and fire. A trained man fires ten aimed rounds a minute.</HE_Albion_Breechloader.description>
   <HE_Albion_Breechloader.tools.0.label>stock</HE_Albion_Breechloader.tools.0.label>
   <HE_Albion_Breechloader.tools.1.label>bayonet</HE_Albion_Breechloader.tools.1.label>
+  <HE_Albion_LightMG.label>Albion light machine gun</HE_Albion_LightMG.label>
+  <HE_Albion_LightMG.description>A pan-fed light machine gun with a cooling jacket round the barrel and a bipod folded under it. Heavy and slow to bring up, it puts six rounds where one would go. The works of Albion make it with more steel and fewer fine parts than most such guns.</HE_Albion_LightMG.description>
+  <HE_Albion_LightMG.tools.0.label>stock</HE_Albion_LightMG.tools.0.label>
+  <HE_Albion_LightMG.tools.1.label>barrel</HE_Albion_LightMG.tools.1.label>
 </LanguageData>

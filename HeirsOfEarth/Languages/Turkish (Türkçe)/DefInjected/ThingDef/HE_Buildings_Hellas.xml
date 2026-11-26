@@ -17,4 +17,6 @@
   <HE_Hellas_Lithobolos.comps.1.fuelLabel>Taşlar</HE_Hellas_Lithobolos.comps.1.fuelLabel>
   <HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>Taşlar</HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>
   <HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>Taş yığını gerekli</HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>
+  <HE_Hellas_Lectern.label>lambalı kürsü</HE_Hellas_Lectern.label>
+  <HE_Hellas_Lectern.description>Bir kişinin yüksek sesle okuyup ötekilerin not tuttuğu, elektrikli bir okuma lambası olan zeytin ağacından uzun bir kürsü. Bir araştırma masasının yakınına konulup elektrik verilince araştırmayı %6 hızlandırır.</HE_Hellas_Lectern.description>
 </LanguageData>

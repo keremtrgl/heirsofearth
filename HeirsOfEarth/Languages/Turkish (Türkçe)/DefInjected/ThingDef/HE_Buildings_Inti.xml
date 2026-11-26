@@ -17,4 +17,6 @@
   <HE_Inti_SlingStand.comps.1.fuelLabel>Taşlar</HE_Inti_SlingStand.comps.1.fuelLabel>
   <HE_Inti_SlingStand.comps.1.fuelGizmoLabel>Taşlar</HE_Inti_SlingStand.comps.1.fuelGizmoLabel>
   <HE_Inti_SlingStand.comps.1.outOfFuelMessage>Taş yığını gerekli</HE_Inti_SlingStand.comps.1.outOfFuelMessage>
+  <HE_Inti_ColdStore.label>soğuk depo</HE_Inti_ColdStore.label>
+  <HE_Inti_ColdStore.description>Kalın duvarlı, mantar kaplı kapılı ve çatısında vızıldayan elektrikli bir soğutucusu olan bir taş ambar. Elektriği olduğu sürece içinde saklanan yiyecek normal hızın üçte birinde bozulur. Her karede üç yığın tutar.</HE_Inti_ColdStore.description>
 </LanguageData>

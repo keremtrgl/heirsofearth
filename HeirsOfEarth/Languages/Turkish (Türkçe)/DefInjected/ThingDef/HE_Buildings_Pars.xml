@@ -17,4 +17,6 @@
   <HE_Pars_NaftThrower.comps.1.fuelLabel>Neft</HE_Pars_NaftThrower.comps.1.fuelLabel>
   <HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>Neft</HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>
   <HE_Pars_NaftThrower.comps.1.outOfFuelMessage>Kimyasal yakıt gerekli</HE_Pars_NaftThrower.comps.1.outOfFuelMessage>
+  <HE_Pars_ElectricLoom.label>elektrikli halı tezgâhı</HE_Pars_ElectricLoom.label>
+  <HE_Pars_ElectricLoom.description>Dokumacı düğümleri atarken mekiği ve tarağı küçük bir motorla çalışan bir halı tezgâhı. Halı tezgâhının her işini alır ve %40 daha hızlı çalışır.</HE_Pars_ElectricLoom.description>
 </LanguageData>

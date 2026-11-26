@@ -17,4 +17,6 @@
   <HE_Kemet_ArcherPylon.comps.1.fuelLabel>Arrows</HE_Kemet_ArcherPylon.comps.1.fuelLabel>
   <HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>Arrows</HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>
   <HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>
+  <HE_Kemet_IrrigationPump.label>irrigation pump</HE_Kemet_IrrigationPump.label>
+  <HE_Kemet_IrrigationPump.description>An electric pump that lifts water from below and sends it through clay channels to the fields around it. While it has power, plants within 6 cells grow 15% faster.</HE_Kemet_IrrigationPump.description>
 </LanguageData>

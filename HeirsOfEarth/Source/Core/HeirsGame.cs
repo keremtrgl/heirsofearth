@@ -19,7 +19,7 @@ namespace HeirsOfEarth
     }
 
     /// <summary>Per-save state: heritage, Culture Knowledge, chronicle and story chains.</summary>
-    public class HeirsGame : GameComponent
+    public class HeirsGame : GameComponent, IThingHolder
     {
         public const int ChronicleLimit = 200;
 
@@ -33,6 +33,21 @@ namespace HeirsOfEarth
         public string councilWon;
         public int lastMeetingTick = -9999999;
         public int lastTributeTick;
+        public int lastTelegramTick;
+        // 4.3 World Fair: held once; the exhibit is kept here while it is away
+        public bool worldFairHeld;
+        public ThingOwner<Thing> fairExhibit;
+        public int fairReturnTick;
+        public NationDef fairHost;
+
+        public IThingHolder ParentHolder => null;
+
+        public ThingOwner GetDirectlyHeldThings() => fairExhibit;
+
+        public void GetChildHolders(List<IThingHolder> outChildren)
+        {
+            ThingOwnerUtility.AppendThingHoldersFromThings(outChildren, GetDirectlyHeldThings());
+        }
         public List<NationDef> vassals = new List<NationDef>();
         public Dictionary<NationDef, int> peakSettlements = new Dictionary<NationDef, int>();
         public Dictionary<NationDef, int> fealtyOffers = new Dictionary<NationDef, int>();
@@ -49,6 +64,7 @@ namespace HeirsOfEarth
 
         public HeirsGame(Game game)
         {
+            fairExhibit = new ThingOwner<Thing>(this);
         }
 
         public static HeirsGame Get => Current.Game?.GetComponent<HeirsGame>();
@@ -203,6 +219,8 @@ namespace HeirsOfEarth
                 HeirsRoutes.TickRare(this);
                 HeirsCouncil.TickRare(this);
                 HeirsErrands.TickRare(this);
+                HeirsWorks.TickRare(this);
+                HeirsEvents.FairTick(this);
             }
             if (Find.TickManager.TicksGame % GenDate.TicksPerDay == 1234)
             {
@@ -223,6 +241,11 @@ namespace HeirsOfEarth
             Scribe_Values.Look(ref councilWon, "councilWon");
             Scribe_Values.Look(ref lastMeetingTick, "lastMeetingTick", -9999999);
             Scribe_Values.Look(ref lastTributeTick, "lastTributeTick");
+            Scribe_Values.Look(ref lastTelegramTick, "lastTelegramTick");
+            Scribe_Values.Look(ref worldFairHeld, "worldFairHeld");
+            Scribe_Deep.Look(ref fairExhibit, "fairExhibit", this);
+            Scribe_Values.Look(ref fairReturnTick, "fairReturnTick");
+            Scribe_Defs.Look(ref fairHost, "fairHost");
             Scribe_Collections.Look(ref vassals, "vassals", LookMode.Def);
             Scribe_Collections.Look(ref peakSettlements, "peakSettlements", LookMode.Def, LookMode.Value);
             Scribe_Collections.Look(ref fealtyOffers, "fealtyOffers", LookMode.Def, LookMode.Value);
@@ -235,6 +258,7 @@ namespace HeirsOfEarth
             if (Scribe.mode == LoadSaveMode.PostLoadInit)
             {
                 if (knowledge == null) knowledge = new Dictionary<NationDef, float>();
+                if (fairExhibit == null) fairExhibit = new ThingOwner<Thing>(this);
                 if (chronicle == null) chronicle = new List<ChronicleEntry>();
                 if (chains == null) chains = new Dictionary<ChainDef, ChainState>();
                 if (routes == null) routes = new List<TradeRoute>();

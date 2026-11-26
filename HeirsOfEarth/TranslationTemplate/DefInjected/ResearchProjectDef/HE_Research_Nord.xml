@@ -100,4 +100,16 @@ Requires 30 Nordheim knowledge unless this is your heritage.</HE_Nord_PowderArms
 Outside your heritage, this can be researched only once Nordheim has reached the Age of Steam.
 
 Requires 45 Nordheim knowledge unless this is your heritage.</HE_Nord_SteamArmy.description>
+  <HE_Nord_ElectricArmy.label>Nordic electric army</HE_Nord_ElectricArmy.label>
+  <HE_Nord_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Nordheim raised when the wires came.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Electric Age.
+
+Requires 60 Nordheim knowledge unless this is your heritage.</HE_Nord_ElectricArmy.description>
+  <HE_Nord_Works.label>Nordic works</HE_Nord_Works.label>
+  <HE_Nord_Works.description>The first electric works of Nordheim: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Electric Age.
+
+Requires 50 Nordheim knowledge unless this is your heritage.</HE_Nord_Works.description>
 </LanguageData>

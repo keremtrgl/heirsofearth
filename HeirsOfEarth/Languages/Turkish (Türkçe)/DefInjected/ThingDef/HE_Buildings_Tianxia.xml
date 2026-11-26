@@ -15,4 +15,6 @@
   <HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>Ateşli oklar</HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>
   <HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>Oklar</HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>
   <HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>
+  <HE_Tianxia_PrintingPress.label>ipek baskı makinesi</HE_Tianxia_PrintingPress.label>
+  <HE_Tianxia_PrintingPress.description>İpeğe ve pamuğa desenleri tek geçişte basan oymalı silindirleri olan elektrikli bir baskı makinesi. Bir terzi tezgâhının yakınına konulup elektrik verilince terziliği %12 hızlandırır.</HE_Tianxia_PrintingPress.description>
 </LanguageData>

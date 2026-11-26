@@ -25,4 +25,8 @@
   <HE_Yamato_Rifle.description>A bolt-action rifle with a black-lacquered stock, a brass cherry blossom on the wrist and a sword bayonet. Very accurate at long range.</HE_Yamato_Rifle.description>
   <HE_Yamato_Rifle.tools.0.label>stock</HE_Yamato_Rifle.tools.0.label>
   <HE_Yamato_Rifle.tools.1.label>bayonet</HE_Yamato_Rifle.tools.1.label>
+  <HE_Yamato_Sniper.label>Yamato sniper rifle</HE_Yamato_Sniper.label>
+  <HE_Yamato_Sniper.description>A long bolt rifle with a black-lacquered stock, a brass telescope and a cherry blossom on the scope ring. Slow to aim, but at the end of its reach it is the most accurate gun of the nations.</HE_Yamato_Sniper.description>
+  <HE_Yamato_Sniper.tools.0.label>stock</HE_Yamato_Sniper.tools.0.label>
+  <HE_Yamato_Sniper.tools.1.label>barrel</HE_Yamato_Sniper.tools.1.label>
 </LanguageData>

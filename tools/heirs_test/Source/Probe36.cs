@@ -46,7 +46,8 @@ namespace HeProbe
                 bool own = path != null && path.StartsWith("HeirsOfEarth/Apparel/Worn/");
                 bool sides = own && new[] { "_south", "_east", "_north" }.All(r => ContentFinder<UnityEngine.Texture2D>.Get(path + r, false) != null
                     && (!hat.apparel.useWornGraphicMask || ContentFinder<UnityEngine.Texture2D>.Get(path + r + "m", false) != null));
-                P.Check("worn look " + hat.defName, sides && (hat.MadeFromStuff == hat.apparel.useWornGraphicMask), path);
+                // 4.3: stuffed hats need the mask; fixed-colour gear (the Electric steel helmets) may use one for its own colour
+                P.Check("worn look " + hat.defName, sides && (!hat.MadeFromStuff || hat.apparel.useWornGraphicMask), path);
             }
             // wreaths and bands sit on the hair; vanilla would hide the hair under any head apparel without skip flags
             foreach (string band in new[] { "HE_Roma_Laurel", "HE_Hellas_OliveWreath", "HE_Nord_Circlet", "HE_Inti_Mascaypacha" })

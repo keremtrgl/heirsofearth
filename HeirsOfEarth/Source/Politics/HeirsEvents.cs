@@ -10,7 +10,7 @@ namespace HeirsOfEarth
     /// 3.4 world events between the nations: the Games (hosted by Hellas, or a pious court), a great fair (caravans from several
     /// nations), a famine (a nation asks for food) and a plague (a nation asks for medicine; the sickness can travel the trade roads).
     /// </summary>
-    public static class HeirsEvents
+    public static partial class HeirsEvents
     {
         public const float EventChance = 0.35f;
         public const float PlagueSpreadChance = 0.25f;
@@ -161,7 +161,7 @@ namespace HeirsOfEarth
         public static bool CanGive(string kind, int amount) => kind == "Famine" ? NutritionAvailable() >= amount : kind != "Plague" || MedicineAvailable() >= amount;
 
         /// <summary>Applies the answer to an event letter. option 0 = accept, 1 = refuse. Returns a line for the result message.</summary>
-        public static string Resolve(string kind, NationDef nation, int amount, Pawn pawn, int option)
+        public static string Resolve(string kind, NationDef nation, int amount, Pawn pawn, int option, Thing exhibit = null)
         {
             HeirsGame game = HeirsGame.Get;
             bool accept = option == 0;
@@ -187,6 +187,12 @@ namespace HeirsOfEarth
                     }
                     HeirsPolitics.Affect(nation, 5);
                     Messages.Message("HE_GamesLost".Translate(pawn.LabelShort, nation.LabelCap, pawn.Named("PAWN")), pawn, MessageTypeDefOf.NeutralEvent, false);
+                    return null;
+                case "WorldFair":
+                    if (!accept || !SendExhibit(ExhibitFor(exhibit), nation))
+                    {
+                        HeirsPolitics.Affect(nation, -FairDeclineCost);
+                    }
                     return null;
                 case "Famine":
                     if (accept && NutritionAvailable() >= amount)
@@ -253,6 +259,7 @@ namespace HeirsOfEarth
         public NationDef nation;
         public int amount;
         public Pawn pawn;
+        public Thing exhibit;
         public bool resolved;
 
         public override IEnumerable<DiaOption> Choices
@@ -267,16 +274,20 @@ namespace HeirsOfEarth
                 for (int i = 0; i < 2; i++)
                 {
                     int option = i;
-                    var dia = new DiaOption(("HE_" + kind + (i == 0 ? "Accept" : "Refuse")).Translate(amount, pawn?.LabelShort ?? ""))
+                    var dia = new DiaOption(("HE_" + kind + (i == 0 ? "Accept" : "Refuse")).Translate(amount, pawn?.LabelShort ?? (exhibit != null ? HeirsEvents.Inner(exhibit).LabelCap : "")))
                     {
                         action = () =>
                         {
                             resolved = true;
-                            HeirsEvents.Resolve(kind, nation, amount, pawn, option);
+                            HeirsEvents.Resolve(kind, nation, amount, pawn, option, exhibit);
                             Find.LetterStack.RemoveLetter(this);
                         },
                         resolveTree = true
                     };
+                    if (i == 0 && kind == "WorldFair" && HeirsEvents.ExhibitFor(exhibit) == null)
+                    {
+                        dia.Disable("HE_WorldFairMissing".Translate());
+                    }
                     if (i == 0 && !HeirsEvents.CanGive(kind, amount))
                     {
                         dia.Disable(("HE_" + kind + "Missing").Translate(amount));
@@ -297,6 +308,7 @@ namespace HeirsOfEarth
             Scribe_Defs.Look(ref nation, "nation");
             Scribe_Values.Look(ref amount, "amount");
             Scribe_References.Look(ref pawn, "pawn");
+            Scribe_References.Look(ref exhibit, "exhibit");
             Scribe_Values.Look(ref resolved, "resolved");
         }
     }

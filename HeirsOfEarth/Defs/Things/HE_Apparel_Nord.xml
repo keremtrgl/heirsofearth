@@ -412,4 +412,149 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Nord_SteelHelmet</defName>
+    <label>Nordic steel helmet</label>
+    <description>A deep steel helmet that flares over the neck, with a raised nasal ridge and a black raven painted on the side.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Nord_SteelHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>6000</WorkToMake>
+      <Mass>1.4</Mass>
+      <EquipDelay>1</EquipDelay>
+      <MaxHitPoints>120</MaxHitPoints>
+      <ArmorRating_Sharp>0.4</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.18</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.2</ArmorRating_Heat>
+      <Insulation_Cold>2</Insulation_Cold>
+    </statBases>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_NordGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/HE_Nord_SteelHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>HE_NordApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.36, 0.40, 0.42)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Nord_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Nord</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Nord_FieldUniform</defName>
+    <label>Nordic field uniform</label>
+    <description>A long field-grey tunic with a dark green collar, pewter buttons and deep skirt pockets. Warm in the snow.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Nord_FieldUniform</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Cloth>60</Cloth>
+      <Steel>10</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>1.8</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>200</MaxHitPoints>
+      <ArmorRating_Sharp>0.22</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.14</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.15</ArmorRating_Heat>
+      <Insulation_Cold>22</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+    </statBases>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_NordGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Nord_FieldUniform</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>HE_NordApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.42, 0.45, 0.42)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Nord_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Nord</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
 </Defs>

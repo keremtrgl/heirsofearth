@@ -92,4 +92,16 @@ Requires 40 Parsian knowledge unless this is your heritage.</HE_Pars_NaftThrower
 Outside your heritage, this can be researched only once Pars has reached the Age of Steam.
 
 Requires 45 Parsian knowledge unless this is your heritage.</HE_Pars_SteamArmy.description>
+  <HE_Pars_ElectricArmy.label>Persian electric army</HE_Pars_ElectricArmy.label>
+  <HE_Pars_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Pars raised when the wires came.
+
+Outside your heritage, this can be researched only once Pars has reached the Electric Age.
+
+Requires 60 Parsian knowledge unless this is your heritage.</HE_Pars_ElectricArmy.description>
+  <HE_Pars_Works.label>Persian works</HE_Pars_Works.label>
+  <HE_Pars_Works.description>The first electric works of Pars: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Pars has reached the Electric Age.
+
+Requires 50 Parsian knowledge unless this is your heritage.</HE_Pars_Works.description>
 </LanguageData>

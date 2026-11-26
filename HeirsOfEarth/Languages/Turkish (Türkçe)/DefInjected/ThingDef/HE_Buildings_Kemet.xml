@@ -17,4 +17,6 @@
   <HE_Kemet_ArcherPylon.comps.1.fuelLabel>Oklar</HE_Kemet_ArcherPylon.comps.1.fuelLabel>
   <HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>Oklar</HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>
   <HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>
+  <HE_Kemet_IrrigationPump.label>sulama pompası</HE_Kemet_IrrigationPump.label>
+  <HE_Kemet_IrrigationPump.description>Suyu aşağıdan çekip kil kanallardan çevresindeki tarlalara gönderen elektrikli bir pompa. Elektriği olduğu sürece 6 kare içindeki bitkiler %15 daha hızlı büyür.</HE_Kemet_IrrigationPump.description>
 </LanguageData>

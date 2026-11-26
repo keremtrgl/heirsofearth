@@ -27,4 +27,8 @@
   <HE_Hellas_Rifle.description>A single-shot bolt rifle with silver bands and a long sword bayonet. The evzones carried it into the mountains.</HE_Hellas_Rifle.description>
   <HE_Hellas_Rifle.tools.0.label>stock</HE_Hellas_Rifle.tools.0.label>
   <HE_Hellas_Rifle.tools.1.label>bayonet</HE_Hellas_Rifle.tools.1.label>
+  <HE_Hellas_MountainCarbine.label>Hellenic mountain carbine</HE_Hellas_MountainCarbine.label>
+  <HE_Hellas_MountainCarbine.description>A short, light carbine with silver bands, made for the mountain troops who carry everything up the slopes themselves. Best at the middle distances of the hills.</HE_Hellas_MountainCarbine.description>
+  <HE_Hellas_MountainCarbine.tools.0.label>stock</HE_Hellas_MountainCarbine.tools.0.label>
+  <HE_Hellas_MountainCarbine.tools.1.label>barrel</HE_Hellas_MountainCarbine.tools.1.label>
 </LanguageData>

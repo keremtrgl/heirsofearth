@@ -27,4 +27,8 @@
   <HE_Hellas_Rifle.description>Gümüş bilezikli ve uzun kılıç süngülü, tek atışlı sürgülü bir tüfek. Evzonlar onu dağlara taşıdı.</HE_Hellas_Rifle.description>
   <HE_Hellas_Rifle.tools.0.label>dipçik</HE_Hellas_Rifle.tools.0.label>
   <HE_Hellas_Rifle.tools.1.label>süngü</HE_Hellas_Rifle.tools.1.label>
+  <HE_Hellas_MountainCarbine.label>Helen dağ karabinası</HE_Hellas_MountainCarbine.label>
+  <HE_Hellas_MountainCarbine.description>Her şeyi yamaçlara kendi sırtında taşıyan dağ birlikleri için yapılmış, gümüş bilezikli, kısa ve hafif bir karabina. Tepelerin orta mesafelerinde en iyisidir.</HE_Hellas_MountainCarbine.description>
+  <HE_Hellas_MountainCarbine.tools.0.label>dipçik</HE_Hellas_MountainCarbine.tools.0.label>
+  <HE_Hellas_MountainCarbine.tools.1.label>namlu</HE_Hellas_MountainCarbine.tools.1.label>
 </LanguageData>

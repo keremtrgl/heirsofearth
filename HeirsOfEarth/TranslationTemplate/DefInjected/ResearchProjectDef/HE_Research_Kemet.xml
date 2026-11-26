@@ -106,4 +106,16 @@ Requires 30 Kemetic knowledge unless this is your heritage.</HE_Kemet_PowderArms
 Outside your heritage, this can be researched only once New Kemet has reached the Age of Steam.
 
 Requires 45 Kemetic knowledge unless this is your heritage.</HE_Kemet_SteamArmy.description>
+  <HE_Kemet_ElectricArmy.label>Kemetic electric army</HE_Kemet_ElectricArmy.label>
+  <HE_Kemet_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army New Kemet raised when the wires came.
+
+Outside your heritage, this can be researched only once New Kemet has reached the Electric Age.
+
+Requires 60 Kemetic knowledge unless this is your heritage.</HE_Kemet_ElectricArmy.description>
+  <HE_Kemet_Works.label>Kemetic works</HE_Kemet_Works.label>
+  <HE_Kemet_Works.description>The first electric works of New Kemet: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once New Kemet has reached the Electric Age.
+
+Requires 50 Kemetic knowledge unless this is your heritage.</HE_Kemet_Works.description>
 </LanguageData>

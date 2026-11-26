@@ -17,4 +17,6 @@
   <HE_Yamato_Yagura.comps.1.fuelLabel>Arrows</HE_Yamato_Yagura.comps.1.fuelLabel>
   <HE_Yamato_Yagura.comps.1.fuelGizmoLabel>Arrows</HE_Yamato_Yagura.comps.1.fuelGizmoLabel>
   <HE_Yamato_Yagura.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Yamato_Yagura.comps.1.outOfFuelMessage>
+  <HE_Yamato_TeaUrn.label>electric tea urn</HE_Yamato_TeaUrn.label>
+  <HE_Yamato_TeaUrn.description>A tall urn of black-lacquered copper on a stand, heated by a coil and kept just below the boil all day, with a tray of cups beside it. Colonists gather at it to share tea.</HE_Yamato_TeaUrn.description>
 </LanguageData>

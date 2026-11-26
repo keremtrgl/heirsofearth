@@ -17,4 +17,6 @@
   <HE_Yamato_Yagura.comps.1.fuelLabel>Oklar</HE_Yamato_Yagura.comps.1.fuelLabel>
   <HE_Yamato_Yagura.comps.1.fuelGizmoLabel>Oklar</HE_Yamato_Yagura.comps.1.fuelGizmoLabel>
   <HE_Yamato_Yagura.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Yamato_Yagura.comps.1.outOfFuelMessage>
+  <HE_Yamato_TeaUrn.label>elektrikli çay kazanı</HE_Yamato_TeaUrn.label>
+  <HE_Yamato_TeaUrn.description>Bir ayak üstünde, siyah cilalı bakırdan uzun bir kazan. Bir rezistansla ısıtılır ve gün boyu kaynamanın hemen altında tutulur; yanında bir fincan tepsisi durur. Kolonistler çay paylaşmak için başında toplanır.</HE_Yamato_TeaUrn.description>
 </LanguageData>

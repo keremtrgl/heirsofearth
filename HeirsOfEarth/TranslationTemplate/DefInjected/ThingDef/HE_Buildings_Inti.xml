@@ -17,4 +17,6 @@
   <HE_Inti_SlingStand.comps.1.fuelLabel>Stones</HE_Inti_SlingStand.comps.1.fuelLabel>
   <HE_Inti_SlingStand.comps.1.fuelGizmoLabel>Stones</HE_Inti_SlingStand.comps.1.fuelGizmoLabel>
   <HE_Inti_SlingStand.comps.1.outOfFuelMessage>Needs stone chunks</HE_Inti_SlingStand.comps.1.outOfFuelMessage>
+  <HE_Inti_ColdStore.label>cold store</HE_Inti_ColdStore.label>
+  <HE_Inti_ColdStore.description>A stone storehouse with thick walls, a cork-lined door and an electric cooler humming in the roof. While it has power, food stored in it rots at a third of the normal speed. It holds three stacks per cell.</HE_Inti_ColdStore.description>
 </LanguageData>

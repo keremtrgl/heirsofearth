@@ -470,4 +470,18 @@
       <armorPenetrationBase>0.45</armorPenetrationBase>
     </projectile>
   </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HE_Bullet_TrenchShot</defName>
+    <label>trench shot</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>20</damageAmountBase>
+      <speed>55</speed>
+      <armorPenetrationBase>0.15</armorPenetrationBase>
+    </projectile>
+  </ThingDef>
 </Defs>

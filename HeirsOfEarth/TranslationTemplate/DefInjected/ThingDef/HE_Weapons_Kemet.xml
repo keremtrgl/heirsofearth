@@ -24,4 +24,8 @@
   <HE_Kemet_Musket.description>A long musket bound in brass, its stock inlaid with turquoise and a lotus on the butt. Made in the arsenals of the river, with a long barrel that reaches further than most muskets.</HE_Kemet_Musket.description>
   <HE_Kemet_Musket.tools.0.label>stock</HE_Kemet_Musket.tools.0.label>
   <HE_Kemet_Musket.tools.1.label>barrel</HE_Kemet_Musket.tools.1.label>
+  <HE_Kemet_NileCarbine.label>Nile carbine</HE_Kemet_NileCarbine.label>
+  <HE_Kemet_NileCarbine.description>A carbine with a long barrel for its kind, a brass-bound stock and a lotus on the butt plate. It reaches further than other carbines, and it is cut to stay clean in the sand.</HE_Kemet_NileCarbine.description>
+  <HE_Kemet_NileCarbine.tools.0.label>stock</HE_Kemet_NileCarbine.tools.0.label>
+  <HE_Kemet_NileCarbine.tools.1.label>barrel</HE_Kemet_NileCarbine.tools.1.label>
 </LanguageData>

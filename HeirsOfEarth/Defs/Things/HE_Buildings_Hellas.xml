@@ -375,4 +375,70 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Hellas_Lectern</defName>
+    <label>lamp-lit lectern</label>
+    <description>A tall lectern of olive wood with an electric reading lamp, where one reads aloud and the others take notes. Placed near a research bench and powered, it speeds up research by 6%.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Hellas_Lectern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <costList>
+      <Steel>30</Steel>
+      <WoodLog>40</WoodLog>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>3000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>6</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Hellas_Works</li>
+    </researchPrerequisites>
+    <building />
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>200</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Facility">
+        <statOffsets>
+          <ResearchSpeedFactor>0.06</ResearchSpeedFactor>
+        </statOffsets>
+        <maxSimultaneous>1</maxSimultaneous>
+        <maxDistance>8</maxDistance>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Hellas</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Hellas</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+  </ThingDef>
 </Defs>

@@ -21,4 +21,6 @@
   <HE_Roma_Scorpio.comps.1.fuelLabel>Arrows</HE_Roma_Scorpio.comps.1.fuelLabel>
   <HE_Roma_Scorpio.comps.1.fuelGizmoLabel>Arrows</HE_Roma_Scorpio.comps.1.fuelGizmoLabel>
   <HE_Roma_Scorpio.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Roma_Scorpio.comps.1.outOfFuelMessage>
+  <HE_Roma_ElectricFountain.label>electric fountain</HE_Roma_ElectricFountain.label>
+  <HE_Roma_ElectricFountain.description>A round marble basin with a bronze she-wolf in the middle and an electric pump that throws a crown of water into the air. Lamps under the water light it blue at night. Colonists sit at its rim to rest.</HE_Roma_ElectricFountain.description>
 </LanguageData>

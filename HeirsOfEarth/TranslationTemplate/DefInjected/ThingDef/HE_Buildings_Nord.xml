@@ -17,4 +17,6 @@
   <HE_Nord_BowLoft.comps.1.fuelLabel>Arrows</HE_Nord_BowLoft.comps.1.fuelLabel>
   <HE_Nord_BowLoft.comps.1.fuelGizmoLabel>Arrows</HE_Nord_BowLoft.comps.1.fuelGizmoLabel>
   <HE_Nord_BowLoft.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Nord_BowLoft.comps.1.outOfFuelMessage>
+  <HE_Nord_ElectricForge.label>electric forge</HE_Nord_ElectricForge.label>
+  <HE_Nord_ElectricForge.description>A forge with an electric blower, a power hammer and an anvil worn smooth by generations. It makes everything a smithy makes, 25% faster.</HE_Nord_ElectricForge.description>
 </LanguageData>

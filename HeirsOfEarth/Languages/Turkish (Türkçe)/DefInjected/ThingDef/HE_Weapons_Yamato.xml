@@ -25,4 +25,8 @@
   <HE_Yamato_Rifle.description>Siyah cilalı dipçikli, bileğinde pirinç bir kiraz çiçeği ve kılıç süngüsü olan sürgülü bir tüfek. Uzak mesafede çok isabetlidir.</HE_Yamato_Rifle.description>
   <HE_Yamato_Rifle.tools.0.label>dipçik</HE_Yamato_Rifle.tools.0.label>
   <HE_Yamato_Rifle.tools.1.label>süngü</HE_Yamato_Rifle.tools.1.label>
+  <HE_Yamato_Sniper.label>Yamato keskin nişancı tüfeği</HE_Yamato_Sniper.label>
+  <HE_Yamato_Sniper.description>Siyah cilalı dipçikli, pirinç bir dürbünü ve dürbün halkasında bir kiraz çiçeği olan uzun, sürgülü bir tüfek. Nişan alması yavaştır, ama menzilinin sonunda devletlerin en isabetli silahıdır.</HE_Yamato_Sniper.description>
+  <HE_Yamato_Sniper.tools.0.label>dipçik</HE_Yamato_Sniper.tools.0.label>
+  <HE_Yamato_Sniper.tools.1.label>namlu</HE_Yamato_Sniper.tools.1.label>
 </LanguageData>

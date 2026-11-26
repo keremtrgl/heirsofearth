@@ -5,8 +5,9 @@ from heirs_c_v33 import find
 from heirs_art19 import GARMENTS, BODIES, ROTS
 from heirs_data import tex
 from heirs_art20 import COATS  # the 4.2 uniform coats share the garment table; heirs_c_v42 sets those up
+from heirs_art21 import FIELD_UNIFORMS  # and so do the 4.3 field uniforms (heirs_c_v43)
 
-for garment in [g for g in GARMENTS if g not in COATS]:
+for garment in [g for g in GARMENTS if g not in COATS and g not in FIELD_UNIFORMS]:
     app = find("ThingDef", garment).fields["apparel"]
     path = f"HeirsOfEarth/Apparel/Worn/Body/{garment}"
     app["wornGraphicPath"] = path

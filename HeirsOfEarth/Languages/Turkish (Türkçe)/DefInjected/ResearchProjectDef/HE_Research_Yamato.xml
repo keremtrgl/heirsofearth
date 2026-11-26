@@ -98,4 +98,16 @@ Mirasın bu değilse 40 Yamato bilgisi gerekir.</HE_Yamato_Yagura.description>
 Mirasın bu değilse, ancak Yamato Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Yamato bilgisi gerekir.</HE_Yamato_SteamArmy.description>
+  <HE_Yamato_ElectricArmy.label>Yamato elektrik ordusu</HE_Yamato_ElectricArmy.label>
+  <HE_Yamato_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Yamato'nun kurduğu ordu.
+
+Mirasın bu değilse, ancak Yamato Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Yamato bilgisi gerekir.</HE_Yamato_ElectricArmy.description>
+  <HE_Yamato_Works.label>Yamato işleri</HE_Yamato_Works.label>
+  <HE_Yamato_Works.description>Yamato'nun ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Yamato Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Yamato bilgisi gerekir.</HE_Yamato_Works.description>
 </LanguageData>

@@ -25,4 +25,8 @@
   <HE_Roma_Arquebus.description>A matchlock arquebus with a red-lacquered stock and a brass eagle on the lock. The legions learned powder late and drilled it hard: it is the steadiest of the powder arms up close.</HE_Roma_Arquebus.description>
   <HE_Roma_Arquebus.tools.0.label>stock</HE_Roma_Arquebus.tools.0.label>
   <HE_Roma_Arquebus.tools.1.label>barrel</HE_Roma_Arquebus.tools.1.label>
+  <HE_Roma_Autoloader.label>Roman self-loading rifle</HE_Roma_Autoloader.label>
+  <HE_Roma_Autoloader.description>A self-loading rifle with a red-lacquered stock and a bronze eagle on the receiver. The gas of each shot works the bolt, so the legionary fires again as soon as he has his aim.</HE_Roma_Autoloader.description>
+  <HE_Roma_Autoloader.tools.0.label>stock</HE_Roma_Autoloader.tools.0.label>
+  <HE_Roma_Autoloader.tools.1.label>bayonet</HE_Roma_Autoloader.tools.1.label>
 </LanguageData>

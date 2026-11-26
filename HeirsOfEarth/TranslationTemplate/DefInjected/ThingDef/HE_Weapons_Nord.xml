@@ -29,4 +29,8 @@
   <HE_Nord_Rifle.description>A bolt rifle with a pale birch stock and a box magazine on its side that is filled without opening the action, so it fires faster than other bolt rifles.</HE_Nord_Rifle.description>
   <HE_Nord_Rifle.tools.0.label>stock</HE_Nord_Rifle.tools.0.label>
   <HE_Nord_Rifle.tools.1.label>barrel</HE_Nord_Rifle.tools.1.label>
+  <HE_Nord_TrenchGun.label>Nordic trench gun</HE_Nord_TrenchGun.label>
+  <HE_Nord_TrenchGun.description>A pump-action shotgun with a birch stock, a heat shield over the barrel and a raven on the receiver. Its heavy shot hits harder than other shotguns at the few paces it is meant for.</HE_Nord_TrenchGun.description>
+  <HE_Nord_TrenchGun.tools.0.label>stock</HE_Nord_TrenchGun.tools.0.label>
+  <HE_Nord_TrenchGun.tools.1.label>barrel</HE_Nord_TrenchGun.tools.1.label>
 </LanguageData>

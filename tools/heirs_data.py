@@ -10,7 +10,7 @@ MOD = {
     "packageId": "kerem.heirs",
     "name": "Heirs of Earth",
     "author": "Kerem",
-    "version": "4.2.1",
+    "version": "4.3.0",
     "harmony": "brrainz.harmony",
     "harmonyUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077",
 }
@@ -78,4 +78,5 @@ def load_all():
     import heirs_c_v40  # noqa: F401
     import heirs_c_v41  # noqa: F401
     import heirs_c_v42  # noqa: F401
+    import heirs_c_v43  # noqa: F401
     heirs_c_core.finalize()

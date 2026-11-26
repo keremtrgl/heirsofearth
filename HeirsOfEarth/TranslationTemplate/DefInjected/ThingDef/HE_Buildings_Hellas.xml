@@ -17,4 +17,6 @@
   <HE_Hellas_Lithobolos.comps.1.fuelLabel>Stones</HE_Hellas_Lithobolos.comps.1.fuelLabel>
   <HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>Stones</HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>
   <HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>Needs stone chunks</HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>
+  <HE_Hellas_Lectern.label>lamp-lit lectern</HE_Hellas_Lectern.label>
+  <HE_Hellas_Lectern.description>A tall lectern of olive wood with an electric reading lamp, where one reads aloud and the others take notes. Placed near a research bench and powered, it speeds up research by 6%.</HE_Hellas_Lectern.description>
 </LanguageData>

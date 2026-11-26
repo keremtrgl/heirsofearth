@@ -21,6 +21,14 @@ namespace HeProbe
             P.Check("fourth speed icon built from the game's arrows", icon != null && icon.width == three.width && icon.height == three.height,
                 icon == null ? "null" : icon.width + "x" + icon.height);
             P.Check("fourth speed key shown outside dev mode", !KeyBindingDefOf.TimeSpeed_Ultrafast.devModeOnly);
+            // 4.2.2: the row of five buttons stays on the screen when the game gives room for four at the right edge.
+            float but = TimeControls.TimeButSize.x;
+            Rect four = new Rect(1920f - but * 4f, 1000f, but * 4f, 24f);
+            Rect fit = HeirsSpeed.Fit(four, but * 5f, 1920f);
+            P.Check("fourth speed row stays on screen", fit.xMax <= 1920.01f && Mathf.Approximately(fit.width, but * 5f) && fit.x >= 0f,
+                fit.x + ".." + fit.xMax);
+            Rect wide = HeirsSpeed.Fit(new Rect(1700f, 1000f, 400f, 24f), but * 5f, 1920f);
+            P.Check("fourth speed row pulled back from past the edge", wide.x + but * 5f <= 1920.01f, wide.x.ToString());
             TimeSpeed before = Find.TickManager.CurTimeSpeed;
             Find.TickManager.CurTimeSpeed = TimeSpeed.Ultrafast;
             P.Check("fourth speed runs at 15x", Mathf.Approximately(Find.TickManager.TickRateMultiplier, 15f) || Find.TickManager.slower.ForcedNormalSpeed,

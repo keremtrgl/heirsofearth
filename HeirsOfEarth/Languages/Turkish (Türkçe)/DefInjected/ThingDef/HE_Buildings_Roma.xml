@@ -21,4 +21,6 @@
   <HE_Roma_Scorpio.comps.1.fuelLabel>Oklar</HE_Roma_Scorpio.comps.1.fuelLabel>
   <HE_Roma_Scorpio.comps.1.fuelGizmoLabel>Oklar</HE_Roma_Scorpio.comps.1.fuelGizmoLabel>
   <HE_Roma_Scorpio.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Roma_Scorpio.comps.1.outOfFuelMessage>
+  <HE_Roma_ElectricFountain.label>elektrikli çeşme</HE_Roma_ElectricFountain.label>
+  <HE_Roma_ElectricFountain.description>Ortasında tunçtan bir dişi kurt olan yuvarlak mermer bir havuz ve suyu havaya taç gibi fışkırtan elektrikli bir pompa. Suyun altındaki lambalar onu geceleri maviye boyar. Kolonistler dinlenmek için kenarına oturur.</HE_Roma_ElectricFountain.description>
 </LanguageData>

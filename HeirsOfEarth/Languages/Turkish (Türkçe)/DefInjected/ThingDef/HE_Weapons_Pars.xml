@@ -25,4 +25,8 @@
   <HE_Pars_Rifle.description>Dipçiği hatemle, kemikten, pirinçten ve tahtadan binlerce küçük yıldızla kakılmış sürgülü bir tüfek. Ateş de eden bir hazine ve devletlerin en uzun menzilli tüfeği.</HE_Pars_Rifle.description>
   <HE_Pars_Rifle.tools.0.label>dipçik</HE_Pars_Rifle.tools.0.label>
   <HE_Pars_Rifle.tools.1.label>namlu</HE_Pars_Rifle.tools.1.label>
+  <HE_Pars_LongRifle.label>Pers uzun tüfeği</HE_Pars_LongRifle.label>
+  <HE_Pars_LongRifle.description>Hatem kakmalı dipçikli ve ince pirinç bir nişangâhı olan çok uzun bir tüfek. Nişan alması yavaştır ve devletlerin her silahından daha uzağa erişir.</HE_Pars_LongRifle.description>
+  <HE_Pars_LongRifle.tools.0.label>dipçik</HE_Pars_LongRifle.tools.0.label>
+  <HE_Pars_LongRifle.tools.1.label>namlu</HE_Pars_LongRifle.tools.1.label>
 </LanguageData>

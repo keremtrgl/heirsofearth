@@ -1,0 +1,22 @@
+Heirs of Earth 4.3.0 - The Electric Age
+
+- A fourth age. After the Age of Steam, each nation now goes on to the Electric Age. At the usual pace a nation reaches it after about 14 years; everything that speeds up or holds back the other ages works the same way here. A letter and a chronicle entry announce it, and a setback never takes the age away once it is reached.
+- 9 new firearms, one per nation, all hand-drawn, each level with the closest vanilla gun and each with one strength of its own: the Roman self-loading rifle, the Yamato sniper rifle with a brass telescope, the Nordic trench gun (a pump shotgun with heavy shot), the Hellenic mountain carbine, the Tianxia box pistol (fires short bursts), the Albion light machine gun (pan-fed, six-round bursts, more steel and fewer components than most), the Nile carbine, the Persian long rifle (the longest reach of the age) and the Inti light carbine (the lightest and cheapest).
+- 9 steel helmets, one per nation, each in the nation's colour and drawn for every side: the legion steel helmet, the Yamato, Nordic, Hellenic, Tianxia, Albion and Inti steel helmets, the Kemetic sun helmet and the Persian spiked helmet.
+- 9 field uniforms, one per nation, in drab colours with the nation's own collar, buttons and pockets, drawn for all five body types and every side.
+- Electric Age troops carry the new gun about two times in five, wear the field uniform about half the time and the steel helmet about half the time. Nothing they wear clashes. Leaders keep their own regalia.
+- 9 powered buildings, one per nation, all hand-drawn:
+  - Roman electric fountain: beauty 28, lit blue at night, colonists rest at it (150 W).
+  - Yamato electric tea urn: colonists gather at it to share tea (150 W).
+  - Nordic electric forge: makes everything a smithy makes, 25% faster, including bills from other mods (250 W).
+  - Hellenic lamp-lit lectern: +6% research speed for a research bench nearby while powered (200 W).
+  - Tianxia silk printing press: +12% work speed for a tailoring bench nearby while powered (250 W).
+  - Albion telegraph office: while powered, +1 goodwill every quadrum with each heir nation that is not hostile. Only one office counts (200 W).
+  - Kemetic irrigation pump: plants within 6 cells grow 15% faster while powered (300 W).
+  - Persian electric carpet loom: every bill of the carpet loom, 40% faster (250 W).
+  - Inti cold store: storage where food rots at a third of the normal speed while powered (400 W).
+- 18 new research projects: each nation's electric army (3000) and its works (2600). Traders sell, and your colony may research, a nation's Electric Age items once that nation has reached the age; if it is your heritage, at any time.
+- The World Fair. The first nation to reach the Electric Age holds a fair (if it is hostile to you, the next nation to get there that is not). You may send your colony's best art piece, weapon or book; it comes back by drop pod about ten days later with silver, goodwill with the hosts and every peaceful nation, and knowledge of the host, all growing with its quality (from 150 silver for a normal piece to 1200 for a legendary one). A masterwork or legendary exhibit wins the grand prize: more goodwill everywhere and a chronicle entry. Declining costs 3 goodwill with the hosts. It happens once per game and follows the world events setting.
+- The Heirs tab and the encyclopedia show the fourth age.
+- Fixed: the fourth game speed button could sit partly off the right edge of the screen. The speed row now grows to the left and always stays on screen.
+- Save compatible. Nations already far along may reach the Electric Age soon after loading; each announces it once.

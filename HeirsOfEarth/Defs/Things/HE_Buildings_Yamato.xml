@@ -356,4 +356,61 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Yamato_TeaUrn</defName>
+    <label>electric tea urn</label>
+    <description>A tall urn of black-lacquered copper on a stand, heated by a coil and kept just below the boil all day, with a tray of cups beside it. Colonists gather at it to share tea.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Yamato_TeaUrn</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <costList>
+      <Steel>40</Steel>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>120</MaxHitPoints>
+      <WorkToBuild>2400</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>8</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Yamato_Works</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Social</joyKind>
+    </building>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>150</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Yamato</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
 </Defs>

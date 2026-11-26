@@ -90,4 +90,16 @@ Mirasın bu değilse 30 Hellas bilgisi gerekir.</HE_Hellas_PowderArms.descriptio
 Mirasın bu değilse, ancak Hellas Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Hellas bilgisi gerekir.</HE_Hellas_SteamArmy.description>
+  <HE_Hellas_ElectricArmy.label>Helen elektrik ordusu</HE_Hellas_ElectricArmy.label>
+  <HE_Hellas_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Hellas'ın kurduğu ordu.
+
+Mirasın bu değilse, ancak Hellas Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Hellas bilgisi gerekir.</HE_Hellas_ElectricArmy.description>
+  <HE_Hellas_Works.label>Helen işleri</HE_Hellas_Works.label>
+  <HE_Hellas_Works.description>Hellas'ın ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Hellas Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Hellas bilgisi gerekir.</HE_Hellas_Works.description>
 </LanguageData>

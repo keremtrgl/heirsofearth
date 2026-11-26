@@ -12,4 +12,8 @@
   <HE_Roma_Laurel.description>A wreath of laurel leaves beaten from gold, the crown of a general in triumph. A slave once stood behind him whispering that he was only a man.</HE_Roma_Laurel.description>
   <HE_Roma_FieldCoat.label>legion field coat</HE_Roma_FieldCoat.label>
   <HE_Roma_FieldCoat.description>A long double-breasted coat in imperial crimson with bronze buttons and an eagle gorget at the throat.</HE_Roma_FieldCoat.description>
+  <HE_Roma_SteelHelmet.label>legion steel helmet</HE_Roma_SteelHelmet.label>
+  <HE_Roma_SteelHelmet.description>A steel helmet with a narrow brim and a tall bronze comb, painted crimson, with a bronze eagle on the front.</HE_Roma_SteelHelmet.description>
+  <HE_Roma_FieldUniform.label>legion field uniform</HE_Roma_FieldUniform.label>
+  <HE_Roma_FieldUniform.description>A grey-green field tunic with crimson collar patches, bronze buttons, a cross strap and two breast pockets.</HE_Roma_FieldUniform.description>
 </LanguageData>

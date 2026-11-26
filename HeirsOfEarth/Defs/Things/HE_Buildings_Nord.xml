@@ -361,4 +361,91 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BenchBase">
+    <defName>HE_Nord_ElectricForge</defName>
+    <label>electric forge</label>
+    <description>A forge with an electric blower, a power hammer and an anvil worn smooth by generations. It makes everything a smithy makes, 25% faster.</description>
+    <thingClass>Building_WorkTable</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Nord_ElectricForge</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(3,1)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <staticSunShadowHeight>0.2</staticSunShadowHeight>
+    <costList>
+      <Steel>140</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <altitudeLayer>Building</altitudeLayer>
+    <fillPercent>0.5</fillPercent>
+    <useHitPoints>true</useHitPoints>
+    <statBases>
+      <WorkToBuild>3500</WorkToBuild>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+      <Cleanliness>-2</Cleanliness>
+      <Mass>50</Mass>
+      <WorkTableWorkSpeedFactor>1.25</WorkTableWorkSpeedFactor>
+    </statBases>
+    <size>(3,1)</size>
+    <designationCategory>Production</designationCategory>
+    <passability>PassThroughOnly</passability>
+    <pathCost>50</pathCost>
+    <hasInteractionCell>true</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <surfaceType>Item</surfaceType>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <researchPrerequisites>
+      <li>HE_Nord_Works</li>
+    </researchPrerequisites>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+    <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+      <li>PlaceWorker_PreventInteractionSpotOverlap</li>
+    </placeWorkers>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>250</basePowerConsumption>
+        <shortCircuitInRain>true</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>ToolCabinet</li>
+        </linkableFacilities>
+      </li>
+      <li Class="CompProperties_HeatPusher">
+        <compClass>CompHeatPusherPowered</compClass>
+        <heatPerSecond>4</heatPerSecond>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Nord</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsCopyRecipesExt">
+        <from>
+          <li>ElectricSmithy</li>
+          <li>FueledSmithy</li>
+        </from>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Nord</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
 </Defs>

@@ -92,4 +92,16 @@ Mirasın bu değilse 40 Pars bilgisi gerekir.</HE_Pars_NaftThrower.description>
 Mirasın bu değilse, ancak Pars Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Pars bilgisi gerekir.</HE_Pars_SteamArmy.description>
+  <HE_Pars_ElectricArmy.label>Pers elektrik ordusu</HE_Pars_ElectricArmy.label>
+  <HE_Pars_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Pars'ın kurduğu ordu.
+
+Mirasın bu değilse, ancak Pars Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Pars bilgisi gerekir.</HE_Pars_ElectricArmy.description>
+  <HE_Pars_Works.label>Pers işleri</HE_Pars_Works.label>
+  <HE_Pars_Works.description>Pars'ın ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Pars Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Pars bilgisi gerekir.</HE_Pars_Works.description>
 </LanguageData>

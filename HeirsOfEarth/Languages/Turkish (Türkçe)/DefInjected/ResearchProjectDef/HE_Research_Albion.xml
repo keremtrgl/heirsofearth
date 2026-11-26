@@ -92,4 +92,16 @@ Mirasın bu değilse 40 Albion bilgisi gerekir.</HE_Albion_FieldCannon.descripti
 Mirasın bu değilse, ancak Albion Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Albion bilgisi gerekir.</HE_Albion_SteamArmy.description>
+  <HE_Albion_ElectricArmy.label>Albion elektrik ordusu</HE_Albion_ElectricArmy.label>
+  <HE_Albion_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Albion'un kurduğu ordu.
+
+Mirasın bu değilse, ancak Albion Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Albion bilgisi gerekir.</HE_Albion_ElectricArmy.description>
+  <HE_Albion_Works.label>Albion işleri</HE_Albion_Works.label>
+  <HE_Albion_Works.description>Albion'un ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Albion Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Albion bilgisi gerekir.</HE_Albion_Works.description>
 </LanguageData>

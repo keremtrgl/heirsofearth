@@ -8,6 +8,7 @@
     <value>
       <li>HE_Hellas_Lyceum</li>
       <li>HE_Inti_QuipuTable</li>
+      <li>HE_Hellas_Lectern</li>
     </value>
   </Operation>
 
@@ -19,6 +20,7 @@
       <value>
         <li>HE_Hellas_Lyceum</li>
         <li>HE_Inti_QuipuTable</li>
+        <li>HE_Hellas_Lectern</li>
       </value>
     </match>
     <nomatch Class="PatchOperationConditional">
@@ -30,6 +32,7 @@
             <linkableFacilities>
               <li>HE_Hellas_Lyceum</li>
               <li>HE_Inti_QuipuTable</li>
+              <li>HE_Hellas_Lectern</li>
             </linkableFacilities>
           </li>
         </value>
@@ -42,6 +45,7 @@
               <linkableFacilities>
                 <li>HE_Hellas_Lyceum</li>
                 <li>HE_Inti_QuipuTable</li>
+                <li>HE_Hellas_Lectern</li>
               </linkableFacilities>
             </li>
           </comps>
@@ -55,6 +59,14 @@
     <xpath>Defs/ThingDef/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities[li="EndTable"]</xpath>
     <value>
       <li>HE_Hellas_Asclepion</li>
+    </value>
+  </Operation>
+
+  <!-- 4.3: the Tianxia silk printing press speeds up both tailoring benches (they already take the tool cabinet). -->
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName="HandTailoringBench" or defName="ElectricTailoringBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HE_Tianxia_PrintingPress</li>
     </value>
   </Operation>
 </Patch>

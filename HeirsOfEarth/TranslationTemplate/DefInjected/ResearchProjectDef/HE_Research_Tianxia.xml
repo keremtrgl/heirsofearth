@@ -94,4 +94,16 @@ Requires 30 Tianxia knowledge unless this is your heritage.</HE_Tianxia_PowderAr
 Outside your heritage, this can be researched only once Tianxia has reached the Age of Steam.
 
 Requires 45 Tianxia knowledge unless this is your heritage.</HE_Tianxia_SteamArmy.description>
+  <HE_Tianxia_ElectricArmy.label>Tianxia electric army</HE_Tianxia_ElectricArmy.label>
+  <HE_Tianxia_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Tianxia raised when the wires came.
+
+Outside your heritage, this can be researched only once Tianxia has reached the Electric Age.
+
+Requires 60 Tianxia knowledge unless this is your heritage.</HE_Tianxia_ElectricArmy.description>
+  <HE_Tianxia_Works.label>Tianxia works</HE_Tianxia_Works.label>
+  <HE_Tianxia_Works.description>The first electric works of Tianxia: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Tianxia has reached the Electric Age.
+
+Requires 50 Tianxia knowledge unless this is your heritage.</HE_Tianxia_Works.description>
 </LanguageData>

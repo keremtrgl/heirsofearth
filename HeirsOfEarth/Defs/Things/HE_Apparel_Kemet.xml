@@ -417,4 +417,149 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Kemet_SteelHelmet</defName>
+    <label>Kemetic sun helmet</label>
+    <description>A light steel helmet in sand colour with a linen cloth hanging over the neck against the sun, and a gold falcon on the front.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Kemet_SteelHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>6000</WorkToMake>
+      <Mass>1.4</Mass>
+      <EquipDelay>1</EquipDelay>
+      <MaxHitPoints>120</MaxHitPoints>
+      <ArmorRating_Sharp>0.4</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.18</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.2</ArmorRating_Heat>
+      <Insulation_Cold>2</Insulation_Cold>
+    </statBases>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_KemetGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/HE_Kemet_SteelHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>HE_KemetApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.70, 0.62, 0.44)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Kemet_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Kemet</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Kemet_FieldUniform</defName>
+    <label>Kemetic desert uniform</label>
+    <description>A light sand tunic with a turquoise collar, bronze buttons and breast pockets, cut loose for the heat.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Kemet_FieldUniform</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Cloth>60</Cloth>
+      <Steel>10</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>1.8</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>200</MaxHitPoints>
+      <ArmorRating_Sharp>0.22</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.14</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.15</ArmorRating_Heat>
+      <Insulation_Cold>22</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+    </statBases>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_KemetGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Kemet_FieldUniform</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>HE_KemetApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.74, 0.66, 0.48)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Kemet_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Kemet</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
 </Defs>

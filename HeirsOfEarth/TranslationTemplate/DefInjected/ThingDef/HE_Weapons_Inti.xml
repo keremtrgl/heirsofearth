@@ -22,4 +22,8 @@
   <HE_Inti_Arquebus.description>An arquebus bound in gold, its stock inlaid with tocapu squares that name the workshop that made it and the sun it serves. Short and light, it comes up to aim faster than any other powder arm.</HE_Inti_Arquebus.description>
   <HE_Inti_Arquebus.tools.0.label>stock</HE_Inti_Arquebus.tools.0.label>
   <HE_Inti_Arquebus.tools.1.label>barrel</HE_Inti_Arquebus.tools.1.label>
+  <HE_Inti_LightCarbine.label>Inti light carbine</HE_Inti_LightCarbine.label>
+  <HE_Inti_LightCarbine.description>A short carbine with a gold sun on the stock, the lightest and cheapest gun of the age. It comes up fast and is easy to carry over the passes.</HE_Inti_LightCarbine.description>
+  <HE_Inti_LightCarbine.tools.0.label>stock</HE_Inti_LightCarbine.tools.0.label>
+  <HE_Inti_LightCarbine.tools.1.label>barrel</HE_Inti_LightCarbine.tools.1.label>
 </LanguageData>

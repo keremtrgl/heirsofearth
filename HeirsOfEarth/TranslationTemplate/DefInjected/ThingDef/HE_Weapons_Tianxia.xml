@@ -29,4 +29,8 @@
   <HE_Tianxia_Rifle.description>A bolt rifle from the new arsenals, its dark red stock bound in brass and a red tassel at the muzzle for luck. Made by the thousand, it needs less work and fewer parts than any other rifle.</HE_Tianxia_Rifle.description>
   <HE_Tianxia_Rifle.tools.0.label>stock</HE_Tianxia_Rifle.tools.0.label>
   <HE_Tianxia_Rifle.tools.1.label>barrel</HE_Tianxia_Rifle.tools.1.label>
+  <HE_Tianxia_BoxPistol.label>Tianxia box pistol</HE_Tianxia_BoxPistol.label>
+  <HE_Tianxia_BoxPistol.description>A broom-handled pistol that rides in a wooden box, and the box clips on as a stock. It fires short bursts, comes up fast and is made by the thousand with little work. A red tassel hangs from the grip.</HE_Tianxia_BoxPistol.description>
+  <HE_Tianxia_BoxPistol.tools.0.label>grip</HE_Tianxia_BoxPistol.tools.0.label>
+  <HE_Tianxia_BoxPistol.tools.1.label>barrel</HE_Tianxia_BoxPistol.tools.1.label>
 </LanguageData>

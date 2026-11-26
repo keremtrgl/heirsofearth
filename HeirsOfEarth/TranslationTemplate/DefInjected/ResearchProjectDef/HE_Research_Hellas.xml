@@ -90,4 +90,16 @@ Requires 30 Hellenic knowledge unless this is your heritage.</HE_Hellas_PowderAr
 Outside your heritage, this can be researched only once Hellas has reached the Age of Steam.
 
 Requires 45 Hellenic knowledge unless this is your heritage.</HE_Hellas_SteamArmy.description>
+  <HE_Hellas_ElectricArmy.label>Hellenic electric army</HE_Hellas_ElectricArmy.label>
+  <HE_Hellas_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Hellas raised when the wires came.
+
+Outside your heritage, this can be researched only once Hellas has reached the Electric Age.
+
+Requires 60 Hellenic knowledge unless this is your heritage.</HE_Hellas_ElectricArmy.description>
+  <HE_Hellas_Works.label>Hellenic works</HE_Hellas_Works.label>
+  <HE_Hellas_Works.description>The first electric works of Hellas: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Hellas has reached the Electric Age.
+
+Requires 50 Hellenic knowledge unless this is your heritage.</HE_Hellas_Works.description>
 </LanguageData>

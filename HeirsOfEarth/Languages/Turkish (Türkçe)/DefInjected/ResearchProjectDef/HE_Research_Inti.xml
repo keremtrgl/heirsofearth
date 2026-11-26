@@ -106,4 +106,16 @@ Mirasın bu değilse 30 İnti bilgisi gerekir.</HE_Inti_PowderArms.description>
 Mirasın bu değilse, ancak Inti Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 İnti bilgisi gerekir.</HE_Inti_SteamArmy.description>
+  <HE_Inti_ElectricArmy.label>Inti elektrik ordusu</HE_Inti_ElectricArmy.label>
+  <HE_Inti_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Inti'nin kurduğu ordu.
+
+Mirasın bu değilse, ancak Inti Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 İnti bilgisi gerekir.</HE_Inti_ElectricArmy.description>
+  <HE_Inti_Works.label>Inti işleri</HE_Inti_Works.label>
+  <HE_Inti_Works.description>Inti'nin ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Inti Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 İnti bilgisi gerekir.</HE_Inti_Works.description>
 </LanguageData>

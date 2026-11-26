@@ -491,7 +491,7 @@ Yeni: {2}.</HE_AgeText3>
   <HE_AgeRateTrade>Seninle ticaret bağı</HE_AgeRateTrade>
   <HE_AgeRateTowns>Çok sayıda kasaba</HE_AgeRateTowns>
   <HE_AgesHeading>Devletlerin çağları</HE_AgesHeading>
-  <HE_AgesIntro>Her devlet yıllar geçtikçe Kuruluş Çağı'ndan Barut Çağı'na, oradan Buhar Çağı'na ilerler. Her yeni çağ askerlerini kendi tüfekleriyle donatır ve Buhar Çağı'nda onları kendi üniformasıyla giydirir. Tüccarları bunları satar ve devlet o çağa ulaştığında sen de bunları araştırabilirsin. Barış, müttefikler, antlaşmalar ve seninle ticaret bir devleti hızlandırır; savaş, kıtlık ve salgın onu geri tutar. Nedenini görmek için bir devletin üstüne gel.</HE_AgesIntro>
+  <HE_AgesIntro>Her devlet yıllar geçtikçe Kuruluş Çağı'ndan Barut ve Buhar çağlarından geçerek Elektrik Çağı'na ilerler. Her yeni çağ askerlerini kendi tüfekleriyle donatır ve Buhar Çağı'ndan itibaren onları kendi üniformasıyla giydirir. Tüccarları bunları satar ve devlet o çağa ulaştığında sen de bunları araştırabilirsin. Barış, müttefikler, antlaşmalar ve seninle ticaret bir devleti hızlandırır; savaş, kıtlık ve salgın onu geri tutar. Nedenini görmek için bir devletin üstüne gel.</HE_AgesIntro>
   <HE_AgesOff>Çağlar mod ayarlarında kapalı: her devlet eski silahlarını korur ve her şey eskisi gibi araştırılabilir.</HE_AgesOff>
   <HE_AgesLast>son çağ</HE_AgesLast>
   <HE_AgesToward>{0} yolunda: {1}</HE_AgesToward>
@@ -503,6 +503,29 @@ Yeni: {2}.</HE_AgeText3>
   <HE_SettingsFourthSpeedTip>Diğer üçünün yanına dördüncü bir hız düğmesi (oyunun normalde gizli olan en yüksek hızı) ekler. Tuşu varsayılan olarak 4'tür ve klavye ayarlarından değiştirilebilir.</HE_SettingsFourthSpeedTip>
   <HE_SpeedFourthTip>En yüksek hız. Üçüncü hız gibi, ilgilenmen gereken bir şey olduğunda kendiliğinden yavaşlar.</HE_SpeedFourthTip>
   <HE_SettingsAges>İlerleme çağları</HE_SettingsAges>
-  <HE_SettingsAgesTip>Devletler Kuruluş, Barut ve Buhar çağlarından geçerek yeni tüfekler ve üniformalar kazanır. Devletleri 4.2 öncesindeki gibi tutmak için kapat.</HE_SettingsAgesTip>
+  <HE_SettingsAgesTip>Devletler Kuruluş, Barut, Buhar ve Elektrik çağlarından geçerek yeni tüfekler ve üniformalar kazanır. Devletleri 4.2 öncesindeki gibi tutmak için kapat.</HE_SettingsAgesTip>
   <HE_SettingsAgeSpeed>Çağların hızı: {0}</HE_SettingsAgeSpeed>
+  <HE_Age4>Elektrik Çağı</HE_Age4>
+  <HE_AgeText4>{0} Elektrik Çağı'na girdi.
+
+{1} topraklarına teller çekti ve şehirlerini aydınlattı. Yeni ordusu makinede yapılmış silahlar taşıyor, çelik miğferi ve sahra üniformasını giyiyor, tüccarları bunları satıyor ve kolonin bunları ve devletin elektrikli işlerini araştırabilir.
+
+Yeni: {2}.</HE_AgeText4>
+  <HE_TelegraphNext>Sonraki telgraflar {0} içinde.</HE_TelegraphNext>
+  <HE_TelegraphSent>Telgraf ofisi selam gönderdi: {1} ile +{0} iyi niyet.</HE_TelegraphSent>
+  <HE_WorldFairLabel>{0} Dünya Fuarı</HE_WorldFairLabel>
+  <HE_WorldFairText>{1}, Elektrik Çağı'nı bir Dünya Fuarı ile kutluyor: binlerce ampulle aydınlatılmış camdan ve demirden salonlar, her devletin yapabildiğinin en iyisini sergilediği yerler.
+
+Kolonin bir eser göndermeye davet edildi. {2}
+
+Eser fuara gider ve yaklaşık {3} gün sonra, niteliğiyle büyüyen bir ödülle birlikte bir iniş kapsülüyle geri döner. Ustalık ya da efsanevi bir eser büyük ödülü kazanabilir. Daveti geri çevirmek ev sahiplerini biraz kırar.</HE_WorldFairText>
+  <HE_WorldFairExhibit>En iyi eserin: {0} ({1}).</HE_WorldFairExhibit>
+  <HE_WorldFairNothing>Kolonide henüz gönderilecek nitelikli bir sanat eseri, silah ya da kitap yok.</HE_WorldFairNothing>
+  <HE_WorldFairAccept>{1} gönderilsin</HE_WorldFairAccept>
+  <HE_WorldFairRefuse>Geri çevir</HE_WorldFairRefuse>
+  <HE_WorldFairMissing>Sergilenecek bir şey yok.</HE_WorldFairMissing>
+  <HE_WorldFairSent>{0}, {1} Dünya Fuarı'na yola çıktı.</HE_WorldFairSent>
+  <HE_WorldFairBackLabel>{0} Dünya Fuarı'ndan dönüş</HE_WorldFairBackLabel>
+  <HE_WorldFairBack>{0}, {1} Dünya Fuarı'ndan döndü. {2} bulunan eser eve {6} gümüş, ev sahipleriyle +{3}, öteki her barışçı devletle +{4} iyi niyet ve {5} {1} bilgisi getiriyor.</HE_WorldFairBack>
+  <HE_WorldFairGrandPrize>{0}, {1} Dünya Fuarı'nın büyük ödülünü kazandı: her barışçı devletle +{2} iyi niyet daha.</HE_WorldFairGrandPrize>
 </LanguageData>

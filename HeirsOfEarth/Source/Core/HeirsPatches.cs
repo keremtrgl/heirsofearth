@@ -95,6 +95,8 @@ namespace HeirsOfEarth
             HeirsPatches.ApplyAll();
             HeirsTraditions.InstallStatParts();
             HeirsKnowledge.ApplyResearchCost();
+            HeirsWorks.CopyRecipes();
+            HeirsAges.OnAgeReached += HeirsEvents.OnAgeReached;
         }
     }
 

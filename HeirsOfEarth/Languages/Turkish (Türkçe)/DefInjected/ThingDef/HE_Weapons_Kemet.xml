@@ -24,4 +24,8 @@
   <HE_Kemet_Musket.description>Pirinçle sarılı, dipçiği turkuaz kakmalı ve dibinde bir nilüfer olan uzun bir tüfek. Nehrin cephaneliklerinde, çoğu tüfekten daha uzağa erişen uzun bir namluyla yapılır.</HE_Kemet_Musket.description>
   <HE_Kemet_Musket.tools.0.label>dipçik</HE_Kemet_Musket.tools.0.label>
   <HE_Kemet_Musket.tools.1.label>namlu</HE_Kemet_Musket.tools.1.label>
+  <HE_Kemet_NileCarbine.label>Nil karabinası</HE_Kemet_NileCarbine.label>
+  <HE_Kemet_NileCarbine.description>Türüne göre uzun namlulu, pirinçle sarılı dipçikli ve dipçik plakasında bir nilüfer olan bir karabina. Diğer karabinalardan daha uzağa erişir ve kumda temiz kalacak şekilde yapılmıştır.</HE_Kemet_NileCarbine.description>
+  <HE_Kemet_NileCarbine.tools.0.label>dipçik</HE_Kemet_NileCarbine.tools.0.label>
+  <HE_Kemet_NileCarbine.tools.1.label>namlu</HE_Kemet_NileCarbine.tools.1.label>
 </LanguageData>

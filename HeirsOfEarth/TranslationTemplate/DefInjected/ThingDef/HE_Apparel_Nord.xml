@@ -12,4 +12,8 @@
   <HE_Nord_Circlet.description>A plain silver band worked with knotwork and set with one red stone. A jarl needs no grander crown: his word at the Thing is enough.</HE_Nord_Circlet.description>
   <HE_Nord_FieldCoat.label>Nordic greatcoat</HE_Nord_FieldCoat.label>
   <HE_Nord_FieldCoat.description>A heavy grey-blue greatcoat with a fur collar and two rows of pewter buttons. Made for winters that do not end.</HE_Nord_FieldCoat.description>
+  <HE_Nord_SteelHelmet.label>Nordic steel helmet</HE_Nord_SteelHelmet.label>
+  <HE_Nord_SteelHelmet.description>A deep steel helmet that flares over the neck, with a raised nasal ridge and a black raven painted on the side.</HE_Nord_SteelHelmet.description>
+  <HE_Nord_FieldUniform.label>Nordic field uniform</HE_Nord_FieldUniform.label>
+  <HE_Nord_FieldUniform.description>A long field-grey tunic with a dark green collar, pewter buttons and deep skirt pockets. Warm in the snow.</HE_Nord_FieldUniform.description>
 </LanguageData>

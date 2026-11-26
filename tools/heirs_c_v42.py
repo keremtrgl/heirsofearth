@@ -234,12 +234,12 @@ key("HE_AgeRateScience", "Science treaty with you", "Seninle bilim antlaşması"
 key("HE_AgeRateTrade", "Trade link with you", "Seninle ticaret bağı")
 key("HE_AgeRateTowns", "Many towns", "Çok sayıda kasaba")
 key("HE_AgesHeading", "Ages of the nations", "Devletlerin çağları")
-key("HE_AgesIntro", "Every nation moves from the Age of Founding through the Age of Powder to the Age of Steam as the years pass. "
-    "Each new age arms its troops with its own guns and, in the Age of Steam, dresses them in its uniform. Its traders sell these, "
+key("HE_AgesIntro", "Every nation moves from the Age of Founding through the Age of Powder and the Age of Steam to the Electric Age as the years pass. "
+    "Each new age arms its troops with its own guns and, from the Age of Steam on, dresses them in its uniform. Its traders sell these, "
     "and you may research them once the nation has reached that age. Peace, allies, treaties and trade with you speed a nation up; "
     "war, famine and plague hold it back. Hover over a nation to see why.",
-    "Her devlet yıllar geçtikçe Kuruluş Çağı'ndan Barut Çağı'na, oradan Buhar Çağı'na ilerler. Her yeni çağ askerlerini kendi "
-    "tüfekleriyle donatır ve Buhar Çağı'nda onları kendi üniformasıyla giydirir. Tüccarları bunları satar ve devlet o çağa ulaştığında "
+    "Her devlet yıllar geçtikçe Kuruluş Çağı'ndan Barut ve Buhar çağlarından geçerek Elektrik Çağı'na ilerler. Her yeni çağ askerlerini kendi "
+    "tüfekleriyle donatır ve Buhar Çağı'ndan itibaren onları kendi üniformasıyla giydirir. Tüccarları bunları satar ve devlet o çağa ulaştığında "
     "sen de bunları araştırabilirsin. Barış, müttefikler, antlaşmalar ve seninle ticaret bir devleti hızlandırır; savaş, kıtlık ve salgın "
     "onu geri tutar. Nedenini görmek için bir devletin üstüne gel.")
 key("HE_AgesOff", "Ages are turned off in the mod settings: every nation keeps its old arms and every item can be researched as before.",
@@ -258,7 +258,7 @@ key("HE_SettingsFourthSpeedTip", "Adds a fourth speed button (the game's fastest
 key("HE_SpeedFourthTip", "Fastest speed. It slows down by itself when something needs your attention, like the third speed.",
     "En yüksek hız. Üçüncü hız gibi, ilgilenmen gereken bir şey olduğunda kendiliğinden yavaşlar.")
 key("HE_SettingsAges", "Ages of progress", "İlerleme çağları")
-key("HE_SettingsAgesTip", "Nations move through the Age of Founding, Powder and Steam, getting new guns and uniforms. Turn off to keep the "
+key("HE_SettingsAgesTip", "Nations move through the Age of Founding, Powder, Steam and Electricity, getting new guns and uniforms. Turn off to keep the "
     "nations as they were before 4.2.",
-    "Devletler Kuruluş, Barut ve Buhar çağlarından geçerek yeni tüfekler ve üniformalar kazanır. Devletleri 4.2 öncesindeki gibi tutmak için kapat.")
+    "Devletler Kuruluş, Barut, Buhar ve Elektrik çağlarından geçerek yeni tüfekler ve üniformalar kazanır. Devletleri 4.2 öncesindeki gibi tutmak için kapat.")
 key("HE_SettingsAgeSpeed", "Pace of the ages: {0}", "Çağların hızı: {0}")

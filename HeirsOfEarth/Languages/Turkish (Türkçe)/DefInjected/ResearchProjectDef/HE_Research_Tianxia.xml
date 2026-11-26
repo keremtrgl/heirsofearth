@@ -94,4 +94,16 @@ Mirasın bu değilse 30 Tianxia bilgisi gerekir.</HE_Tianxia_PowderArms.descript
 Mirasın bu değilse, ancak Tianxia Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Tianxia bilgisi gerekir.</HE_Tianxia_SteamArmy.description>
+  <HE_Tianxia_ElectricArmy.label>Tianxia elektrik ordusu</HE_Tianxia_ElectricArmy.label>
+  <HE_Tianxia_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Tianxia'nın kurduğu ordu.
+
+Mirasın bu değilse, ancak Tianxia Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Tianxia bilgisi gerekir.</HE_Tianxia_ElectricArmy.description>
+  <HE_Tianxia_Works.label>Tianxia işleri</HE_Tianxia_Works.label>
+  <HE_Tianxia_Works.description>Tianxia'nın ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Tianxia Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Tianxia bilgisi gerekir.</HE_Tianxia_Works.description>
 </LanguageData>

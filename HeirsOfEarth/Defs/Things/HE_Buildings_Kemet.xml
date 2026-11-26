@@ -438,4 +438,62 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Kemet_IrrigationPump</defName>
+    <label>irrigation pump</label>
+    <description>An electric pump that lifts water from below and sends it through clay channels to the fields around it. While it has power, plants within 6 cells grow 15% faster.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Kemet_IrrigationPump</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <fillPercent>0.6</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(1,1)</size>
+    <costList>
+      <Steel>60</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>180</MaxHitPoints>
+      <WorkToBuild>3000</WorkToBuild>
+      <Mass>10</Mass>
+      <Beauty>0</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Kemet_Works</li>
+    </researchPrerequisites>
+    <building />
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>300</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="HeirsOfEarth.CompProperties_HeirsIrrigation">
+        <radius>6</radius>
+        <growthFactor>1.15</growthFactor>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Kemet</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Kemet</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
 </Defs>

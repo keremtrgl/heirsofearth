@@ -317,6 +317,7 @@ def render_all(only=None):
     import heirs_art18  # noqa: F401
     import heirs_art19  # noqa: F401
     import heirs_art20  # noqa: F401
+    import heirs_art21  # noqa: F401
     PAINTERS.update(registry.PAINTERS)
     data.load_all()
     done = 0

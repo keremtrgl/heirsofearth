@@ -491,7 +491,7 @@ New: {2}.</HE_AgeText3>
   <HE_AgeRateTrade>Trade link with you</HE_AgeRateTrade>
   <HE_AgeRateTowns>Many towns</HE_AgeRateTowns>
   <HE_AgesHeading>Ages of the nations</HE_AgesHeading>
-  <HE_AgesIntro>Every nation moves from the Age of Founding through the Age of Powder to the Age of Steam as the years pass. Each new age arms its troops with its own guns and, in the Age of Steam, dresses them in its uniform. Its traders sell these, and you may research them once the nation has reached that age. Peace, allies, treaties and trade with you speed a nation up; war, famine and plague hold it back. Hover over a nation to see why.</HE_AgesIntro>
+  <HE_AgesIntro>Every nation moves from the Age of Founding through the Age of Powder and the Age of Steam to the Electric Age as the years pass. Each new age arms its troops with its own guns and, from the Age of Steam on, dresses them in its uniform. Its traders sell these, and you may research them once the nation has reached that age. Peace, allies, treaties and trade with you speed a nation up; war, famine and plague hold it back. Hover over a nation to see why.</HE_AgesIntro>
   <HE_AgesOff>Ages are turned off in the mod settings: every nation keeps its old arms and every item can be researched as before.</HE_AgesOff>
   <HE_AgesLast>the last age</HE_AgesLast>
   <HE_AgesToward>{1} toward the {0}</HE_AgesToward>
@@ -503,6 +503,29 @@ New: {2}.</HE_AgeText3>
   <HE_SettingsFourthSpeedTip>Adds a fourth speed button (the game's fastest speed, normally hidden) next to the other three. Its key is 4 by default and can be changed in the keyboard settings.</HE_SettingsFourthSpeedTip>
   <HE_SpeedFourthTip>Fastest speed. It slows down by itself when something needs your attention, like the third speed.</HE_SpeedFourthTip>
   <HE_SettingsAges>Ages of progress</HE_SettingsAges>
-  <HE_SettingsAgesTip>Nations move through the Age of Founding, Powder and Steam, getting new guns and uniforms. Turn off to keep the nations as they were before 4.2.</HE_SettingsAgesTip>
+  <HE_SettingsAgesTip>Nations move through the Age of Founding, Powder, Steam and Electricity, getting new guns and uniforms. Turn off to keep the nations as they were before 4.2.</HE_SettingsAgesTip>
   <HE_SettingsAgeSpeed>Pace of the ages: {0}</HE_SettingsAgeSpeed>
+  <HE_Age4>Electric Age</HE_Age4>
+  <HE_AgeText4>{0} has entered the Electric Age.
+
+{1} has strung wires across its lands and lit its cities. Its new army carries machine-made guns and wears the steel helmet and the field uniform, its traders sell them, and your colony may research them and the nation's electric works.
+
+New: {2}.</HE_AgeText4>
+  <HE_TelegraphNext>Next telegrams in {0}.</HE_TelegraphNext>
+  <HE_TelegraphSent>The telegraph office sent greetings: +{0} goodwill with {1}.</HE_TelegraphSent>
+  <HE_WorldFairLabel>World Fair of {0}</HE_WorldFairLabel>
+  <HE_WorldFairText>{1} celebrates the Electric Age with a World Fair: halls of glass and iron lit by thousands of bulbs, where every nation shows the best it can make.
+
+Your colony is invited to send one exhibit. {2}
+
+The exhibit travels to the fair and comes back by drop pod in about {3} days, with a prize that grows with its quality. A masterwork or legendary piece can win the grand prize. Declining offends the hosts a little.</HE_WorldFairText>
+  <HE_WorldFairExhibit>Your best piece is {0} ({1}).</HE_WorldFairExhibit>
+  <HE_WorldFairNothing>The colony has no art, weapon or book of quality to send yet.</HE_WorldFairNothing>
+  <HE_WorldFairAccept>Send {1}</HE_WorldFairAccept>
+  <HE_WorldFairRefuse>Decline</HE_WorldFairRefuse>
+  <HE_WorldFairMissing>Nothing to exhibit.</HE_WorldFairMissing>
+  <HE_WorldFairSent>{0} is on its way to the World Fair of {1}.</HE_WorldFairSent>
+  <HE_WorldFairBackLabel>Back from the World Fair of {0}</HE_WorldFairBackLabel>
+  <HE_WorldFairBack>{0} is back from the World Fair of {1}. Judged {2}, it brings home {6} silver, +{3} goodwill with the hosts, +{4} with every other peaceful nation and {5} knowledge of {1}.</HE_WorldFairBack>
+  <HE_WorldFairGrandPrize>{0} won the grand prize of the World Fair of {1}: +{2} goodwill more with every peaceful nation.</HE_WorldFairGrandPrize>
 </LanguageData>

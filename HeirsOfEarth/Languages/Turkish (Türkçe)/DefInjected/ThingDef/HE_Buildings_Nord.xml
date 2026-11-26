@@ -17,4 +17,6 @@
   <HE_Nord_BowLoft.comps.1.fuelLabel>Oklar</HE_Nord_BowLoft.comps.1.fuelLabel>
   <HE_Nord_BowLoft.comps.1.fuelGizmoLabel>Oklar</HE_Nord_BowLoft.comps.1.fuelGizmoLabel>
   <HE_Nord_BowLoft.comps.1.outOfFuelMessage>Ok için odun gerekli</HE_Nord_BowLoft.comps.1.outOfFuelMessage>
+  <HE_Nord_ElectricForge.label>elektrikli demirhane</HE_Nord_ElectricForge.label>
+  <HE_Nord_ElectricForge.description>Elektrikli bir körüğü, bir şahmerdanı ve nesillerdir dövülmekten pürüzsüzleşmiş bir örsü olan bir demirhane. Bir demircinin yaptığı her şeyi %25 daha hızlı yapar.</HE_Nord_ElectricForge.description>
 </LanguageData>

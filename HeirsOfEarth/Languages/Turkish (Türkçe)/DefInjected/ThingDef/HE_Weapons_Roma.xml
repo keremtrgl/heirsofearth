@@ -25,4 +25,8 @@
   <HE_Roma_Arquebus.description>Kırmızı cilalı dipçikli, kilidinde pirinç bir kartal olan fitilli bir arkebüz. Lejyonlar barutu geç öğrendi ve sıkı talim etti: yakında barutlu silahların en isabetlisidir.</HE_Roma_Arquebus.description>
   <HE_Roma_Arquebus.tools.0.label>dipçik</HE_Roma_Arquebus.tools.0.label>
   <HE_Roma_Arquebus.tools.1.label>namlu</HE_Roma_Arquebus.tools.1.label>
+  <HE_Roma_Autoloader.label>Roma yarı otomatik tüfeği</HE_Roma_Autoloader.label>
+  <HE_Roma_Autoloader.description>Kırmızı cilalı dipçikli, gövdesinde bronz bir kartal olan yarı otomatik bir tüfek. Her atışın gazı sürgüyü çalıştırır; böylece lejyoner nişanını bulur bulmaz yeniden ateş eder.</HE_Roma_Autoloader.description>
+  <HE_Roma_Autoloader.tools.0.label>dipçik</HE_Roma_Autoloader.tools.0.label>
+  <HE_Roma_Autoloader.tools.1.label>süngü</HE_Roma_Autoloader.tools.1.label>
 </LanguageData>

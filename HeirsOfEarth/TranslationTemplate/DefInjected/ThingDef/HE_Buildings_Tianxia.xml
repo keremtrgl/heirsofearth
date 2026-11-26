@@ -15,4 +15,6 @@
   <HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>Fire arrows</HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>
   <HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>Arrows</HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>
   <HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>Needs wood for arrows</HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>
+  <HE_Tianxia_PrintingPress.label>silk printing press</HE_Tianxia_PrintingPress.label>
+  <HE_Tianxia_PrintingPress.description>An electric press with carved rollers that print patterns on silk and cotton in one pass. Placed near a tailoring bench and powered, it speeds up tailoring by 12%.</HE_Tianxia_PrintingPress.description>
 </LanguageData>

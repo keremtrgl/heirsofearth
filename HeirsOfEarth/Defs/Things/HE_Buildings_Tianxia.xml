@@ -309,4 +309,69 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Tianxia_PrintingPress</defName>
+    <label>silk printing press</label>
+    <description>An electric press with carved rollers that print patterns on silk and cotton in one pass. Placed near a tailoring bench and powered, it speeds up tailoring by 12%.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Tianxia_PrintingPress</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <costList>
+      <Steel>90</Steel>
+      <ComponentIndustrial>3</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>4000</WorkToBuild>
+      <Mass>20</Mass>
+      <Beauty>2</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Tianxia_Works</li>
+    </researchPrerequisites>
+    <building />
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>250</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Facility">
+        <statOffsets>
+          <WorkTableWorkSpeedFactor>0.12</WorkTableWorkSpeedFactor>
+        </statOffsets>
+        <maxSimultaneous>1</maxSimultaneous>
+        <maxDistance>6</maxDistance>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Tianxia</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Tianxia</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+    <placeWorkers>
+      <li>PlaceWorker_ShowFacilitiesConnections</li>
+    </placeWorkers>
+  </ThingDef>
 </Defs>

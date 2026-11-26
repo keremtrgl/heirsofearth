@@ -445,4 +445,91 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>HE_Yamato_Sniper</defName>
+    <label>Yamato sniper rifle</label>
+    <description>A long bolt rifle with a black-lacquered stock, a brass telescope and a cherry blossom on the scope ring. Slow to aim, but at the end of its reach it is the most accurate gun of the nations.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Weapons/HE_Yamato_Sniper</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_Rifle</soundInteract>
+    <costList>
+      <Steel>60</Steel>
+      <WoodLog>10</WoodLog>
+      <ComponentIndustrial>7</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <WorkToMake>42000</WorkToMake>
+      <Mass>4.2</Mass>
+      <AccuracyTouch>0.5</AccuracyTouch>
+      <AccuracyShort>0.7</AccuracyShort>
+      <AccuracyMedium>0.88</AccuracyMedium>
+      <AccuracyLong>0.94</AccuracyLong>
+      <RangedWeapon_Cooldown>1.5</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags Inherit="False">
+      <li>HE_YamatoAge4</li>
+    </weaponTags>
+    <tradeTags Inherit="False">
+      <li>HE_YamatoGoods</li>
+      <li>WeaponRanged</li>
+    </tradeTags>
+    <weaponClasses>
+      <li>Ranged</li>
+      <li>RangedHeavy</li>
+      <li>LongShots</li>
+    </weaponClasses>
+    <relicChance>0</relicChance>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>Bullet_SniperRifle</defaultProjectile>
+        <warmupTime>3.5</warmupTime>
+        <range>44.9</range>
+        <soundCast>Shot_SniperRifle</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+    <recipeMaker>
+      <researchPrerequisite>HE_Yamato_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>6</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FueledSmithy</li>
+        <li>ElectricSmithy</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Yamato</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Yamato</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
 </Defs>

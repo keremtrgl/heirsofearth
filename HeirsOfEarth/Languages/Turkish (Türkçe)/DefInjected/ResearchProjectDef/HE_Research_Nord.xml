@@ -100,4 +100,16 @@ Mirasın bu değilse 30 Nordheim bilgisi gerekir.</HE_Nord_PowderArms.descriptio
 Mirasın bu değilse, ancak Nordheim Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Nordheim bilgisi gerekir.</HE_Nord_SteamArmy.description>
+  <HE_Nord_ElectricArmy.label>Nord elektrik ordusu</HE_Nord_ElectricArmy.label>
+  <HE_Nord_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Nordheim'ın kurduğu ordu.
+
+Mirasın bu değilse, ancak Nordheim Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Nordheim bilgisi gerekir.</HE_Nord_ElectricArmy.description>
+  <HE_Nord_Works.label>Nord işleri</HE_Nord_Works.label>
+  <HE_Nord_Works.description>Nordheim'ın ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Nordheim Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Nordheim bilgisi gerekir.</HE_Nord_Works.description>
 </LanguageData>

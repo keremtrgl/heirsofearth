@@ -71,6 +71,12 @@ def melee_dps(tools):
     return best
 
 
+def burst_of(el, abstract):
+    verbs = inherited(el, "verbs", abstract)
+    v = verbs.find("li") if verbs is not None else None
+    return int(text(v, "burstShotCount", 1)) if v is not None else 1
+
+
 def ranged_dps(el, abstract, by_name):
     verbs = inherited(el, "verbs", abstract)
     if verbs is None:
@@ -144,6 +150,7 @@ def main():
 
     # vanilla reference tables
     v_melee, v_ranged, v_research = defaultdict(float), defaultdict(float), defaultdict(list)
+    v_heavy = defaultdict(float)
     for el, _ in core:
         if el.tag == "ThingDef" and el.get("Abstract") != "True" and text(el, "defName"):
             cats = inherited(el, "thingCategories", abstract)
@@ -154,6 +161,8 @@ def main():
             if inherited(el, "verbs", abstract) is not None:
                 if not HEAVY_TAGS & weapon_tags(el, abstract):
                     v_ranged[lvl] = max(v_ranged[lvl], ranged_dps(el, abstract, by_name))
+                else:
+                    v_heavy[lvl] = max(v_heavy[lvl], ranged_dps(el, abstract, by_name))
             else:
                 tools = inherited(el, "tools", abstract)
                 if tools is not None:
@@ -176,6 +185,9 @@ def main():
                 dps = ranged_dps(el, abstract, by_name)
                 if "TurretGun" in weapon_tags(el, abstract):
                     ref, kind, lvl = v_turret, "turret", "Turret"
+                elif burst_of(el, abstract) >= 5 and v_heavy.get(lvl):
+                    # 4.3: a machine gun is measured against the vanilla heavy guns of its age (the light machine gun)
+                    ref, kind = v_heavy[lvl], "heavy"
                 else:
                     ref, kind = v_ranged.get(lvl) or v_ranged.get("Neolithic", 0), "ranged"
             elif el.find("tools") is not None and "Weapon" in (el.get("ParentName") or ""):

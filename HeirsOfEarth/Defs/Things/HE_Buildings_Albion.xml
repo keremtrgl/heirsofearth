@@ -442,4 +442,63 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Albion_TelegraphOffice</defName>
+    <label>telegraph office</label>
+    <description>A desk with a brass telegraph key, a sounder and a battery of cells, wired to a mast outside. While it has power it sends greetings to the other nations every quadrum: +1 goodwill with each heir nation that is not hostile. Only one office counts.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Albion_TelegraphOffice</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,1)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <pathCost>42</pathCost>
+    <rotatable>false</rotatable>
+    <size>(2,1)</size>
+    <costList>
+      <Steel>70</Steel>
+      <ComponentIndustrial>4</ComponentIndustrial>
+    </costList>
+    <statBases>
+      <MaxHitPoints>160</MaxHitPoints>
+      <WorkToBuild>3600</WorkToBuild>
+      <Mass>20</Mass>
+      <Beauty>2</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Albion_Works</li>
+    </researchPrerequisites>
+    <building />
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>200</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="HeirsOfEarth.CompProperties_HeirsTelegraph">
+        <goodwill>1</goodwill>
+        <intervalDays>15</intervalDays>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Albion</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Albion</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
 </Defs>

@@ -553,4 +553,54 @@ Requires 45 Nordheim knowledge unless this is your heritage.</description>
       </li>
     </modExtensions>
   </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_ElectricArmy</defName>
+    <label>Nordic electric army</label>
+    <description>Machine-made arms, a steel helmet and a field uniform in drab: the army Nordheim raised when the wires came.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Electric Age.
+
+Requires 60 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>3000</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>11.8</researchViewX>
+    <researchViewY>7.92</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_SteamArmy</li>
+      <li>Machining</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>60</knowledge>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
+  <ResearchProjectDef>
+    <defName>HE_Nord_Works</defName>
+    <label>Nordic works</label>
+    <description>The first electric works of Nordheim: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Nordheim has reached the Electric Age.
+
+Requires 50 Nordheim knowledge unless this is your heritage.</description>
+    <baseCost>2600</baseCost>
+    <techLevel>Industrial</techLevel>
+    <tab>HE_WorldHeritage</tab>
+    <researchViewX>11.8</researchViewX>
+    <researchViewY>8.64</researchViewY>
+    <prerequisites>
+      <li>HE_Nord_SteamArmy</li>
+      <li>Electricity</li>
+    </prerequisites>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsResearchExt">
+        <nation>HE_Nord</nation>
+        <knowledge>50</knowledge>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ResearchProjectDef>
 </Defs>

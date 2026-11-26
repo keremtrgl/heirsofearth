@@ -139,12 +139,15 @@
             <li>HE_Roma_Carbine</li>
             <li>HE_Roma_Spatha</li>
             <li>HE_Roma_Arquebus</li>
+            <li>HE_Roma_Autoloader</li>
             <li>HE_Roma_Lorica</li>
             <li>HE_Roma_Galea</li>
             <li>HE_Roma_Tunica</li>
             <li>HE_Roma_Toga</li>
             <li>HE_Roma_Laurel</li>
             <li>HE_Roma_FieldCoat</li>
+            <li>HE_Roma_SteelHelmet</li>
+            <li>HE_Roma_FieldUniform</li>
             <li>HE_Roma_Puls</li>
             <li>HE_Roma_Lucanica</li>
             <li>HE_Roma_Libum</li>
@@ -156,12 +159,15 @@
             <li>HE_Yamato_Yumi</li>
             <li>HE_Yamato_Tanegashima</li>
             <li>HE_Yamato_Rifle</li>
+            <li>HE_Yamato_Sniper</li>
             <li>HE_Yamato_Kabuto</li>
             <li>HE_Yamato_Domaru</li>
             <li>HE_Yamato_Kimono</li>
             <li>HE_Yamato_Kamishimo</li>
             <li>HE_Yamato_Jingasa</li>
             <li>HE_Yamato_ArmyCoat</li>
+            <li>HE_Yamato_SteelHelmet</li>
+            <li>HE_Yamato_FieldUniform</li>
             <li>HE_Yamato_Onigiri</li>
             <li>HE_Yamato_Miso</li>
             <li>HE_Yamato_Mochi</li>
@@ -174,12 +180,15 @@
             <li>HE_Nord_Seax</li>
             <li>HE_Nord_HookGun</li>
             <li>HE_Nord_Rifle</li>
+            <li>HE_Nord_TrenchGun</li>
             <li>HE_Nord_Helm</li>
             <li>HE_Nord_Byrnie</li>
             <li>HE_Nord_FurCloak</li>
             <li>HE_Nord_Tunic</li>
             <li>HE_Nord_Circlet</li>
             <li>HE_Nord_FieldCoat</li>
+            <li>HE_Nord_SteelHelmet</li>
+            <li>HE_Nord_FieldUniform</li>
             <li>HE_Nord_Skyr</li>
             <li>HE_Nord_HunterStew</li>
             <li>HE_Nord_Flatbread</li>
@@ -192,12 +201,15 @@
             <li>HE_Hellas_Gastraphetes</li>
             <li>HE_Hellas_Musket</li>
             <li>HE_Hellas_Rifle</li>
+            <li>HE_Hellas_MountainCarbine</li>
             <li>HE_Hellas_Corinthian</li>
             <li>HE_Hellas_Linothorax</li>
             <li>HE_Hellas_Chiton</li>
             <li>HE_Hellas_Himation</li>
             <li>HE_Hellas_OliveWreath</li>
             <li>HE_Hellas_Evzone</li>
+            <li>HE_Hellas_SteelHelmet</li>
+            <li>HE_Hellas_FieldUniform</li>
             <li>HE_Hellas_Maza</li>
             <li>HE_Hellas_Skewers</li>
             <li>HE_Hellas_Plakous</li>
@@ -210,12 +222,15 @@
             <li>HE_Tianxia_Dao</li>
             <li>HE_Tianxia_BirdGun</li>
             <li>HE_Tianxia_Rifle</li>
+            <li>HE_Tianxia_BoxPistol</li>
             <li>HE_Tianxia_Helmet</li>
             <li>HE_Tianxia_Lamellar</li>
             <li>HE_Tianxia_Hanfu</li>
             <li>HE_Tianxia_DragonRobe</li>
             <li>HE_Tianxia_Futou</li>
             <li>HE_Tianxia_ArmyCoat</li>
+            <li>HE_Tianxia_SteelHelmet</li>
+            <li>HE_Tianxia_FieldUniform</li>
             <li>HE_Tianxia_Dumplings</li>
             <li>HE_Tianxia_Congee</li>
             <li>HE_Tianxia_Mooncake</li>
@@ -228,12 +243,15 @@
             <li>HE_Albion_Blunderbuss</li>
             <li>HE_Albion_FlintlockPistol</li>
             <li>HE_Albion_Breechloader</li>
+            <li>HE_Albion_LightMG</li>
             <li>HE_Albion_Shako</li>
             <li>HE_Albion_Redcoat</li>
             <li>HE_Albion_FrockCoat</li>
             <li>HE_Albion_TopHat</li>
             <li>HE_Albion_Bicorne</li>
             <li>HE_Albion_RifleGreen</li>
+            <li>HE_Albion_SteelHelmet</li>
+            <li>HE_Albion_FieldUniform</li>
             <li>HE_Albion_MeatPie</li>
             <li>HE_Albion_Roast</li>
             <li>HE_Albion_Scones</li>
@@ -245,12 +263,15 @@
             <li>HE_Kemet_DesertRifle</li>
             <li>HE_Kemet_Hedj</li>
             <li>HE_Kemet_Musket</li>
+            <li>HE_Kemet_NileCarbine</li>
             <li>HE_Kemet_Kalasiris</li>
             <li>HE_Kemet_Corselet</li>
             <li>HE_Kemet_Khepresh</li>
             <li>HE_Kemet_Nemes</li>
             <li>HE_Kemet_LeopardMantle</li>
             <li>HE_Kemet_FieldCoat</li>
+            <li>HE_Kemet_SteelHelmet</li>
+            <li>HE_Kemet_FieldUniform</li>
             <li>HE_Kemet_Papyrus</li>
             <li>HE_Kemet_Bread</li>
             <li>HE_Kemet_Ful</li>
@@ -262,12 +283,15 @@
             <li>HE_Pars_Jezail</li>
             <li>HE_Pars_Shamshir</li>
             <li>HE_Pars_Rifle</li>
+            <li>HE_Pars_LongRifle</li>
             <li>HE_Pars_Kaftan</li>
             <li>HE_Pars_ScaleCoat</li>
             <li>HE_Pars_WingedHelm</li>
             <li>HE_Pars_Kidaris</li>
             <li>HE_Pars_Candys</li>
             <li>HE_Pars_Chokha</li>
+            <li>HE_Pars_SteelHelmet</li>
+            <li>HE_Pars_FieldUniform</li>
             <li>HE_Pars_Carpet</li>
             <li>HE_Pars_Pilaf</li>
             <li>HE_Pars_Kebab</li>
@@ -279,12 +303,15 @@
             <li>HE_Inti_Chuki</li>
             <li>HE_Inti_Bolas</li>
             <li>HE_Inti_Arquebus</li>
+            <li>HE_Inti_LightCarbine</li>
             <li>HE_Inti_Unku</li>
             <li>HE_Inti_QuiltedTunic</li>
             <li>HE_Inti_PlumedHelm</li>
             <li>HE_Inti_Mascaypacha</li>
             <li>HE_Inti_FeatherCape</li>
             <li>HE_Inti_FieldCoat</li>
+            <li>HE_Inti_SteelHelmet</li>
+            <li>HE_Inti_FieldUniform</li>
             <li>HE_Inti_Pachamanca</li>
             <li>HE_Inti_Locro</li>
             <li>HE_Inti_Humita</li>
@@ -302,12 +329,15 @@
         <li>HE_Roma_Carbine</li>
         <li>HE_Roma_Spatha</li>
         <li>HE_Roma_Arquebus</li>
+        <li>HE_Roma_Autoloader</li>
         <li>HE_Roma_Lorica</li>
         <li>HE_Roma_Galea</li>
         <li>HE_Roma_Tunica</li>
         <li>HE_Roma_Toga</li>
         <li>HE_Roma_Laurel</li>
         <li>HE_Roma_FieldCoat</li>
+        <li>HE_Roma_SteelHelmet</li>
+        <li>HE_Roma_FieldUniform</li>
         <li>HE_Roma_Puls</li>
         <li>HE_Roma_Lucanica</li>
         <li>HE_Roma_Libum</li>
@@ -319,12 +349,15 @@
         <li>HE_Yamato_Yumi</li>
         <li>HE_Yamato_Tanegashima</li>
         <li>HE_Yamato_Rifle</li>
+        <li>HE_Yamato_Sniper</li>
         <li>HE_Yamato_Kabuto</li>
         <li>HE_Yamato_Domaru</li>
         <li>HE_Yamato_Kimono</li>
         <li>HE_Yamato_Kamishimo</li>
         <li>HE_Yamato_Jingasa</li>
         <li>HE_Yamato_ArmyCoat</li>
+        <li>HE_Yamato_SteelHelmet</li>
+        <li>HE_Yamato_FieldUniform</li>
         <li>HE_Yamato_Onigiri</li>
         <li>HE_Yamato_Miso</li>
         <li>HE_Yamato_Mochi</li>
@@ -337,12 +370,15 @@
         <li>HE_Nord_Seax</li>
         <li>HE_Nord_HookGun</li>
         <li>HE_Nord_Rifle</li>
+        <li>HE_Nord_TrenchGun</li>
         <li>HE_Nord_Helm</li>
         <li>HE_Nord_Byrnie</li>
         <li>HE_Nord_FurCloak</li>
         <li>HE_Nord_Tunic</li>
         <li>HE_Nord_Circlet</li>
         <li>HE_Nord_FieldCoat</li>
+        <li>HE_Nord_SteelHelmet</li>
+        <li>HE_Nord_FieldUniform</li>
         <li>HE_Nord_Skyr</li>
         <li>HE_Nord_HunterStew</li>
         <li>HE_Nord_Flatbread</li>
@@ -355,12 +391,15 @@
         <li>HE_Hellas_Gastraphetes</li>
         <li>HE_Hellas_Musket</li>
         <li>HE_Hellas_Rifle</li>
+        <li>HE_Hellas_MountainCarbine</li>
         <li>HE_Hellas_Corinthian</li>
         <li>HE_Hellas_Linothorax</li>
         <li>HE_Hellas_Chiton</li>
         <li>HE_Hellas_Himation</li>
         <li>HE_Hellas_OliveWreath</li>
         <li>HE_Hellas_Evzone</li>
+        <li>HE_Hellas_SteelHelmet</li>
+        <li>HE_Hellas_FieldUniform</li>
         <li>HE_Hellas_Maza</li>
         <li>HE_Hellas_Skewers</li>
         <li>HE_Hellas_Plakous</li>
@@ -373,12 +412,15 @@
         <li>HE_Tianxia_Dao</li>
         <li>HE_Tianxia_BirdGun</li>
         <li>HE_Tianxia_Rifle</li>
+        <li>HE_Tianxia_BoxPistol</li>
         <li>HE_Tianxia_Helmet</li>
         <li>HE_Tianxia_Lamellar</li>
         <li>HE_Tianxia_Hanfu</li>
         <li>HE_Tianxia_DragonRobe</li>
         <li>HE_Tianxia_Futou</li>
         <li>HE_Tianxia_ArmyCoat</li>
+        <li>HE_Tianxia_SteelHelmet</li>
+        <li>HE_Tianxia_FieldUniform</li>
         <li>HE_Tianxia_Dumplings</li>
         <li>HE_Tianxia_Congee</li>
         <li>HE_Tianxia_Mooncake</li>
@@ -391,12 +433,15 @@
         <li>HE_Albion_Blunderbuss</li>
         <li>HE_Albion_FlintlockPistol</li>
         <li>HE_Albion_Breechloader</li>
+        <li>HE_Albion_LightMG</li>
         <li>HE_Albion_Shako</li>
         <li>HE_Albion_Redcoat</li>
         <li>HE_Albion_FrockCoat</li>
         <li>HE_Albion_TopHat</li>
         <li>HE_Albion_Bicorne</li>
         <li>HE_Albion_RifleGreen</li>
+        <li>HE_Albion_SteelHelmet</li>
+        <li>HE_Albion_FieldUniform</li>
         <li>HE_Albion_MeatPie</li>
         <li>HE_Albion_Roast</li>
         <li>HE_Albion_Scones</li>
@@ -408,12 +453,15 @@
         <li>HE_Kemet_DesertRifle</li>
         <li>HE_Kemet_Hedj</li>
         <li>HE_Kemet_Musket</li>
+        <li>HE_Kemet_NileCarbine</li>
         <li>HE_Kemet_Kalasiris</li>
         <li>HE_Kemet_Corselet</li>
         <li>HE_Kemet_Khepresh</li>
         <li>HE_Kemet_Nemes</li>
         <li>HE_Kemet_LeopardMantle</li>
         <li>HE_Kemet_FieldCoat</li>
+        <li>HE_Kemet_SteelHelmet</li>
+        <li>HE_Kemet_FieldUniform</li>
         <li>HE_Kemet_Papyrus</li>
         <li>HE_Kemet_Bread</li>
         <li>HE_Kemet_Ful</li>
@@ -425,12 +473,15 @@
         <li>HE_Pars_Jezail</li>
         <li>HE_Pars_Shamshir</li>
         <li>HE_Pars_Rifle</li>
+        <li>HE_Pars_LongRifle</li>
         <li>HE_Pars_Kaftan</li>
         <li>HE_Pars_ScaleCoat</li>
         <li>HE_Pars_WingedHelm</li>
         <li>HE_Pars_Kidaris</li>
         <li>HE_Pars_Candys</li>
         <li>HE_Pars_Chokha</li>
+        <li>HE_Pars_SteelHelmet</li>
+        <li>HE_Pars_FieldUniform</li>
         <li>HE_Pars_Carpet</li>
         <li>HE_Pars_Pilaf</li>
         <li>HE_Pars_Kebab</li>
@@ -442,12 +493,15 @@
         <li>HE_Inti_Chuki</li>
         <li>HE_Inti_Bolas</li>
         <li>HE_Inti_Arquebus</li>
+        <li>HE_Inti_LightCarbine</li>
         <li>HE_Inti_Unku</li>
         <li>HE_Inti_QuiltedTunic</li>
         <li>HE_Inti_PlumedHelm</li>
         <li>HE_Inti_Mascaypacha</li>
         <li>HE_Inti_FeatherCape</li>
         <li>HE_Inti_FieldCoat</li>
+        <li>HE_Inti_SteelHelmet</li>
+        <li>HE_Inti_FieldUniform</li>
         <li>HE_Inti_Pachamanca</li>
         <li>HE_Inti_Locro</li>
         <li>HE_Inti_Humita</li>
@@ -462,12 +516,15 @@
         <li>HE_Roma_Carbine</li>
         <li>HE_Roma_Spatha</li>
         <li>HE_Roma_Arquebus</li>
+        <li>HE_Roma_Autoloader</li>
         <li>HE_Roma_Lorica</li>
         <li>HE_Roma_Galea</li>
         <li>HE_Roma_Tunica</li>
         <li>HE_Roma_Toga</li>
         <li>HE_Roma_Laurel</li>
         <li>HE_Roma_FieldCoat</li>
+        <li>HE_Roma_SteelHelmet</li>
+        <li>HE_Roma_FieldUniform</li>
         <li>HE_Roma_Puls</li>
         <li>HE_Roma_Lucanica</li>
         <li>HE_Roma_Libum</li>
@@ -479,12 +536,15 @@
         <li>HE_Yamato_Yumi</li>
         <li>HE_Yamato_Tanegashima</li>
         <li>HE_Yamato_Rifle</li>
+        <li>HE_Yamato_Sniper</li>
         <li>HE_Yamato_Kabuto</li>
         <li>HE_Yamato_Domaru</li>
         <li>HE_Yamato_Kimono</li>
         <li>HE_Yamato_Kamishimo</li>
         <li>HE_Yamato_Jingasa</li>
         <li>HE_Yamato_ArmyCoat</li>
+        <li>HE_Yamato_SteelHelmet</li>
+        <li>HE_Yamato_FieldUniform</li>
         <li>HE_Yamato_Onigiri</li>
         <li>HE_Yamato_Miso</li>
         <li>HE_Yamato_Mochi</li>
@@ -497,12 +557,15 @@
         <li>HE_Nord_Seax</li>
         <li>HE_Nord_HookGun</li>
         <li>HE_Nord_Rifle</li>
+        <li>HE_Nord_TrenchGun</li>
         <li>HE_Nord_Helm</li>
         <li>HE_Nord_Byrnie</li>
         <li>HE_Nord_FurCloak</li>
         <li>HE_Nord_Tunic</li>
         <li>HE_Nord_Circlet</li>
         <li>HE_Nord_FieldCoat</li>
+        <li>HE_Nord_SteelHelmet</li>
+        <li>HE_Nord_FieldUniform</li>
         <li>HE_Nord_Skyr</li>
         <li>HE_Nord_HunterStew</li>
         <li>HE_Nord_Flatbread</li>
@@ -515,12 +578,15 @@
         <li>HE_Hellas_Gastraphetes</li>
         <li>HE_Hellas_Musket</li>
         <li>HE_Hellas_Rifle</li>
+        <li>HE_Hellas_MountainCarbine</li>
         <li>HE_Hellas_Corinthian</li>
         <li>HE_Hellas_Linothorax</li>
         <li>HE_Hellas_Chiton</li>
         <li>HE_Hellas_Himation</li>
         <li>HE_Hellas_OliveWreath</li>
         <li>HE_Hellas_Evzone</li>
+        <li>HE_Hellas_SteelHelmet</li>
+        <li>HE_Hellas_FieldUniform</li>
         <li>HE_Hellas_Maza</li>
         <li>HE_Hellas_Skewers</li>
         <li>HE_Hellas_Plakous</li>
@@ -533,12 +599,15 @@
         <li>HE_Tianxia_Dao</li>
         <li>HE_Tianxia_BirdGun</li>
         <li>HE_Tianxia_Rifle</li>
+        <li>HE_Tianxia_BoxPistol</li>
         <li>HE_Tianxia_Helmet</li>
         <li>HE_Tianxia_Lamellar</li>
         <li>HE_Tianxia_Hanfu</li>
         <li>HE_Tianxia_DragonRobe</li>
         <li>HE_Tianxia_Futou</li>
         <li>HE_Tianxia_ArmyCoat</li>
+        <li>HE_Tianxia_SteelHelmet</li>
+        <li>HE_Tianxia_FieldUniform</li>
         <li>HE_Tianxia_Dumplings</li>
         <li>HE_Tianxia_Congee</li>
         <li>HE_Tianxia_Mooncake</li>
@@ -551,12 +620,15 @@
         <li>HE_Albion_Blunderbuss</li>
         <li>HE_Albion_FlintlockPistol</li>
         <li>HE_Albion_Breechloader</li>
+        <li>HE_Albion_LightMG</li>
         <li>HE_Albion_Shako</li>
         <li>HE_Albion_Redcoat</li>
         <li>HE_Albion_FrockCoat</li>
         <li>HE_Albion_TopHat</li>
         <li>HE_Albion_Bicorne</li>
         <li>HE_Albion_RifleGreen</li>
+        <li>HE_Albion_SteelHelmet</li>
+        <li>HE_Albion_FieldUniform</li>
         <li>HE_Albion_MeatPie</li>
         <li>HE_Albion_Roast</li>
         <li>HE_Albion_Scones</li>
@@ -568,12 +640,15 @@
         <li>HE_Kemet_DesertRifle</li>
         <li>HE_Kemet_Hedj</li>
         <li>HE_Kemet_Musket</li>
+        <li>HE_Kemet_NileCarbine</li>
         <li>HE_Kemet_Kalasiris</li>
         <li>HE_Kemet_Corselet</li>
         <li>HE_Kemet_Khepresh</li>
         <li>HE_Kemet_Nemes</li>
         <li>HE_Kemet_LeopardMantle</li>
         <li>HE_Kemet_FieldCoat</li>
+        <li>HE_Kemet_SteelHelmet</li>
+        <li>HE_Kemet_FieldUniform</li>
         <li>HE_Kemet_Papyrus</li>
         <li>HE_Kemet_Bread</li>
         <li>HE_Kemet_Ful</li>
@@ -585,12 +660,15 @@
         <li>HE_Pars_Jezail</li>
         <li>HE_Pars_Shamshir</li>
         <li>HE_Pars_Rifle</li>
+        <li>HE_Pars_LongRifle</li>
         <li>HE_Pars_Kaftan</li>
         <li>HE_Pars_ScaleCoat</li>
         <li>HE_Pars_WingedHelm</li>
         <li>HE_Pars_Kidaris</li>
         <li>HE_Pars_Candys</li>
         <li>HE_Pars_Chokha</li>
+        <li>HE_Pars_SteelHelmet</li>
+        <li>HE_Pars_FieldUniform</li>
         <li>HE_Pars_Carpet</li>
         <li>HE_Pars_Pilaf</li>
         <li>HE_Pars_Kebab</li>
@@ -602,12 +680,15 @@
         <li>HE_Inti_Chuki</li>
         <li>HE_Inti_Bolas</li>
         <li>HE_Inti_Arquebus</li>
+        <li>HE_Inti_LightCarbine</li>
         <li>HE_Inti_Unku</li>
         <li>HE_Inti_QuiltedTunic</li>
         <li>HE_Inti_PlumedHelm</li>
         <li>HE_Inti_Mascaypacha</li>
         <li>HE_Inti_FeatherCape</li>
         <li>HE_Inti_FieldCoat</li>
+        <li>HE_Inti_SteelHelmet</li>
+        <li>HE_Inti_FieldUniform</li>
         <li>HE_Inti_Pachamanca</li>
         <li>HE_Inti_Locro</li>
         <li>HE_Inti_Humita</li>

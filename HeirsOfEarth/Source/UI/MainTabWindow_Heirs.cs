@@ -147,7 +147,7 @@ namespace HeirsOfEarth
                 Rect bar = new Rect(470f, y + 6f, view.width - 720f, 20f);
                 Widgets.FillableBar(bar, HeirsAges.ToNext(nation), BarTex(nation));
                 Widgets.Label(new Rect(bar.xMax + 10f, y + 5f, 240f, 24f),
-                    age >= 3 ? "HE_AgesLast".Translate().Resolve() : "HE_AgesToward".Translate(HeirsAges.AgeLabel(age + 1), HeirsAges.ToNext(nation).ToStringPercent()).Resolve());
+                    age >= HeirsAges.LastAge ? "HE_AgesLast".Translate().Resolve() : "HE_AgesToward".Translate(HeirsAges.AgeLabel(age + 1), HeirsAges.ToNext(nation).ToStringPercent()).Resolve());
                 // the tooltip is put together only while the mouse is over the row
                 NationDef n = nation;
                 TooltipHandler.TipRegion(row, new TipSignal(() => AgeTip(n), n.shortHash));
@@ -161,7 +161,7 @@ namespace HeirsOfEarth
             var parts = new List<string>();
             float rate = HeirsAges.Rate(nation, parts);
             return "HE_AgesPace".Translate((rate * HeirsMod.Settings.ageSpeed).ToStringPercent()) + "\n\n" + string.Join("\n", parts)
-                + "\n\n" + "HE_AgesItems".Translate(string.Join(", ", HeirsAges.AgeItems(nation, 2).Concat(HeirsAges.AgeItems(nation, 3)).Select(d => d.LabelCap.Resolve())));
+                + "\n\n" + "HE_AgesItems".Translate(string.Join(", ", Enumerable.Range(2, HeirsAges.LastAge - 1).SelectMany(a => HeirsAges.AgeItems(nation, a)).Select(d => d.LabelCap.Resolve())));
         }
 
         private static readonly Dictionary<NationDef, Texture2D> barTex = new Dictionary<NationDef, Texture2D>();

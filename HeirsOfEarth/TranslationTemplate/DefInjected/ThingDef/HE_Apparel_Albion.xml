@@ -12,4 +12,8 @@
   <HE_Albion_Bicorne.description>A two-cornered officer's hat trimmed with gold lace and the national cockade. Admirals and generals wear it sideways; everyone salutes.</HE_Albion_Bicorne.description>
   <HE_Albion_RifleGreen.label>rifle green jacket</HE_Albion_RifleGreen.label>
   <HE_Albion_RifleGreen.description>The dark green of the rifle regiments, with black facings, black buttons and a cross belt. It hides in a hedge; it is meant to.</HE_Albion_RifleGreen.description>
+  <HE_Albion_SteelHelmet.label>Albion steel helmet</HE_Albion_SteelHelmet.label>
+  <HE_Albion_SteelHelmet.description>A shallow steel bowl with a wide brim all round, khaki-painted, keeping off what falls from above. A small brass badge on the front.</HE_Albion_SteelHelmet.description>
+  <HE_Albion_FieldUniform.label>Albion service dress</HE_Albion_FieldUniform.label>
+  <HE_Albion_FieldUniform.description>A khaki service tunic with brass buttons, four pockets and the webbing of braces and belt.</HE_Albion_FieldUniform.description>
 </LanguageData>

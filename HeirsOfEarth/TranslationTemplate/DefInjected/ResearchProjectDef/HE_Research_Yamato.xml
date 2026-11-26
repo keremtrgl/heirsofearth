@@ -98,4 +98,16 @@ Requires 40 Yamato knowledge unless this is your heritage.</HE_Yamato_Yagura.des
 Outside your heritage, this can be researched only once Yamato has reached the Age of Steam.
 
 Requires 45 Yamato knowledge unless this is your heritage.</HE_Yamato_SteamArmy.description>
+  <HE_Yamato_ElectricArmy.label>Yamato electric army</HE_Yamato_ElectricArmy.label>
+  <HE_Yamato_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Yamato raised when the wires came.
+
+Outside your heritage, this can be researched only once Yamato has reached the Electric Age.
+
+Requires 60 Yamato knowledge unless this is your heritage.</HE_Yamato_ElectricArmy.description>
+  <HE_Yamato_Works.label>Yamato works</HE_Yamato_Works.label>
+  <HE_Yamato_Works.description>The first electric works of Yamato: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Yamato has reached the Electric Age.
+
+Requires 50 Yamato knowledge unless this is your heritage.</HE_Yamato_Works.description>
 </LanguageData>

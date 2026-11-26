@@ -17,4 +17,6 @@
   <HE_Albion_FieldCannon.comps.1.fuelLabel>Mermiler</HE_Albion_FieldCannon.comps.1.fuelLabel>
   <HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>Mermiler</HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>
   <HE_Albion_FieldCannon.comps.1.outOfFuelMessage>Mermi için çelik gerekli</HE_Albion_FieldCannon.comps.1.outOfFuelMessage>
+  <HE_Albion_TelegraphOffice.label>telgraf ofisi</HE_Albion_TelegraphOffice.label>
+  <HE_Albion_TelegraphOffice.description>Pirinç bir telgraf anahtarı, bir alıcı ve bir pil dizisi olan, dışarıdaki bir direğe bağlı bir masa. Elektriği olduğu sürece her mevsim öteki devletlere selam gönderir: düşman olmayan her mirasçı devletle +1 iyi niyet. Yalnızca bir ofis sayılır.</HE_Albion_TelegraphOffice.description>
 </LanguageData>

@@ -106,4 +106,16 @@ Mirasın bu değilse 30 Kemet bilgisi gerekir.</HE_Kemet_PowderArms.description>
 Mirasın bu değilse, ancak Yeni Kemet Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Kemet bilgisi gerekir.</HE_Kemet_SteamArmy.description>
+  <HE_Kemet_ElectricArmy.label>Kemet elektrik ordusu</HE_Kemet_ElectricArmy.label>
+  <HE_Kemet_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Yeni Kemet'in kurduğu ordu.
+
+Mirasın bu değilse, ancak Yeni Kemet Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Kemet bilgisi gerekir.</HE_Kemet_ElectricArmy.description>
+  <HE_Kemet_Works.label>Kemet işleri</HE_Kemet_Works.label>
+  <HE_Kemet_Works.description>Yeni Kemet'in ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Yeni Kemet Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Kemet bilgisi gerekir.</HE_Kemet_Works.description>
 </LanguageData>

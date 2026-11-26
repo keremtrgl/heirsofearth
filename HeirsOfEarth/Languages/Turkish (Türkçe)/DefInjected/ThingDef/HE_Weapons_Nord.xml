@@ -29,4 +29,8 @@
   <HE_Nord_Rifle.description>Soluk huş dipçikli ve yan tarafında, mekanizma açılmadan doldurulan bir kutu şarjörü olan sürgülü bir tüfek; bu yüzden diğer sürgülü tüfeklerden hızlı ateş eder.</HE_Nord_Rifle.description>
   <HE_Nord_Rifle.tools.0.label>dipçik</HE_Nord_Rifle.tools.0.label>
   <HE_Nord_Rifle.tools.1.label>namlu</HE_Nord_Rifle.tools.1.label>
+  <HE_Nord_TrenchGun.label>Nord siper tüfeği</HE_Nord_TrenchGun.label>
+  <HE_Nord_TrenchGun.description>Huş dipçikli, namlusunun üstünde bir ısı kalkanı ve gövdesinde bir kuzgun olan pompalı bir av tüfeği. Ağır saçması, yapıldığı birkaç adımlık mesafede diğer av tüfeklerinden daha sert vurur.</HE_Nord_TrenchGun.description>
+  <HE_Nord_TrenchGun.tools.0.label>dipçik</HE_Nord_TrenchGun.tools.0.label>
+  <HE_Nord_TrenchGun.tools.1.label>namlu</HE_Nord_TrenchGun.tools.1.label>
 </LanguageData>

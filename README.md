@@ -71,7 +71,7 @@ Start as the heir of one nation, or as an independent colony that learns the kno
 <details open>
 <summary><b>Ages of Progress</b></summary>
 
-The nations do not stand still. Each one moves from the **Age of Founding** through the **Age of Powder** to the **Age of Steam** at its own pace. Peace, allies, a scholarly ruler, many towns and treaties or trade with you speed it up; war, famine and plague hold it back. Each age brings the nation's own firearms, each with its own strength (the Roman arquebus, the Nordic hook gun, the Tianxia bird gun, the Albion breech-loader, the Persian rifle inlaid in khatam and more), and in the Age of Steam its uniform coat. The Heirs tab shows where every nation stands and why.
+The nations do not stand still. Each one moves from the **Age of Founding** through the **Age of Powder** and the **Age of Steam** to the **Electric Age** at its own pace. Peace, allies, a scholarly ruler, many towns and treaties or trade with you speed it up; war, famine and plague hold it back. Each age brings the nation's own firearms, each with its own strength (the Roman arquebus, the Nordic hook gun, the Tianxia bird gun, the Albion breech-loader, the Persian rifle inlaid in khatam and more), its uniform coat in the Age of Steam, and its steel helmet and field uniform in the Electric Age. In the Electric Age every nation also has one powered building of its own (an electric forge, a telegraph office, an irrigation pump, a cold store and more), and the first nation to get there holds a **World Fair** where your best piece can win the grand prize. The Heirs tab shows where every nation stands and why.
 </details>
 
 <details open>
@@ -182,7 +182,7 @@ powershell -NoProfile -File heirs_test\run.ps1        # full in-game test run
 
 ## Version history
 
-The current version is **4.2.1**. See [CHANGELOG.md](CHANGELOG.md) for every release, from the first three nations to the Ages of Progress. Next on the roadmap: the **Electric Age**, nation cities, quests on the world map, and Combat Extended and more languages.
+The current version is **4.3.0**. See [CHANGELOG.md](CHANGELOG.md) for every release, from the first three nations to the Electric Age. Next on the roadmap: nation cities, quests on the world map, and Combat Extended and more languages.
 
 ## Feedback
 

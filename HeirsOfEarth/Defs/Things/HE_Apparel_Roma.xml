@@ -412,4 +412,149 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Roma_SteelHelmet</defName>
+    <label>legion steel helmet</label>
+    <description>A steel helmet with a narrow brim and a tall bronze comb, painted crimson, with a bronze eagle on the front.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Roma_SteelHelmet</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Steel>50</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>6000</WorkToMake>
+      <Mass>1.4</Mass>
+      <EquipDelay>1</EquipDelay>
+      <MaxHitPoints>120</MaxHitPoints>
+      <ArmorRating_Sharp>0.4</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.18</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.2</ArmorRating_Heat>
+      <Insulation_Cold>2</Insulation_Cold>
+    </statBases>
+    <thingCategories>
+      <li>ApparelArmor</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_RomaGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>UpperHead</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/HE_Roma_SteelHelmet</wornGraphicPath>
+      <layers>
+        <li>Overhead</li>
+      </layers>
+      <tags>
+        <li>HE_RomaApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.46, 0.14, 0.16)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Roma_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Roma</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
+  <ThingDef ParentName="ApparelMakeableBase">
+    <defName>HE_Roma_FieldUniform</defName>
+    <label>legion field uniform</label>
+    <description>A grey-green field tunic with crimson collar patches, bronze buttons, a cross strap and two breast pockets.</description>
+    <techLevel>Industrial</techLevel>
+    <graphicData>
+      <texPath>HeirsOfEarth/Apparel/HE_Roma_FieldUniform</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+    </graphicData>
+    <costList>
+      <Cloth>60</Cloth>
+      <Steel>10</Steel>
+    </costList>
+    <statBases>
+      <WorkToMake>10000</WorkToMake>
+      <Mass>1.8</Mass>
+      <EquipDelay>2</EquipDelay>
+      <MaxHitPoints>200</MaxHitPoints>
+      <ArmorRating_Sharp>0.22</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.14</ArmorRating_Blunt>
+      <ArmorRating_Heat>0.15</ArmorRating_Heat>
+      <Insulation_Cold>22</Insulation_Cold>
+      <Insulation_Heat>6</Insulation_Heat>
+    </statBases>
+    <thingCategories>
+      <li>Apparel</li>
+    </thingCategories>
+    <tradeTags Inherit="False">
+      <li>HE_RomaGoods</li>
+      <li>Clothing</li>
+    </tradeTags>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+        <li>Neck</li>
+        <li>Shoulders</li>
+        <li>Arms</li>
+      </bodyPartGroups>
+      <wornGraphicPath>HeirsOfEarth/Apparel/Worn/Body/HE_Roma_FieldUniform</wornGraphicPath>
+      <layers>
+        <li>Shell</li>
+      </layers>
+      <tags>
+        <li>HE_RomaApparel</li>
+      </tags>
+      <defaultOutfitTags>
+        <li>Worker</li>
+        <li>Soldier</li>
+      </defaultOutfitTags>
+      <useWornGraphicMask>true</useWornGraphicMask>
+    </apparel>
+    <colorGenerator Class="ColorGenerator_Single">
+      <color>(0.40, 0.44, 0.36)</color>
+    </colorGenerator>
+    <recipeMaker>
+      <researchPrerequisite>HE_Roma_ElectricArmy</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>4</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>HandTailoringBench</li>
+        <li>ElectricTailoringBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Roma</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+  </ThingDef>
 </Defs>

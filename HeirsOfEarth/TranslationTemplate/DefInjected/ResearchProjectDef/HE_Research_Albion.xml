@@ -92,4 +92,16 @@ Requires 40 Albion knowledge unless this is your heritage.</HE_Albion_FieldCanno
 Outside your heritage, this can be researched only once Albion has reached the Age of Steam.
 
 Requires 45 Albion knowledge unless this is your heritage.</HE_Albion_SteamArmy.description>
+  <HE_Albion_ElectricArmy.label>Albion electric army</HE_Albion_ElectricArmy.label>
+  <HE_Albion_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Albion raised when the wires came.
+
+Outside your heritage, this can be researched only once Albion has reached the Electric Age.
+
+Requires 60 Albion knowledge unless this is your heritage.</HE_Albion_ElectricArmy.description>
+  <HE_Albion_Works.label>Albion works</HE_Albion_Works.label>
+  <HE_Albion_Works.description>The first electric works of Albion: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Albion has reached the Electric Age.
+
+Requires 50 Albion knowledge unless this is your heritage.</HE_Albion_Works.description>
 </LanguageData>

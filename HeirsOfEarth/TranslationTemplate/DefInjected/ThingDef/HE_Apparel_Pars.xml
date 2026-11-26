@@ -12,4 +12,8 @@
   <HE_Pars_Candys.description>A long crimson robe with hanging sleeves worn over the shoulders, given by the king to those he wishes to honour.</HE_Pars_Candys.description>
   <HE_Pars_Chokha.label>chokha</HE_Pars_Chokha.label>
   <HE_Pars_Chokha.description>A long fitted coat with rows of silver cartridge loops across the chest and a narrow dark belt.</HE_Pars_Chokha.description>
+  <HE_Pars_SteelHelmet.label>Persian spiked helmet</HE_Pars_SteelHelmet.label>
+  <HE_Pars_SteelHelmet.description>A domed steel helmet in olive, crowned with a silver spike and fronted by a silver plate of the lion and sun.</HE_Pars_SteelHelmet.description>
+  <HE_Pars_FieldUniform.label>Persian field uniform</HE_Pars_FieldUniform.label>
+  <HE_Pars_FieldUniform.description>An olive field tunic with dark blue collar patches, silver buttons, a narrow black belt and a cross strap.</HE_Pars_FieldUniform.description>
 </LanguageData>

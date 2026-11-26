@@ -108,4 +108,16 @@ Mirasın bu değilse 30 Nova Roma bilgisi gerekir.</HE_Roma_PowderArms.descripti
 Mirasın bu değilse, ancak Nova Roma Buhar Çağı'na ulaştığında araştırılabilir.
 
 Mirasın bu değilse 45 Nova Roma bilgisi gerekir.</HE_Roma_SteamArmy.description>
+  <HE_Roma_ElectricArmy.label>Roma elektrik ordusu</HE_Roma_ElectricArmy.label>
+  <HE_Roma_ElectricArmy.description>Makinede yapılmış silahlar, bir çelik miğfer ve soluk renkli bir sahra üniforması: teller geldiğinde Nova Roma'nın kurduğu ordu.
+
+Mirasın bu değilse, ancak Nova Roma Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 60 Nova Roma bilgisi gerekir.</HE_Roma_ElectricArmy.description>
+  <HE_Roma_Works.label>Roma işleri</HE_Roma_Works.label>
+  <HE_Roma_Works.description>Nova Roma'nın ilk elektrikli işleri: devletin gurur duyduğu, kendi zevkine göre kurulmuş bir makine.
+
+Mirasın bu değilse, ancak Nova Roma Elektrik Çağı'na ulaştığında araştırılabilir.
+
+Mirasın bu değilse 50 Nova Roma bilgisi gerekir.</HE_Roma_Works.description>
 </LanguageData>

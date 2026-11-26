@@ -10,6 +10,8 @@ namespace HeirsOfEarth
     public class HeirsFoodStoreExt : DefModExtension
     {
         public float rotFactor = 0.5f;
+        /// <summary>4.3: the store only slows rot while it has power (the Inti cold store).</summary>
+        public bool needsPower;
     }
 
     /// <summary>Rottable things lying in a food store rot at rotFactor of the normal speed, and their "rots in" readout agrees.</summary>
@@ -65,9 +67,14 @@ namespace HeirsOfEarth
                 c.factor.Clear();
                 foreach (ThingDef def in StoreDefs)
                 {
-                    float f = def.GetModExtension<HeirsFoodStoreExt>().rotFactor;
+                    HeirsFoodStoreExt ext = def.GetModExtension<HeirsFoodStoreExt>();
+                    float f = ext.rotFactor;
                     foreach (Thing store in map.listerThings.ThingsOfDef(def))
                     {
+                        if (ext.needsPower && store.TryGetComp<CompPowerTrader>() is CompPowerTrader power && !power.PowerOn)
+                        {
+                            continue;
+                        }
                         foreach (IntVec3 cell in store.OccupiedRect())
                         {
                             if (!c.factor.TryGetValue(cell, out float old) || f < old)

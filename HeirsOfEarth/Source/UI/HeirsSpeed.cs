@@ -78,7 +78,7 @@ namespace HeirsOfEarth
             }
             TickManager tickManager = Find.TickManager;
             Vector2 size = TimeControls.TimeButSize;
-            timerRect.width = Mathf.Max(timerRect.width, size.x * Speeds.Length);
+            timerRect = Fit(timerRect, size.x * Speeds.Length, UI.screenWidth);
             Widgets.BeginGroup(timerRect);
             Rect rect = new Rect(0f, 0f, size.x, size.y);
             foreach (TimeSpeed speed in Speeds)
@@ -124,6 +124,25 @@ namespace HeirsOfEarth
                 Keys(tickManager);
             }
             return false;
+        }
+
+        /// <summary>
+        /// 4.2.2: the game sizes the time controls for four buttons against the right edge of the screen, so the fifth one
+        /// used to hang off the screen. The row now grows to the left and never passes the right edge.
+        /// </summary>
+        public static Rect Fit(Rect timerRect, float needed, float screenWidth)
+        {
+            if (timerRect.width < needed)
+            {
+                timerRect.x -= needed - timerRect.width;
+                timerRect.width = needed;
+            }
+            if (timerRect.x + needed > screenWidth)
+            {
+                timerRect.x = screenWidth - needed;
+            }
+            timerRect.x = Mathf.Max(0f, timerRect.x);
+            return timerRect;
         }
 
         private static void Keys(TickManager tickManager)

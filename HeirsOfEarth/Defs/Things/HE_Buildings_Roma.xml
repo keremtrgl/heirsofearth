@@ -447,4 +447,65 @@
       </li>
     </modExtensions>
   </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>HE_Roma_ElectricFountain</defName>
+    <label>electric fountain</label>
+    <description>A round marble basin with a bronze she-wolf in the middle and an electric pump that throws a crown of water into the air. Lamps under the water light it blue at night. Colonists sit at its rim to rest.</description>
+    <thingClass>Building</thingClass>
+    <graphicData>
+      <texPath>HeirsOfEarth/Buildings/HE_Roma_ElectricFountain</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>Impassable</passability>
+    <fillPercent>0.5</fillPercent>
+    <rotatable>false</rotatable>
+    <size>(2,2)</size>
+    <costList>
+      <Steel>60</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+      <BlocksMarble>80</BlocksMarble>
+    </costList>
+    <statBases>
+      <MaxHitPoints>300</MaxHitPoints>
+      <WorkToBuild>6000</WorkToBuild>
+      <Mass>40</Mass>
+      <Beauty>28</Beauty>
+      <Flammability>0</Flammability>
+    </statBases>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsFurniture</li>
+    </thingCategories>
+    <designationCategory>HE_Heritage</designationCategory>
+    <researchPrerequisites>
+      <li>HE_Roma_Works</li>
+    </researchPrerequisites>
+    <building>
+      <joyKind>Meditative</joyKind>
+    </building>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>150</basePowerConsumption>
+        <shortCircuitInRain>false</shortCircuitInRain>
+      </li>
+      <li Class="CompProperties_Flickable" />
+      <li Class="CompProperties_Glower">
+        <glowRadius>6</glowRadius>
+        <glowColor>(120,190,255,0)</glowColor>
+      </li>
+    </comps>
+    <modExtensions>
+      <li Class="HeirsOfEarth.HeirsCultureExt">
+        <nation>HE_Roma</nation>
+      </li>
+      <li Class="HeirsOfEarth.HeirsAgeExt">
+        <nation>HE_Roma</nation>
+        <age>4</age>
+      </li>
+    </modExtensions>
+    <tickerType>Normal</tickerType>
+  </ThingDef>
 </Defs>

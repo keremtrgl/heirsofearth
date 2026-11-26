@@ -12,4 +12,8 @@
   <HE_Kemet_LeopardMantle.description>A leopard skin worn over a white linen robe, the mark of the high priest who reads the stars and the sun calendar.</HE_Kemet_LeopardMantle.description>
   <HE_Kemet_FieldCoat.label>Kemetic field coat</HE_Kemet_FieldCoat.label>
   <HE_Kemet_FieldCoat.description>A light khaki coat for the desert sun, a turquoise collar echoing the old broad collar and a leather shoulder strap.</HE_Kemet_FieldCoat.description>
+  <HE_Kemet_SteelHelmet.label>Kemetic sun helmet</HE_Kemet_SteelHelmet.label>
+  <HE_Kemet_SteelHelmet.description>A light steel helmet in sand colour with a linen cloth hanging over the neck against the sun, and a gold falcon on the front.</HE_Kemet_SteelHelmet.description>
+  <HE_Kemet_FieldUniform.label>Kemetic desert uniform</HE_Kemet_FieldUniform.label>
+  <HE_Kemet_FieldUniform.description>A light sand tunic with a turquoise collar, bronze buttons and breast pockets, cut loose for the heat.</HE_Kemet_FieldUniform.description>
 </LanguageData>

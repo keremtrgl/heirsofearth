@@ -7,7 +7,7 @@ using Verse;
 
 namespace HeirsOfEarth
 {
-    /// <summary>On a weapon or garment that belongs to a nation's later age (4.2): which nation, which age (2 Powder, 3 Steam).</summary>
+    /// <summary>On a weapon, garment or building that belongs to a nation's later age (4.2): which nation, which age (2 Powder, 3 Steam, 4 Electric).</summary>
     public class HeirsAgeExt : DefModExtension
     {
         public NationDef nation;
@@ -24,6 +24,8 @@ namespace HeirsOfEarth
     {
         public const float AgeTwoAt = 3f;   // 4.2.1: from 2.5 and 7, after the ten-year test showed most nations run at about 130%
         public const float AgeThreeAt = 9f;
+        public const float AgeFourAt = 18f;  // 4.3: the Electric Age, a late-game step (about 14 years at the usual pace)
+        public const int LastAge = 4;
         public const float MinRate = 0.2f;
         public const float SetbackRefused = 0.3f;
         public const float SetbackHelped = 0.1f;
@@ -32,7 +34,10 @@ namespace HeirsOfEarth
 
         public static float Progress(NationDef nation) => HeirsGame.Get?.AgeProgress(nation) ?? 0f;
 
-        public static int AgeFor(float progress) => progress >= AgeThreeAt ? 3 : progress >= AgeTwoAt ? 2 : 1;
+        public static int AgeFor(float progress) => progress >= AgeFourAt ? 4 : progress >= AgeThreeAt ? 3 : progress >= AgeTwoAt ? 2 : 1;
+
+        /// <summary>Progress at which an age starts (0 for the first).</summary>
+        public static float StartOf(int age) => age >= 4 ? AgeFourAt : age == 3 ? AgeThreeAt : age == 2 ? AgeTwoAt : 0f;
 
         /// <summary>The nation's age: 1 founding, 2 powder, 3 steam. With ages switched off every nation stays in its founding age.</summary>
         public static int AgeOf(NationDef nation) => nation == null || !On ? 1 : AgeFor(Progress(nation));
@@ -44,9 +49,9 @@ namespace HeirsOfEarth
         {
             float p = Progress(nation);
             int age = AgeFor(p);
-            if (age >= 3) return 1f;
-            float from = age == 1 ? 0f : AgeTwoAt;
-            float to = age == 1 ? AgeTwoAt : AgeThreeAt;
+            if (age >= LastAge) return 1f;
+            float from = StartOf(age);
+            float to = StartOf(age + 1);
             return Mathf.Clamp01((p - from) / (to - from));
         }
 
@@ -98,7 +103,7 @@ namespace HeirsOfEarth
                 int shown = game.AgeShown(nation);
                 if (shown >= 2 && AgeFor(game.AgeProgress(nation)) < shown)
                 {
-                    game.SetAgeProgress(nation, shown >= 3 ? AgeThreeAt : AgeTwoAt);
+                    game.SetAgeProgress(nation, StartOf(shown));
                 }
                 float before = game.AgeProgress(nation);
                 game.SetAgeProgress(nation, before + Rate(nation) * HeirsMod.Settings.ageSpeed / GenDate.DaysPerYear);
@@ -115,7 +120,7 @@ namespace HeirsOfEarth
                 return;
             }
             float p = game.AgeProgress(nation);
-            float floor = p >= AgeThreeAt ? AgeThreeAt : p >= AgeTwoAt ? AgeTwoAt : 0f;
+            float floor = StartOf(AgeFor(p));
             game.SetAgeProgress(nation, Mathf.Max(floor, p - (helped ? SetbackHelped : SetbackRefused)));
         }
 
@@ -138,7 +143,11 @@ namespace HeirsOfEarth
             game.AddChronicle(("HE_AgeChronicle").Translate(nation.LabelCap, AgeLabel(age)), nation);
             HeirsMusic.Sting(nation);
             Find.LetterStack.ReceiveLetter("HE_AgeLabel".Translate(nation.LabelCap, AgeLabel(age)), text, LetterDefOf.NeutralEvent);
+            OnAgeReached?.Invoke(nation, age);
         }
+
+        /// <summary>4.3: raised once when a nation is first seen in a new age (after its letter); the World Fair listens.</summary>
+        public static event System.Action<NationDef, int> OnAgeReached;
 
         private static Dictionary<NationDef, List<ThingDef>[]> ageItems;
 
@@ -150,18 +159,18 @@ namespace HeirsOfEarth
                 ageItems = new Dictionary<NationDef, List<ThingDef>[]>();
                 foreach (ThingDef d in DefDatabase<ThingDef>.AllDefsListForReading)
                 {
-                    if (d.GetModExtension<HeirsAgeExt>() is HeirsAgeExt e && e.nation != null && e.age >= 1 && e.age <= 3)
+                    if (d.GetModExtension<HeirsAgeExt>() is HeirsAgeExt e && e.nation != null && e.age >= 1 && e.age <= LastAge)
                     {
                         if (!ageItems.TryGetValue(e.nation, out List<ThingDef>[] lists))
                         {
-                            lists = new[] { new List<ThingDef>(), new List<ThingDef>(), new List<ThingDef>(), new List<ThingDef>() };
+                            lists = Enumerable.Range(0, LastAge + 1).Select(_ => new List<ThingDef>()).ToArray();
                             ageItems[e.nation] = lists;
                         }
                         lists[e.age].Add(d);
                     }
                 }
             }
-            return nation != null && age >= 0 && age <= 3 && ageItems.TryGetValue(nation, out List<ThingDef>[] l) ? l[age] : Enumerable.Empty<ThingDef>();
+            return nation != null && age >= 0 && age <= LastAge && ageItems.TryGetValue(nation, out List<ThingDef>[] l) ? l[age] : Enumerable.Empty<ThingDef>();
         }
 
         public static string Tag(NationDef nation, int age) => "HE_" + nation.defName.Substring(3) + "Age" + age;
@@ -223,10 +232,20 @@ namespace HeirsOfEarth
             {
                 pick = roll < (ranged ? 0.5f : 0.1f) ? 2 : 0;
             }
-            else
+            else if (age == 3)
             {
                 float three = ranged ? 0.45f : 0.2f, two = ranged ? 0.3f : 0.1f;
                 pick = roll < three ? 3 : roll < three + two ? 2 : 0;
+            }
+            else
+            {
+                // 4.3: in the Electric Age the new guns lead, the older ones stay in the ranks
+                float four = ranged ? 0.4f : 0.15f, three = ranged ? 0.3f : 0.15f, two = ranged ? 0.1f : 0.05f;
+                pick = roll < four ? 4 : roll < four + three ? 3 : roll < four + three + two ? 2 : 0;
+            }
+            if (pick > 0 && PriceOf(Tag(nation, pick)) <= 0f && pick > 2 && PriceOf(Tag(nation, pick - 1)) > 0f)
+            {
+                pick--;
             }
             if (pick == 0)
             {
@@ -283,31 +302,61 @@ namespace HeirsOfEarth
 
         public const float UniformChance = 0.55f;
 
-        public static ThingDef UniformOf(NationDef nation) =>
-            AgeItems(nation, 3).FirstOrDefault(d => d.IsApparel && d.apparel.bodyPartGroups.Contains(BodyPartGroupDefOf.Torso));
+        /// <summary>The uniform troops wear: the Electric Age field uniform once the nation is there, else the steam coat.</summary>
+        public static ThingDef UniformOf(NationDef nation) => UniformOf(nation, Mathf.Max(3, AgeOf(nation)));
 
-        /// <summary>For an armed troop of a nation in the age of steam, now and then: its required clothes with the uniform in place of what it covers.</summary>
+        public static ThingDef UniformOf(NationDef nation, int age)
+        {
+            for (int a = Mathf.Min(age, LastAge); a >= 3; a--)
+            {
+                ThingDef d = AgeItems(nation, a).FirstOrDefault(x => x.IsApparel && x.apparel.bodyPartGroups.Contains(BodyPartGroupDefOf.Torso));
+                if (d != null) return d;
+            }
+            return null;
+        }
+
+        /// <summary>4.3: the nation's Electric Age steel helmet.</summary>
+        public static ThingDef HelmetOf(NationDef nation) =>
+            AgeItems(nation, 4).FirstOrDefault(d => d.IsApparel && (d.apparel.bodyPartGroups.Contains(BodyPartGroupDefOf.FullHead)
+                                                                    || d.apparel.bodyPartGroups.Contains(BodyPartGroupDefOf.UpperHead)));
+
+        public const float HelmetChance = 0.55f;
+
+        /// <summary>
+        /// For an armed troop of a nation in the age of steam or later, now and then: its required clothes with the uniform in place of
+        /// what it covers; in the Electric Age, independently, the steel helmet too. Null keeps the usual wardrobe.
+        /// </summary>
         public static List<ThingDef> UniformKit(Pawn pawn)
         {
             PawnKindDef kind = pawn?.kindDef;
             NationDef nation = HeirsKits.NationOfKind(kind);
-            if (!On || nation == null || kind.factionLeader || kind.weaponTags.NullOrEmpty() || AgeOf(nation) < 3)
+            if (!On || nation == null || kind.factionLeader || kind.weaponTags.NullOrEmpty())
+            {
+                return null;
+            }
+            int age = AgeOf(nation);
+            if (age < 3)
             {
                 return null;
             }
             string n = nation.defName.Substring(3);
-            if (!kind.weaponTags.Any(t => t == "HE_" + n + "Ranged" || t == "HE_" + n + "Melee") || !Rand.Chance(UniformChance))
+            if (!kind.weaponTags.Any(t => t == "HE_" + n + "Ranged" || t == "HE_" + n + "Melee"))
             {
                 return null;
             }
-            ThingDef coat = UniformOf(nation);
-            if (coat == null)
+            var wear = new List<ThingDef>();
+            ThingDef coat = Rand.Chance(UniformChance) ? UniformOf(nation, age) : null;
+            if (coat != null) wear.Add(coat);
+            ThingDef helmet = age >= 4 && Rand.Chance(HelmetChance) ? HelmetOf(nation) : null;
+            if (helmet != null) wear.Add(helmet);
+            if (wear.Count == 0)
             {
                 return null;
             }
             BodyDef body = kind.RaceProps?.body ?? BodyDefOf.Human;
-            List<ThingDef> required = (kind.apparelRequired ?? new List<ThingDef>()).Where(r => ApparelUtility.CanWearTogether(r, coat, body)).ToList();
-            required.Add(coat);
+            List<ThingDef> required = (kind.apparelRequired ?? new List<ThingDef>())
+                .Where(r => wear.All(w => ApparelUtility.CanWearTogether(r, w, body))).ToList();
+            required.AddRange(wear);
             return required;
         }
 

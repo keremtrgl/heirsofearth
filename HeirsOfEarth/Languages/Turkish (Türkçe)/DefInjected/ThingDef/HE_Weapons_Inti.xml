@@ -22,4 +22,8 @@
   <HE_Inti_Arquebus.description>Altınla sarılı, dipçiğindeki tokapu kareleri onu yapan atölyeyi ve hizmet ettiği güneşi söyleyen bir arkebüz. Kısa ve hafiftir; nişana her barutlu silahtan daha çabuk kalkar.</HE_Inti_Arquebus.description>
   <HE_Inti_Arquebus.tools.0.label>dipçik</HE_Inti_Arquebus.tools.0.label>
   <HE_Inti_Arquebus.tools.1.label>namlu</HE_Inti_Arquebus.tools.1.label>
+  <HE_Inti_LightCarbine.label>Inti hafif karabinası</HE_Inti_LightCarbine.label>
+  <HE_Inti_LightCarbine.description>Dipçiğinde altın bir güneş olan kısa bir karabina; çağın en hafif ve en ucuz silahı. Çabuk kalkar ve geçitlerde kolay taşınır.</HE_Inti_LightCarbine.description>
+  <HE_Inti_LightCarbine.tools.0.label>dipçik</HE_Inti_LightCarbine.tools.0.label>
+  <HE_Inti_LightCarbine.tools.1.label>namlu</HE_Inti_LightCarbine.tools.1.label>
 </LanguageData>

@@ -149,6 +149,12 @@ namespace HeProbe
                 Add("4.2.1 storehouse speed", Probe42.StoreSpeed);
                 Add("4.2.1 bar textures", Probe42.BarTextures);
                 Add("4.2.1 name pools", Probe42.NamePools);
+                Add("4.3 electric age", Probe43.Ages);
+                Add("4.3 electric gates", Probe43.Gates);
+                Add("4.3 electric troops", Probe43.Troops);
+                Add("4.3 electric content", Probe43.Content);
+                Add("4.3 works", Probe43.Works);
+                Add("4.3 world fair", Probe43.Fair);
                 Add("art references", ProbeArt.References);
                 Add("art portraits", ProbeArt.Portraits);
                 foreach (MainTabWindow_Heirs.Section s in Enum.GetValues(typeof(MainTabWindow_Heirs.Section)))
@@ -183,6 +189,7 @@ namespace HeProbe
                 Add("3.0 council after load", Probe30.CouncilAfterLoad);
                 Add("3.4 after load", Probe34.AfterLoad);
                 Add("3.5 after load", Probe35.AfterLoad);
+                Add("4.3 world fair after load", Probe43.FairAfterLoad);
                 Add("soak after load", () => { P.Ticks(2500); P.Calm(); });
                 Add("strip save", () => { GameDataSaveLoader.SaveGame(SaveName); StripSave(); });
                 Add("load stripped", () => { phase = 2; GameDataSaveLoader.LoadGame(SaveName); });

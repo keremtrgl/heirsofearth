@@ -17,4 +17,6 @@
   <HE_Pars_NaftThrower.comps.1.fuelLabel>Naft</HE_Pars_NaftThrower.comps.1.fuelLabel>
   <HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>Naft</HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>
   <HE_Pars_NaftThrower.comps.1.outOfFuelMessage>Needs chemfuel</HE_Pars_NaftThrower.comps.1.outOfFuelMessage>
+  <HE_Pars_ElectricLoom.label>electric carpet loom</HE_Pars_ElectricLoom.label>
+  <HE_Pars_ElectricLoom.description>A carpet loom whose shuttle and beater are driven by a small motor while the weaver ties the knots. It takes every bill of the carpet loom and works 40% faster.</HE_Pars_ElectricLoom.description>
 </LanguageData>

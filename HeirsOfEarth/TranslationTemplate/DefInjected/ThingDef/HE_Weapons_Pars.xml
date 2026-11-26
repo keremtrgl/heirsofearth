@@ -25,4 +25,8 @@
   <HE_Pars_Rifle.description>A bolt rifle whose stock is inlaid in khatam, thousands of tiny stars of bone, brass and wood. A treasure that also shoots, and the longest-ranged rifle of the nations.</HE_Pars_Rifle.description>
   <HE_Pars_Rifle.tools.0.label>stock</HE_Pars_Rifle.tools.0.label>
   <HE_Pars_Rifle.tools.1.label>barrel</HE_Pars_Rifle.tools.1.label>
+  <HE_Pars_LongRifle.label>Persian long rifle</HE_Pars_LongRifle.label>
+  <HE_Pars_LongRifle.description>A very long rifle with a khatam-inlaid stock and a fine brass sight. It is slow to aim, and it reaches further than any other gun of the nations.</HE_Pars_LongRifle.description>
+  <HE_Pars_LongRifle.tools.0.label>stock</HE_Pars_LongRifle.tools.0.label>
+  <HE_Pars_LongRifle.tools.1.label>barrel</HE_Pars_LongRifle.tools.1.label>
 </LanguageData>

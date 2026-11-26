@@ -29,4 +29,8 @@
   <HE_Tianxia_Rifle.description>Yeni cephaneliklerden çıkma, koyu kırmızı dipçiği pirinçle sarılı ve namlu ağzında uğur için kırmızı bir püskülü olan sürgülü bir tüfek. Binlercesi yapıldı; her tüfekten daha az emek ve parça ister.</HE_Tianxia_Rifle.description>
   <HE_Tianxia_Rifle.tools.0.label>dipçik</HE_Tianxia_Rifle.tools.0.label>
   <HE_Tianxia_Rifle.tools.1.label>namlu</HE_Tianxia_Rifle.tools.1.label>
+  <HE_Tianxia_BoxPistol.label>Tianxia kutu tabancası</HE_Tianxia_BoxPistol.label>
+  <HE_Tianxia_BoxPistol.description>Tahta bir kutuda taşınan, süpürge saplı bir tabanca; kutu takılınca dipçik olur. Kısa seriler atar, çabuk kalkar ve az emekle binlercesi yapılır. Kabzasından kırmızı bir püskül sarkar.</HE_Tianxia_BoxPistol.description>
+  <HE_Tianxia_BoxPistol.tools.0.label>kavrama</HE_Tianxia_BoxPistol.tools.0.label>
+  <HE_Tianxia_BoxPistol.tools.1.label>namlu</HE_Tianxia_BoxPistol.tools.1.label>
 </LanguageData>

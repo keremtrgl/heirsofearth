@@ -106,4 +106,16 @@ Requires 30 Inti knowledge unless this is your heritage.</HE_Inti_PowderArms.des
 Outside your heritage, this can be researched only once Inti has reached the Age of Steam.
 
 Requires 45 Inti knowledge unless this is your heritage.</HE_Inti_SteamArmy.description>
+  <HE_Inti_ElectricArmy.label>Inti electric army</HE_Inti_ElectricArmy.label>
+  <HE_Inti_ElectricArmy.description>Machine-made arms, a steel helmet and a field uniform in drab: the army Inti raised when the wires came.
+
+Outside your heritage, this can be researched only once Inti has reached the Electric Age.
+
+Requires 60 Inti knowledge unless this is your heritage.</HE_Inti_ElectricArmy.description>
+  <HE_Inti_Works.label>Inti works</HE_Inti_Works.label>
+  <HE_Inti_Works.description>The first electric works of Inti: one machine the nation is proud of, built to its own taste.
+
+Outside your heritage, this can be researched only once Inti has reached the Electric Age.
+
+Requires 50 Inti knowledge unless this is your heritage.</HE_Inti_Works.description>
 </LanguageData>
