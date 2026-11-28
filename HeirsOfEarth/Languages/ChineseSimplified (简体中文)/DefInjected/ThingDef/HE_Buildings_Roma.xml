@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Standard.label>军团旗帜</HE_Roma_Standard.label>
+  <HE_Roma_Standard.description>高杆上的一面军团红旗，顶端是一只金鹰。士兵们看到它就会站得更直。</HE_Roma_Standard.description>
+  <HE_Roma_Aqueduct.label>引水渠拱段</HE_Roma_Aqueduct.label>
+  <HE_Roma_Aqueduct.description>一段浅色石材的拱形引水渠，承载着一道流水渠。壮观、美丽，而且非常沉重。</HE_Roma_Aqueduct.description>
+  <HE_Roma_Brazier.label>军团火盆</HE_Roma_Brazier.label>
+  <HE_Roma_Brazier.description>一个立在铁腿上的青铜火盆。夜里照亮营地，温暖守夜人的双手。</HE_Roma_Brazier.description>
+  <HE_Roma_ScutumDisplay.label>大盾陈列架</HE_Roma_ScutumDisplay.label>
+  <HE_Roma_ScutumDisplay.description>一面绘有金色羽翼的弧形军团盾牌，挂在架子上。老兵们在战前会摸一摸它求好运。</HE_Roma_ScutumDisplay.description>
+  <HE_Roma_Statue.label>广场雕像</HE_Roma_Statue.label>
+  <HE_Roma_Statue.description>一尊身着托加袍、高举金色月桂的公民大理石雕像。它能让任何广场都像一座罗马广场。</HE_Roma_Statue.description>
+  <HE_Roma_Triclinium.label>躺卧餐桌</HE_Roma_Triclinium.label>
+  <HE_Roma_Triclinium.description>一张铺着红布的低矮大理石餐桌，摆好了葡萄酒、橄榄，适合长谈。</HE_Roma_Triclinium.description>
+  <HE_Roma_Thermae.label>浴场水池</HE_Roma_Thermae.label>
+  <HE_Roma_Thermae.description>一个加热的大理石浴池。殖民者来这里浸泡、聊天，让烦恼随水飘走。</HE_Roma_Thermae.description>
+  <HE_Roma_Scorpio_Gun.label>蝎弩</HE_Roma_Scorpio_Gun.label>
+  <HE_Roma_Scorpio_Gun.description>蝎弩的旋转顶部。</HE_Roma_Scorpio_Gun.description>
+  <HE_Roma_Scorpio.label>蝎弩</HE_Roma_Scorpio.label>
+  <HE_Roma_Scorpio.description>石台上的一架扭力弩炮。扭绞的筋腱弹簧将一支沉重的铁头弩箭射穿盾牌和盾后之人。它一次只发射一支弩箭，缓慢，但射得极远、极猛。木材会被削成新的弩箭：一根原木可做两支。</HE_Roma_Scorpio.description>
+  <HE_Roma_Scorpio.comps.1.fuelLabel>箭矢</HE_Roma_Scorpio.comps.1.fuelLabel>
+  <HE_Roma_Scorpio.comps.1.fuelGizmoLabel>箭矢</HE_Roma_Scorpio.comps.1.fuelGizmoLabel>
+  <HE_Roma_Scorpio.comps.1.outOfFuelMessage>需要木材制作箭矢</HE_Roma_Scorpio.comps.1.outOfFuelMessage>
+  <HE_Roma_ElectricFountain.label>电动喷泉</HE_Roma_ElectricFountain.label>
+  <HE_Roma_ElectricFountain.description>一个圆形大理石水池，中央是一只青铜母狼，一台电动水泵将一圈水冠喷向空中。水下的灯在夜里把它照成蓝色。殖民者坐在池边休息。</HE_Roma_ElectricFountain.description>
+</LanguageData>

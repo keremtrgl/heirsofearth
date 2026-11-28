@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Bolt_Manuballista.label>手持弩炮弩箭</HE_Bolt_Manuballista.label>
+  <HE_Arrow_Yumi.label>和弓箭</HE_Arrow_Yumi.label>
+  <HE_Arrow_HuntBow.label>猎箭</HE_Arrow_HuntBow.label>
+  <HE_Arrow_Toxon.label>希腊弓箭</HE_Arrow_Toxon.label>
+  <HE_Bolt_Repeater.label>连弩弩箭</HE_Bolt_Repeater.label>
+  <HE_Bullet_FireLance.label>火枪喷射</HE_Bullet_FireLance.label>
+  <HE_Bullet_Musket.label>滑膛枪弹丸</HE_Bullet_Musket.label>
+  <HE_Bullet_Rifle.label>步枪子弹</HE_Bullet_Rifle.label>
+  <HE_Arrow_Kemet.label>芦苇箭</HE_Arrow_Kemet.label>
+  <HE_Bullet_DesertRifle.label>沙漠步枪子弹</HE_Bullet_DesertRifle.label>
+  <HE_Arrow_Pars.label>藤箭</HE_Arrow_Pars.label>
+  <HE_Bullet_Jezail.label>长管枪弹丸</HE_Bullet_Jezail.label>
+  <HE_Stone_Inti.label>投石</HE_Stone_Inti.label>
+  <HE_Bullet_MountainCarbine.label>卡宾枪子弹</HE_Bullet_MountainCarbine.label>
+  <HE_Bullet_Carbine.label>卡宾枪子弹</HE_Bullet_Carbine.label>
+  <HE_Bullet_Tanegashima.label>火绳枪弹丸</HE_Bullet_Tanegashima.label>
+  <HE_Projectile_Harpoon.label>鱼叉</HE_Projectile_Harpoon.label>
+  <HE_Arrow_Fire.label>火箭</HE_Arrow_Fire.label>
+  <HE_Bolt_Scorpio.label>蝎弩弩箭</HE_Bolt_Scorpio.label>
+  <HE_Arrow_Yagura.label>箭楼之箭</HE_Arrow_Yagura.label>
+  <HE_Arrow_BowLoft.label>巨箭</HE_Arrow_BowLoft.label>
+  <HE_Stone_Lithobolos.label>抛石</HE_Stone_Lithobolos.label>
+  <HE_Shell_FieldCannon.label>炮弹</HE_Shell_FieldCannon.label>
+  <HE_Arrow_Pylon.label>塔门之箭</HE_Arrow_Pylon.label>
+  <HE_Naft_Pars.label>纳夫特火焰</HE_Naft_Pars.label>
+  <HE_Stone_SlingStand.label>投石</HE_Stone_SlingStand.label>
+  <HE_Bolt_Gastraphetes.label>腹弩弩箭</HE_Bolt_Gastraphetes.label>
+  <HE_Bolas_Inti.label>流星索</HE_Bolas_Inti.label>
+  <HE_Bullet_Blunderbuss.label>喇叭枪霰弹</HE_Bullet_Blunderbuss.label>
+  <HE_Bullet_FlintPistol.label>手枪弹丸</HE_Bullet_FlintPistol.label>
+  <HE_Boulder_Trebuchet.label>投石机巨石</HE_Boulder_Trebuchet.label>
+  <HE_Bullet_Cartridge.label>步枪定装弹</HE_Bullet_Cartridge.label>
+  <HE_Bullet_HeavyBall.label>重弹丸</HE_Bullet_HeavyBall.label>
+  <HE_Bullet_TrenchShot.label>堑壕霰弹</HE_Bullet_TrenchShot.label>
+</LanguageData>

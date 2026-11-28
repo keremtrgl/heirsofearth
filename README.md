@@ -143,7 +143,7 @@ Finish three nation stories, or keep three trade roads open for a year, and the 
 
 - RimWorld **1.6**. Core only, no DLC needed. With Royalty, the heir crowns count as noble headwear.
 - **Safe to add to an existing save:** nations that are missing arrive with their own settlements.
-- English and Turkish. A translation template for other languages is in [`HeirsOfEarth/TranslationTemplate`](HeirsOfEarth/TranslationTemplate); see `HOW_TO_TRANSLATE.txt` there.
+- English, Turkish and Simplified Chinese (the Chinese is AI-assisted; corrections are welcome). A translation template for other languages is in [`HeirsOfEarth/TranslationTemplate`](HeirsOfEarth/TranslationTemplate); see `HOW_TO_TRANSLATE.txt` there.
 
 ## Repository layout
 
@@ -151,7 +151,7 @@ Finish three nation stories, or keep three trade roads open for a year, and the 
 HeirsOfEarth/          The mod itself, exactly as it ships on Steam
   About/               Metadata, icon and preview
   Defs/  Patches/      Generated XML content (do not edit by hand, see below)
-  Languages/           English and Turkish
+  Languages/           English, Turkish and Simplified Chinese
   Source/              C# source of HeirsOfEarth.dll (Harmony patches, politics, ages, UI)
   1.6/Assemblies/      The compiled HeirsOfEarth.dll
   Textures/  Sounds/   Art, music and sound effects made for the mod

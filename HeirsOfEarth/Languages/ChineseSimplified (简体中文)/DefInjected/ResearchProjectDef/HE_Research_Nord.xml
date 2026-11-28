@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Longhouse.label>长屋火塘</HE_Nord_Longhouse.label>
+  <HE_Nord_Longhouse.description>一个石砌的长火坑，能温暖整座大厅并烹制晚餐。
+
+除非这是你的传承，否则需要5点诺德海姆知识。</HE_Nord_Longhouse.description>
+  <HE_Nord_Planks.label>劈制木板</HE_Nord_Planks.label>
+  <HE_Nord_Planks.description>顺着纹理将原木劈成宽木板，用于地板和长凳。
+
+除非这是你的传承，否则需要5点诺德海姆知识。</HE_Nord_Planks.description>
+  <HE_Nord_HuntBow.label>狩猎弓</HE_Nord_HuntBow.label>
+  <HE_Nord_HuntBow.description>一张简单的榆木弓，用于在松林中猎鹿，做得快，拉得也快。
+
+除非这是你的传承，否则需要5点诺德海姆知识。</HE_Nord_HuntBow.description>
+  <HE_Nord_Fur.label>毛皮与羊毛</HE_Nord_Fur.label>
+  <HE_Nord_Fur.description>为漫长的冬季缝制厚重的毛皮斗篷和厚羊毛束腰外衣。
+
+除非这是你的传承，否则需要5点诺德海姆知识。</HE_Nord_Fur.description>
+  <HE_Nord_Skyr.label>冰岛酸奶</HE_Nord_Skyr.label>
+  <HE_Nord_Skyr.description>将脱脂奶凝成冰岛酸奶，一种浓稠的酸味乳制品，可以保存过冬。
+
+除非这是你的传承，否则需要5点诺德海姆知识。</HE_Nord_Skyr.description>
+  <HE_Nord_Runes.label>符文石</HE_Nord_Runes.label>
+  <HE_Nord_Runes.description>在立石上刻下符文，纪念死者，夸耀生者。
+
+除非这是你的传承，否则需要5点诺德海姆知识。</HE_Nord_Runes.description>
+  <HE_Nord_Blood.label>北地之血</HE_Nord_Blood.label>
+  <HE_Nord_Blood.description>在冰河中洗澡长大的孩子，成年后不会在意寒冷。
+
+传统：殖民者在低8°C的温度下仍感舒适。
+
+除非这是你的传承，否则需要15点诺德海姆知识。</HE_Nord_Blood.description>
+  <HE_Nord_Hunting.label>狩猎传承</HE_Nord_Hunting.label>
+  <HE_Nord_Hunting.description>读懂雪地上的足迹，顺着下风处移动：猎人的学问由父母传给孩子。
+
+传统：殖民者获得+10%狩猎潜行和+1射击精度。
+
+除非这是你的传承，否则需要15点诺德海姆知识。</HE_Nord_Hunting.description>
+  <HE_Nord_Saga.label>萨迦吟诵</HE_Nord_Saga.label>
+  <HE_Nord_Saga.description>冬夜里，吟游诗人背诵祖先的事迹。人人倾听，人人学习。
+
+传统：殖民者学习速度加快5%，获得+5%社交影响力。
+
+除非这是你的传承，否则需要20点诺德海姆知识。</HE_Nord_Saga.description>
+  <HE_Nord_Smithing.label>诺德海姆锻造</HE_Nord_Smithing.label>
+  <HE_Nord_Smithing.description>以沼铁锻造的花纹焊接剑和长柄丹麦斧。
+
+除非这是你的传承，否则需要10点诺德海姆知识。</HE_Nord_Smithing.description>
+  <HE_Nord_Byrnie.label>锁甲与圆盾</HE_Nord_Byrnie.label>
+  <HE_Nord_Byrnie.description>数千个铆接铁环组成一件锁甲。配上一顶条箍盔和一面彩绘圆盾，战士就准备好加入盾墙了。
+
+除非这是你的传承，否则需要25点诺德海姆知识。</HE_Nord_Byrnie.description>
+  <HE_Nord_MeadHall.label>蜜酒大厅</HE_Nord_MeadHall.label>
+  <HE_Nord_MeadHall.description>长桌、角杯和雅尔的座位：蜜酒大厅是诺德海姆人宴饮、夸口与讲和的地方。
+
+除非这是你的传承，否则需要15点诺德海姆知识。</HE_Nord_MeadHall.description>
+  <HE_Nord_Sauna.label>桑拿</HE_Nord_Sauna.label>
+  <HE_Nord_Sauna.description>一座带石炉的小木屋。蒸汽、桦树枝和在雪地里打个滚，让身体保持强健。
+
+传统：解锁桑拿。殖民者获得免疫力的速度加快10%。
+
+除非这是你的传承，否则需要20点诺德海姆知识。</HE_Nord_Sauna.description>
+  <HE_Nord_Thing.label>庭议</HE_Nord_Thing.label>
+  <HE_Nord_Thing.description>自由人聚在一起，以法律而非斧头解决纠纷。他们的声音传得很远。
+
+传统：殖民者获得+8%谈判能力。
+
+除非这是你的传承，否则需要25点诺德海姆知识。</HE_Nord_Thing.description>
+  <HE_Nord_Longships.label>长船船员</HE_Nord_Longships.label>
+  <HE_Nord_Longships.description>划桨的船员学会了轻装快行，无论是在海浪上还是在陆地上。
+
+传统：你的商队移动速度加快12%。
+
+除非这是你的传承，否则需要30点诺德海姆知识。</HE_Nord_Longships.description>
+  <HE_Nord_Berserk.label>狂战士之怒</HE_Nord_Berserk.label>
+  <HE_Nord_Berserk.description>有些战士在狂怒中战斗，无视伤痛，也无视谨慎。
+
+传统：殖民者近战伤害增加10%，但近战闪避率-2。
+
+除非这是你的传承，否则需要40点诺德海姆知识。</HE_Nord_Berserk.description>
+  <HE_Nord_Valhalla.label>通往瓦尔哈拉之路</HE_Nord_Valhalla.label>
+  <HE_Nord_Valhalla.description>见过冬日仪式的人不再畏惧死亡，只畏惧平庸的死。
+
+传统：殖民者获得+8%疼痛休克阈值和+1近战命中率。
+
+除非这是你的传承，否则需要50点诺德海姆知识。
+
+完成该国的故事后解锁。</HE_Nord_Valhalla.description>
+  <HE_Nord_HarpoonGun.label>捕鲸炮</HE_Nord_HarpoonGun.label>
+  <HE_Nord_HarpoonGun.description>一种捕鲸者的枪，发射系着绳索的倒刺铁鱼叉。它是为鲸鱼造的；对付劫掠者也一样管用。
+
+除非这是你的传承，否则需要35点诺德海姆知识。</HE_Nord_HarpoonGun.description>
+  <HE_Nord_FolkSchools.label>民众高等学校</HE_Nord_FolkSchools.label>
+  <HE_Nord_FolkSchools.description>没有考试的学校，农民、渔民和铁匠在这里一起学习历史、歌谣和庭议的法律。
+
+传统：殖民者学习速度加快8%，研究速度加快4%。
+
+除非这是你的传承，否则需要45点诺德海姆知识。</HE_Nord_FolkSchools.description>
+  <HE_Nord_BowLoft.label>弓楼</HE_Nord_BowLoft.label>
+  <HE_Nord_BowLoft.description>猎人和造船匠合力打造：一张大到无法用手拉开的弓，用绞盘上弦。
+
+除非这是你的传承，否则需要40点诺德海姆知识。</HE_Nord_BowLoft.description>
+  <HE_Nord_PowderArms.label>北地火器</HE_Nord_PowderArms.label>
+  <HE_Nord_PowderArms.description>诺德海姆制造火绳枪或燧发枪的方法：枪管、枪机、枪托，以及使用它们的操典。
+
+若非你的传承，只有在诺德海姆进入火药时代后才能研究。
+
+除非这是你的传承，否则需要30点诺德海姆知识。</HE_Nord_PowderArms.description>
+  <HE_Nord_SteamArmy.label>北地蒸汽军</HE_Nord_SteamArmy.label>
+  <HE_Nord_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时诺德海姆组建的军队。
+
+若非你的传承，只有在诺德海姆进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点诺德海姆知识。</HE_Nord_SteamArmy.description>
+  <HE_Nord_ElectricArmy.label>北地电气军</HE_Nord_ElectricArmy.label>
+  <HE_Nord_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时诺德海姆组建的军队。
+
+若非你的传承，只有在诺德海姆进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点诺德海姆知识。</HE_Nord_ElectricArmy.description>
+  <HE_Nord_Works.label>北地工程</HE_Nord_Works.label>
+  <HE_Nord_Works.description>诺德海姆的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在诺德海姆进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点诺德海姆知识。</HE_Nord_Works.description>
+</LanguageData>

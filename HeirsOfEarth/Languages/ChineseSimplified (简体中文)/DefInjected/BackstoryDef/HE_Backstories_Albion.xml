@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_BS_Fusilier.title>战列燧发枪兵</HE_Albion_BS_Fusilier.title>
+  <HE_Albion_BS_Fusilier.titleShort>燧发枪兵</HE_Albion_BS_Fusilier.titleShort>
+  <HE_Albion_BS_Fusilier.description>[PAWN_nameDef]十九岁领了征兵先令，在红衫军中度过多年，在前排装填射击，大炮在头顶轰鸣。</HE_Albion_BS_Fusilier.description>
+  <HE_Albion_BS_Engineer.title>蒸汽工程师</HE_Albion_BS_Engineer.title>
+  <HE_Albion_BS_Engineer.titleShort>工兵</HE_Albion_BS_Engineer.titleShort>
+  <HE_Albion_BS_Engineer.description>[PAWN_nameDef]建造过锅炉、横梁发动机和铁桥，有一次在晚餐时在菜单背面重新设计了一台水泵。</HE_Albion_BS_Engineer.description>
+  <HE_Albion_BS_Miner.title>煤矿工</HE_Albion_BS_Miner.title>
+  <HE_Albion_BS_Miner.titleShort>矿工</HE_Albion_BS_Miner.titleShort>
+  <HE_Albion_BS_Miner.description>十二年来，[PAWN_nameDef]黎明下井，天黑才上来。[PAWN_pronoun]能凭声音分辨岩石的好坏。</HE_Albion_BS_Miner.description>
+  <HE_Albion_BS_Surgeon.title>团军医</HE_Albion_BS_Surgeon.title>
+  <HE_Albion_BS_Surgeon.titleShort>外科医生</HE_Albion_BS_Surgeon.titleShort>
+  <HE_Albion_BS_Surgeon.description>[PAWN_nameDef]随团行军，带着一把锯子、一瓶烈酒，坚信一切都要煮沸消毒。[PAWN_possessive]病人通常都活了下来。</HE_Albion_BS_Surgeon.description>
+  <HE_Albion_BS_Clerk.title>公司文员</HE_Albion_BS_Clerk.title>
+  <HE_Albion_BS_Clerk.titleShort>文员</HE_Albion_BS_Clerk.titleShort>
+  <HE_Albion_BS_Clerk.description>[PAWN_nameDef]为一家大贸易公司记账，每周在高桌前工作六十小时。[PAWN_pronoun]能在一千页账本中找出一便士的差错。</HE_Albion_BS_Clerk.description>
+  <HE_Albion_BS_Gamekeeper.title>猎场看守</HE_Albion_BS_Gamekeeper.title>
+  <HE_Albion_BS_Gamekeeper.titleShort>猎场看守</HE_Albion_BS_Gamekeeper.titleShort>
+  <HE_Albion_BS_Gamekeeper.description>[PAWN_nameDef]用一支步枪和一对耐心的猎犬，看护着一座大庄园的鹿和雉鸡，并让偷猎者远离它们。</HE_Albion_BS_Gamekeeper.description>
+  <HE_Albion_BS_Officer.title>骑兵军官</HE_Albion_BS_Officer.title>
+  <HE_Albion_BS_Officer.titleShort>军官</HE_Albion_BS_Officer.titleShort>
+  <HE_Albion_BS_Officer.description>[PAWN_nameDef]在龙骑兵中买了一个军职，率领了一次冲锋，那次冲锋后来成了一幅名画。画中人很少有人活下来。</HE_Albion_BS_Officer.description>
+  <HE_Albion_BS_Publican.title>酒馆老板</HE_Albion_BS_Publican.title>
+  <HE_Albion_BS_Publican.titleShort>酒馆老板</HE_Albion_BS_Publican.titleShort>
+  <HE_Albion_BS_Publican.description>[PAWN_nameDef]经营着一家乡村酒馆，酿麦芽酒、平息斗殴，听遍了教区里的每一个秘密。</HE_Albion_BS_Publican.description>
+  <HE_Albion_BS_MillChild.title>纺织厂童工</HE_Albion_BS_MillChild.title>
+  <HE_Albion_BS_MillChild.titleShort>纺织厂童工</HE_Albion_BS_MillChild.titleShort>
+  <HE_Albion_BS_MillChild.description>[PAWN_nameDef]从八岁起就在棉纺厂哐当作响的织机间干活，小到可以爬到机器底下。</HE_Albion_BS_MillChild.description>
+  <HE_Albion_BS_Schoolboy.title>寄宿学校学生</HE_Albion_BS_Schoolboy.title>
+  <HE_Albion_BS_Schoolboy.titleShort>学徒</HE_Albion_BS_Schoolboy.titleShort>
+  <HE_Albion_BS_Schoolboy.description>[PAWN_nameDef]被送进一所寒冷的寄宿学校，[PAWN_pronoun]在那里学会了拉丁语、板球，以及如何保持面不改色。</HE_Albion_BS_Schoolboy.description>
+  <HE_Albion_BS_Farmhand.title>农场帮工</HE_Albion_BS_Farmhand.title>
+  <HE_Albion_BS_Farmhand.titleShort>农场帮工</HE_Albion_BS_Farmhand.titleShort>
+  <HE_Albion_BS_Farmhand.description>[PAWN_nameDef]在一座多雨的山间农场长大，清理马厩，收割庄稼。</HE_Albion_BS_Farmhand.description>
+  <HE_Albion_BS_Mudlark.title>河滩拾荒童</HE_Albion_BS_Mudlark.title>
+  <HE_Albion_BS_Mudlark.titleShort>拾荒童</HE_Albion_BS_Mudlark.titleShort>
+  <HE_Albion_BS_Mudlark.description>[PAWN_nameDef]从小在退潮时翻找河泥，寻找煤块、钉子和遗失的硬币去卖。</HE_Albion_BS_Mudlark.description>
+</LanguageData>

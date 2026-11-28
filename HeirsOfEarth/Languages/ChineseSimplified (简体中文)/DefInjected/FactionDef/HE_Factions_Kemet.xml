@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Kemet.label>新凯美特王国</HE_Faction_Kemet.label>
+  <HE_Faction_Kemet.description>大河王国新凯美特，殖民船“伊特鲁号”的继承者。他们测量洪水、耕种黑色淤泥、用石头建造，并把一切都记录下来，从粮仓里的谷物到邻国的债务。</HE_Faction_Kemet.description>
+  <HE_Faction_Kemet.fixedName>新凯美特王国</HE_Faction_Kemet.fixedName>
+  <HE_Faction_Kemet.pawnSingular>凯美特人</HE_Faction_Kemet.pawnSingular>
+  <HE_Faction_Kemet.pawnsPlural>凯美特人</HE_Faction_Kemet.pawnsPlural>
+  <HE_Faction_Kemet.leaderTitle>法老</HE_Faction_Kemet.leaderTitle>
+  <HE_Player_Kemet.label>凯美特定居者</HE_Player_Kemet.label>
+  <HE_Player_Kemet.description>一小户凯美特定居者，溯河而上建立一座新庄园。</HE_Player_Kemet.description>
+  <HE_Player_Kemet.pawnSingular>殖民者</HE_Player_Kemet.pawnSingular>
+  <HE_Player_Kemet.pawnsPlural>殖民者</HE_Player_Kemet.pawnsPlural>
+</LanguageData>

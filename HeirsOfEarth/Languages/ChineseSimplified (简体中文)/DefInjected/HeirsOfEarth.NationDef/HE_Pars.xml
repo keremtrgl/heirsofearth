@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars.label>帕尔斯总督国</HE_Pars.label>
+  <HE_Pars.description>殖民船“帕萨尔加德号”降落在群山环绕的高原上，船上的人们先修路，后筑墙。帕尔斯是由各省拼合而成的国度，靠一条御道、一套永不停歇的驿站和一个记得每份恩情的宫廷维系在一起。它的总督们热爱花园、骏马和好地毯，信守诺言，也期望别人信守。他们是天下的老朋友，也是新罗马的老对手。</HE_Pars.description>
+  <HE_Pars.rulerTitle>总督</HE_Pars.rulerTitle>
+  <HE_Pars.adjective>波斯</HE_Pars.adjective>
+  <HE_Pars.doctrine.label>骑兵双翼</HE_Pars.doctrine.label>
+  <HE_Pars.doctrine.description>帕尔斯的军队从两翼进攻：几支迅捷的队伍同时出击，惯于在马背上作战，迅速逼近。</HE_Pars.doctrine.description>
+  <HE_Pars.honoraryTitle>总督的恩人</HE_Pars.honoraryTitle>
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet.label>新凯美特王国</HE_Kemet.label>
+  <HE_Kemet.description>殖民船“伊特鲁号”降落在红沙之地的一条大河旁，船上的人们做了他们祖先做过的事：测量洪水、开挖运河、用石头建造。新凯美特是一个由农民、书吏和石匠组成的古老王国，骄傲、有耐心，而且很难被饿垮。他们视希腊人为朋友，与任何带来木材的人通商。</HE_Kemet.description>
+  <HE_Kemet.rulerTitle>法老</HE_Kemet.rulerTitle>
+  <HE_Kemet.adjective>凯美特</HE_Kemet.adjective>
+  <HE_Kemet.doctrine.label>战车先锋</HE_Kemet.doctrine.label>
+  <HE_Kemet.doctrine.description>凯美特的进攻以速度开场：先锋像昔日的战车一样冲在前面，在守军准备好之前就已登上城墙。</HE_Kemet.doctrine.description>
+  <HE_Kemet.honoraryTitle>法老之友</HE_Kemet.honoraryTitle>
+</LanguageData>

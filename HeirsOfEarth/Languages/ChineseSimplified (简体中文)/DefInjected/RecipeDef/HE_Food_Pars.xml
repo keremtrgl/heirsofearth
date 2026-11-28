@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Pars_Pilaf.label>烹饪藏红花抓饭</HE_Cook_Pars_Pilaf.label>
+  <HE_Cook_Pars_Pilaf.description>烹饪藏红花抓饭。</HE_Cook_Pars_Pilaf.description>
+  <HE_Cook_Pars_Pilaf.jobString>正在烹饪藏红花抓饭。</HE_Cook_Pars_Pilaf.jobString>
+  <HE_Cook_Pars_Kebab.label>烹饪烤肉配藏红花饭</HE_Cook_Pars_Kebab.label>
+  <HE_Cook_Pars_Kebab.description>烹饪烤肉配藏红花饭。</HE_Cook_Pars_Kebab.description>
+  <HE_Cook_Pars_Kebab.jobString>正在烹饪烤肉配藏红花饭。</HE_Cook_Pars_Kebab.jobString>
+  <HE_Cook_Pars_Sholeh.label>烹饪藏红花米布丁</HE_Cook_Pars_Sholeh.label>
+  <HE_Cook_Pars_Sholeh.description>烹饪藏红花米布丁。</HE_Cook_Pars_Sholeh.description>
+  <HE_Cook_Pars_Sholeh.jobString>正在烹饪藏红花米布丁。</HE_Cook_Pars_Sholeh.jobString>
+</LanguageData>

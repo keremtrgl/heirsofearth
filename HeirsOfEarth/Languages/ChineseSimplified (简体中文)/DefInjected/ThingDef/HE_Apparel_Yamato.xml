@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Kabuto.label>兜</HE_Yamato_Kabuto.label>
+  <HE_Yamato_Kabuto.description>一顶漆铁头盔，配有由编缀甲片组成的外展护颈和镀金的角。</HE_Yamato_Kabuto.description>
+  <HE_Yamato_Domaru.label>胴丸</HE_Yamato_Domaru.label>
+  <HE_Yamato_Domaru.description>一排排小漆甲片以丝绳编缀而成。比板甲轻，让武士行动自如。</HE_Yamato_Domaru.description>
+  <HE_Yamato_Kimono.label>和服</HE_Yamato_Kimono.label>
+  <HE_Yamato_Kimono.description>一件以宽腰带系紧的交襟长袍。夏季舒适，在任何仪式上都体面。</HE_Yamato_Kimono.description>
+  <HE_Yamato_Kamishimo.label>裃</HE_Yamato_Kamishimo.label>
+  <HE_Yamato_Kamishimo.description>家臣的正装：一件肩部宽挺的无袖上衣，配褶裥袴，饰有家纹。</HE_Yamato_Kamishimo.description>
+  <HE_Yamato_Jingasa.label>阵笠</HE_Yamato_Jingasa.label>
+  <HE_Yamato_Jingasa.description>一顶以硬化漆皮制成的宽浅圆锥帽，足轻和官员在路上佩戴。能挡住日晒、雨水和落下的一击。</HE_Yamato_Jingasa.description>
+  <HE_Yamato_ArmyCoat.label>大和军大衣</HE_Yamato_ArmyCoat.label>
+  <HE_Yamato_ArmyCoat.description>一件深蓝色上衣，胸前饰有金色盘扣，领口和下摆为红色。</HE_Yamato_ArmyCoat.description>
+  <HE_Yamato_SteelHelmet.label>大和钢盔</HE_Yamato_SteelHelmet.label>
+  <HE_Yamato_SteelHelmet.description>一顶短檐圆形钢盔，漆成卡其色，饰有白底红日。</HE_Yamato_SteelHelmet.description>
+  <HE_Yamato_FieldUniform.label>大和野战军服</HE_Yamato_FieldUniform.label>
+  <HE_Yamato_FieldUniform.description>一件卡其色野战上衣，配有红色领章和肩章、黄铜纽扣和四个口袋。</HE_Yamato_FieldUniform.description>
+</LanguageData>

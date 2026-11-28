@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Terraces.label>石砌梯田</HE_Inti_Terraces.label>
+  <HE_Inti_Terraces.description>由干砌石墙支撑、填入搬来泥土的阶梯苗床。植物在上面的生长如同在良好土壤上。可以铺在任何可挖掘的地面上，因此即使是砾石和多石山坡也能耕种。</HE_Inti_Terraces.description>
+  <HE_Inti_FittedStone.label>拼合石</HE_Inti_FittedStone.label>
+  <HE_Inti_FittedStone.description>多边形的石块彼此切合得如此紧密，连刀刃都插不进去。地震也无法让它们松动。</HE_Inti_FittedStone.description>
+  <HE_Inti_Adobe.label>土坯砖</HE_Inti_Adobe.label>
+  <HE_Inti_Adobe.description>用黏土和稻草晒干制成的砖，颜色温暖，制作便宜。仓库和村舍都用它。</HE_Inti_Adobe.description>
+</LanguageData>

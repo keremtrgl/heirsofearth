@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Standard.label>军团旗帜</HE_Roma_Standard.label>
+  <HE_Roma_Standard.description>编织军团的红色旗帜，将其高悬于你的大厅之上。
+
+除非这是你的传承，否则需要5点新罗马知识。</HE_Roma_Standard.description>
+  <HE_Roma_Concrete.label>罗马混凝土</HE_Roma_Concrete.label>
+  <HE_Roma_Concrete.description>将石灰、火山灰和碎石混合成一种即使在水下也能硬化的混凝土。解锁混凝土地板。
+
+除非这是你的传承，否则需要5点新罗马知识。</HE_Roma_Concrete.description>
+  <HE_Roma_Smithing.label>军团锻造</HE_Roma_Smithing.label>
+  <HE_Roma_Smithing.description>锻造罗马短剑，军团的短剑。
+
+除非这是你的传承，否则需要5点新罗马知识。</HE_Roma_Smithing.description>
+  <HE_Roma_Pilum.label>重标枪</HE_Roma_Pilum.label>
+  <HE_Roma_Pilum.description>制作重标枪，一种带有长铁杆的重矛，能穿透盾牌和护甲。
+
+除非这是你的传承，否则需要10点新罗马知识。</HE_Roma_Pilum.description>
+  <HE_Roma_Roads.label>罗马大道</HE_Roma_Roads.label>
+  <HE_Roma_Roads.description>修建铺砌的道路，让人们快速行走，商队远行。
+
+传统：解锁罗马大道地板。你的商队移动速度加快10%。
+
+除非这是你的传承，否则需要20点新罗马知识。</HE_Roma_Roads.description>
+  <HE_Roma_Engineers.label>营垒工兵</HE_Roma_Engineers.label>
+  <HE_Roma_Engineers.description>每个军团士兵同时也是建造者。军团每晚都会筑起一座设防营地；你的殖民者也学会了同样快速地建造。
+
+传统：殖民者建造速度加快15%，但采矿速度减慢5%：军团的工具是为建造而非挖掘而造。解锁军团火盆。
+
+除非这是你的传承，否则需要30点新罗马知识。</HE_Roma_Engineers.description>
+  <HE_Roma_Aqueduct.label>引水渠</HE_Roma_Aqueduct.label>
+  <HE_Roma_Aqueduct.description>修建拱形引水渠，每座罗马城镇的骄傲。
+
+除非这是你的传承，否则需要40点新罗马知识。</HE_Roma_Aqueduct.description>
+  <HE_Roma_Senate.label>元老院档案</HE_Roma_Senate.label>
+  <HE_Roma_Senate.description>仔细记录你的学者对新罗马所了解的一切。
+
+传统：研究新罗马物品获得的知识增加25%。
+
+除非这是你的传承，否则需要25点新罗马知识。</HE_Roma_Senate.description>
+  <HE_Roma_Garum.label>鱼露与麦粥</HE_Roma_Garum.label>
+  <HE_Roma_Garum.description>学习军团的厨艺：浓稠的麦粥，以及每张罗马餐桌都少不了的发酵鱼露。
+
+除非这是你的传承，否则需要5点新罗马知识。</HE_Roma_Garum.description>
+  <HE_Roma_Cursus.label>荣耀之路</HE_Roma_Cursus.label>
+  <HE_Roma_Cursus.description>公职的阶梯：每个想要领导的公民都必须先服务、学习并接受评判。
+
+传统：殖民者学习速度加快8%，但公职的压力使他们的精神崩溃阈值提高2%。
+
+除非这是你的传承，否则需要10点新罗马知识。</HE_Roma_Cursus.description>
+  <HE_Roma_Forum.label>广场</HE_Roma_Forum.label>
+  <HE_Roma_Forum.description>在开阔的广场周围竖立伟大公民的大理石雕像。
+
+除非这是你的传承，否则需要10点新罗马知识。</HE_Roma_Forum.description>
+  <HE_Roma_Lorica.label>环片甲</HE_Roma_Lorica.label>
+  <HE_Roma_Lorica.description>锻造军团的环片板甲和带红色羽冠的青铜头盔。同时传授简单的羊毛束腰外衣。
+
+除非这是你的传承，否则需要20点新罗马知识。</HE_Roma_Lorica.description>
+  <HE_Roma_Thermae.label>公共浴场</HE_Roma_Thermae.label>
+  <HE_Roma_Thermae.description>由引水渠供水的公共热水浴场，公民们在此洗浴、闲聊、忘却烦恼。同时传授马赛克地板。
+
+除非这是你的传承，否则需要35点新罗马知识。</HE_Roma_Thermae.description>
+  <HE_Roma_Testudo.label>龟甲阵</HE_Roma_Testudo.label>
+  <HE_Roma_Testudo.description>龟甲阵：盾牌在上方和四周相锁，军团缓慢前进，但几乎没有什么能穿透。
+
+传统：殖民者获得+5%利器护甲，但移动速度减慢3%。解锁大盾陈列架。
+
+除非这是你的传承，否则需要40点新罗马知识。</HE_Roma_Testudo.description>
+  <HE_Roma_Manuballista.label>手持弩炮</HE_Roma_Manuballista.label>
+  <HE_Roma_Manuballista.description>一种手持式扭力弩，可发射沉重的铁弩箭。
+
+除非这是你的传承，否则需要30点新罗马知识。</HE_Roma_Manuballista.description>
+  <HE_Roma_Drill.label>军团操练</HE_Roma_Drill.label>
+  <HE_Roma_Drill.description>用比真剑重一倍的木剑无休止地练习。当真正的战斗来临时，每一刺都能命中。
+
+传统：殖民者获得+2近战命中率。
+
+除非这是你的传承，否则需要35点新罗马知识。</HE_Roma_Drill.description>
+  <HE_Roma_Pax.label>罗马和平</HE_Roma_Pax.label>
+  <HE_Roma_Pax.description>以法律、贸易和军团无声的威慑带来和平。新罗马的使节受人倾听。
+
+传统：殖民者获得+10%谈判能力和+5%社交影响力。
+
+除非这是你的传承，否则需要45点新罗马知识。</HE_Roma_Pax.description>
+  <HE_Roma_Aquila.label>雄鹰之荣</HE_Roma_Aquila.label>
+  <HE_Roma_Aquila.description>鹰旗寻回之后，每个公民都挺直了腰杆。
+
+传统：殖民者获得+2近战命中率、+1射击精度，精神崩溃阈值降低2%。
+
+除非这是你的传承，否则需要50点新罗马知识。
+
+完成该国的故事后解锁。</HE_Roma_Aquila.description>
+  <HE_Roma_Carbine.label>军团卡宾枪</HE_Roma_Carbine.label>
+  <HE_Roma_Carbine.description>为新军团打造的短管后装卡宾枪：装填迅速，携带轻便，易于在盾墙后射击。
+
+除非这是你的传承，否则需要35点新罗马知识。</HE_Roma_Carbine.description>
+  <HE_Roma_CivilCode.label>民法典</HE_Roma_CivilCode.label>
+  <HE_Roma_CivilCode.description>所有权利与义务都写在一本书里，从遗产继承到粮价。纠纷解决得更快，不过现在每个请求都需要填表。
+
+传统：殖民者获得+6%谈判能力和+6%社交影响力，但工作速度减慢2%。
+
+除非这是你的传承，否则需要45点新罗马知识。</HE_Roma_CivilCode.description>
+  <HE_Roma_Scorpio.label>蝎弩</HE_Roma_Scorpio.label>
+  <HE_Roma_Scorpio.description>军团的火炮：一种小到可以架在城墙上的弩炮，强到能在三百步外把人钉在树上。
+
+除非这是你的传承，否则需要40点新罗马知识。</HE_Roma_Scorpio.description>
+  <HE_Roma_PowderArms.label>罗马火器</HE_Roma_PowderArms.label>
+  <HE_Roma_PowderArms.description>新罗马制造火绳枪或燧发枪的方法：枪管、枪机、枪托，以及使用它们的操典。
+
+若非你的传承，只有在新罗马进入火药时代后才能研究。
+
+除非这是你的传承，否则需要30点新罗马知识。</HE_Roma_PowderArms.description>
+  <HE_Roma_SteamArmy.label>罗马蒸汽军</HE_Roma_SteamArmy.label>
+  <HE_Roma_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时新罗马组建的军队。
+
+若非你的传承，只有在新罗马进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点新罗马知识。</HE_Roma_SteamArmy.description>
+  <HE_Roma_ElectricArmy.label>罗马电气军</HE_Roma_ElectricArmy.label>
+  <HE_Roma_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时新罗马组建的军队。
+
+若非你的传承，只有在新罗马进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点新罗马知识。</HE_Roma_ElectricArmy.description>
+  <HE_Roma_Works.label>罗马工程</HE_Roma_Works.label>
+  <HE_Roma_Works.description>新罗马的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在新罗马进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点新罗马知识。</HE_Roma_Works.description>
+</LanguageData>

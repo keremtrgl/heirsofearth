@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Colonist.label>殖民者</HE_Roma_Colonist.label>
+  <HE_Roma_Hastatus.label>青年兵</HE_Roma_Hastatus.label>
+  <HE_Roma_Hastatus.labelPlural>青年兵</HE_Roma_Hastatus.labelPlural>
+  <HE_Roma_Legionary.label>军团士兵</HE_Roma_Legionary.label>
+  <HE_Roma_Sagittarius.label>弓箭手</HE_Roma_Sagittarius.label>
+  <HE_Roma_Sagittarius.labelPlural>弓箭手</HE_Roma_Sagittarius.labelPlural>
+  <HE_Roma_Medicus.label>军医</HE_Roma_Medicus.label>
+  <HE_Roma_Centurion.label>百夫长</HE_Roma_Centurion.label>
+  <HE_Roma_Consul.label>执政官</HE_Roma_Consul.label>
+  <HE_Roma_Mercator.label>商人</HE_Roma_Mercator.label>
+</LanguageData>

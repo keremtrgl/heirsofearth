@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Hellas.label>希腊同盟</HE_Faction_Hellas.label>
+  <HE_Faction_Hellas.description>希腊的城邦，殖民船“阿尔戈号”的继承者。他们在公民大会上争论，在竞技会上赛跑，在方阵中作战，他们的医师和教师在每个国家都受欢迎。</HE_Faction_Hellas.description>
+  <HE_Faction_Hellas.fixedName>希腊同盟</HE_Faction_Hellas.fixedName>
+  <HE_Faction_Hellas.pawnSingular>希腊人</HE_Faction_Hellas.pawnSingular>
+  <HE_Faction_Hellas.pawnsPlural>希腊人</HE_Faction_Hellas.pawnsPlural>
+  <HE_Faction_Hellas.leaderTitle>执政官</HE_Faction_Hellas.leaderTitle>
+  <HE_Player_Hellas.label>希腊定居者</HE_Player_Hellas.label>
+  <HE_Player_Hellas.description>一小队希腊定居者，像他们的祖先一样建立一座新城邦。</HE_Player_Hellas.description>
+  <HE_Player_Hellas.pawnSingular>殖民者</HE_Player_Hellas.pawnSingular>
+  <HE_Player_Hellas.pawnsPlural>殖民者</HE_Player_Hellas.pawnsPlural>
+</LanguageData>

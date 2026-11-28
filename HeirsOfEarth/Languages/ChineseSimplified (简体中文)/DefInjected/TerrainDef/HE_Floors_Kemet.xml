@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Silt.label>灌溉淤泥</HE_Kemet_Silt.label>
+  <HE_Kemet_Silt.description>铺在土壤上并布满小水渠的黑色河泥。植物在上面的生长如同在肥沃土壤上，略差一些。只能铺在土壤上。</HE_Kemet_Silt.description>
+  <HE_Kemet_LotusTiles.label>莲花地砖</HE_Kemet_LotusTiles.label>
+  <HE_Kemet_LotusTiles.description>绘有蓝色莲花和芦苇镶边的砂岩石板。</HE_Kemet_LotusTiles.description>
+  <HE_Kemet_Sandstone.label>砂岩石板</HE_Kemet_Sandstone.label>
+  <HE_Kemet_Sandstone.description>王家石匠切割成整齐石板的金色砂岩。凯美特的神庙、宫廷和陵墓都以它铺地。</HE_Kemet_Sandstone.description>
+</LanguageData>

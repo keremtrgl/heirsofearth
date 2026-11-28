@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Torii.label>鸟居</HE_Yamato_Torii.label>
+  <HE_Yamato_Torii.description>一座由两根柱子和两根横梁组成的高大红门。从它下面走过时，人们会压低声音。</HE_Yamato_Torii.description>
+  <HE_Yamato_Lantern.label>石灯笼</HE_Yamato_Lantern.label>
+  <HE_Yamato_Lantern.description>一座内有小火苗的雕刻石灯笼。整夜柔和地照亮庭园小径。</HE_Yamato_Lantern.description>
+  <HE_Yamato_TeaTable.label>茶桌</HE_Yamato_TeaTable.label>
+  <HE_Yamato_TeaTable.description>一张深色矮桌，摆着铁壶和四只茶杯。殖民者跪坐在旁，静静地喝一杯茶。</HE_Yamato_TeaTable.description>
+  <HE_Yamato_Dojo.label>道场靶桩</HE_Yamato_Dojo.label>
+  <HE_Yamato_Dojo.description>一根裹着草束的木桩。殖民者一遍又一遍地击打它来训练握刀的手臂。</HE_Yamato_Dojo.description>
+  <HE_Yamato_Rack.label>刀架</HE_Yamato_Rack.label>
+  <HE_Yamato_Rack.description>一个漆制刀架，放着入鞘的刀。是一个家族刀剑的骄傲展示。</HE_Yamato_Rack.description>
+  <HE_Yamato_Yagura_Gun.label>橹弓</HE_Yamato_Yagura_Gun.label>
+  <HE_Yamato_Yagura_Gun.description>橹的旋转顶部。</HE_Yamato_Yagura_Gun.description>
+  <HE_Yamato_Yagura.label>橹</HE_Yamato_Yagura.label>
+  <HE_Yamato_Yagura.description>一座白灰泥墙的小型木制瞭望塔。三张弓安装在旋转架上，一次射出一轮短齐射。木材用于制作新箭：一根原木可做两支。</HE_Yamato_Yagura.description>
+  <HE_Yamato_Yagura.comps.1.fuelLabel>箭矢</HE_Yamato_Yagura.comps.1.fuelLabel>
+  <HE_Yamato_Yagura.comps.1.fuelGizmoLabel>箭矢</HE_Yamato_Yagura.comps.1.fuelGizmoLabel>
+  <HE_Yamato_Yagura.comps.1.outOfFuelMessage>需要木材制作箭矢</HE_Yamato_Yagura.comps.1.outOfFuelMessage>
+  <HE_Yamato_TeaUrn.label>电热茶壶</HE_Yamato_TeaUrn.label>
+  <HE_Yamato_TeaUrn.description>一个立在架子上的高大黑漆铜壶，由线圈加热，整天保持在将沸未沸，旁边放着一盘茶杯。殖民者聚在这里分享茶水。</HE_Yamato_TeaUrn.description>
+</LanguageData>

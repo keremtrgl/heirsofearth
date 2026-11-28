@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Albion_MeatPie.label>烹饪肉馅饼</HE_Cook_Albion_MeatPie.label>
+  <HE_Cook_Albion_MeatPie.description>烹饪肉馅饼。</HE_Cook_Albion_MeatPie.description>
+  <HE_Cook_Albion_MeatPie.jobString>正在烹饪肉馅饼。</HE_Cook_Albion_MeatPie.jobString>
+  <HE_Cook_Albion_Roast.label>烹饪周日烤肉</HE_Cook_Albion_Roast.label>
+  <HE_Cook_Albion_Roast.description>烹饪周日烤肉。</HE_Cook_Albion_Roast.description>
+  <HE_Cook_Albion_Roast.jobString>正在烹饪周日烤肉。</HE_Cook_Albion_Roast.jobString>
+  <HE_Cook_Albion_Scones.label>烹饪红茶与司康</HE_Cook_Albion_Scones.label>
+  <HE_Cook_Albion_Scones.description>烹饪红茶与司康。</HE_Cook_Albion_Scones.description>
+  <HE_Cook_Albion_Scones.jobString>正在烹饪红茶与司康。</HE_Cook_Albion_Scones.jobString>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Shako.label>高筒军帽</HE_Albion_Shako.label>
+  <HE_Albion_Shako.description>一顶带黄铜徽章和短羽饰的高硬帽。它让士兵看起来高出半个头。</HE_Albion_Shako.description>
+  <HE_Albion_Redcoat.label>红衫军外套</HE_Albion_Redcoat.label>
+  <HE_Albion_Redcoat.description>一件白色翻边的红色羊毛外套，配黄铜纽扣和交叉的白色腰带。温暖、结实，而且不可能被忽视。</HE_Albion_Redcoat.description>
+  <HE_Albion_FrockCoat.label>礼服大衣</HE_Albion_FrockCoat.label>
+  <HE_Albion_FrockCoat.description>一件带燕尾、丝绸翻领和黄铜纽扣的及膝黑羊毛大衣。银行家、工程师和议员都穿一件。</HE_Albion_FrockCoat.description>
+  <HE_Albion_TopHat.label>高顶礼帽</HE_Albion_TopHat.label>
+  <HE_Albion_TopHat.description>一顶黑色丝绒高帽。它让人高出一个头，也增添了大量的体面。</HE_Albion_TopHat.description>
+  <HE_Albion_Bicorne.label>双角帽</HE_Albion_Bicorne.label>
+  <HE_Albion_Bicorne.description>一顶饰有金色饰带和国家帽徽的双角军官帽。海军上将和将军们横着戴；所有人都要敬礼。</HE_Albion_Bicorne.description>
+  <HE_Albion_RifleGreen.label>步枪绿外套</HE_Albion_RifleGreen.label>
+  <HE_Albion_RifleGreen.description>步枪团的深绿色外套，配黑色翻边、黑纽扣和斜挎带。它能藏进树篱里；本来就是为此设计的。</HE_Albion_RifleGreen.description>
+  <HE_Albion_SteelHelmet.label>阿尔比恩钢盔</HE_Albion_SteelHelmet.label>
+  <HE_Albion_SteelHelmet.description>一顶四周带宽檐的浅钢盔，漆成卡其色，挡住从上方落下的东西。正面有一枚小黄铜徽章。</HE_Albion_SteelHelmet.description>
+  <HE_Albion_FieldUniform.label>阿尔比恩军常服</HE_Albion_FieldUniform.label>
+  <HE_Albion_FieldUniform.description>一件卡其色军常服上衣，配黄铜纽扣、四个口袋，以及背带和腰带组成的携行具。</HE_Albion_FieldUniform.description>
+</LanguageData>

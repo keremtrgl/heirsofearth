@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_StudyCulture.label>研究文化物品</HE_StudyCulture.label>
+  <HE_StudyCulture.description>拆解一件继承者国家的物品以从中学习。物品会被销毁；殖民地获得该国的文化知识。</HE_StudyCulture.description>
+  <HE_StudyCulture.jobString>正在研究文化物品。</HE_StudyCulture.jobString>
+</LanguageData>

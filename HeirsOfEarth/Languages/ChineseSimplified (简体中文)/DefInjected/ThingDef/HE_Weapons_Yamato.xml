@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Katana.label>武士刀</HE_Yamato_Katana.label>
+  <HE_Yamato_Katana.description>一把以折叠钢锻造的弯曲单刃刀，带有坚硬的波浪刃纹。切割干净利落。</HE_Yamato_Katana.description>
+  <HE_Yamato_Katana.tools.0.label>剑柄</HE_Yamato_Katana.tools.0.label>
+  <HE_Yamato_Katana.tools.1.label>剑尖</HE_Yamato_Katana.tools.1.label>
+  <HE_Yamato_Katana.tools.2.label>剑刃</HE_Yamato_Katana.tools.2.label>
+  <HE_Yamato_Yari.label>长枪</HE_Yamato_Yari.label>
+  <HE_Yamato_Yari.description>一支带有笔直三角形刃的长枪。简单、便宜，在纪律严明的阵列中致命。</HE_Yamato_Yari.description>
+  <HE_Yamato_Yari.tools.0.label>矛杆</HE_Yamato_Yari.tools.0.label>
+  <HE_Yamato_Yari.tools.1.label>剑尖</HE_Yamato_Yari.tools.1.label>
+  <HE_Yamato_Naginata.label>薙刀</HE_Yamato_Naginata.label>
+  <HE_Yamato_Naginata.description>装在长漆杆上的弯刃，大幅挥舞以让众多敌人无法近身。</HE_Yamato_Naginata.description>
+  <HE_Yamato_Naginata.tools.0.label>矛杆</HE_Yamato_Naginata.tools.0.label>
+  <HE_Yamato_Naginata.tools.1.label>剑尖</HE_Yamato_Naginata.tools.1.label>
+  <HE_Yamato_Naginata.tools.2.label>剑刃</HE_Yamato_Naginata.tools.2.label>
+  <HE_Yamato_Yumi.label>和弓</HE_Yamato_Yumi.label>
+  <HE_Yamato_Yumi.description>一张以层压竹材制成的高大弓，比弓手还长。在训练有素的手中射得又远又准。</HE_Yamato_Yumi.description>
+  <HE_Yamato_Yumi.tools.0.label>弩臂</HE_Yamato_Yumi.tools.0.label>
+  <HE_Yamato_Tanegashima.label>种子岛铳</HE_Yamato_Tanegashima.label>
+  <HE_Yamato_Tanegashima.description>一支长火绳枪，枪托涂黑漆，配有黄铜饰件。发光的火绳必须保持干燥，但训练有素的铳手能在百步外命中一人。</HE_Yamato_Tanegashima.description>
+  <HE_Yamato_Tanegashima.tools.0.label>枪托</HE_Yamato_Tanegashima.tools.0.label>
+  <HE_Yamato_Tanegashima.tools.1.label>枪管</HE_Yamato_Tanegashima.tools.1.label>
+  <HE_Yamato_Rifle.label>大和步枪</HE_Yamato_Rifle.label>
+  <HE_Yamato_Rifle.description>一支栓动步枪，枪托涂黑漆，握把处饰有黄铜樱花，配有刺刀。远距离非常精准。</HE_Yamato_Rifle.description>
+  <HE_Yamato_Rifle.tools.0.label>枪托</HE_Yamato_Rifle.tools.0.label>
+  <HE_Yamato_Rifle.tools.1.label>刺刀</HE_Yamato_Rifle.tools.1.label>
+  <HE_Yamato_Sniper.label>大和狙击步枪</HE_Yamato_Sniper.label>
+  <HE_Yamato_Sniper.description>一支长栓动步枪，枪托涂黑漆，装有黄铜望远镜，镜环上饰有樱花。瞄准缓慢，但在其射程尽头，它是各国中最精准的枪。</HE_Yamato_Sniper.description>
+  <HE_Yamato_Sniper.tools.0.label>枪托</HE_Yamato_Sniper.tools.0.label>
+  <HE_Yamato_Sniper.tools.1.label>枪管</HE_Yamato_Sniper.tools.1.label>
+</LanguageData>

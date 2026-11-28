@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Tianxia.label>天朝天下</HE_Faction_Tianxia.label>
+  <HE_Faction_Tianxia.description>普天之下的国度，殖民船“昆仑号”的继承者。它的士大夫治理着一个庞大而有耐心的民族，它的商队沿丝绸之路运送茶叶、丝绸和瓷器。</HE_Faction_Tianxia.description>
+  <HE_Faction_Tianxia.fixedName>天朝天下</HE_Faction_Tianxia.fixedName>
+  <HE_Faction_Tianxia.pawnSingular>天下子民</HE_Faction_Tianxia.pawnSingular>
+  <HE_Faction_Tianxia.pawnsPlural>天下人</HE_Faction_Tianxia.pawnsPlural>
+  <HE_Faction_Tianxia.leaderTitle>皇帝</HE_Faction_Tianxia.leaderTitle>
+  <HE_Player_Tianxia.label>天下定居者</HE_Player_Tianxia.label>
+  <HE_Player_Tianxia.description>一小户天下定居者，奉命为帝国开拓新的边疆。</HE_Player_Tianxia.description>
+  <HE_Player_Tianxia.pawnSingular>殖民者</HE_Player_Tianxia.pawnSingular>
+  <HE_Player_Tianxia.pawnsPlural>殖民者</HE_Player_Tianxia.pawnsPlural>
+</LanguageData>

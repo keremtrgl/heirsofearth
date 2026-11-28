@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_SettingsKnowledgeGain>文化知识获取：{0}</HE_SettingsKnowledgeGain>
+  <HE_SettingsResearchCost>传承研究花费：{0}（需要重启）</HE_SettingsResearchCost>
+  <HE_SettingsPolitics>动态世界政治</HE_SettingsPolitics>
+  <HE_SettingsPoliticsInterval>每{0}天更新一次政治</HE_SettingsPoliticsInterval>
+  <HE_SettingsInterStateWar>国家之间可能互相开战</HE_SettingsInterStateWar>
+  <HE_SettingsRaidStrength>国家袭击和故事战斗的强度：{0}</HE_SettingsRaidStrength>
+  <HE_SettingsTraditions>{0}的传统</HE_SettingsTraditions>
+  <HE_SettingsPatches>游戏规则修改（Harmony）</HE_SettingsPatches>
+  <HE_PatchOn>已启用</HE_PatchOn>
+  <HE_PatchOff>已禁用</HE_PatchOff>
+  <HE_NeedKnowledge>需要{0}点{1}知识（你有{2}点）。</HE_NeedKnowledge>
+  <HE_NeedChain>请先完成故事“{0}”。</HE_NeedChain>
+  <HE_StudyMessage>{0}研究了这件物品，获得了{1}点{2}知识。</HE_StudyMessage>
+  <HE_ChronicleStudy>研究{0}作品让殖民地获得了{1}点知识。</HE_ChronicleStudy>
+  <HE_ChronicleTradition>殖民地采纳了一项新传统：{0}。</HE_ChronicleTradition>
+  <HE_ChronicleHeritage>殖民地继承了{0}的传承。</HE_ChronicleHeritage>
+  <HE_ChronicleIndependent>殖民地选择独立自主，不继承任何一个国家。</HE_ChronicleIndependent>
+  <HE_TraditionStat>传统：{0}</HE_TraditionStat>
+  <HE_CaravanTradition>传统：移动速度加快{0}</HE_CaravanTradition>
+  <HE_EffectQuality>{0}的几率制作出高一个品质等级的物品</HE_EffectQuality>
+  <HE_EffectCaravan>商队移动速度加快{0}</HE_EffectCaravan>
+  <HE_EffectStudy>研究获得的知识增加{0}</HE_EffectStudy>
+  <HE_ScopeBuildings>工作台</HE_ScopeBuildings>
+  <HE_TabHeritage>传承</HE_TabHeritage>
+  <HE_TabKnowledge>文化知识</HE_TabKnowledge>
+  <HE_TabDiplomacy>外交</HE_TabDiplomacy>
+  <HE_TabTraditions>传统</HE_TabTraditions>
+  <HE_TabStories>故事</HE_TabStories>
+  <HE_TabChronicle>编年史</HE_TabChronicle>
+  <HE_HeritageIntro>数百年前，地球的殖民船散落在边缘世界各处。他们的后代建立了至今仍承载着古老文化传承的国家。你的殖民地可以成为其中一个国家的继承者，也可以独立自主。</HE_HeritageIntro>
+  <HE_HeritageNotChosen>你的殖民地还没有选择传承。你只能选择一次：该传承的研究分支不需要文化知识，其国家开局即为友好。</HE_HeritageNotChosen>
+  <HE_HeritageIndependent>一个独立的殖民地，不继承任何一个国家。</HE_HeritageIndependent>
+  <HE_ChooseHeritage>选择你的传承</HE_ChooseHeritage>
+  <HE_ChooseHeritageWarn>这个选择只能做一次，之后无法更改。</HE_ChooseHeritageWarn>
+  <HE_ChooseIndependent>保持独立（每种文化+15知识）</HE_ChooseIndependent>
+  <HE_Choose>选择</HE_Choose>
+  <HE_RulerTitle>统治者：{0}</HE_RulerTitle>
+  <HE_YourHeritage>你的传承</HE_YourHeritage>
+  <HE_KnowledgeIntro>来自其他国家分支的研究需要该国的文化知识。你自己的传承不需要。</HE_KnowledgeIntro>
+  <HE_KnowledgeNext>{0} / {1}，用于{2}</HE_KnowledgeNext>
+  <HE_KnowledgeAll>{0}，所有项目已开放</HE_KnowledgeAll>
+  <HE_KnowledgeSources>获取知识的途径：在文化研究台研究该国的物品，让来自该文化的殖民者进行研究，完成其分支的项目，接受盟友赠送的档案和故事奖励，以及从其定居点掠夺档案。</HE_KnowledgeSources>
+  <HE_DiplomacyIntro>继承者国家与你以及彼此之间的关系。关系每月都会变化；各国会开战、讲和并结成同盟。</HE_DiplomacyIntro>
+  <HE_DiplomacyOff>世界政治已在模组设置中关闭。</HE_DiplomacyOff>
+  <HE_NoNations>这个世界中不存在继承者国家。</HE_NoNations>
+  <HE_You>你</HE_You>
+  <HE_AtWar>战争</HE_AtWar>
+  <HE_Allied>同盟</HE_Allied>
+  <HE_TraditionsIntro>传统是改变你殖民地游戏规则的研究项目。</HE_TraditionsIntro>
+  <HE_StoriesIntro>每个国家都有一个故事。当你的殖民地对该文化足够了解时，故事就会开始；如果是你的传承，则立即开始。</HE_StoriesIntro>
+  <HE_ChainLocked>在{0}点{1}知识时开始。</HE_ChainLocked>
+  <HE_ChainDone>已完成。</HE_ChainDone>
+  <HE_ChainGoal>第{0}/{1}步：{2}</HE_ChainGoal>
+  <HE_Deliver>交付</HE_Deliver>
+  <HE_ChainStartedLabel>故事：{0}</HE_ChainStartedLabel>
+  <HE_ChainStartedChronicle>故事“{0}”开始了。</HE_ChainStartedChronicle>
+  <HE_ChainStepLabel>{0}：下一步</HE_ChainStepLabel>
+  <HE_ChainDoneLabel>{0}已完成</HE_ChainDoneLabel>
+  <HE_ChainDoneChronicle>故事“{0}”迎来了结局。</HE_ChainDoneChronicle>
+  <HE_ChronicleIntro>你的殖民地和继承者国家的历史。</HE_ChronicleIntro>
+  <HE_SiteEnter>进入{0}</HE_SiteEnter>
+  <HE_SiteEntering>正在进入{0}。</HE_SiteEntering>
+  <HE_ScenHeritage>传承：{0}。</HE_ScenHeritage>
+  <HE_ScenIndependent>传承：独立殖民地。</HE_ScenIndependent>
+  <HE_WarLabel>战争：{0}与{1}</HE_WarLabel>
+  <HE_WarText>{0}已向{1}宣战。他们的军队将会交锋，定居点可能易手。</HE_WarText>
+  <HE_PeaceLabel>和平：{0}与{1}</HE_PeaceLabel>
+  <HE_PeaceText>经过一场漫长的战争，{0}与{1}签订了和约。</HE_PeaceText>
+  <HE_AllianceText>{0}与{1}结成了同盟。</HE_AllianceText>
+  <HE_AllianceEndText>{0}与{1}之间的同盟结束了。</HE_AllianceEndText>
+  <HE_CaptureLabel>{0}已陷落</HE_CaptureLabel>
+  <HE_CaptureText>{0}从{2}手中夺取了{1}。</HE_CaptureText>
+  <HE_CollapseLabel>{0}已覆灭</HE_CollapseLabel>
+  <HE_CollapseText>随着最后一个定居点的失守，{0}覆灭了。它的人民流散到世界各地。</HE_CollapseText>
+  <HE_GiftLabel>来自{0}的礼物</HE_GiftLabel>
+  <HE_GiftText>你在{0}的盟友给你送来了一份礼物：{1}。在文化研究台研究它，以更多地了解他们的方式。</HE_GiftText>
+  <HE_NotEnoughSilver>你需要{0}白银。</HE_NotEnoughSilver>
+  <HE_SettingsAddMissing>为现有存档添加新国家</HE_SettingsAddMissing>
+  <HE_SettingsAddMissingTip>载入用旧版本创建的存档时，当时还不存在的国家会带着自己的定居点到来。</HE_SettingsAddMissingTip>
+  <HE_NationArrivedLabel>新国家到来</HE_NationArrivedLabel>
+  <HE_NationArrivedLetter>旧世界的船只终于找到了这颗星球。新的继承者国家建立了他们的第一批定居点：{0}。
+
+他们开局对你保持中立。他们的研究分支、商人和故事现已开放。</HE_NationArrivedLetter>
+  <HE_NationArrivedText>{0}在这个世界上建立了它的第一批定居点。</HE_NationArrivedText>
+  <HE_EnvoyLabel>{0}的使节</HE_EnvoyLabel>
+  <HE_EnvoyText>一位{0}的使节带着价值{2}白银的礼物和一封{3}的信到来，希望你们两国人民结为友好。</HE_EnvoyText>
+  <HE_EnvoyAccept>接受礼物和友谊</HE_EnvoyAccept>
+  <HE_EnvoyRefuse>送走使节</HE_EnvoyRefuse>
+  <HE_TributeLabel>{0}索要贡品</HE_TributeLabel>
+  <HE_TributeText>{0}的{3}要求{2}白银的贡品。如果你拒绝，关系会恶化，他们雇佣的袭击者将在两天内到来。</HE_TributeText>
+  <HE_TributeAccept>支付{0}白银</HE_TributeAccept>
+  <HE_TributeRefuse>拒绝</HE_TributeRefuse>
+  <HE_WarCallLabel>{0}号召你参战</HE_WarCallLabel>
+  <HE_WarCallText>{0}正与{1}交战，请求你站在他们一边。如果你加入，{1}将对你敌对，而{0}会送给你两份其知识的档案。</HE_WarCallText>
+  <HE_WarCallAccept>加入战争</HE_WarCallAccept>
+  <HE_WarCallRefuse>置身事外</HE_WarCallRefuse>
+  <HE_MarriageLabel>来自{0}的联姻提议</HE_MarriageLabel>
+  <HE_MarriageText>为了让两国人民结为一体，{0}的{3}提议让他们的一名族人加入你的殖民地并在此成婚。</HE_MarriageText>
+  <HE_MarriageAccept>欢迎他们</HE_MarriageAccept>
+  <HE_MarriageRefuse>婉言谢绝</HE_MarriageRefuse>
+  <HE_MarriageChronicle>{1}的{0}通过联姻加入了殖民地。</HE_MarriageChronicle>
+  <HE_MediationLabel>调停{0}与{1}</HE_MediationLabel>
+  <HE_MediationText>{0}与{1}正在交战。双方都足够信任你，愿意接受你的调停。花费{2}白银作为礼物和旅费，你的使节就能让他们坐到谈判桌前。</HE_MediationText>
+  <HE_MediationAccept>支付{0}白银并调停</HE_MediationAccept>
+  <HE_MediationRefuse>让他们打吧</HE_MediationRefuse>
+  <HE_HeritageReminderLabel>选择你的传承</HE_HeritageReminderLabel>
+  <HE_HeritageReminderText>你的殖民地还没有选择它源自哪个古老国家。
+
+打开屏幕底部的继承者页签并选择一个传承：它的研究不需要文化知识，它的人民开局即为友好，它的传统从一开始就属于你。你也可以保持独立，对每种文化都学一点。
+
+这个选择只能做一次。</HE_HeritageReminderText>
+  <HE_StartIndependentDialog>你的营地上空没有飘扬任何旗帜，也没有元老院、将军或雅尔等着你的贡品。古老的国家会根据你的所作所为来评判你，而不是看你流着谁的血。向他们所有人学习，不欠他们任何人任何东西。</HE_StartIndependentDialog>
+  <HE_StartRomaDialog>旗帜已经插下。远离元老院和故乡的铺砌大道，你和你的同伴将建立一座配得上新罗马的殖民城。牢记法律，保持道路笔直，永远不要让鹰旗倒下。</HE_StartRomaDialog>
+  <HE_StartYamatoDialog>氏族给了你祝福和一点大米。远离故乡的城下町，你将建立一个让将军引以为傲的家族。耐心工作，让你的刀保持锋利，让你的承诺更加坚定。</HE_StartYamatoDialog>
+  <HE_StartNordDialog>船已拖上海岸，众神正在注视。建起一座长屋，让火塘不熄，写下一部值得传颂的萨迦。如果罗马人来了，就让他们看看北方如何回应。</HE_StartNordDialog>
+  <HE_StartHellasDialog>神谕已经降下，征兆吉利，公民大会投票派你们出发。现在，远离同盟，你们必须建立一座名副其实的城邦。以理性建设它，同心协力保卫它，其余的一切都可以争论。</HE_StartHellasDialog>
+  <HE_StartTianxiaDialog>诏书已经盖印：你们要以皇帝之名开拓这片遥远的土地。先建粮仓再筑城墙，先建学堂再修宫殿，天命将与你们同在。</HE_StartTianxiaDialog>
+  <HE_StartAlbionDialog>特许状已经签署，公司已为你们支付了船费。在这里有煤可挖，有铁可炼，有财可发，只要你们保持火药干燥，账目井然。</HE_StartAlbionDialog>
+  <HE_StartKemetDialog>洪水已经测量，书吏已把你的名字写进地籍册，法老已在上游赐给你一座庄园。它空旷、遥远，但属于你。开挖运河，用石头建造，把一切都记录下来。</HE_StartKemetDialog>
+  <HE_StartParsDialog>总督已在你的特许状上盖印：在道路尽头建一座驿站，备好精神饱满的马，不让任何骑手等待。道路会来到你这里。确保当它到来时，能找到一座花园。</HE_StartParsDialog>
+  <HE_StartIntiDialog>结绳官们已把你们的名字系进了一个新山谷的绳结里。它陡峭、寒冷、空旷。把山坡切成梯田，在第一个冬天之前装满仓库，并记下一切的数目。</HE_StartIntiDialog>
+  <HE_ArtifactCooldown>休息中：{0}后再次可用。</HE_ArtifactCooldown>
+  <HE_ArtifactReady>可以使用。</HE_ArtifactReady>
+  <HE_ArtifactUsed>{0}使用了{1}：{2}名盟友受到鼓舞，{3}名敌人逃跑了。</HE_ArtifactUsed>
+  <HE_TabRoutes>贸易之路</HE_TabRoutes>
+  <HE_RoutesIntro>一次性支付白银，向一个喜欢你的国家（好感度{0}或以上）开通一条贸易之路。每{1}天，一支商路商队会带来该国的货物和白银，价值为道路花费的{2}，略微提升关系，并让你了解一些他们的文化。处于战争中的国家可能会让商队被袭击者劫走。如果该国转为敌对或覆灭，道路就会关闭。</HE_RoutesIntro>
+  <HE_RoutesOpen>已开通道路：{0} / {1}</HE_RoutesOpen>
+  <HE_RoutesNone>你还没有贸易之路。</HE_RoutesNone>
+  <HE_RoutesAvailable>国家</HE_RoutesAvailable>
+  <HE_RouteInfo>下一支商队还有{0}天 · 价值{1}白银 · {2}趟，{3}趟被劫</HE_RouteInfo>
+  <HE_RouteWarRisk>战争中：商队可能会被劫掠。</HE_RouteWarRisk>
+  <HE_RouteOffer>花费{0}白银 · 距离{1}格 · 关系{2}</HE_RouteOffer>
+  <HE_RouteOpen>开通道路</HE_RouteOpen>
+  <HE_RouteClose>关闭道路</HE_RouteClose>
+  <HE_RouteCloseConfirm>关闭通往{0}的贸易之路？已支付的白银不会退还。</HE_RouteCloseConfirm>
+  <HE_RouteDisabled>贸易之路已在模组设置中关闭。</HE_RouteDisabled>
+  <HE_RouteNoNation>这个国家已不复存在</HE_RouteNoNation>
+  <HE_RouteAlreadyOpen>已开通</HE_RouteAlreadyOpen>
+  <HE_RouteHostile>对你敌对</HE_RouteHostile>
+  <HE_RouteGoodwill>需要关系{0}</HE_RouteGoodwill>
+  <HE_RouteNoSettlement>没有可以交易的定居点</HE_RouteNoSettlement>
+  <HE_RouteFull>最多{0}条道路</HE_RouteFull>
+  <HE_RouteOpenedChronicle>花费{1}白银开通了通往{0}的贸易之路。</HE_RouteOpenedChronicle>
+  <HE_RouteTripLabel>来自{0}的商路商队</HE_RouteTripLabel>
+  <HE_RouteTripText>来自{0}的商路商队已经抵达，并在你的交易点附近卸货：{1}。
+
+与他们的关系提升{2}。下一支商队将在{3}天后到达。</HE_RouteTripText>
+  <HE_RouteTripChronicle>第{1}支商队沿着来自{0}的道路抵达。</HE_RouteTripChronicle>
+  <HE_RouteRaidedLabel>{0}的商路商队遭到劫掠</HE_RouteRaidedLabel>
+  <HE_RouteRaidedText>{0}正处于战争中，它的商路商队在抵达你这里之前遭到袭击者伏击。这次什么都没有送到。道路仍然开通。</HE_RouteRaidedText>
+  <HE_RouteClosedLabel>通往{0}的道路已关闭</HE_RouteClosedLabel>
+  <HE_RouteClosedHostile>{0}已转为敌对，关闭了通往你的贸易之路。</HE_RouteClosedHostile>
+  <HE_RouteClosedCollapse>{0}已覆灭。它的贸易之路陷入沉寂。</HE_RouteClosedCollapse>
+  <HE_RouteClosedByPlayer>你关闭了通往{0}的贸易之路。</HE_RouteClosedByPlayer>
+  <HE_SettingsTradeRoutes>贸易之路</HE_SettingsTradeRoutes>
+  <HE_SettingsTradeRoutesTip>允许你在继承者页签中开通通往友好国家的贸易之路。关闭时，已开通的道路不会派出商队。</HE_SettingsTradeRoutesTip>
+  <HE_TabCouncil>世界议会</HE_TabCouncil>
+  <HE_CouncilIntro>继承者们的最终目标。完成{0}个国家故事或保持{1}条贸易之路开通满一年后，议会开放。然后研究世界议会并建造其议事厅。每{3}天你可以召集一次会议。
+
+团结：三分之二的现存国家投赞成票。如果一个国家是你的盟友、已向你宣誓效忠或喜欢你（关系{2}或以上），它会投赞成票；但如果与它交战的国家投了赞成票，它会投反对票。
+统治：每个现存国家都已向你宣誓效忠。一个对你敌对且失去了一半定居点的国家会提出效忠；被你消灭的国家会覆灭。
+
+胜利之后游戏继续。</HE_CouncilIntro>
+  <HE_CouncilDisabled>世界议会已在模组设置中关闭。</HE_CouncilDisabled>
+  <HE_CouncilAlreadyWon>议会已经作出了决定</HE_CouncilAlreadyWon>
+  <HE_CouncilLocked>议会尚未开放</HE_CouncilLocked>
+  <HE_CouncilNeedHall>请先建造议事厅</HE_CouncilNeedHall>
+  <HE_CouncilWait>{0}天后可以召开下一次会议</HE_CouncilWait>
+  <HE_CouncilProgress>通往议会之路</HE_CouncilProgress>
+  <HE_CouncilStepUnlock>议会开放：已完成{0}/{1}个故事，或{2}/{3}条贸易之路开通满一年</HE_CouncilStepUnlock>
+  <HE_CouncilStepHall>议事厅已建成（需先研究世界议会）</HE_CouncilStepHall>
+  <HE_CouncilCall>召集世界议会</HE_CouncilCall>
+  <HE_CouncilVotes>各国今天会如何投票</HE_CouncilVotes>
+  <HE_CouncilSettlements>{0}个定居点</HE_CouncilSettlements>
+  <HE_CouncilTally>赞成票：{1}票中的{0}票。团结需要{2}票。</HE_CouncilTally>
+  <HE_CouncilDominion>向你宣誓效忠的国家：{1}个中的{0}个。统治需要全部。</HE_CouncilDominion>
+  <HE_CouncilWonNote>地球的继承者们已经有了答案。你的殖民地继续前行；世界会记住这一切。</HE_CouncilWonNote>
+  <HE_VoteYes>赞成</HE_VoteYes>
+  <HE_VoteNo>反对</HE_VoteNo>
+  <HE_VoteGone>已消失</HE_VoteGone>
+  <HE_VoteVassal>已向你宣誓效忠</HE_VoteVassal>
+  <HE_VoteAlly>你的盟友</HE_VoteAlly>
+  <HE_VoteHostile>对你敌对</HE_VoteHostile>
+  <HE_VoteGoodwill>需要关系{0}，当前为{1}</HE_VoteGoodwill>
+  <HE_VoteEnemyYes>不会与它的交战敌人{0}同席</HE_VoteEnemyYes>
+  <HE_VoteFriend>信任你（关系{0}）</HE_VoteFriend>
+  <HE_NeedCouncil>完成{0}个国家故事或保持{1}条贸易之路开通满一年后，世界议会开放。</HE_NeedCouncil>
+  <HE_CouncilUnlockedLabel>世界议会可以召开了</HE_CouncilUnlockedLabel>
+  <HE_CouncilUnlockedText>你殖民地的名声已经沿着这个世界的每一条道路传开。继承者国家们如今谈论着一个所有国家都能发声的议会，许多人期待由你来召集它。
+
+研究世界议会，建造议事厅，并从继承者页签召集会议。你可以通过投票团结继承者们，也可以让他们向你宣誓效忠。</HE_CouncilUnlockedText>
+  <HE_CouncilUnlockedChronicle>各国开始谈论一个世界议会。</HE_CouncilUnlockedChronicle>
+  <HE_CouncilFailedLabel>议会未能达成一致</HE_CouncilFailedLabel>
+  <HE_CouncilFailedText>使节们围坐在大圆桌旁，争论到深夜，然后投票。{1}个国家中有{0}个投了赞成票；团结需要{2}票。
+
+{3}
+
+你可以在{4}天后再次召集议会。</HE_CouncilFailedText>
+  <HE_CouncilFailedChronicle>世界议会召开了：{1}个国家中有{0}个投票支持团结，票数不够。</HE_CouncilFailedChronicle>
+  <HE_VictoryUnityLabel>胜利：继承者们团结了</HE_VictoryUnityLabel>
+  <HE_VictoryUnityText>使节们一个接一个地站起来，把他们的旗帜放在大圆桌上。在船只离开地球数百年之后，它的继承者们选择了站在一起，而正是{0}把他们带到了这张桌前。
+
+旧日的争吵并未消失，但从今天起，它们将在议会中而非战场上解决。你的殖民地继续存在，世界将长久地讲述它的故事。</HE_VictoryUnityText>
+  <HE_VictoryUnityChronicle>世界议会投票支持团结。地球的继承者们站在了一起。</HE_VictoryUnityChronicle>
+  <HE_VictoryDominionLabel>胜利：统治继承者</HE_VictoryDominionLabel>
+  <HE_VictoryDominionText>每个仍屹立的国家都已屈膝。他们的使节来到议事厅不是为了投票，而是为了宣誓，继承者们的旗帜如今悬挂在{0}的旗帜之下。
+
+这场胜利来得并不温和，有些人不会忘记。但这个世界上已无人怀疑由谁来领导。你的殖民地继续存在。</HE_VictoryDominionText>
+  <HE_VictoryDominionChronicle>每个现存国家都宣誓效忠了。世界议会向一个强权俯首。</HE_VictoryDominionChronicle>
+  <HE_FealtyLabel>{0}提出效忠</HE_FealtyLabel>
+  <HE_FealtyText>{0}在战争中失去了它{2}个定居点中的{1}个，而且仍在与你交战。{3}派来一位打着白旗的使节：他们将向你宣誓效忠，结束战争，并每{5}天支付{4}白银的贡品。
+
+向你宣誓效忠的国家计入对继承者的统治，并且在世界议会中总是投赞成票。如果它再次转为敌对，誓言即被打破。</HE_FealtyText>
+  <HE_FealtyAccept>接受他们的效忠</HE_FealtyAccept>
+  <HE_FealtyRefuse>拒绝：战争继续</HE_FealtyRefuse>
+  <HE_FealtyAcceptedChronicle>{0}向你的殖民地宣誓效忠。</HE_FealtyAcceptedChronicle>
+  <HE_FealtyRefusedChronicle>你拒绝了{0}的效忠。战争继续。</HE_FealtyRefusedChronicle>
+  <HE_FealtyBrokenLabel>{0}背弃了誓言</HE_FealtyBrokenLabel>
+  <HE_FealtyBrokenText>{0}已转为敌对，背弃了对你的效忠誓言。它不再支付贡品。</HE_FealtyBrokenText>
+  <HE_TributeArrivesLabel>来自附庸的贡品</HE_TributeArrivesLabel>
+  <HE_TributeArrivesText>向你宣誓效忠的国家送来了他们的贡品：{0}白银（{1}）。</HE_TributeArrivesText>
+  <HE_SettingsCouncil>世界议会（最终目标）</HE_SettingsCouncil>
+  <HE_SettingsCouncilTip>世界议会、效忠提议和两种胜利。关闭时，这些都不会发生。</HE_SettingsCouncilTip>
+  <HE_TabResearch>研究</HE_TabResearch>
+  <HE_AtlasIntro>继承者国家的每个研究项目都在一个列表中。按国家、时代和状态筛选，查看项目为何被锁定，一键开始研究。将鼠标悬停在一行上可查看其描述和效果。</HE_AtlasIntro>
+  <HE_AtlasAllNations>所有国家</HE_AtlasAllNations>
+  <HE_AtlasCommon>共有（无国家）</HE_AtlasCommon>
+  <HE_AtlasAllAges>所有时代</HE_AtlasAllAges>
+  <HE_AtlasStateAll>全部</HE_AtlasStateAll>
+  <HE_AtlasStateAvailable>可以开始</HE_AtlasStateAvailable>
+  <HE_AtlasStateLocked>已锁定</HE_AtlasStateLocked>
+  <HE_AtlasStateFinished>已完成</HE_AtlasStateFinished>
+  <HE_AtlasCount>{0}个项目，{1}个已完成</HE_AtlasCount>
+  <HE_AtlasEmpty>没有符合这些筛选条件的项目。</HE_AtlasEmpty>
+  <HE_AtlasTradition>传统</HE_AtlasTradition>
+  <HE_AtlasKnowledge>需要{0}点知识</HE_AtlasKnowledge>
+  <HE_AtlasDone>已完成</HE_AtlasDone>
+  <HE_AtlasCurrent>研究中</HE_AtlasCurrent>
+  <HE_AtlasResearch>研究</HE_AtlasResearch>
+  <HE_AtlasNeeds>需要：{0}</HE_AtlasNeeds>
+  <HE_AtlasNeedsBench>需要一台{0}</HE_AtlasNeedsBench>
+  <HE_AtlasLocked>尚不可用</HE_AtlasLocked>
+  <HE_TabEncyclopedia>百科全书</HE_TabEncyclopedia>
+  <HE_EncyclopediaIntro>每个继承者国家的一切都在一页上：它的故事、邻国、建筑、武器、服装、食物、传统和传说。点击任意条目可打开其完整信息卡。</HE_EncyclopediaIntro>
+  <HE_EncyclopediaGone>这个国家已经灭亡</HE_EncyclopediaGone>
+  <HE_EncyclopediaRelations>与你的关系{0}（{1}）</HE_EncyclopediaRelations>
+  <HE_EncyclopediaProgress>你的知识：{0} · 研究已完成{1} / {2} {3}</HE_EncyclopediaProgress>
+  <HE_EncyclopediaNeighbours>朋友与对手</HE_EncyclopediaNeighbours>
+  <HE_EncyclopediaFriends>天然的朋友：{0}
+宿敌：{1}</HE_EncyclopediaFriends>
+  <HE_EncyclopediaHowTo>如何向他们学习：与他们的商队交易并访问他们的城镇，开通一条贸易之路，在文化研究台研究{0}物品，接纳{0}殖民者作为老师，回应他们的使节，并在知识足够高时跟随他们的故事。你帮助他们时，他们的朋友会对你更有好感；他们的对手则不会。</HE_EncyclopediaHowTo>
+  <HE_EncyclopediaBuilding>建筑（{0}）</HE_EncyclopediaBuilding>
+  <HE_EncyclopediaWeapon>武器（{0}）</HE_EncyclopediaWeapon>
+  <HE_EncyclopediaApparel>服装与护甲（{0}）</HE_EncyclopediaApparel>
+  <HE_EncyclopediaFood>食物与饮品（{0}）</HE_EncyclopediaFood>
+  <HE_EncyclopediaItem>货物与珍宝（{0}）</HE_EncyclopediaItem>
+  <HE_EncyclopediaFloor>地板（{0}）</HE_EncyclopediaFloor>
+  <HE_EncyclopediaTraditions>传统（{0}）</HE_EncyclopediaTraditions>
+  <HE_EncyclopediaStories>故事与传奇作品</HE_EncyclopediaStories>
+  <HE_EncyclopediaChainOn>进行中（见故事）</HE_EncyclopediaChainOn>
+  <HE_EncyclopediaInfoTip>点击查看完整信息卡。</HE_EncyclopediaInfoTip>
+  <HE_SettingsPresets>难度预设（一次性设置下面的滑块）：</HE_SettingsPresets>
+  <HE_SettingsPreset0>轻松</HE_SettingsPreset0>
+  <HE_SettingsPreset1>标准</HE_SettingsPreset1>
+  <HE_SettingsPreset2>困难</HE_SettingsPreset2>
+  <HE_SettingsTributeDemand>各国索要的白银：{0}</HE_SettingsTributeDemand>
+  <HE_DoctrineLetter>战争学说：{0}。{1}</HE_DoctrineLetter>
+  <HE_SettingsDoctrines>各国以其战争学说发动袭击</HE_SettingsDoctrines>
+  <HE_SettingsDoctrinesTip>每个继承者国家都偏好自己的袭击计划和到达方式，其袭击者以一种操练方式作战（例如罗马的龟甲阵或希腊的方阵）。关闭：继承者的袭击与原版袭击相同。</HE_SettingsDoctrinesTip>
+  <HE_AtlasDoctrine>战争学说</HE_AtlasDoctrine>
+  <HE_AtlasAnimal>驮兽与畜群动物</HE_AtlasAnimal>
+  <HE_TemperamentWarlike>好战</HE_TemperamentWarlike>
+  <HE_TemperamentWarlikeDesc>与对手寻衅，索要多一半的贡品，并提供防御同盟。</HE_TemperamentWarlikeDesc>
+  <HE_TemperamentMercantile>重商</HE_TemperamentMercantile>
+  <HE_TemperamentMercantileDesc>对每个国家都友好，提供贸易条约，喜欢举办大型集市。</HE_TemperamentMercantileDesc>
+  <HE_TemperamentScholarly>好学</HE_TemperamentScholarly>
+  <HE_TemperamentScholarlyDesc>慷慨分享学问（从该国获得的文化知识多四分之一），并提供科学交流。</HE_TemperamentScholarlyDesc>
+  <HE_TemperamentPious>虔诚</HE_TemperamentPious>
+  <HE_TemperamentPiousDesc>恪守节庆，可能举办竞技会，并提供和平条约。</HE_TemperamentPiousDesc>
+  <HE_TemperamentCautious>谨慎</HE_TemperamentCautious>
+  <HE_TemperamentCautiousDesc>常常避免战争，对他人慢慢热络，并提供和平条约。</HE_TemperamentCautiousDesc>
+  <HE_EpithetWarlike>勇者</HE_EpithetWarlike>
+  <HE_EpithetMercantile>富者</HE_EpithetMercantile>
+  <HE_EpithetScholarly>智者</HE_EpithetScholarly>
+  <HE_EpithetPious>虔者</HE_EpithetPious>
+  <HE_EpithetCautious>慎者</HE_EpithetCautious>
+  <HE_RulerLine>{0}{1}，{2}</HE_RulerLine>
+  <HE_ReignYears>已在位{0}年。</HE_ReignYears>
+  <HE_AtlasRuler>统治者</HE_AtlasRuler>
+  <HE_SuccessionLabel>{0}的新统治者</HE_SuccessionLabel>
+  <HE_SuccessionText>{1}的统治结束了：{0}的王冠传给了{2}。
+
+新统治者{3}
+
+新统治者可能会重新审视与你签订的条约，对手们也可能会试探这个年轻的政权。</HE_SuccessionText>
+  <HE_SuccessionChronicle>{0}现在统治着{1}。</HE_SuccessionChronicle>
+  <HE_SuccessionMessage>{0}现在统治着{1}。</HE_SuccessionMessage>
+  <HE_CourtsHeading>宫廷与条约</HE_CourtsHeading>
+  <HE_CourtsIntro>每个国家都由一位统治者治理，其性情决定了宫廷会提供什么、索要什么。以一份白银礼物签订条约；统治者也可能免费提出一份条约。你在一个国家的头衔随好感度和条约而提升。</HE_CourtsIntro>
+  <HE_EmbassyYes>你有一座使馆：可以进行科学交流和防御同盟，每个与你订有条约的国家每月都会对你多一分好感。</HE_EmbassyYes>
+  <HE_EmbassyNo>建造一座使馆（研究：使馆）以进行科学交流和防御同盟。</HE_EmbassyNo>
+  <HE_TreatyPeace>和平</HE_TreatyPeace>
+  <HE_TreatyPeaceDesc>该国不会向你索要贡品，其好感度每月会略微提升。</HE_TreatyPeaceDesc>
+  <HE_TreatyTrade>贸易</HE_TreatyTrade>
+  <HE_TreatyTradeDesc>该国的一支贸易商队大约每二十天访问一次你的殖民地。</HE_TreatyTradeDesc>
+  <HE_TreatyScience>科学</HE_TreatyScience>
+  <HE_TreatyScienceDesc>学者互访：你每月获得该国的8点文化知识。</HE_TreatyScienceDesc>
+  <HE_TreatyAlliance>同盟</HE_TreatyAlliance>
+  <HE_TreatyAllianceDesc>防御同盟：当袭击者攻击你的家园时，该国常常会派战士来帮忙（最多每十天一次）。</HE_TreatyAllianceDesc>
+  <HE_TreatyFee>一份{0}白银的礼物即可缔结。需要至少{1}好感度。</HE_TreatyFee>
+  <HE_TreatyNeedsEmbassy>需要你的殖民地中有一座使馆。</HE_TreatyNeedsEmbassy>
+  <HE_TreatyClickCancel>点击取消此条约。</HE_TreatyClickCancel>
+  <HE_TreatyCancelConfirm>取消与{1}的{0}条约？他们对你的好感度会降低{2}，其他每个国家{3}：背弃誓言的消息传得很快。</HE_TreatyCancelConfirm>
+  <HE_TreatyNoNation>这个国家已不复存在。</HE_TreatyNoNation>
+  <HE_TreatyAlready>已经签订。</HE_TreatyAlready>
+  <HE_TreatyHostile>{0}对你敌对。</HE_TreatyHostile>
+  <HE_TreatyGoodwill>需要至少{0}好感度。</HE_TreatyGoodwill>
+  <HE_TreatyEmbassy>需要你的殖民地中有一座使馆。</HE_TreatyEmbassy>
+  <HE_TreatySigned>与{1}签订了一份{0}条约。</HE_TreatySigned>
+  <HE_TreatyEnded>与{1}的{0}条约已被取消。</HE_TreatyEnded>
+  <HE_TreatyVoid>他们转为敌对后，与{1}的{0}条约失效了。</HE_TreatyVoid>
+  <HE_TreatyRevoked>{1}的新统治者废除了{0}条约。</HE_TreatyRevoked>
+  <HE_TreatyVoidLabel>与{0}的条约失效</HE_TreatyVoidLabel>
+  <HE_TreatyVoidText>{0}已对你转为敌对。你与他们订立的所有条约都失效了。</HE_TreatyVoidText>
+  <HE_TreatyRevokedLabel>{0}废除了一份条约</HE_TreatyRevokedLabel>
+  <HE_TreatyRevokedText>{0}不认可旧宫廷的协议：与{2}的{1}条约被废除了。
+
+重新赢得他们的好感，你就可以再次签订。</HE_TreatyRevokedText>
+  <HE_TreatyOfferLabel>{0}提出一份{1}条约</HE_TreatyOfferLabel>
+  <HE_TreatyOfferText>{1}的{0}送来一封密封的信，提出一份{2}条约，且无需惯常的礼物。
+
+{3}</HE_TreatyOfferText>
+  <HE_TreatyOfferAccept>签订{0}条约</HE_TreatyOfferAccept>
+  <HE_TreatyOfferRefuse>谢绝</HE_TreatyOfferRefuse>
+  <HE_AllyAnswers>{0}履行了同盟：它的战士正在赶来帮助你。</HE_AllyAnswers>
+  <HE_YourTitle>你的地位：{0}</HE_YourTitle>
+  <HE_Title0>陌生人</HE_Title0>
+  <HE_Title1>客人</HE_Title1>
+  <HE_Title2>朋友</HE_Title2>
+  <HE_Title3>尊贵的朋友</HE_Title3>
+  <HE_TitleTip>客人：好感度0或以上。朋友：40或以上。尊贵的朋友：60或以上并有两份条约。该国自己的最高荣誉（{0}）：80或以上、一份防御同盟和一座使馆；每月带来{1}点文化知识。</HE_TitleTip>
+  <HE_HonourLabel>受{0}表彰</HE_HonourLabel>
+  <HE_HonourText>{1}的{0}在整个宫廷面前宣布你的殖民地为{2}。从现在起，他们的学者每月与你分享{3}点文化知识。</HE_HonourText>
+  <HE_HonourChronicle>殖民地被{1}授予{0}称号。</HE_HonourChronicle>
+  <HE_SettingsWorldEvents>国家之间的世界事件</HE_SettingsWorldEvents>
+  <HE_SettingsWorldEventsTip>继承者国家中的竞技会、大型集市、饥荒和瘟疫，其中一些会请求你的帮助。</HE_SettingsWorldEventsTip>
+  <HE_GamesLabel>{0}竞技会</HE_GamesLabel>
+  <HE_GamesText>{1}邀请每个国家参加{0}竞技会：赛跑、摔跤和射箭，在来自全世界的观众面前进行。
+
+你最好的战士{2}（技能{3}）可以代表殖民地参赛。获胜几率：{4}。
+
+获胜会让每个国家都对你更有好感；即使只是参加也会让东道主高兴。</HE_GamesText>
+  <HE_GamesAccept>派{1}参赛</HE_GamesAccept>
+  <HE_GamesRefuse>留在家中</HE_GamesRefuse>
+  <HE_GamesMissing>无法参赛。</HE_GamesMissing>
+  <HE_GamesNoChampion>冠军无法出行。</HE_GamesNoChampion>
+  <HE_GamesWonLabel>{0}赢得竞技会</HE_GamesWonLabel>
+  <HE_GamesWon>{0}赢得了{1}竞技会。全世界现在都知道你殖民地的名字了。</HE_GamesWon>
+  <HE_GamesLost>{0}在{1}竞技会上表现出色，但没有获胜。</HE_GamesLost>
+  <HE_FairLabel>{0}大型集市</HE_FairLabel>
+  <HE_FairText>{1}举办了一场大型集市，全世界的商人纷纷上路。在接下来的几天里，{2}的商队将经过你的殖民地。</HE_FairText>
+  <HE_FairChronicle>{0}举办了一场大型集市。</HE_FairChronicle>
+  <HE_FamineLabel>{0}发生饥荒</HE_FamineLabel>
+  <HE_FamineText>{0}歉收了，{1}向每位朋友求援粮食。你能拿出相当于{2}营养的食物吗（大约{2}份简单套餐）？</HE_FamineText>
+  <HE_FamineAccept>送出相当于{0}营养的食物</HE_FamineAccept>
+  <HE_FamineRefuse>我们没有多余的</HE_FamineRefuse>
+  <HE_FamineMissing>你没有{0}营养的食物。</HE_FamineMissing>
+  <HE_FamineHelped>殖民地在饥荒中向{0}送去了粮食。</HE_FamineHelped>
+  <HE_PlagueLabel>{0}发生瘟疫</HE_PlagueLabel>
+  <HE_PlagueText>一场瘟疫正在{0}蔓延。{1}请求{2}份药品。
+
+如果你与他们有贸易往来，无论你如何回答，疾病都可能沿着你的道路传来。</HE_PlagueText>
+  <HE_PlagueAccept>送出{0}份药品</HE_PlagueAccept>
+  <HE_PlagueRefuse>留着我们的药品</HE_PlagueRefuse>
+  <HE_PlagueMissing>你没有{0}份药品。</HE_PlagueMissing>
+  <HE_PlagueHelped>殖民地在瘟疫中向{0}送去了药品。</HE_PlagueHelped>
+  <HE_PlagueSpreads>{0}的瘟疫沿着贸易之路传播：疾病可能在几天内抵达殖民地。</HE_PlagueSpreads>
+  <HE_BookBenefit>{0}文化知识：每小时阅读{1}，最多{2}</HE_BookBenefit>
+  <HE_BookLearned>你的殖民地已经知道这本书能教的一切</HE_BookLearned>
+  <HE_Book_Roma_Annals_Title>新罗马编年纪</HE_Book_Roma_Annals_Title>
+  <HE_Book_Roma_Annals_Desc>大祭司们按年份和执政官记录的城市历史：它在废墟中的建立、它的战争、它的法律，以及每件事之前出现的征兆。</HE_Book_Roma_Annals_Desc>
+  <HE_Book_Roma_Building_Title>建筑十书</HE_Book_Roma_Building_Title>
+  <HE_Book_Roma_Building_Desc>一部工程师关于道路、引水渠、浴场和优质混凝土秘诀的论著。一半是数学；另一半是对懒惰石匠的抱怨。</HE_Book_Roma_Building_Desc>
+  <HE_Book_Yamato_BrushBlade_Title>笔与刀</HE_Book_Yamato_BrushBlade_Title>
+  <HE_Book_Yamato_BrushBlade_Desc>一位同时也是书法家的剑客写的短文。他写道，一笔墨和一刀斩是以同样的方式学会的：一万次，然后一次。</HE_Book_Yamato_BrushBlade_Desc>
+  <HE_Book_Yamato_TeaDiary_Title>堺茶人日记</HE_Book_Yamato_TeaDiary_Title>
+  <HE_Book_Yamato_TeaDiary_Desc>三代茶道师记下了这本日记：客人、茶碗、壁龛里的花，以及堺的商人们在茶釜旁的低语。</HE_Book_Yamato_TeaDiary_Desc>
+  <HE_Book_Nord_FirstJarl_Title>第一位雅尔的萨迦</HE_Book_Nord_FirstJarl_Title>
+  <HE_Book_Nord_FirstJarl_Desc>第一位雅尔如何带领他的人民越过冰原，打破霜巨人对峡湾的控制，并与他的号角一同下葬。吟游诗人们至今仍在争论哪些部分是真的。</HE_Book_Nord_FirstJarl_Desc>
+  <HE_Book_Nord_LongWinter_Title>长冬之歌</HE_Book_Nord_LongWinter_Title>
+  <HE_Book_Nord_LongWinter_Desc>一首关于持续了三年的冬天的长诗：谁分享了食物，谁没有，以及那些团结一心的大厅如何成为春天时唯一仍然屹立的大厅。</HE_Book_Nord_LongWinter_Desc>
+  <HE_Book_Hellas_Dialogues_Title>学园对话录</HE_Book_Hellas_Dialogues_Title>
+  <HE_Book_Hellas_Dialogues_Desc>一位老师和他的学生们在一棵橄榄树下争论正义、勇气，以及一座城邦能否由最有智慧的人治理。没有人赢，但人人都学到了东西。</HE_Book_Hellas_Dialogues_Desc>
+  <HE_Book_Hellas_Elements_Title>几何原本</HE_Book_Hellas_Elements_Title>
+  <HE_Book_Hellas_Elements_Desc>从五条简单的真理出发，一行一行地证明整个几何学。同盟的建筑师、航海家和天文学家都是从这本书的抄本中学习的。</HE_Book_Hellas_Elements_Desc>
+  <HE_Book_Tianxia_Analects_Title>科场论语</HE_Book_Tianxia_Analects_Title>
+  <HE_Book_Tianxia_Analects_Desc>古代先师的言论，每位科举考生都要背诵：论孝道，论礼，论君子耻其言而过其行。</HE_Book_Tianxia_Analects_Desc>
+  <HE_Book_Tianxia_Strategy_Title>兵法十三篇</HE_Book_Tianxia_Strategy_Title>
+  <HE_Book_Tianxia_Strategy_Desc>一位将军论战争、间谍、地形和火攻的十三篇。它的第一课是：最好的胜利是无需一战的胜利。</HE_Book_Tianxia_Strategy_Desc>
+  <HE_Book_Albion_Almanac_Title>联邦年鉴</HE_Book_Albion_Almanac_Title>
+  <HE_Book_Albion_Almanac_Desc>潮汐、节日、作物价格、月相和上百个实用配方，自联邦第一批印刷机以来每年印刷。</HE_Book_Albion_Almanac_Desc>
+  <HE_Book_Albion_Steam_Title>蒸汽机论</HE_Book_Albion_Steam_Title>
+  <HE_Book_Albion_Steam_Desc>汽缸、阀门、锅炉和煤的算术，附有雕版插图。作者不止一次警告：永远不要把安全阀绑死。</HE_Book_Albion_Steam_Desc>
+  <HE_Book_Kemet_Instructions_Title>书吏箴言</HE_Book_Kemet_Instructions_Title>
+  <HE_Book_Kemet_Instructions_Desc>一位老书吏对儿子的忠告：要有耐心，账目要诚实，在大人物的餐桌旁少说话，永远不要忘记书吏是不必扛重担的人。</HE_Book_Kemet_Instructions_Desc>
+  <HE_Book_Kemet_SecondSunrise_Title>第二次日出之书</HE_Book_Kemet_SecondSunrise_Title>
+  <HE_Book_Kemet_SecondSunrise_Desc>太阳祭司的赞美诗和历法，写于凯美特从沙中再次崛起之时：何时播种，河水何时上涨，以及对黎明该说些什么。</HE_Book_Kemet_SecondSunrise_Desc>
+  <HE_Book_Pars_Garden_Title>花园诗集</HE_Book_Pars_Garden_Title>
+  <HE_Book_Pars_Garden_Desc>关于玫瑰、美酒、友谊和人生短暂的四行诗，由一位同时也是出色园丁的诗人写在园丁账本的页边。</HE_Book_Pars_Garden_Desc>
+  <HE_Book_Pars_KingsRoad_Title>御道之书</HE_Book_Pars_KingsRoad_Title>
+  <HE_Book_Pars_KingsRoad_Desc>总督们的大道上每一座驿站、水井、桥梁和商队客栈，以及它们之间的距离和看守它们的人的名字。</HE_Book_Pars_KingsRoad_Desc>
+  <HE_Book_Inti_Harvests_Title>丰收结绳</HE_Book_Inti_Harvests_Title>
+  <HE_Book_Inti_Harvests_Desc>记录一整个山谷五十年收成的结绳：玉米、土豆、藜麦、丰年与歉年。结绳官能像读书一样读它。</HE_Book_Inti_Harvests_Desc>
+  <HE_Book_Inti_SunSongs_Title>太阳之歌结绳</HE_Book_Inti_SunSongs_Title>
+  <HE_Book_Inti_SunSongs_Desc>太阳节上唱的歌，保存在彩色绳子里。结绳官们说，绳结记录歌词，颜色记录旋律。</HE_Book_Inti_SunSongs_Desc>
+  <HE_Book_Roma_FoundersCodex_Title>开国者法典</HE_Book_Roma_FoundersCodex_Title>
+  <HE_Book_Roma_FoundersCodex_Desc>开国者亲笔写下的新罗马法律，由你的书吏从烧焦的原本誊抄而成。阅读它能学到最深奥的罗马知识，每一页都在提醒读者，这座城市为何值得建立。</HE_Book_Roma_FoundersCodex_Desc>
+  <HE_Book_Yamato_EightIslands_Title>八岛编年史</HE_Book_Yamato_EightIslands_Title>
+  <HE_Book_Yamato_EightIslands_Desc>从第一代天皇到火之夜的大和历史，出自宫廷最后一位史官之手，由你的书吏抄录。据说读过它的人，没有一个是不光彩地结束一生的。</HE_Book_Yamato_EightIslands_Desc>
+  <HE_Book_Nord_Edda_Title>诺德海姆埃达</HE_Book_Nord_Edda_Title>
+  <HE_Book_Nord_Edda_Desc>诺德海姆的每一部萨迦，从第一位雅尔到长冬，从最后一位吟游诗人的记忆中收集，由你的雕刻师刻在木板上。读过它的吟游诗人可以唱上一年而不重复一句。</HE_Book_Nord_Edda_Desc>
+  <HE_Book_Hellas_LongVoyage_Title>远航之歌</HE_Book_Hellas_LongVoyage_Title>
+  <HE_Book_Hellas_LongVoyage_Desc>同盟失落的史诗：第一批殖民者跨越死海，前往希腊重生之岛的航程。二十四卷六步格诗，从图书馆最后一卷卷轴中复原。</HE_Book_Hellas_LongVoyage_Desc>
+  <HE_Book_Tianxia_HeavenlyCourt_Title>天朝实录</HE_Book_Tianxia_HeavenlyCourt_Title>
+  <HE_Book_Tianxia_HeavenlyCourt_Desc>诸朝的真实历史，由一位不肯为取悦皇帝而改动一字的太史令撰写，由你的书吏抄录。天下的官员与上司意见不合时至今仍会引用它。</HE_Book_Tianxia_HeavenlyCourt_Desc>
+  <HE_Book_Albion_GreatCharter_Title>大宪章</HE_Book_Albion_GreatCharter_Title>
+  <HE_Book_Albion_GreatCharter_Desc>联邦自由的宪章，从行会签署的原件誊抄而成。每位读者都会了解自由臣民的权利，以及为之付出的代价。</HE_Book_Albion_GreatCharter_Desc>
+  <HE_Book_Kemet_ComingForth_Title>往生之书</HE_Book_Kemet_ComingForth_Title>
+  <HE_Book_Kemet_ComingForth_Desc>凯美特祭司的伟大经书：引导死者度过黑夜的咒语、各道门的名字，以及打开它们的话语。你的书吏从陵墓自己的卷轴上抄录了它。</HE_Book_Kemet_ComingForth_Desc>
+  <HE_Book_Pars_BookOfKings_Title>列王纪</HE_Book_Pars_BookOfKings_Title>
+  <HE_Book_Pars_BookOfKings_Desc>五万联对句，讲述帕尔斯的国王和英雄，从第一把火到最后一位总督，由一位老诗人在路上完成，由你的书吏抄录。帕尔斯的每个孩子都能背诵其中的一些。</HE_Book_Pars_BookOfKings_Desc>
+  <HE_Book_Inti_RoyalKhipu_Title>王家结绳</HE_Book_Inti_RoyalKhipu_Title>
+  <HE_Book_Inti_RoyalKhipu_Desc>太阳帝国的大普查：每一座山谷、每一座仓库、每一户人家和每一首歌，记录在一个大到能装满一个箱子的结绳里。你的结绳官从原件重新系结了它。</HE_Book_Inti_RoyalKhipu_Desc>
+  <HE_ChainAfter>在故事“{0}”完成后开始。</HE_ChainAfter>
+  <HE_ErrandLabel>{0}请求帮忙</HE_ErrandLabel>
+  <HE_ErrandSupplyText>{1}从{0}传来消息：仓库短缺，该国的一位朋友可以帮上忙。
+
+需要：{2}，期限{3}天。
+报酬：{4}白银、{5}点{0}文化知识和好感度。
+
+已接受的差事在继承者页签的故事页面中，在那里交付。</HE_ErrandSupplyText>
+  <HE_ErrandCraftText>{1}从{0}想要一件由外国人之手制作的、该国本土工艺的精品，作为献给宫廷的礼物。
+
+需要：{2}，期限{3}天。
+报酬：{4}白银、{5}点{0}文化知识和好感度。
+
+已接受的差事在继承者页签的故事页面中，在那里交付。</HE_ErrandCraftText>
+  <HE_ErrandLoreText>{1}从{0}希望阅读另一个国家的智慧，请你找一份抄本。
+
+需要：{2}，期限{3}天。写这本书的国家通过其商队和定居点出售它的书。
+报酬：{4}白银、{5}点{0}文化知识和好感度。
+
+已接受的差事在继承者页签的故事页面中，在那里交付。</HE_ErrandLoreText>
+  <HE_ErrandWantCraft>{1}或更好品质的{0}</HE_ErrandWantCraft>
+  <HE_ErrandAccept>接受差事</HE_ErrandAccept>
+  <HE_ErrandRefuse>婉言拒绝</HE_ErrandRefuse>
+  <HE_ErrandTooMany>你已经有{0}个差事了</HE_ErrandTooMany>
+  <HE_ErrandDone>{0}感谢你的帮忙：{1}白银和{2}点文化知识。</HE_ErrandDone>
+  <HE_ErrandFailed>你没有给{0}带来你承诺的东西（{1}）。他们会记住的。</HE_ErrandFailed>
+  <HE_ErrandsHeading>差事</HE_ErrandsHeading>
+  <HE_ErrandsNone>没有差事。友好的国家会不时通过书信请你帮些小忙。迄今完成的差事：{0}。</HE_ErrandsNone>
+  <HE_ErrandLine>{0}：{1}（剩余{2}天；{3}白银，{4}知识）</HE_ErrandLine>
+  <HE_ErrandReady>你什么都有了：现在交付。</HE_ErrandReady>
+  <HE_ErrandMissing>你家中的储存区还不够（禁用的物品不算在内）。</HE_ErrandMissing>
+  <HE_SettingsNationMusic>各国的音乐和号声</HE_SettingsNationMusic>
+  <HE_SettingsNationMusicTip>每个国家都有自己的音乐和一段简短的号声。它的消息到达时会响起号声；它的某个故事结束或它表彰你时会播放它的音乐，平时也会不时地出现在常规歌曲之中（你的传承，以及表彰过你的国家）。所有这些都是为这个模组创作的。</HE_SettingsNationMusicTip>
+  <HE_SettingsNationActive>{0}参与世界</HE_SettingsNationActive>
+  <HE_SettingsNationActiveTip>关闭后，该国保留其派系、城镇、物品和研究，但不会被添加到缺少它的存档中，不开始故事，不派出差事或信件，不播放音乐，并离开世界政治。在使用许多派系模组时很有用。</HE_SettingsNationActiveTip>
+  <HE_Age1>建国时代</HE_Age1>
+  <HE_Age2>火药时代</HE_Age2>
+  <HE_Age3>蒸汽时代</HE_Age3>
+  <HE_AgeLabel>{0}：{1}</HE_AgeLabel>
+  <HE_AgeText2>{0}进入了火药时代。
+
+{1}开设了兵工厂和火药坊。从现在起，他们的部队携带火器，他们的商人出售火器，即使{0}不是你的传承，你的殖民地也可以研究它们。
+
+新增：{2}。</HE_AgeText2>
+  <HE_AgeText3>{0}进入了蒸汽时代。
+
+{1}建起了工厂，组建了一支穿制服的新军队。他们的部队现在携带后装步枪，穿着国家军服，他们的商人两者都出售，你的殖民地也可以研究它们。
+
+新增：{2}。</HE_AgeText3>
+  <HE_AgeChronicle>{0}进入了{1}。</HE_AgeChronicle>
+  <HE_AgeRateBase>稳步发展</HE_AgeRateBase>
+  <HE_AgeRateScholarly>好学的统治者</HE_AgeRateScholarly>
+  <HE_AgeRateAllies>盟友</HE_AgeRateAllies>
+  <HE_AgeRateWar>战争中</HE_AgeRateWar>
+  <HE_AgeRateScience>与你的科学条约</HE_AgeRateScience>
+  <HE_AgeRateTrade>与你的贸易联系</HE_AgeRateTrade>
+  <HE_AgeRateTowns>城镇众多</HE_AgeRateTowns>
+  <HE_AgesHeading>各国的时代</HE_AgesHeading>
+  <HE_AgesIntro>随着岁月流逝，每个国家都会从建国时代经过火药时代和蒸汽时代，进入电气时代。每个新时代都会用该国自己的枪械武装其部队，从蒸汽时代起还会让他们穿上其制服。它的商人出售这些物品，一旦该国进入了那个时代，你就可以研究它们。和平、盟友、条约以及与你的贸易会加速一个国家的发展；战争、饥荒和瘟疫会拖慢它。将鼠标悬停在一个国家上可查看原因。</HE_AgesIntro>
+  <HE_AgesOff>时代已在模组设置中关闭：每个国家保留其旧武器，每件物品都可以像以前一样研究。</HE_AgesOff>
+  <HE_AgesLast>最后的时代</HE_AgesLast>
+  <HE_AgesToward>迈向{0}的进度：{1}</HE_AgesToward>
+  <HE_AgesPace>速度：通常速度的{0}。</HE_AgesPace>
+  <HE_AgesItems>其各时代的武器和制服：{0}</HE_AgesItems>
+  <HE_AtlasAge>时代</HE_AtlasAge>
+  <HE_NeedAge>{0}尚未进入{1}。</HE_NeedAge>
+  <HE_SettingsFourthSpeed>第四档游戏速度按钮</HE_SettingsFourthSpeed>
+  <HE_SettingsFourthSpeedTip>在其他三个速度按钮旁添加第四个速度按钮（游戏最快的速度，通常是隐藏的）。默认快捷键为4，可以在键盘设置中更改。</HE_SettingsFourthSpeedTip>
+  <HE_SpeedFourthTip>最快速度。当有事情需要你注意时，它会像第三档速度一样自动减速。</HE_SpeedFourthTip>
+  <HE_SettingsAges>进步时代</HE_SettingsAges>
+  <HE_SettingsAgesTip>各国会经历建国、火药、蒸汽和电气时代，获得新的枪械和制服。关闭以让各国保持4.2版本之前的样子。</HE_SettingsAgesTip>
+  <HE_SettingsAgeSpeed>时代进展速度：{0}</HE_SettingsAgeSpeed>
+  <HE_Age4>电气时代</HE_Age4>
+  <HE_AgeText4>{0}进入了电气时代。
+
+{1}在其土地上架设电线，点亮了它的城市。它的新军队携带机器制造的枪械，戴钢盔、穿野战军服，它的商人出售这些物品，你的殖民地可以研究它们以及该国的电气工程。
+
+新增：{2}。</HE_AgeText4>
+  <HE_TelegraphNext>下一批电报在{0}后发送。</HE_TelegraphNext>
+  <HE_TelegraphSent>电报局发送了问候：与{1}的好感度+{0}。</HE_TelegraphSent>
+  <HE_WorldFairLabel>{0}世界博览会</HE_WorldFairLabel>
+  <HE_WorldFairText>{1}以一场世界博览会庆祝电气时代：玻璃与钢铁建成的大厅被成千上万只灯泡照亮，每个国家都在那里展示自己最好的作品。
+
+你的殖民地受邀送去一件展品。{2}
+
+展品前往博览会，大约{3}天后通过空投舱返回，并带回一份随品质提升的奖品。杰作或传奇作品可以赢得大奖。拒绝会让东道主略感不快。</HE_WorldFairText>
+  <HE_WorldFairExhibit>你最好的作品是{0}（{1}）。</HE_WorldFairExhibit>
+  <HE_WorldFairNothing>殖民地还没有可以送去的有品质的艺术品、武器或书籍。</HE_WorldFairNothing>
+  <HE_WorldFairAccept>送出{1}</HE_WorldFairAccept>
+  <HE_WorldFairRefuse>谢绝</HE_WorldFairRefuse>
+  <HE_WorldFairMissing>没有可以展出的东西。</HE_WorldFairMissing>
+  <HE_WorldFairSent>{0}正在前往{1}世界博览会的路上。</HE_WorldFairSent>
+  <HE_WorldFairBackLabel>从{0}世界博览会归来</HE_WorldFairBackLabel>
+  <HE_WorldFairBack>{0}从{1}世界博览会归来了。它被评为{2}，带回了{6}白银、与东道主的好感度+{3}、与其他每个和平国家的好感度+{4}，以及{5}点{1}知识。</HE_WorldFairBack>
+  <HE_WorldFairGrandPrize>{0}赢得了{1}世界博览会的大奖：与每个和平国家的好感度再+{2}。</HE_WorldFairGrandPrize>
+</LanguageData>

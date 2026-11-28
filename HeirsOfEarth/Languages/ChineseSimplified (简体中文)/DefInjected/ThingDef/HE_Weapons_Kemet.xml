@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Spear.label>河岸长矛</HE_Kemet_Spear.label>
+  <HE_Kemet_Spear.description>一支金合欢木轻矛，带有莲叶形的銎式青铜矛头。</HE_Kemet_Spear.description>
+  <HE_Kemet_Spear.tools.0.label>矛杆</HE_Kemet_Spear.tools.0.label>
+  <HE_Kemet_Spear.tools.1.label>剑尖</HE_Kemet_Spear.tools.1.label>
+  <HE_Kemet_Khopesh.label>镰形剑</HE_Kemet_Khopesh.label>
+  <HE_Kemet_Khopesh.description>一把青铜色的镰形剑，弯曲的外刃咬合如斧，钩部能把盾牌和长矛拨开。</HE_Kemet_Khopesh.description>
+  <HE_Kemet_Khopesh.tools.0.label>剑柄</HE_Kemet_Khopesh.tools.0.label>
+  <HE_Kemet_Khopesh.tools.1.label>剑刃</HE_Kemet_Khopesh.tools.1.label>
+  <HE_Kemet_Khopesh.tools.2.label>尖刺</HE_Kemet_Khopesh.tools.2.label>
+  <HE_Kemet_CompositeBow.label>复合弓</HE_Kemet_CompositeBow.label>
+  <HE_Kemet_CompositeBow.description>一张以角、木和筋腱制成的短角弓，绘有莲花纹带。战车兵在移动的平台上用它射击。</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_CompositeBow.tools.0.label>弩臂</HE_Kemet_CompositeBow.tools.0.label>
+  <HE_Kemet_DesertRifle.label>沙漠步枪</HE_Kemet_DesertRifle.label>
+  <HE_Kemet_DesertRifle.description>一支细长的步枪，配铜箍枪托，枪机上刻着一只猎鹰。瞄准缓慢，但在开阔地上致命。</HE_Kemet_DesertRifle.description>
+  <HE_Kemet_DesertRifle.tools.0.label>枪托</HE_Kemet_DesertRifle.tools.0.label>
+  <HE_Kemet_DesertRifle.tools.1.label>枪管</HE_Kemet_DesertRifle.tools.1.label>
+  <HE_Kemet_Hedj.label>赫杰权杖锤</HE_Kemet_Hedj.label>
+  <HE_Kemet_Hedj.description>金箍长柄上一个梨形的白石锤头。在最古老的雕刻中，国王将它高举在敌人头顶。</HE_Kemet_Hedj.description>
+  <HE_Kemet_Hedj.tools.0.label>剑柄</HE_Kemet_Hedj.tools.0.label>
+  <HE_Kemet_Hedj.tools.1.label>锤头</HE_Kemet_Hedj.tools.1.label>
+  <HE_Kemet_Musket.label>凯美特滑膛枪</HE_Kemet_Musket.label>
+  <HE_Kemet_Musket.description>一支铜箍长滑膛枪，枪托镶嵌绿松石，枪托底部饰有莲花。产自大河的兵工厂，长枪管比大多数滑膛枪射得更远。</HE_Kemet_Musket.description>
+  <HE_Kemet_Musket.tools.0.label>枪托</HE_Kemet_Musket.tools.0.label>
+  <HE_Kemet_Musket.tools.1.label>枪管</HE_Kemet_Musket.tools.1.label>
+  <HE_Kemet_NileCarbine.label>尼罗卡宾枪</HE_Kemet_NileCarbine.label>
+  <HE_Kemet_NileCarbine.description>一支同类中枪管较长的卡宾枪，配铜箍枪托，托底板上饰有莲花。它比其他卡宾枪射得更远，结构设计能在沙中保持清洁。</HE_Kemet_NileCarbine.description>
+  <HE_Kemet_NileCarbine.tools.0.label>枪托</HE_Kemet_NileCarbine.tools.0.label>
+  <HE_Kemet_NileCarbine.tools.1.label>枪管</HE_Kemet_NileCarbine.tools.1.label>
+</LanguageData>

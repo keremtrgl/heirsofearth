@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Dory.label>长矛</HE_Hellas_Dory.label>
+  <HE_Hellas_Dory.description>重装步兵的长刺矛，带有叶形矛头和青铜尾刺。
+
+除非这是你的传承，否则需要5点希腊知识。</HE_Hellas_Dory.description>
+  <HE_Hellas_Toxon.label>反曲弓</HE_Hellas_Toxon.label>
+  <HE_Hellas_Toxon.description>斯基泰式反曲弓，短到可以在盾墙后使用。
+
+除非这是你的传承，否则需要5点希腊知识。</HE_Hellas_Toxon.description>
+  <HE_Hellas_Meander.label>回纹地板</HE_Hellas_Meander.label>
+  <HE_Hellas_Meander.description>铺设浅色石材地板，以古老神庙那种无尽的回纹图案镶边。
+
+除非这是你的传承，否则需要5点希腊知识。</HE_Hellas_Meander.description>
+  <HE_Hellas_Chiton.label>希顿长衣</HE_Hellas_Chiton.label>
+  <HE_Hellas_Chiton.description>缝制从集市到体育馆每个公民都穿的轻便别针束腰外衣。
+
+除非这是你的传承，否则需要5点希腊知识。</HE_Hellas_Chiton.description>
+  <HE_Hellas_Maza.label>大麦饼</HE_Hellas_Maza.label>
+  <HE_Hellas_Maza.description>用橄榄油和蜂蜜揉成的大麦饼：让重装步兵坚持行军的朴素食物。
+
+除非这是你的传承，否则需要5点希腊知识。</HE_Hellas_Maza.description>
+  <HE_Hellas_Columns.label>凹槽柱</HE_Hellas_Columns.label>
+  <HE_Hellas_Columns.description>雕刻凹槽柱，并在柱顶立起城邦英雄的雕像。
+
+除非这是你的传承，否则需要5点希腊知识。</HE_Hellas_Columns.description>
+  <HE_Hellas_Olympic.label>奥林匹克竞技会</HE_Hellas_Olympic.label>
+  <HE_Hellas_Olympic.description>每到第四个夏天，城邦们就停止战争，改为互相赛跑。
+
+传统：殖民者移动速度加快3%。
+
+除非这是你的传承，否则需要15点希腊知识。</HE_Hellas_Olympic.description>
+  <HE_Hellas_Rhetoric.label>修辞学</HE_Hellas_Rhetoric.label>
+  <HE_Hellas_Rhetoric.description>在公民大会上，一个好论点比一支好矛更有价值。
+
+传统：殖民者获得+12%谈判能力。
+
+除非这是你的传承，否则需要15点希腊知识。</HE_Hellas_Rhetoric.description>
+  <HE_Hellas_Geometry.label>几何学</HE_Hellas_Geometry.label>
+  <HE_Hellas_Geometry.description>不懂几何者不得在此建造：经过测量的线条让城墙建得更快、更直。
+
+传统：殖民者建造速度加快8%。
+
+除非这是你的传承，否则需要20点希腊知识。</HE_Hellas_Geometry.description>
+  <HE_Hellas_Bronze.label>青铜锻造</HE_Hellas_Bronze.label>
+  <HE_Hellas_Bronze.description>铸造并锤打短剑和沉重的前弯反刃刀。
+
+除非这是你的传承，否则需要10点希腊知识。</HE_Hellas_Bronze.description>
+  <HE_Hellas_Theatron.label>剧场</HE_Hellas_Theatron.label>
+  <HE_Hellas_Theatron.description>建造一座舞台和一幅彩绘布景，整个殖民地都会聚来观看古老的戏剧。
+
+除非这是你的传承，否则需要15点希腊知识。</HE_Hellas_Theatron.description>
+  <HE_Hellas_Hippocratic.label>希波克拉底誓言</HE_Hellas_Hippocratic.label>
+  <HE_Hellas_Hippocratic.description>首先，不要伤害。希腊医师洗净双手，从容不迫，失去的病人更少。
+
+传统：手术成功率提高12%，但治疗速度减慢5%。
+
+除非这是你的传承，否则需要25点希腊知识。</HE_Hellas_Hippocratic.description>
+  <HE_Hellas_Hoplite.label>重装步兵全副武装</HE_Hellas_Hoplite.label>
+  <HE_Hellas_Hoplite.description>科林斯头盔、层压亚麻胸甲和巨大的圆盾。
+
+除非这是你的传承，否则需要25点希腊知识。</HE_Hellas_Hoplite.description>
+  <HE_Hellas_Theatre.label>戏剧节</HE_Hellas_Theatre.label>
+  <HE_Hellas_Theatre.description>早上演悲剧，晚上演喜剧。人们离开剧场时更轻松、更善良。
+
+传统：殖民者获得娱乐的速度加快10%，获得+5%社交影响力。
+
+除非这是你的传承，否则需要25点希腊知识。</HE_Hellas_Theatre.description>
+  <HE_Hellas_Academy.label>学园</HE_Hellas_Academy.label>
+  <HE_Hellas_Academy.description>一片树林，大师们与学生边走边谈，每个问题都追问到底。
+
+传统：殖民者研究速度加快10%。
+
+除非这是你的传承，否则需要35点希腊知识。</HE_Hellas_Academy.description>
+  <HE_Hellas_Phalanx.label>方阵</HE_Hellas_Phalanx.label>
+  <HE_Hellas_Phalanx.description>盾叠着盾，每个人都护住左边的人。阵线缓慢，却几乎牢不可破。
+
+传统：殖民者获得+5%钝器护甲和+3%利器护甲，但移动速度减慢3%。
+
+除非这是你的传承，否则需要40点希腊知识。</HE_Hellas_Phalanx.description>
+  <HE_Hellas_GoldenAge.label>黄金时代</HE_Hellas_GoldenAge.label>
+  <HE_Hellas_GoldenAge.description>图书馆开放后，同盟进入了一个戏剧、医术与辩论的时代，这个时代将被铭记数百年。
+
+传统：殖民者学习速度加快5%，获得+5%社交影响力和+5%治疗质量。
+
+除非这是你的传承，否则需要50点希腊知识。
+
+完成该国的故事后解锁。</HE_Hellas_GoldenAge.description>
+  <HE_Hellas_Lithobolos.label>投石机</HE_Hellas_Lithobolos.label>
+  <HE_Hellas_Lithobolos.description>城邦的工程师们测量弹簧和角度，直到造出一台比任何投石手都扔得更远的机器。
+
+除非这是你的传承，否则需要40点希腊知识。</HE_Hellas_Lithobolos.description>
+  <HE_Hellas_PowderArms.label>希腊火器</HE_Hellas_PowderArms.label>
+  <HE_Hellas_PowderArms.description>希腊制造火绳枪或燧发枪的方法：枪管、枪机、枪托，以及使用它们的操典。
+
+若非你的传承，只有在希腊进入火药时代后才能研究。
+
+除非这是你的传承，否则需要30点希腊知识。</HE_Hellas_PowderArms.description>
+  <HE_Hellas_SteamArmy.label>希腊蒸汽军</HE_Hellas_SteamArmy.label>
+  <HE_Hellas_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时希腊组建的军队。
+
+若非你的传承，只有在希腊进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点希腊知识。</HE_Hellas_SteamArmy.description>
+  <HE_Hellas_ElectricArmy.label>希腊电气军</HE_Hellas_ElectricArmy.label>
+  <HE_Hellas_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时希腊组建的军队。
+
+若非你的传承，只有在希腊进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点希腊知识。</HE_Hellas_ElectricArmy.description>
+  <HE_Hellas_Works.label>希腊工程</HE_Hellas_Works.label>
+  <HE_Hellas_Works.description>希腊的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在希腊进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点希腊知识。</HE_Hellas_Works.description>
+</LanguageData>

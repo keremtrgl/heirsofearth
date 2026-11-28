@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Inti.label>印蒂帝国</HE_Faction_Inti.label>
+  <HE_Faction_Inti.description>印蒂帝国，殖民船“卡帕克号”的继承者。他们在梯田山坡上耕种，让粮仓保持充盈，用结绳计数一切，并在别人不敢行走的地方修路。</HE_Faction_Inti.description>
+  <HE_Faction_Inti.fixedName>印蒂帝国</HE_Faction_Inti.fixedName>
+  <HE_Faction_Inti.pawnSingular>印蒂</HE_Faction_Inti.pawnSingular>
+  <HE_Faction_Inti.pawnsPlural>印蒂</HE_Faction_Inti.pawnsPlural>
+  <HE_Faction_Inti.leaderTitle>萨帕·印蒂</HE_Faction_Inti.leaderTitle>
+  <HE_Player_Inti.label>印蒂定居者</HE_Player_Inti.label>
+  <HE_Player_Inti.description>一小个印蒂公社的定居者，奉命为帝国在一个新山谷修筑梯田。</HE_Player_Inti.description>
+  <HE_Player_Inti.pawnSingular>殖民者</HE_Player_Inti.pawnSingular>
+  <HE_Player_Inti.pawnsPlural>殖民者</HE_Player_Inti.pawnsPlural>
+</LanguageData>

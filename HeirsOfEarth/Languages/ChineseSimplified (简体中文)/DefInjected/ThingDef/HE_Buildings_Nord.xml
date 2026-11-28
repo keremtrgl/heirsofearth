@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Hearth.label>长屋火塘</HE_Nord_Hearth.label>
+  <HE_Nord_Hearth.description>一个以石块砌边的长火坑。它为大厅供暖、照明，还让一锅炖菜保持温热。</HE_Nord_Hearth.description>
+  <HE_Nord_RuneStone.label>符文石</HE_Nord_RuneStone.label>
+  <HE_Nord_RuneStone.description>一块高大的灰色石头，刻着一条由符文组成的巨蛇，讲述一位英雄的事迹。</HE_Nord_RuneStone.description>
+  <HE_Nord_ShieldWall.label>圆盾陈列</HE_Nord_ShieldWall.label>
+  <HE_Nord_ShieldWall.description>一面带铁盾心的彩绘圆盾，挂在人人都能看见的地方。</HE_Nord_ShieldWall.description>
+  <HE_Nord_MeadTable.label>蜜酒长桌</HE_Nord_MeadTable.label>
+  <HE_Nord_MeadTable.description>一张摆着角杯和一碗蜜酒的橡木长桌。殖民者聚在这里饮酒夸口。</HE_Nord_MeadTable.description>
+  <HE_Nord_Sauna.label>桑拿</HE_Nord_Sauna.label>
+  <HE_Nord_Sauna.description>一座带石炉和长凳的小松木浴屋。殖民者在这里把烦恼都蒸出来。</HE_Nord_Sauna.description>
+  <HE_Nord_BowLoft_Gun.label>双联弓</HE_Nord_BowLoft_Gun.label>
+  <HE_Nord_BowLoft_Gun.description>弓楼的旋转顶部。</HE_Nord_BowLoft_Gun.description>
+  <HE_Nord_BowLoft.label>弓楼</HE_Nord_BowLoft.label>
+  <HE_Nord_BowLoft.description>一座原木平台，枢轴上装着一张巨大的双联弓，正是昔日守卫峡湾门户的那种。它一次能远距离射出两支巨箭。木材用于制作新箭：一根原木可做两支。</HE_Nord_BowLoft.description>
+  <HE_Nord_BowLoft.comps.1.fuelLabel>箭矢</HE_Nord_BowLoft.comps.1.fuelLabel>
+  <HE_Nord_BowLoft.comps.1.fuelGizmoLabel>箭矢</HE_Nord_BowLoft.comps.1.fuelGizmoLabel>
+  <HE_Nord_BowLoft.comps.1.outOfFuelMessage>需要木材制作箭矢</HE_Nord_BowLoft.comps.1.outOfFuelMessage>
+  <HE_Nord_ElectricForge.label>电炉锻造台</HE_Nord_ElectricForge.label>
+  <HE_Nord_ElectricForge.description>一座配有电动鼓风机、动力锤和被几代人磨得光滑的铁砧的锻炉。它能制作锻造台能做的一切，速度加快25%。</HE_Nord_ElectricForge.description>
+</LanguageData>

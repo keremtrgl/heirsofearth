@@ -16,6 +16,8 @@ from heirs_xml import injection_xml, keyed_xml, render  # noqa: E402
 
 ROOT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "HeirsOfEarth")
 TURKISH = "Turkish (Türkçe)"
+import heirs_zh
+CHINESE = heirs_zh.CHINESE
 
 
 def write(path, text):
@@ -90,7 +92,7 @@ LOAD_FOLDERS = """<?xml version="1.0" encoding="utf-8"?>
 
 def main():
     data.load_all()
-    for sub in ("Defs", os.path.join("Languages", TURKISH, "DefInjected"), "TranslationTemplate"):
+    for sub in ("Defs", os.path.join("Languages", TURKISH, "DefInjected"), os.path.join("Languages", CHINESE), "TranslationTemplate"):
         shutil.rmtree(os.path.join(ROOT, sub), ignore_errors=True)
     write(os.path.join(ROOT, "About", "About.xml"), about())
     write(os.path.join(ROOT, "LoadFolders.xml"), LOAD_FOLDERS)
@@ -111,15 +113,23 @@ def main():
         for def_type, path, text in tr:
             injections[(def_type, stem)].append((path, text))
         count += len(defs)
+    zh = heirs_zh.load()  # 4.3.2: Simplified Chinese from tools/zh; a text with no Chinese yet stays English in game
     for (def_type, stem), entries in injections.items():
         write(os.path.join(ROOT, "Languages", TURKISH, "DefInjected", def_type, stem + ".xml"), injection_xml([(p, t.tr) for p, t in entries]))
+        zh_entries = [(p, zh[t.en]) for p, t in entries if t.en in zh]
+        if zh_entries:
+            write(os.path.join(ROOT, "Languages", CHINESE, "DefInjected", def_type, stem + ".xml"), injection_xml(zh_entries))
         write(os.path.join(ROOT, "TranslationTemplate", "DefInjected", def_type, stem + ".xml"), injection_xml([(p, t.en) for p, t in entries]))
 
     write(os.path.join(ROOT, "Languages", "English", "Keyed", "Heirs.xml"), keyed_xml([(k, v.en) for k, v in data.KEYED.items()]))
     write(os.path.join(ROOT, "Languages", TURKISH, "Keyed", "Heirs.xml"), keyed_xml([(k, v.tr) for k, v in data.KEYED.items()]))
+    zh_keys = [(k, zh[v.en]) for k, v in data.KEYED.items() if v.en in zh]
+    if zh_keys:
+        write(os.path.join(ROOT, "Languages", CHINESE, "Keyed", "Heirs.xml"), keyed_xml(zh_keys))
     write(os.path.join(ROOT, "TranslationTemplate", "Keyed", "Heirs.xml"), keyed_xml([(k, v.en) for k, v in data.KEYED.items()]))
     write(os.path.join(ROOT, "TranslationTemplate", "HOW_TO_TRANSLATE.txt"), TEMPLATE_README)
-    print(f"defs: {count}, files: {len(data.FILES)}, keys: {len(data.KEYED)}, injections: {sum(len(v) for v in injections.values())}")
+    print(f"defs: {count}, files: {len(data.FILES)}, keys: {len(data.KEYED)}, injections: {sum(len(v) for v in injections.values())}, "
+          f"chinese: {len(zh)} texts")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Albion.label>阿尔比恩联邦</HE_Faction_Albion.label>
+  <HE_Faction_Albion.description>阿尔比恩联邦，殖民船“阿瓦隆号”的继承者：煤矿、蒸汽机、红衫军团，以及一个争论到深夜的议会。</HE_Faction_Albion.description>
+  <HE_Faction_Albion.fixedName>阿尔比恩联邦</HE_Faction_Albion.fixedName>
+  <HE_Faction_Albion.pawnSingular>阿尔比恩人</HE_Faction_Albion.pawnSingular>
+  <HE_Faction_Albion.pawnsPlural>阿尔比恩人</HE_Faction_Albion.pawnsPlural>
+  <HE_Faction_Albion.leaderTitle>护国公</HE_Faction_Albion.leaderTitle>
+  <HE_Player_Albion.label>阿尔比恩定居者</HE_Player_Albion.label>
+  <HE_Player_Albion.description>一小队获得特许状的阿尔比恩定居者，奉命占领并开发一片新土地。</HE_Player_Albion.description>
+  <HE_Player_Albion.pawnSingular>殖民者</HE_Player_Albion.pawnSingular>
+  <HE_Player_Albion.pawnsPlural>殖民者</HE_Player_Albion.pawnsPlural>
+</LanguageData>

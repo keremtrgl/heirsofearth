@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_BS_Farmer.title>大河农夫</HE_Kemet_BS_Farmer.title>
+  <HE_Kemet_BS_Farmer.titleShort>农夫</HE_Kemet_BS_Farmer.titleShort>
+  <HE_Kemet_BS_Farmer.description>[PAWN_nameDef]每年都等待洪水，然后在它留下的黑色淤泥上耕种。[PAWN_pronoun]一眼就能看出好收成的分量，也牢记坏收成的滋味。</HE_Kemet_BS_Farmer.description>
+  <HE_Kemet_BS_Scribe.title>王家书吏</HE_Kemet_BS_Scribe.title>
+  <HE_Kemet_BS_Scribe.titleShort>书吏</HE_Kemet_BS_Scribe.titleShort>
+  <HE_Kemet_BS_Scribe.description>[PAWN_nameDef]多年来盘腿坐在粮仓里，清点粮袋、抄写信件，抓住偷窃的监工。许多人欠[PAWN_objective]人情；也有人对[PAWN_objective]怀恨在心。</HE_Kemet_BS_Scribe.description>
+  <HE_Kemet_BS_Mason.title>王家石匠</HE_Kemet_BS_Mason.title>
+  <HE_Kemet_BS_Mason.titleShort>石匠</HE_Kemet_BS_Mason.titleShort>
+  <HE_Kemet_BS_Mason.description>[PAWN_nameDef]在采石队中工作，切割并拖运巨大的石块。[PAWN_pronoun]能用木楔和水劈开花岗岩，[PAWN_possessive]墙从不倾斜。</HE_Kemet_BS_Mason.description>
+  <HE_Kemet_BS_Medjay.title>麦德查斥候</HE_Kemet_BS_Medjay.title>
+  <HE_Kemet_BS_Medjay.titleShort>麦德查</HE_Kemet_BS_Medjay.titleShort>
+  <HE_Kemet_BS_Medjay.description>[PAWN_nameDef]随麦德查在沙漠道路上巡逻，在岩石和沙地上追踪盗贼。[PAWN_pronoun]能跑上一整天，日落时仍然射得很准。</HE_Kemet_BS_Medjay.description>
+  <HE_Kemet_BS_Charioteer.title>战车兵</HE_Kemet_BS_Charioteer.title>
+  <HE_Kemet_BS_Charioteer.titleShort>战车兵</HE_Kemet_BS_Charioteer.titleShort>
+  <HE_Kemet_BS_Charioteer.description>[PAWN_nameDef]在国王的兵团中驾驶战车，一手握着两匹马的缰绳，一手拿弓。[PAWN_pronoun]至今对动物说话仍比对人温柔。</HE_Kemet_BS_Charioteer.description>
+  <HE_Kemet_BS_Physician.title>生命之屋医师</HE_Kemet_BS_Physician.title>
+  <HE_Kemet_BS_Physician.titleShort>医师</HE_Kemet_BS_Physician.titleShort>
+  <HE_Kemet_BS_Physician.description>在生命之屋中，[PAWN_nameDef]学会了接骨、缝合伤口和阅读古老的医学莎草纸，而那些医书正确的次数比人们想象的要多。</HE_Kemet_BS_Physician.description>
+  <HE_Kemet_BS_Boatman.title>大河船夫</HE_Kemet_BS_Boatman.title>
+  <HE_Kemet_BS_Boatman.titleShort>船夫</HE_Kemet_BS_Boatman.titleShort>
+  <HE_Kemet_BS_Boatman.description>[PAWN_nameDef]撑着货船在河上来回，把谷物运往北方，把石头运往南方。[PAWN_pronoun]熟悉沿途每一处沙洲和每一家酒馆。</HE_Kemet_BS_Boatman.description>
+  <HE_Kemet_BS_Merchant.title>香料商人</HE_Kemet_BS_Merchant.title>
+  <HE_Kemet_BS_Merchant.titleShort>商人</HE_Kemet_BS_Merchant.titleShort>
+  <HE_Kemet_BS_Merchant.description>[PAWN_nameDef]带领驴队前往南方之地换取乳香、乌木和鸵鸟羽毛，带着这些东西和[PAWN_possessive]大部分驴子回来了。</HE_Kemet_BS_Merchant.description>
+  <HE_Kemet_BS_ScribeSchool.title>书吏学校学生</HE_Kemet_BS_ScribeSchool.title>
+  <HE_Kemet_BS_ScribeSchool.titleShort>学徒</HE_Kemet_BS_ScribeSchool.titleShort>
+  <HE_Kemet_BS_ScribeSchool.description>[PAWN_nameDef]在陶片上把同样的格言抄写了一千遍，老师拿着棍子在[PAWN_objective]身后走来走去。</HE_Kemet_BS_ScribeSchool.description>
+  <HE_Kemet_BS_ReedChild.title>割苇人</HE_Kemet_BS_ReedChild.title>
+  <HE_Kemet_BS_ReedChild.titleShort>割苇人</HE_Kemet_BS_ReedChild.titleShort>
+  <HE_Kemet_BS_ReedChild.description>[PAWN_nameDef]在沼泽中长大，为莎草纸和船只割芦苇，同时留一只眼睛提防鳄鱼。</HE_Kemet_BS_ReedChild.description>
+  <HE_Kemet_BS_PotterChild.title>陶工之子</HE_Kemet_BS_PotterChild.title>
+  <HE_Kemet_BS_PotterChild.titleShort>陶工之子</HE_Kemet_BS_PotterChild.titleShort>
+  <HE_Kemet_BS_PotterChild.description>[PAWN_nameDef]在陶工院子里揉泥、添窑火，制作装载整个王国啤酒和谷物的陶罐。</HE_Kemet_BS_PotterChild.description>
+  <HE_Kemet_BS_DesertChild.title>沙漠边缘牧人</HE_Kemet_BS_DesertChild.title>
+  <HE_Kemet_BS_DesertChild.titleShort>牧人</HE_Kemet_BS_DesertChild.titleShort>
+  <HE_Kemet_BS_DesertChild.description>[PAWN_nameDef]在绿田尽头、红沙开始的地方放羊，学会了在看似无水之处找到水。</HE_Kemet_BS_DesertChild.description>
+</LanguageData>

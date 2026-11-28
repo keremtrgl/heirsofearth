@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas.label>希腊同盟</HE_Hellas.label>
+  <HE_Hellas.description>殖民船“阿尔戈号”载着教师、医生和哲学家，而他们的子孙从未停止争论。希腊的城邦是一个争吵不休的同盟，靠共同的语言、竞技会和对学问的深爱维系在一起。他们的重装步兵肩并肩作战，他们的医师受到各国的追捧，他们视新罗马人为老朋友。</HE_Hellas.description>
+  <HE_Hellas.rulerTitle>执政官</HE_Hellas.rulerTitle>
+  <HE_Hellas.adjective>希腊</HE_Hellas.adjective>
+  <HE_Hellas.doctrine.label>方阵</HE_Hellas.doctrine.label>
+  <HE_Hellas.doctrine.description>重装步兵肩并肩作战，每面盾牌都护住左边的人。在阵列中他们难以被击中，也难以逃脱；单独一人时他们只是普通人。</HE_Hellas.doctrine.description>
+  <HE_Hellas.honoraryTitle>同盟的外邦代表</HE_Hellas.honoraryTitle>
+</LanguageData>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Garden.label>天堂花园</HE_Pars_Garden.label>
+  <HE_Pars_Garden.description>一座分为四部分的围墙小花园，水渠绕着中央水池将其分开，种着玫瑰和柏树。殖民者来到水边坐下，平静下来。</HE_Pars_Garden.description>
+  <HE_Pars_PostLamp.label>驿站灯</HE_Pars_PostLamp.label>
+  <HE_Pars_PostLamp.description>高柱上的一盏镂空青铜灯，每座王家驿站都挂着这样的灯，让骑手在黑暗中也能找到。</HE_Pars_PostLamp.description>
+  <HE_Pars_CarpetLoom.label>地毯织机</HE_Pars_CarpetLoom.label>
+  <HE_Pars_CarpetLoom.description>一台绷着经线的立式木织机，横梁上挂着一团团染色羊毛。它能把布料或羊毛编结成波斯地毯。</HE_Pars_CarpetLoom.description>
+  <HE_Pars_FireAltar.label>圣火祭坛</HE_Pars_FireAltar.label>
+  <HE_Pars_FireAltar.description>一座白石阶梯祭坛，其上的火永不熄灭。祭司们日夜为它添加香木，全家人围聚在它的温暖旁。</HE_Pars_FireAltar.description>
+  <HE_Pars_Lamassu.label>拉玛苏</HE_Pars_Lamassu.label>
+  <HE_Pars_Lamassu.description>一头长着戴冠人头的有翼公牛，以石雕成，守护国王的城门。它被雕成五条腿，从正面看是站立不动，从侧面看是迈步前行。</HE_Pars_Lamassu.description>
+  <HE_Pars_NaftThrower_Gun.label>纳夫特虹吸管</HE_Pars_NaftThrower_Gun.label>
+  <HE_Pars_NaftThrower_Gun.description>纳夫特喷射器的旋转顶部。</HE_Pars_NaftThrower_Gun.description>
+  <HE_Pars_NaftThrower.label>纳夫特喷射器</HE_Pars_NaftThrower.label>
+  <HE_Pars_NaftThrower.description>一个装着纳夫特——东方油井燃烧之油——的青铜油箱，配有一根长虹吸管，以短促的喷射喷出火焰。射程很短，但碰到的一切都会燃烧。填装化合燃料：一单位喷射一次。</HE_Pars_NaftThrower.description>
+  <HE_Pars_NaftThrower.comps.1.fuelLabel>纳夫特</HE_Pars_NaftThrower.comps.1.fuelLabel>
+  <HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>纳夫特</HE_Pars_NaftThrower.comps.1.fuelGizmoLabel>
+  <HE_Pars_NaftThrower.comps.1.outOfFuelMessage>需要化合燃料</HE_Pars_NaftThrower.comps.1.outOfFuelMessage>
+  <HE_Pars_ElectricLoom.label>电动地毯织机</HE_Pars_ElectricLoom.label>
+  <HE_Pars_ElectricLoom.description>一台地毯织机，梭子和打纬器由小电机驱动，织工只需打结。它能完成地毯织机的所有订单，速度加快40%。</HE_Pars_ElectricLoom.description>
+</LanguageData>

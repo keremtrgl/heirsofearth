@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord.label>诺德海姆雅尔国</HE_Nord.label>
+  <HE_Nord.description>殖民船“世界树号”的船员登陆在一片寒冷的海岸，从未要求更温暖的地方。他们的雅尔在庭议——自由人的集会——上选出，他们的长屋在雪中矗立，宛如倒扣的船。他们是坚韧的猎人和凶猛的劫掠者，在火塘边传颂古老的萨迦，并记得罗马人的每一次侮辱。</HE_Nord.description>
+  <HE_Nord.rulerTitle>雅尔</HE_Nord.rulerTitle>
+  <HE_Nord.adjective>诺德海姆</HE_Nord.adjective>
+  <HE_Nord.doctrine.label>海岸劫掠</HE_Nord.doctrine.label>
+  <HE_Nord.doctrine.description>海岸突袭：不围城，不等待。劫掠者用斧头劈开城墙，冲向敌人，迅猛、凶狠，疼痛也难以阻止他们。</HE_Nord.doctrine.description>
+  <HE_Nord.honoraryTitle>雅尔们的盟誓之友</HE_Nord.honoraryTitle>
+</LanguageData>

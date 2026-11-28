@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_BS_Raider.title>海岸劫掠者</HE_Nord_BS_Raider.title>
+  <HE_Nord_BS_Raider.titleShort>劫掠者</HE_Nord_BS_Raider.titleShort>
+  <HE_Nord_BS_Raider.description>[PAWN_nameDef]每年夏天都随劫掠船队划桨，迅速袭击无人防守的海岸，警钟还没停就已离去。</HE_Nord_BS_Raider.description>
+  <HE_Nord_BS_Hunter.title>雪原猎人</HE_Nord_BS_Hunter.title>
+  <HE_Nord_BS_Hunter.titleShort>猎人</HE_Nord_BS_Hunter.titleShort>
+  <HE_Nord_BS_Hunter.description>[PAWN_nameDef]一连数周在深雪中追踪驼鹿和狼，身上只有一张弓、一把刀和一个毛皮袋。</HE_Nord_BS_Hunter.description>
+  <HE_Nord_BS_Smith.title>沼铁铁匠</HE_Nord_BS_Smith.title>
+  <HE_Nord_BS_Smith.titleShort>铁匠</HE_Nord_BS_Smith.titleShort>
+  <HE_Nord_BS_Smith.description>[PAWN_nameDef]从沼泽中挖铁，在黏土炉中冶炼，再把它扭锻成雅尔们珍视的花纹刀剑。</HE_Nord_BS_Smith.description>
+  <HE_Nord_BS_Skald.title>吟游诗人</HE_Nord_BS_Skald.title>
+  <HE_Nord_BS_Skald.titleShort>吟游诗人</HE_Nord_BS_Skald.titleShort>
+  <HE_Nord_BS_Skald.description>[PAWN_nameDef]能背诵上千首诗句和每位雅尔的家谱。[PAWN_pronoun]用讽刺诗赢得的争斗比别人用斧头赢得的还多。</HE_Nord_BS_Skald.description>
+  <HE_Nord_BS_Shipwright.title>造船匠</HE_Nord_BS_Shipwright.title>
+  <HE_Nord_BS_Shipwright.titleShort>造船匠</HE_Nord_BS_Shipwright.titleShort>
+  <HE_Nord_BS_Shipwright.description>[PAWN_nameDef]用搭接木板和铆钉建造长船，凭眼力塑造每一根肋材。[PAWN_pronoun]建房子和造船身一样轻松。</HE_Nord_BS_Shipwright.description>
+  <HE_Nord_BS_Farmer.title>农庄农夫</HE_Nord_BS_Farmer.title>
+  <HE_Nord_BS_Farmer.titleShort>农夫</HE_Nord_BS_Farmer.titleShort>
+  <HE_Nord_BS_Farmer.description>[PAWN_nameDef]在寒冷峡湾边的一座农庄里养山羊、种大麦，还有一头倔强的母牛。每个夏天都太短，每个冬天都太长。</HE_Nord_BS_Farmer.description>
+  <HE_Nord_BS_Berserker.title>狂战士</HE_Nord_BS_Berserker.title>
+  <HE_Nord_BS_Berserker.titleShort>狂战士</HE_Nord_BS_Berserker.titleShort>
+  <HE_Nord_BS_Berserker.description>[PAWN_nameDef]披着熊皮上阵，战斗起来就像野兽本身。事后[PAWN_pronoun]什么都不记得，其他人也不愿谈起。</HE_Nord_BS_Berserker.description>
+  <HE_Nord_BS_Trader.title>琥珀商人</HE_Nord_BS_Trader.title>
+  <HE_Nord_BS_Trader.titleShort>商人</HE_Nord_BS_Trader.titleShort>
+  <HE_Nord_BS_Trader.description>[PAWN_nameDef]把琥珀、毛皮和海象牙运往南方，带着白银和故事归来。[PAWN_pronoun]每种语言都会说一点。</HE_Nord_BS_Trader.description>
+  <HE_Nord_BS_FjordChild.title>峡湾孩童</HE_Nord_BS_FjordChild.title>
+  <HE_Nord_BS_FjordChild.titleShort>峡湾孩童</HE_Nord_BS_FjordChild.titleShort>
+  <HE_Nord_BS_FjordChild.description>[PAWN_nameDef]在小船上捕鱼长大，在冷得让人喘不过气的水里游泳。</HE_Nord_BS_FjordChild.description>
+  <HE_Nord_BS_HallChild.title>蜜酒大厅孩童</HE_Nord_BS_HallChild.title>
+  <HE_Nord_BS_HallChild.titleShort>大厅孩童</HE_Nord_BS_HallChild.titleShort>
+  <HE_Nord_BS_HallChild.description>[PAWN_nameDef]在雅尔的大厅里长大，为战士们端送角杯蜜酒，听他们夸口直到深夜。</HE_Nord_BS_HallChild.description>
+  <HE_Nord_BS_Thrall.title>奴隶之子</HE_Nord_BS_Thrall.title>
+  <HE_Nord_BS_Thrall.titleShort>奴隶</HE_Nord_BS_Thrall.titleShort>
+  <HE_Nord_BS_Thrall.description>[PAWN_nameDef]生而不自由，从[PAWN_pronoun]能提起篮子那天起就在田里劳作，直到一位仁慈的雅尔给了[PAWN_objective]自由。</HE_Nord_BS_Thrall.description>
+  <HE_Nord_BS_ForestChild.title>森林孩童</HE_Nord_BS_ForestChild.title>
+  <HE_Nord_BS_ForestChild.titleShort>森林孩童</HE_Nord_BS_ForestChild.titleShort>
+  <HE_Nord_BS_ForestChild.description>[PAWN_nameDef]在松林深处的猎人小屋里长大，先学会了认足迹，后学会了认字。</HE_Nord_BS_ForestChild.description>
+</LanguageData>

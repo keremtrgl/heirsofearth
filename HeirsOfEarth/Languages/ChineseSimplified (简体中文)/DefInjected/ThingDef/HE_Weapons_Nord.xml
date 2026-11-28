@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Sword.label>诺德海姆剑</HE_Nord_Sword.label>
+  <HE_Nord_Sword.description>一把宽阔的双刃剑，剑身为花纹焊接，剑首呈分瓣状。雅尔赠给忠诚战士的礼物。</HE_Nord_Sword.description>
+  <HE_Nord_Sword.tools.0.label>剑首</HE_Nord_Sword.tools.0.label>
+  <HE_Nord_Sword.tools.1.label>剑尖</HE_Nord_Sword.tools.1.label>
+  <HE_Nord_Sword.tools.2.label>剑刃</HE_Nord_Sword.tools.2.label>
+  <HE_Nord_DaneAxe.label>丹麦斧</HE_Nord_DaneAxe.label>
+  <HE_Nord_DaneAxe.description>一个薄而宽的斧头装在与人等高的长柄上。双手挥舞，能劈开盾牌和头盔。</HE_Nord_DaneAxe.description>
+  <HE_Nord_DaneAxe.tools.0.label>斧柄</HE_Nord_DaneAxe.tools.0.label>
+  <HE_Nord_DaneAxe.tools.1.label>剑刃</HE_Nord_DaneAxe.tools.1.label>
+  <HE_Nord_HuntBow.label>狩猎弓</HE_Nord_HuntBow.label>
+  <HE_Nord_HuntBow.description>一张以筋腱为弦的朴素榆木弓。轻巧、安静，在狩猎距离上精准。</HE_Nord_HuntBow.description>
+  <HE_Nord_HuntBow.tools.0.label>弩臂</HE_Nord_HuntBow.tools.0.label>
+  <HE_Nord_HarpoonGun.label>捕鲸炮</HE_Nord_HarpoonGun.label>
+  <HE_Nord_HarpoonGun.description>一支沉重的短管枪，发射倒刺铁鱼叉。缓慢且射程短，但被它击中的东西就逃不掉了。</HE_Nord_HarpoonGun.description>
+  <HE_Nord_HarpoonGun.tools.0.label>枪托</HE_Nord_HarpoonGun.tools.0.label>
+  <HE_Nord_HarpoonGun.tools.1.label>枪管</HE_Nord_HarpoonGun.tools.1.label>
+  <HE_Nord_Seax.label>撒克逊刀</HE_Nord_Seax.label>
+  <HE_Nord_Seax.description>一把折背的厚重单刃刀，每个自由人都随身携带。在餐桌上它是工具，在盾墙中它是武器。</HE_Nord_Seax.description>
+  <HE_Nord_Seax.tools.0.label>剑柄</HE_Nord_Seax.tools.0.label>
+  <HE_Nord_Seax.tools.1.label>剑尖</HE_Nord_Seax.tools.1.label>
+  <HE_Nord_Seax.tools.2.label>剑刃</HE_Nord_Seax.tools.2.label>
+  <HE_Nord_HookGun.label>钩铳</HE_Nord_HookGun.label>
+  <HE_Nord_HookGun.description>一支沉重的火绳枪，枪管下装有铁钩，可抵在墙上或栏杆上。后坐力像马踢，威力也像马踢。</HE_Nord_HookGun.description>
+  <HE_Nord_HookGun.tools.0.label>枪托</HE_Nord_HookGun.tools.0.label>
+  <HE_Nord_HookGun.tools.1.label>枪管</HE_Nord_HookGun.tools.1.label>
+  <HE_Nord_Rifle.label>北地步枪</HE_Nord_Rifle.label>
+  <HE_Nord_Rifle.description>一支栓动步枪，配浅色桦木枪托，侧面的盒式弹匣无需打开枪机即可装填，因此射速比其他栓动步枪更快。</HE_Nord_Rifle.description>
+  <HE_Nord_Rifle.tools.0.label>枪托</HE_Nord_Rifle.tools.0.label>
+  <HE_Nord_Rifle.tools.1.label>枪管</HE_Nord_Rifle.tools.1.label>
+  <HE_Nord_TrenchGun.label>北地堑壕枪</HE_Nord_TrenchGun.label>
+  <HE_Nord_TrenchGun.description>一支泵动式霰弹枪，配桦木枪托，枪管上有隔热罩，机匣上饰有渡鸦。在设计所针对的几步距离内，它的重霰弹比其他霰弹枪更有威力。</HE_Nord_TrenchGun.description>
+  <HE_Nord_TrenchGun.tools.0.label>枪托</HE_Nord_TrenchGun.tools.0.label>
+  <HE_Nord_TrenchGun.tools.1.label>枪管</HE_Nord_TrenchGun.tools.1.label>
+</LanguageData>

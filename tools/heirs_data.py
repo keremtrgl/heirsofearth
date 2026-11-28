@@ -10,7 +10,7 @@ MOD = {
     "packageId": "kerem.heirs",
     "name": "Heirs of Earth",
     "author": "Kerem",
-    "version": "4.3.1",
+    "version": "4.3.2",
     "harmony": "brrainz.harmony",
     "harmonyUrl": "https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077",
 }

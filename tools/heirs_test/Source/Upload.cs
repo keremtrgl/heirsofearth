@@ -17,7 +17,7 @@ namespace HeProbe
     public class Uploader : MonoBehaviour
     {
         private const string PackageId = "kerem.heirs";
-        private const string Version = "4.3.1";
+        private const string Version = "4.3.2";
         private const float TimeoutSeconds = 600f;
         private const int SteamTextLimit = 8000;
 

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma.label>新罗马共和国</HE_Roma.label>
+  <HE_Roma.description>殖民船“永恒号”的继承者——新罗马的公民在新世界重建了祖先的共和国：元老院、两位执政官、笔直穿越任何土地的道路，以及步伐整齐的军团。他们是建筑大师和纪律严明的士兵，以自己的法律为傲，且不轻易宽恕。</HE_Roma.description>
+  <HE_Roma.rulerTitle>执政官</HE_Roma.rulerTitle>
+  <HE_Roma.adjective>新罗马</HE_Roma.adjective>
+  <HE_Roma.doctrine.label>龟甲阵</HE_Roma.doctrine.label>
+  <HE_Roma.doctrine.description>军团士兵紧密列阵，将盾牌锁成一片屋顶。挤在一起时他们能挡住箭矢和打击，但行军缓慢。</HE_Roma.doctrine.description>
+  <HE_Roma.honoraryTitle>新罗马荣誉公民</HE_Roma.honoraryTitle>
+</LanguageData>

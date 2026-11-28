@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Concrete.label>罗马混凝土</HE_Roma_Concrete.label>
+  <HE_Roma_Concrete.description>浇筑成方形板块的浅色混凝土。耐用且易于清洁。</HE_Roma_Concrete.description>
+  <HE_Roma_Road.label>罗马大道</HE_Roma_Road.label>
+  <HE_Roma_Road.description>铺在厚砾石基层上的拼合玄武岩石板。在上面行走又快又轻松。</HE_Roma_Road.description>
+  <HE_Roma_Mosaic.label>罗马马赛克</HE_Roma_Mosaic.label>
+  <HE_Roma_Mosaic.description>成千上万块小石块镶嵌成几何图案，并有红色镶边。</HE_Roma_Mosaic.description>
+</LanguageData>

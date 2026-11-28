@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Qullqa.label>库尔卡仓库</HE_Inti_Qullqa.label>
+  <HE_Inti_Qullqa.description>一座茅草屋顶、地面开有通风口的圆形石仓，建在风吹过的地方。存放在里面的食物腐烂速度减半。每格可存放三堆物品。</HE_Inti_Qullqa.description>
+  <HE_Inti_QuipuTable.label>结绳桌</HE_Inti_QuipuTable.label>
+  <HE_Inti_QuipuTable.description>一张带框架的矮桌，框上挂着几十根各色打结的绳子，记录着殖民地的数目。放在研究台附近时，研究速度加快5%。</HE_Inti_QuipuTable.description>
+  <HE_Inti_SunStone.label>拴日石</HE_Inti_SunStone.label>
+  <HE_Inti_SunStone.description>一块雕刻过的花岗岩露头，上面立着一根短柱。一年中太阳正好位于其上方的两天里，石柱不投下影子。</HE_Inti_SunStone.description>
+  <HE_Inti_SunDisc.label>太阳圆盘</HE_Inti_SunDisc.label>
+  <HE_Inti_SunDisc.description>一张以黄金锤打而成的太阳面孔，立在石座上。在太阳神庙中，这样的圆盘捕捉黎明的光芒，让大厅充满光明。</HE_Inti_SunDisc.description>
+  <HE_Inti_PumaStone.label>美洲狮石像</HE_Inti_PumaStone.label>
+  <HE_Inti_PumaStone.description>一只用整块石头雕成的蹲伏美洲狮。美洲狮守护生者的世界，位于上方的秃鹰与下方的蛇之间。</HE_Inti_PumaStone.description>
+  <HE_Inti_SlingStand_Gun.label>投石臂</HE_Inti_SlingStand_Gun.label>
+  <HE_Inti_SlingStand_Gun.description>投石架的旋转顶部。</HE_Inti_SlingStand_Gun.description>
+  <HE_Inti_SlingStand.label>投石架</HE_Inti_SlingStand.label>
+  <HE_Inti_SlingStand.description>一圈拼合的石块，枢轴上装着一根长投石臂，旁边放着一篮圆石。它会向任何靠近的人连续甩出三块石头。给它填装石块：一块石料可做十颗石弹。</HE_Inti_SlingStand.description>
+  <HE_Inti_SlingStand.comps.1.fuelLabel>石弹</HE_Inti_SlingStand.comps.1.fuelLabel>
+  <HE_Inti_SlingStand.comps.1.fuelGizmoLabel>石弹</HE_Inti_SlingStand.comps.1.fuelGizmoLabel>
+  <HE_Inti_SlingStand.comps.1.outOfFuelMessage>需要石块</HE_Inti_SlingStand.comps.1.outOfFuelMessage>
+  <HE_Inti_ColdStore.label>冷藏库</HE_Inti_ColdStore.label>
+  <HE_Inti_ColdStore.description>一座厚墙石仓，门内衬有软木，屋顶上有一台嗡嗡作响的电动冷却器。通电时，存放在里面的食物腐烂速度降至正常的三分之一。每格可存放三堆物品。</HE_Inti_ColdStore.description>
+</LanguageData>

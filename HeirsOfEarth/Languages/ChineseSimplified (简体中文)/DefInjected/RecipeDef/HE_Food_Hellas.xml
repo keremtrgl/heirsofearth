@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Hellas_Maza.label>烹饪大麦饼</HE_Cook_Hellas_Maza.label>
+  <HE_Cook_Hellas_Maza.description>烹饪大麦饼。</HE_Cook_Hellas_Maza.description>
+  <HE_Cook_Hellas_Maza.jobString>正在烹饪大麦饼。</HE_Cook_Hellas_Maza.jobString>
+  <HE_Cook_Hellas_Skewers.label>烹饪烤肉串</HE_Cook_Hellas_Skewers.label>
+  <HE_Cook_Hellas_Skewers.description>烹饪烤肉串。</HE_Cook_Hellas_Skewers.description>
+  <HE_Cook_Hellas_Skewers.jobString>正在烹饪烤肉串。</HE_Cook_Hellas_Skewers.jobString>
+  <HE_Cook_Hellas_Plakous.label>烹饪蜜奶酪饼</HE_Cook_Hellas_Plakous.label>
+  <HE_Cook_Hellas_Plakous.description>烹饪蜜奶酪饼。</HE_Cook_Hellas_Plakous.description>
+  <HE_Cook_Hellas_Plakous.jobString>正在烹饪蜜奶酪饼。</HE_Cook_Hellas_Plakous.jobString>
+</LanguageData>

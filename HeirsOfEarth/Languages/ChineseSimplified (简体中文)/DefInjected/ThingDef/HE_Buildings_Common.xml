@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_CouncilHall.label>继承者议事厅</HE_CouncilHall.label>
+  <HE_CouncilHall.description>一张抛光石材的大圆桌，上方环绕着九面旗帜，每个继承者国家一面，每位使节都有一个座位。建成后，你每季可以从继承者页签召集一次世界议会。</HE_CouncilHall.description>
+  <HE_Trebuchet_Gun.label>投石机臂</HE_Trebuchet_Gun.label>
+  <HE_Trebuchet_Gun.description>配重投石机的抛臂和配重。</HE_Trebuchet_Gun.description>
+  <HE_Trebuchet.label>配重投石机</HE_Trebuchet.label>
+  <HE_Trebuchet.description>一座夯土基座上的配重投石机。必须有一名操作员操作它；然后它就能把巨石抛过城墙，砸向远在弓箭射程之外的敌人，砸碎落点上的一切。它无法命中二十格以内的目标，经常打偏，装填缓慢，但在火药时代之前，继承者能建造的东西中没有比它射得更远的。以石块为弹药：一块石料做一颗巨石。</HE_Trebuchet.description>
+  <HE_Trebuchet.comps.2.fuelLabel>巨石</HE_Trebuchet.comps.2.fuelLabel>
+  <HE_Trebuchet.comps.2.fuelGizmoLabel>巨石</HE_Trebuchet.comps.2.fuelGizmoLabel>
+  <HE_Trebuchet.comps.2.outOfFuelMessage>需要石块</HE_Trebuchet.comps.2.outOfFuelMessage>
+  <HE_Embassy.label>使馆</HE_Embassy.label>
+  <HE_Embassy.description>一座接待继承者国家使节的大厅：一张处理信件和印章的书桌、供客人坐的椅子，以及每个国家一个的旗帜架。有了使馆，你就可以签订科学交流和防御同盟，每个与你订有条约的国家每月都会对你多一分好感。一座就够了。</HE_Embassy.description>
+</LanguageData>

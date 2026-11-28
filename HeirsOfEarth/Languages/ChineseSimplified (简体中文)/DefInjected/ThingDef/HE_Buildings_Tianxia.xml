@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Vase.label>瓷花瓶</HE_Tianxia_Vase.label>
+  <HE_Tianxia_Vase.description>一个高大的白色花瓶，以钴蓝绘着云间的龙。商人们远渡半个世界来购买一个。</HE_Tianxia_Vase.description>
+  <HE_Tianxia_MoonGate.label>月亮门</HE_Tianxia_MoonGate.label>
+  <HE_Tianxia_MoonGate.description>花园墙上一个正圆形的门洞。据说从中穿过会带来好运。</HE_Tianxia_MoonGate.description>
+  <HE_Tianxia_Lantern.label>纸灯笼</HE_Tianxia_Lantern.label>
+  <HE_Tianxia_Lantern.description>漆柱上的一盏红纸灯笼，里面点着一盏小油灯。</HE_Tianxia_Lantern.description>
+  <HE_Tianxia_TeaTable.label>功夫茶桌</HE_Tianxia_TeaTable.label>
+  <HE_Tianxia_TeaTable.description>一张雕花木茶盘桌，配有陶茶壶和小茶杯。茶被一泡又一泡地冲，每次都更浓一些。</HE_Tianxia_TeaTable.description>
+  <HE_Tianxia_FireArrowBattery_Gun.label>火箭架</HE_Tianxia_FireArrowBattery_Gun.label>
+  <HE_Tianxia_FireArrowBattery_Gun.description>装在旋转车架上的六角形火箭箱。</HE_Tianxia_FireArrowBattery_Gun.description>
+  <HE_Tianxia_FireArrowBattery.label>火箭车</HE_Tianxia_FireArrowBattery.label>
+  <HE_Tianxia_FireArrowBattery.description>一辆带轮的“一窝蜂”，对射程内任何敌对目标一轮齐射八支火箭。它不需要电力，只需要木材来制作新箭：一根原木可做两支。火箭不准，但能点燃敌人。</HE_Tianxia_FireArrowBattery.description>
+  <HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>火箭</HE_Tianxia_FireArrowBattery.comps.1.fuelLabel>
+  <HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>箭矢</HE_Tianxia_FireArrowBattery.comps.1.fuelGizmoLabel>
+  <HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>需要木材制作箭矢</HE_Tianxia_FireArrowBattery.comps.1.outOfFuelMessage>
+  <HE_Tianxia_PrintingPress.label>丝绸印花机</HE_Tianxia_PrintingPress.label>
+  <HE_Tianxia_PrintingPress.description>一台带雕花滚筒的电动印花机，一次就能在丝绸和棉布上印出图案。放在裁缝台附近并通电时，裁缝速度加快12%。</HE_Tianxia_PrintingPress.description>
+</LanguageData>

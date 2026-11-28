@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_BS_Tiro.title>军团新兵</HE_Roma_BS_Tiro.title>
+  <HE_Roma_BS_Tiro.titleShort>新兵</HE_Roma_BS_Tiro.titleShort>
+  <HE_Roma_BS_Tiro.description>[PAWN_nameDef]十八岁加入军团，一直行军到[PAWN_possessive]双脚流血。教官们先教[PAWN_objective]挖壕沟、筑栅栏、守住阵线，然后才教[PAWN_objective]战斗。</HE_Roma_BS_Tiro.description>
+  <HE_Roma_BS_Faber.title>军团铁匠</HE_Roma_BS_Faber.title>
+  <HE_Roma_BS_Faber.titleShort>铁匠</HE_Roma_BS_Faber.titleShort>
+  <HE_Roma_BS_Faber.description>多年来，[PAWN_nameDef]让一座边境要塞的熔炉始终燃烧，锤打短剑、修补锁甲、为军官的马钉掌。[PAWN_pronoun]能凭声音分辨铁的好坏。</HE_Roma_BS_Faber.description>
+  <HE_Roma_BS_Architectus.title>引水渠建筑师</HE_Roma_BS_Architectus.title>
+  <HE_Roma_BS_Architectus.titleShort>建筑师</HE_Roma_BS_Architectus.titleShort>
+  <HE_Roma_BS_Architectus.description>[PAWN_nameDef]设计过跨越山谷输水的拱桥。[PAWN_pronoun]用铅垂线检查每一面墙，看到歪斜的墙就忍不住皱眉。</HE_Roma_BS_Architectus.description>
+  <HE_Roma_BS_Senator.title>初级元老</HE_Roma_BS_Senator.title>
+  <HE_Roma_BS_Senator.titleShort>元老</HE_Roma_BS_Senator.titleShort>
+  <HE_Roma_BS_Senator.description>[PAWN_nameDef]曾在新罗马元老院发言，为粮食法争论不休，并明白了每段友谊都有代价。[PAWN_pronoun]认为挖掘和搬运有失[PAWN_possessive]身份。</HE_Roma_BS_Senator.description>
+  <HE_Roma_BS_Medicus.title>战地军医</HE_Roma_BS_Medicus.title>
+  <HE_Roma_BS_Medicus.titleShort>军医</HE_Roma_BS_Medicus.titleShort>
+  <HE_Roma_BS_Medicus.description>[PAWN_nameDef]带着一袋青铜器械和浸过醋的绷带，随军团转战各地。[PAWN_pronoun]缝合过的伤口多到[PAWN_pronoun]数不清。</HE_Roma_BS_Medicus.description>
+  <HE_Roma_BS_Agricola.title>庄园农夫</HE_Roma_BS_Agricola.title>
+  <HE_Roma_BS_Agricola.titleShort>农夫</HE_Roma_BS_Agricola.titleShort>
+  <HE_Roma_BS_Agricola.description>[PAWN_nameDef]在乡间庄园的梯田橄榄园和麦田里劳作。[PAWN_pronoun]熟记播种的历法，不信任任何从没扶过犁的人。</HE_Roma_BS_Agricola.description>
+  <HE_Roma_BS_Centurio.title>老兵百夫长</HE_Roma_BS_Centurio.title>
+  <HE_Roma_BS_Centurio.titleShort>百夫长</HE_Roma_BS_Centurio.titleShort>
+  <HE_Roma_BS_Centurio.description>[PAWN_nameDef]统领八十名军团士兵长达十年，手持象征[PAWN_possessive]军衔的葡萄藤杖。[PAWN_pronoun]严厉、公正、嗓门大，[PAWN_possessive]士兵愿意跟随[PAWN_objective]跳进河里。</HE_Roma_BS_Centurio.description>
+  <HE_Roma_BS_Mercator.title>大道商人</HE_Roma_BS_Mercator.title>
+  <HE_Roma_BS_Mercator.titleShort>商人</HE_Roma_BS_Mercator.titleShort>
+  <HE_Roma_BS_Mercator.description>[PAWN_nameDef]赶着骡队沿石砌大道往来，在城镇间贩卖葡萄酒、橄榄油和小道消息。[PAWN_pronoun]一眼就能估出一车货物的价值。</HE_Roma_BS_Mercator.description>
+  <HE_Roma_BS_CastraChild.title>营地孩童</HE_Roma_BS_CastraChild.title>
+  <HE_Roma_BS_CastraChild.titleShort>营地孩童</HE_Roma_BS_CastraChild.titleShort>
+  <HE_Roma_BS_CastraChild.description>[PAWN_nameDef]在行军营地的帐篷和土垒间长大，为士兵跑腿，在识字之前就学会了[PAWN_possessive]号角信号。</HE_Roma_BS_CastraChild.description>
+  <HE_Roma_BS_Scriba.title>书吏学徒</HE_Roma_BS_Scriba.title>
+  <HE_Roma_BS_Scriba.titleShort>学徒</HE_Roma_BS_Scriba.titleShort>
+  <HE_Roma_BS_Scriba.description>[PAWN_nameDef]的童年是在档案馆里把法律抄写到蜡板上度过的，[PAWN_possessive]一滴墨渍就意味着一顿打。</HE_Roma_BS_Scriba.description>
+  <HE_Roma_BS_Subura.title>街头顽童</HE_Roma_BS_Subura.title>
+  <HE_Roma_BS_Subura.titleShort>顽童</HE_Roma_BS_Subura.titleShort>
+  <HE_Roma_BS_Subura.description>[PAWN_nameDef]在下城拥挤的公寓楼里长大，[PAWN_pronoun]在那里学会了偷面包、爬屋顶，还学会了用[PAWN_possessive]嘴皮子摆脱麻烦。</HE_Roma_BS_Subura.description>
+  <HE_Roma_BS_Villa.title>庄园孩童</HE_Roma_BS_Villa.title>
+  <HE_Roma_BS_Villa.titleShort>庄园孩童</HE_Roma_BS_Villa.titleShort>
+  <HE_Roma_BS_Villa.description>[PAWN_nameDef]在一座乡间庄园里长大，身边是葡萄藤、山羊和爱讲故事的祖父母。</HE_Roma_BS_Villa.description>
+</LanguageData>

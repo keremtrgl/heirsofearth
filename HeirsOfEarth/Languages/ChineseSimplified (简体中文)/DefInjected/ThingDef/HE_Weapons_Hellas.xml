@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Dory.label>长矛</HE_Hellas_Dory.label>
+  <HE_Hellas_Dory.description>一支两米半长的白蜡木矛，带有叶形铁矛头。如果矛头折断，重装步兵就把它调转过来，用青铜尾刺战斗。</HE_Hellas_Dory.description>
+  <HE_Hellas_Dory.tools.0.label>矛杆</HE_Hellas_Dory.tools.0.label>
+  <HE_Hellas_Dory.tools.1.label>剑尖</HE_Hellas_Dory.tools.1.label>
+  <HE_Hellas_Xiphos.label>希腊短剑</HE_Hellas_Xiphos.label>
+  <HE_Hellas_Xiphos.description>一把带叶形剑身的双刃短剑，在长矛丢失时作为副武器使用。</HE_Hellas_Xiphos.description>
+  <HE_Hellas_Xiphos.tools.0.label>剑柄</HE_Hellas_Xiphos.tools.0.label>
+  <HE_Hellas_Xiphos.tools.1.label>剑尖</HE_Hellas_Xiphos.tools.1.label>
+  <HE_Hellas_Xiphos.tools.2.label>剑刃</HE_Hellas_Xiphos.tools.2.label>
+  <HE_Hellas_Kopis.label>反刃刀</HE_Hellas_Kopis.label>
+  <HE_Hellas_Kopis.description>一把向前弯曲的沉重单刃刀，每一击都像斧头一样落下。</HE_Hellas_Kopis.description>
+  <HE_Hellas_Kopis.tools.0.label>剑柄</HE_Hellas_Kopis.tools.0.label>
+  <HE_Hellas_Kopis.tools.1.label>剑刃</HE_Hellas_Kopis.tools.1.label>
+  <HE_Hellas_Toxon.label>反曲弓</HE_Hellas_Toxon.label>
+  <HE_Hellas_Toxon.description>一张以角和筋腱制成的短反曲弓。拉得快，以其尺寸而言射得很有力。</HE_Hellas_Toxon.description>
+  <HE_Hellas_Toxon.tools.0.label>弩臂</HE_Hellas_Toxon.tools.0.label>
+  <HE_Hellas_Gastraphetes.label>腹弩</HE_Hellas_Gastraphetes.label>
+  <HE_Hellas_Gastraphetes.description>“腹弓”：装在长弩托上的重弓，靠腹部压在弧形托架上来上弦。它比任何手弓都射得更猛、更远。</HE_Hellas_Gastraphetes.description>
+  <HE_Hellas_Gastraphetes.tools.0.label>弩臂</HE_Hellas_Gastraphetes.tools.0.label>
+  <HE_Hellas_Musket.label>希腊滑膛枪</HE_Hellas_Musket.label>
+  <HE_Hellas_Musket.description>一支燧发滑膛枪，饰有银箍，枪托上镶嵌着回纹，由最早在蓝白旗帜下行军的志愿兵携带。火药用尽时，套管刺刀让它变成一支长矛。</HE_Hellas_Musket.description>
+  <HE_Hellas_Musket.tools.0.label>枪托</HE_Hellas_Musket.tools.0.label>
+  <HE_Hellas_Musket.tools.1.label>刺刀</HE_Hellas_Musket.tools.1.label>
+  <HE_Hellas_Rifle.label>希腊步枪</HE_Hellas_Rifle.label>
+  <HE_Hellas_Rifle.description>一支单发栓动步枪，饰有银箍，配长剑形刺刀。山地近卫兵带着它进入群山。</HE_Hellas_Rifle.description>
+  <HE_Hellas_Rifle.tools.0.label>枪托</HE_Hellas_Rifle.tools.0.label>
+  <HE_Hellas_Rifle.tools.1.label>刺刀</HE_Hellas_Rifle.tools.1.label>
+  <HE_Hellas_MountainCarbine.label>希腊山地卡宾枪</HE_Hellas_MountainCarbine.label>
+  <HE_Hellas_MountainCarbine.description>一支轻短的卡宾枪，饰有银箍，为亲自把一切背上山坡的山地部队而造。在丘陵的中距离上表现最佳。</HE_Hellas_MountainCarbine.description>
+  <HE_Hellas_MountainCarbine.tools.0.label>枪托</HE_Hellas_MountainCarbine.tools.0.label>
+  <HE_Hellas_MountainCarbine.tools.1.label>枪管</HE_Hellas_MountainCarbine.tools.1.label>
+</LanguageData>

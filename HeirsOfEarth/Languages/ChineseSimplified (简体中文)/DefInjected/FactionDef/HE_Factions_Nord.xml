@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Nord.label>诺德海姆雅尔国</HE_Faction_Nord.label>
+  <HE_Faction_Nord.description>诺德海姆的自由人，殖民船“世界树号”的继承者。他们在雪中狩猎，在蜜酒大厅里宴饮，只有雅尔一直打胜仗时才追随他。</HE_Faction_Nord.description>
+  <HE_Faction_Nord.fixedName>诺德海姆雅尔国</HE_Faction_Nord.fixedName>
+  <HE_Faction_Nord.pawnSingular>北地人</HE_Faction_Nord.pawnSingular>
+  <HE_Faction_Nord.pawnsPlural>北地人</HE_Faction_Nord.pawnsPlural>
+  <HE_Faction_Nord.leaderTitle>雅尔</HE_Faction_Nord.leaderTitle>
+  <HE_Player_Nord.label>诺德海姆定居者</HE_Player_Nord.label>
+  <HE_Player_Nord.description>一小群诺德海姆定居者，在远离他们雅尔的地方建起一座新长屋。</HE_Player_Nord.description>
+  <HE_Player_Nord.pawnSingular>殖民者</HE_Player_Nord.pawnSingular>
+  <HE_Player_Nord.pawnsPlural>殖民者</HE_Player_Nord.pawnsPlural>
+</LanguageData>

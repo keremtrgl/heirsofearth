@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Sabre.label>骑兵马刀</HE_Albion_Sabre.label>
+  <HE_Albion_Sabre.description>一把带篮式护手的弯曲单刃刀，专为在马鞍上劈砍而造。
+
+除非这是你的传承，否则需要10点阿尔比恩知识。</HE_Albion_Sabre.description>
+  <HE_Albion_Tweed.label>粗花呢工坊</HE_Albion_Tweed.label>
+  <HE_Albion_Tweed.description>织造粗糙温暖、带素雅格纹、能挡雨的羊毛布料。
+
+除非这是你的传承，否则需要5点阿尔比恩知识。</HE_Albion_Tweed.description>
+  <HE_Albion_Brick.label>砖石与鹅卵石</HE_Albion_Brick.label>
+  <HE_Albion_Brick.description>为庭院烧制红砖，在街道上铺设圆鹅卵石。
+
+除非这是你的传承，否则需要5点阿尔比恩知识。</HE_Albion_Brick.description>
+  <HE_Albion_MeatPie.label>肉馅饼</HE_Albion_MeatPie.label>
+  <HE_Albion_MeatPie.description>把肉和肉汁封进厚酥皮里，可以保存数日，便于携带。
+
+除非这是你的传承，否则需要5点阿尔比恩知识。</HE_Albion_MeatPie.description>
+  <HE_Albion_Pub.label>酒馆</HE_Albion_Pub.label>
+  <HE_Albion_Pub.description>一张橡木长桌、一桶麦芽酒和一个飞镖盘：阿尔比恩真正的议会。
+
+除非这是你的传承，否则需要5点阿尔比恩知识。</HE_Albion_Pub.description>
+  <HE_Albion_Enclosure.label>圈地</HE_Albion_Enclosure.label>
+  <HE_Albion_Enclosure.description>用树篱围起公地，为盈利而耕种。收成增加了；邻居们抱怨了。
+
+传统：殖民者从植物上多收获5%，但谈判能力降低5%。
+
+除非这是你的传承，否则需要20点阿尔比恩知识。</HE_Albion_Enclosure.description>
+  <HE_Albion_Sanitation.label>公共卫生</HE_Albion_Sanitation.label>
+  <HE_Albion_Sanitation.description>烧开水，排干街道，洗净双手。在干净的城镇里，热病消退得更快。
+
+传统：殖民者获得免疫力的速度加快10%。
+
+除非这是你的传承，否则需要25点阿尔比恩知识。</HE_Albion_Sanitation.description>
+  <HE_Albion_JointStock.label>股份公司</HE_Albion_JointStock.label>
+  <HE_Albion_JointStock.description>汇集众人的钱财，共担每次航行的风险，共享每笔交易的利润。
+
+传统：殖民者获得5%更好的交易价格。
+
+除非这是你的传承，否则需要25点阿尔比恩知识。</HE_Albion_JointStock.description>
+  <HE_Albion_Charts.label>皇家海军海图</HE_Albion_Charts.label>
+  <HE_Albion_Charts.description>测绘过的海岸、测量过的河流和维护良好的道路：阿尔比恩的商队从不迷路。
+
+传统：商队移动速度加快10%。
+
+除非这是你的传承，否则需要30点阿尔比恩知识。</HE_Albion_Charts.description>
+  <HE_Albion_Musket.label>燧发滑膛枪</HE_Albion_Musket.label>
+  <HE_Albion_Musket.description>一支滑膛燧发枪：装填缓慢、声音很响、五十步外就不准，但齐射时令人胆寒。
+
+除非这是你的传承，否则需要20点阿尔比恩知识。</HE_Albion_Musket.description>
+  <HE_Albion_Redcoat.label>红衫军制服</HE_Albion_Redcoat.label>
+  <HE_Albion_Redcoat.description>一件白色翻边的红色羊毛外套和一顶高筒军帽。一排红衫军在一英里外就能看见，而这正是目的。
+
+除非这是你的传承，否则需要15点阿尔比恩知识。</HE_Albion_Redcoat.description>
+  <HE_Albion_SteamEngine.label>蒸汽机</HE_Albion_SteamEngine.label>
+  <HE_Albion_SteamEngine.description>用木材烧开水，用蒸汽推动活塞，用活塞转动发电机。
+
+除非这是你的传承，否则需要25点阿尔比恩知识。</HE_Albion_SteamEngine.description>
+  <HE_Albion_Rifle.label>线膛滑膛枪</HE_Albion_Rifle.label>
+  <HE_Albion_Rifle.description>在枪管内刻出螺旋膛线并装上刺刀：射程更远，瞄准更准，末端还有一支矛。
+
+除非这是你的传承，否则需要35点阿尔比恩知识。</HE_Albion_Rifle.description>
+  <HE_Albion_Drill.label>操练军士</HE_Albion_Drill.label>
+  <HE_Albion_Drill.description>装填，举枪，开火。再来。再来。直到不假思索地完成。
+
+传统：殖民者获得+2射击精度。
+
+除非这是你的传承，否则需要35点阿尔比恩知识。</HE_Albion_Drill.description>
+  <HE_Albion_SteamPower.label>蒸汽动力</HE_Albion_SteamPower.label>
+  <HE_Albion_SteamPower.description>皮带和传动轴把发动机的动力送到每一张工作台。浪费更少，产出更多。
+
+传统：你的工作台消耗的资源减少5%。
+
+除非这是你的传承，否则需要40点阿尔比恩知识。</HE_Albion_SteamPower.description>
+  <HE_Albion_FactoryOrder.label>工厂秩序</HE_Albion_FactoryOrder.label>
+  <HE_Albion_FactoryOrder.description>黎明的汽笛、轮班、定额。工作台从不闲置，工人也一样。
+
+传统：你的工作台工作速度加快12%，但殖民者的精神崩溃阈值提高2%。
+
+除非这是你的传承，否则需要45点阿尔比恩知识。</HE_Albion_FactoryOrder.description>
+  <HE_Albion_Workshop.label>世界工厂</HE_Albion_Workshop.label>
+  <HE_Albion_Workshop.description>阿尔比恩的机器日夜运转，整个殖民地都随着它们的节拍行动。
+
+传统：殖民者工作速度加快4%，获得+1射击精度。
+
+除非这是你的传承，否则需要50点阿尔比恩知识。
+
+完成该国的故事后解锁。</HE_Albion_Workshop.description>
+  <HE_Albion_TextileMill.label>纺织厂</HE_Albion_TextileMill.label>
+  <HE_Albion_TextileMill.description>一台蒸汽驱动的动力织布机，把一包羊毛织成粗花呢的速度比十个手工织工还快。
+
+除非这是你的传承，否则需要40点阿尔比恩知识。</HE_Albion_TextileMill.description>
+  <HE_Albion_FieldCannon.label>野战炮</HE_Albion_FieldCannon.label>
+  <HE_Albion_FieldCannon.description>训练有素的炮组和铸造的青铜炮管：赢得帝国诸多战役的炮兵。
+
+除非这是你的传承，否则需要40点阿尔比恩知识。</HE_Albion_FieldCannon.description>
+  <HE_Albion_SteamArmy.label>阿尔比恩蒸汽军</HE_Albion_SteamArmy.label>
+  <HE_Albion_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时阿尔比恩组建的军队。
+
+若非你的传承，只有在阿尔比恩进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点阿尔比恩知识。</HE_Albion_SteamArmy.description>
+  <HE_Albion_ElectricArmy.label>阿尔比恩电气军</HE_Albion_ElectricArmy.label>
+  <HE_Albion_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时阿尔比恩组建的军队。
+
+若非你的传承，只有在阿尔比恩进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点阿尔比恩知识。</HE_Albion_ElectricArmy.description>
+  <HE_Albion_Works.label>阿尔比恩工程</HE_Albion_Works.label>
+  <HE_Albion_Works.description>阿尔比恩的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在阿尔比恩进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点阿尔比恩知识。</HE_Albion_Works.description>
+</LanguageData>

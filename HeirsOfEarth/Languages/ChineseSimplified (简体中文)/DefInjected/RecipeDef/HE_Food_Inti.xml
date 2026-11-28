@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Inti_Pachamanca.label>烹饪土窑烤</HE_Cook_Inti_Pachamanca.label>
+  <HE_Cook_Inti_Pachamanca.description>烹饪土窑烤。</HE_Cook_Inti_Pachamanca.description>
+  <HE_Cook_Inti_Pachamanca.jobString>正在烹饪土窑烤。</HE_Cook_Inti_Pachamanca.jobString>
+  <HE_Cook_Inti_Locro.label>烹饪洛克罗炖菜</HE_Cook_Inti_Locro.label>
+  <HE_Cook_Inti_Locro.description>烹饪洛克罗炖菜。</HE_Cook_Inti_Locro.description>
+  <HE_Cook_Inti_Locro.jobString>正在烹饪洛克罗炖菜。</HE_Cook_Inti_Locro.jobString>
+  <HE_Cook_Inti_Humita.label>烹饪玉米粽</HE_Cook_Inti_Humita.label>
+  <HE_Cook_Inti_Humita.description>烹饪玉米粽。</HE_Cook_Inti_Humita.description>
+  <HE_Cook_Inti_Humita.jobString>正在烹饪玉米粽。</HE_Cook_Inti_Humita.jobString>
+</LanguageData>

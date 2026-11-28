@@ -153,9 +153,9 @@ namespace HeProbe
                 }
                 P.Check(name + " Electric troops carry the new gun", guns >= total * 0.22f && guns <= total * 0.58f, guns + "/" + total);
                 P.Check(name + " Electric troops wear the field uniform", uniform != null && uniforms >= total * 0.36f && uniforms <= total * 0.72f, uniforms + "/" + total);
-                // 4.3.1: lower bound 20% for now; DLC headgear seems to push some helmets out (logged below), to be fixed in 4.3.2
+                // 4.3.2: HeirsKits.WearMissing puts on a rolled helmet the vanilla generator dropped, so the share is back near 55%
                 P.Say(name + " troops without the helmet: " + string.Join(" | ", heads));
-                P.Check(name + " Electric troops wear the steel helmet", helmet != null && helmets >= total * 0.2f && helmets <= total * 0.72f, helmets + "/" + total);
+                P.Check(name + " Electric troops wear the steel helmet", helmet != null && helmets >= total * 0.38f && helmets <= total * 0.72f, helmets + "/" + total);
                 P.Check(name + " Electric troops wear nothing that clashes", clashes == 0, clashes.ToString());
             }
         }

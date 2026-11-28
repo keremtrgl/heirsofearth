@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Jian.label>剑</HE_Tianxia_Jian.label>
+  <HE_Tianxia_Jian.description>一把笔直的双刃剑，轻巧迅捷，以精准的刺击和腕部的抖动使用。</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Jian.tools.0.label>剑柄</HE_Tianxia_Jian.tools.0.label>
+  <HE_Tianxia_Jian.tools.1.label>剑尖</HE_Tianxia_Jian.tools.1.label>
+  <HE_Tianxia_Jian.tools.2.label>剑刃</HE_Tianxia_Jian.tools.2.label>
+  <HE_Tianxia_Guandao.label>关刀</HE_Tianxia_Guandao.label>
+  <HE_Tianxia_Guandao.description>装在长杆上的沉重弯刃，带有龙头护手，以大幅度横扫挥舞。</HE_Tianxia_Guandao.description>
+  <HE_Tianxia_Guandao.tools.0.label>矛杆</HE_Tianxia_Guandao.tools.0.label>
+  <HE_Tianxia_Guandao.tools.1.label>剑刃</HE_Tianxia_Guandao.tools.1.label>
+  <HE_Tianxia_Repeater.label>连弩</HE_Tianxia_Repeater.label>
+  <HE_Tianxia_Repeater.description>一把顶部装有十支弩箭匣的弩。它能快速连射三支轻弩箭，然后必须重新装填。</HE_Tianxia_Repeater.description>
+  <HE_Tianxia_Repeater.tools.0.label>弩臂</HE_Tianxia_Repeater.tools.0.label>
+  <HE_Tianxia_FireLance.label>火枪</HE_Tianxia_FireLance.label>
+  <HE_Tianxia_FireLance.description>一支矛头后绑着黑火药竹筒的长矛。点燃后，它喷出一道短促的火焰，点燃目标；之后它就又只是一支矛了。</HE_Tianxia_FireLance.description>
+  <HE_Tianxia_FireLance.tools.0.label>矛杆</HE_Tianxia_FireLance.tools.0.label>
+  <HE_Tianxia_FireLance.tools.1.label>剑尖</HE_Tianxia_FireLance.tools.1.label>
+  <HE_Tianxia_Dao.label>刀</HE_Tianxia_Dao.label>
+  <HE_Tianxia_Dao.description>普通士兵使用的宽刃刀，带有圆盘护手和红缨。砍得深，易于学习。</HE_Tianxia_Dao.description>
+  <HE_Tianxia_Dao.tools.0.label>剑柄</HE_Tianxia_Dao.tools.0.label>
+  <HE_Tianxia_Dao.tools.1.label>剑尖</HE_Tianxia_Dao.tools.1.label>
+  <HE_Tianxia_Dao.tools.2.label>剑刃</HE_Tianxia_Dao.tools.2.label>
+  <HE_Tianxia_BirdGun.label>鸟铳</HE_Tianxia_BirdGun.label>
+  <HE_Tianxia_BirdGun.description>一种细长的火绳枪，称为鸟铳：精准到能打中飞鸟，轻便到能整天携带。</HE_Tianxia_BirdGun.description>
+  <HE_Tianxia_BirdGun.tools.0.label>枪托</HE_Tianxia_BirdGun.tools.0.label>
+  <HE_Tianxia_BirdGun.tools.1.label>枪管</HE_Tianxia_BirdGun.tools.1.label>
+  <HE_Tianxia_Rifle.label>天下步枪</HE_Tianxia_Rifle.label>
+  <HE_Tianxia_Rifle.description>新式兵工厂出产的栓动步枪，深红色枪托以黄铜箍住，枪口系着一条图吉利的红缨。成千上万地生产，比任何其他步枪所需的工时和零件都更少。</HE_Tianxia_Rifle.description>
+  <HE_Tianxia_Rifle.tools.0.label>枪托</HE_Tianxia_Rifle.tools.0.label>
+  <HE_Tianxia_Rifle.tools.1.label>枪管</HE_Tianxia_Rifle.tools.1.label>
+  <HE_Tianxia_BoxPistol.label>天下盒子炮</HE_Tianxia_BoxPistol.label>
+  <HE_Tianxia_BoxPistol.description>一把扫帚柄握把的手枪，装在一个木盒里，木盒可以装上当作枪托。它能短点射，举枪迅速，成千上万地生产，工时很少。握把上垂着一条红缨。</HE_Tianxia_BoxPistol.description>
+  <HE_Tianxia_BoxPistol.tools.0.label>握把</HE_Tianxia_BoxPistol.tools.0.label>
+  <HE_Tianxia_BoxPistol.tools.1.label>枪管</HE_Tianxia_BoxPistol.tools.1.label>
+</LanguageData>

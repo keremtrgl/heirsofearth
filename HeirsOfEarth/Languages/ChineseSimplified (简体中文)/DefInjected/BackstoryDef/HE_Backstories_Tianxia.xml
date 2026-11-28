@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_BS_Militia.title>边疆民兵</HE_Tianxia_BS_Militia.title>
+  <HE_Tianxia_BS_Militia.titleShort>民兵</HE_Tianxia_BS_Militia.titleShort>
+  <HE_Tianxia_BS_Militia.description>[PAWN_nameDef]在北方边疆耕种一块田地，每十天与村里的民兵一起操练。劫掠者来袭时，[PAWN_pronoun]守住了城门。</HE_Tianxia_BS_Militia.description>
+  <HE_Tianxia_BS_Scholar.title>科举书生</HE_Tianxia_BS_Scholar.title>
+  <HE_Tianxia_BS_Scholar.titleShort>书生</HE_Tianxia_BS_Scholar.titleShort>
+  <HE_Tianxia_BS_Scholar.description>[PAWN_nameDef]苦读经典十五年，第三次应试才考中乡试。[PAWN_pronoun]能在任何场合引用一句圣贤之言，还能在[PAWN_possessive]脑子里计算税款。</HE_Tianxia_BS_Scholar.description>
+  <HE_Tianxia_BS_Potter.title>瓷器大师</HE_Tianxia_BS_Potter.title>
+  <HE_Tianxia_BS_Potter.titleShort>陶工</HE_Tianxia_BS_Potter.titleShort>
+  <HE_Tianxia_BS_Potter.description>[PAWN_nameDef]在一座窑镇烧制御瓷，那里一个瑕疵就意味着整件器物被砸碎。[PAWN_pronoun]砸碎过成千上万件。</HE_Tianxia_BS_Potter.description>
+  <HE_Tianxia_BS_Physician.title>针灸医师</HE_Tianxia_BS_Physician.title>
+  <HE_Tianxia_BS_Physician.titleShort>医师</HE_Tianxia_BS_Physician.titleShort>
+  <HE_Tianxia_BS_Physician.description>[PAWN_nameDef]从一位老御医那里学会了经络和百草。[PAWN_pronoun]能从脉搏中读出病症。</HE_Tianxia_BS_Physician.description>
+  <HE_Tianxia_BS_Crossbowman.title>守城弩手</HE_Tianxia_BS_Crossbowman.title>
+  <HE_Tianxia_BS_Crossbowman.titleShort>弩手</HE_Tianxia_BS_Crossbowman.titleShort>
+  <HE_Tianxia_BS_Crossbowman.description>十年来，[PAWN_nameDef]手持连弩站在长城上，数着草原上扬起的尘云。</HE_Tianxia_BS_Crossbowman.description>
+  <HE_Tianxia_BS_Silkweaver.title>丝绸织工</HE_Tianxia_BS_Silkweaver.title>
+  <HE_Tianxia_BS_Silkweaver.titleShort>织工</HE_Tianxia_BS_Silkweaver.titleShort>
+  <HE_Tianxia_BS_Silkweaver.description>[PAWN_nameDef]照料桑树和蚕，为宫廷织造锦缎。[PAWN_possessive]手指灵巧，[PAWN_possessive]耐心无穷。</HE_Tianxia_BS_Silkweaver.description>
+  <HE_Tianxia_BS_Bannerman.title>旗军军官</HE_Tianxia_BS_Bannerman.title>
+  <HE_Tianxia_BS_Bannerman.titleShort>军官</HE_Tianxia_BS_Bannerman.titleShort>
+  <HE_Tianxia_BS_Bannerman.description>[PAWN_nameDef]在红旗下统领百人，因守住一处渡口三天而获得晋升。</HE_Tianxia_BS_Bannerman.description>
+  <HE_Tianxia_BS_Merchant.title>商队首领</HE_Tianxia_BS_Merchant.title>
+  <HE_Tianxia_BS_Merchant.titleShort>商队首领</HE_Tianxia_BS_Merchant.titleShort>
+  <HE_Tianxia_BS_Merchant.description>[PAWN_nameDef]率领骆驼商队沿丝绸之路行进，以茶换马，以丝换银。[PAWN_pronoun]会说路上每种语言的一点点。</HE_Tianxia_BS_Merchant.description>
+  <HE_Tianxia_BS_Schoolboy.title>村塾学童</HE_Tianxia_BS_Schoolboy.title>
+  <HE_Tianxia_BS_Schoolboy.titleShort>学徒</HE_Tianxia_BS_Schoolboy.titleShort>
+  <HE_Tianxia_BS_Schoolboy.description>[PAWN_nameDef]每天早晨在寒冷的村塾里用毛笔临摹汉字，梦想着考场。</HE_Tianxia_BS_Schoolboy.description>
+  <HE_Tianxia_BS_RiceTerrace.title>梯田农家孩童</HE_Tianxia_BS_RiceTerrace.title>
+  <HE_Tianxia_BS_RiceTerrace.titleShort>农家孩童</HE_Tianxia_BS_RiceTerrace.titleShort>
+  <HE_Tianxia_BS_RiceTerrace.description>[PAWN_nameDef]在山间稻田梯田上长大，挑水，赶着鸭子穿过稻田。</HE_Tianxia_BS_RiceTerrace.description>
+  <HE_Tianxia_BS_Kitchen.title>茶馆孩童</HE_Tianxia_BS_Kitchen.title>
+  <HE_Tianxia_BS_Kitchen.titleShort>茶馆孩童</HE_Tianxia_BS_Kitchen.titleShort>
+  <HE_Tianxia_BS_Kitchen.description>[PAWN_nameDef]在一家热闹的茶馆里长大，在厨房里包饺子，在大堂里听说书人讲故事。</HE_Tianxia_BS_Kitchen.description>
+  <HE_Tianxia_BS_Martial.title>寺院武学弟子</HE_Tianxia_BS_Martial.title>
+  <HE_Tianxia_BS_Martial.titleShort>学徒</HE_Tianxia_BS_Martial.titleShort>
+  <HE_Tianxia_BS_Martial.description>[PAWN_nameDef]被送到一座山寺，僧人们教[PAWN_objective]扎一个小时的马步，并学会无怒而击。</HE_Tianxia_BS_Martial.description>
+</LanguageData>

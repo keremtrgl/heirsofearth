@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Gladius.label>军团短剑</HE_Roma_Gladius.label>
+  <HE_Roma_Gladius.description>军团的短剑，锻有宽阔的刺击尖端。轻巧迅捷，专为在盾墙后出击而造。</HE_Roma_Gladius.description>
+  <HE_Roma_Gladius.tools.0.label>剑柄</HE_Roma_Gladius.tools.0.label>
+  <HE_Roma_Gladius.tools.1.label>剑尖</HE_Roma_Gladius.tools.1.label>
+  <HE_Roma_Gladius.tools.2.label>剑刃</HE_Roma_Gladius.tools.2.label>
+  <HE_Roma_Pilum.label>重标枪</HE_Roma_Pilum.label>
+  <HE_Roma_Pilum.description>一种带有长软铁杆的重型标枪。近身战斗中它是一支矛，矛尖会在盾牌和护甲中弯曲，卡住不放。</HE_Roma_Pilum.description>
+  <HE_Roma_Pilum.tools.0.label>矛杆</HE_Roma_Pilum.tools.0.label>
+  <HE_Roma_Pilum.tools.1.label>剑尖</HE_Roma_Pilum.tools.1.label>
+  <HE_Roma_Manuballista.label>手持弩炮</HE_Roma_Manuballista.label>
+  <HE_Roma_Manuballista.description>一种小到单兵即可操作的扭力弩。上弦缓慢，但它的铁弩箭威力堪比掷出的重标枪。</HE_Roma_Manuballista.description>
+  <HE_Roma_Manuballista.tools.0.label>弩臂</HE_Roma_Manuballista.tools.0.label>
+  <HE_Roma_Carbine.label>军团卡宾枪</HE_Roma_Carbine.label>
+  <HE_Roma_Carbine.description>一支短管后装卡宾枪，枪托涂有红漆，枪机板上饰有黄铜雄鹰。装填迅速，近距离操控出色。</HE_Roma_Carbine.description>
+  <HE_Roma_Carbine.tools.0.label>枪托</HE_Roma_Carbine.tools.0.label>
+  <HE_Roma_Carbine.tools.1.label>枪管</HE_Roma_Carbine.tools.1.label>
+  <HE_Roma_Spatha.label>骑兵长剑</HE_Roma_Spatha.label>
+  <HE_Roma_Spatha.description>骑兵和后期军团使用的长剑。比罗马短剑更长，在马背上劈砍有力，依然保有良好的剑尖。</HE_Roma_Spatha.description>
+  <HE_Roma_Spatha.tools.0.label>剑首</HE_Roma_Spatha.tools.0.label>
+  <HE_Roma_Spatha.tools.1.label>剑尖</HE_Roma_Spatha.tools.1.label>
+  <HE_Roma_Spatha.tools.2.label>剑刃</HE_Roma_Spatha.tools.2.label>
+  <HE_Roma_Arquebus.label>罗马火绳枪</HE_Roma_Arquebus.label>
+  <HE_Roma_Arquebus.description>一支火绳枪，枪托涂有红漆，枪机上饰有黄铜雄鹰。军团学习火药较晚，却刻苦操练：近距离时它是最稳定的火器。</HE_Roma_Arquebus.description>
+  <HE_Roma_Arquebus.tools.0.label>枪托</HE_Roma_Arquebus.tools.0.label>
+  <HE_Roma_Arquebus.tools.1.label>枪管</HE_Roma_Arquebus.tools.1.label>
+  <HE_Roma_Autoloader.label>罗马自动装填步枪</HE_Roma_Autoloader.label>
+  <HE_Roma_Autoloader.description>一支自动装填步枪，枪托涂有红漆，机匣上饰有青铜雄鹰。每次射击的燃气推动枪机，军团士兵一瞄准好就能再次开火。</HE_Roma_Autoloader.description>
+  <HE_Roma_Autoloader.tools.0.label>枪托</HE_Roma_Autoloader.tools.0.label>
+  <HE_Roma_Autoloader.tools.1.label>刺刀</HE_Roma_Autoloader.tools.1.label>
+</LanguageData>

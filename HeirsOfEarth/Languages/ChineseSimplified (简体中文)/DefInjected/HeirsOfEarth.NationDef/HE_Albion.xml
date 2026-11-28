@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion.label>阿尔比恩联邦</HE_Albion.label>
+  <HE_Albion.description>殖民船“阿瓦隆号”登陆在一座多雨、富含煤铁的岛屿上，岛上的人们做了他们祖先做过的事：挖掘、建造和发明。阿尔比恩是唯一拥有蒸汽机和步枪的继承者国家，由一位护国公和一个争吵不休的议会统治。它的红衫军纪律严明，它的商人雄心勃勃，而它与新罗马不和的历史久远到无人记得起源。</HE_Albion.description>
+  <HE_Albion.rulerTitle>护国公</HE_Albion.rulerTitle>
+  <HE_Albion.adjective>阿尔比恩</HE_Albion.adjective>
+  <HE_Albion.doctrine.label>攻城炮队</HE_Albion.doctrine.label>
+  <HE_Albion.doctrine.description>阿尔比恩带着铁锹和大炮而来。它的军队常常在进攻前先挖掘工事、建起炮台，它的步枪手稳定而有节奏地齐射。</HE_Albion.doctrine.description>
+  <HE_Albion.honoraryTitle>联邦骑士</HE_Albion.honoraryTitle>
+</LanguageData>

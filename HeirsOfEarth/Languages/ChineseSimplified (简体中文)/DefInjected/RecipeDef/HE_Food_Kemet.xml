@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Kemet_Bread.label>烹饪椰枣面包</HE_Cook_Kemet_Bread.label>
+  <HE_Cook_Kemet_Bread.description>烹饪椰枣面包。</HE_Cook_Kemet_Bread.description>
+  <HE_Cook_Kemet_Bread.jobString>正在烹饪椰枣面包。</HE_Cook_Kemet_Bread.jobString>
+  <HE_Cook_Kemet_Ful.label>烹饪炖蚕豆</HE_Cook_Kemet_Ful.label>
+  <HE_Cook_Kemet_Ful.description>烹饪炖蚕豆。</HE_Cook_Kemet_Ful.description>
+  <HE_Cook_Kemet_Ful.jobString>正在烹饪炖蚕豆。</HE_Cook_Kemet_Ful.jobString>
+  <HE_Cook_Kemet_DateCake.label>烹饪椰枣糕</HE_Cook_Kemet_DateCake.label>
+  <HE_Cook_Kemet_DateCake.description>烹饪椰枣糕。</HE_Cook_Kemet_DateCake.description>
+  <HE_Cook_Kemet_DateCake.jobString>正在烹饪椰枣糕。</HE_Cook_Kemet_DateCake.jobString>
+</LanguageData>

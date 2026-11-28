@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Tianxia_Jian.label>剑</HE_Tianxia_Jian.label>
+  <HE_Tianxia_Jian.description>笔直的双刃剑，被称为百兵之君。
+
+除非这是你的传承，否则需要5点天下知识。</HE_Tianxia_Jian.description>
+  <HE_Tianxia_Silk.label>丝绸织造</HE_Tianxia_Silk.label>
+  <HE_Tianxia_Silk.description>用桑叶养蚕，将蚕丝织成世上最柔软的布料。
+
+除非这是你的传承，否则需要5点天下知识。</HE_Tianxia_Silk.description>
+  <HE_Tianxia_JadeFloor.label>玉石庭院</HE_Tianxia_JadeFloor.label>
+  <HE_Tianxia_JadeFloor.description>用抛光的绿石以云纹铺设庭院。
+
+除非这是你的传承，否则需要5点天下知识。</HE_Tianxia_JadeFloor.description>
+  <HE_Tianxia_Hanfu.label>汉服</HE_Tianxia_Hanfu.label>
+  <HE_Tianxia_Hanfu.description>缝制士大夫和官员穿的交领宽袖飘逸长袍。
+
+除非这是你的传承，否则需要5点天下知识。</HE_Tianxia_Hanfu.description>
+  <HE_Tianxia_Dumplings.label>饺子</HE_Tianxia_Dumplings.label>
+  <HE_Tianxia_Dumplings.description>把肉馅和青菜包进薄面皮里，放在竹笼中蒸熟。
+
+除非这是你的传承，否则需要5点天下知识。</HE_Tianxia_Dumplings.description>
+  <HE_Tianxia_PaperLantern.label>纸灯笼</HE_Tianxia_PaperLantern.label>
+  <HE_Tianxia_PaperLantern.description>把油纸绷在竹架上，沿每条小路挂起红灯笼。
+
+除非这是你的传承，否则需要5点天下知识。</HE_Tianxia_PaperLantern.description>
+  <HE_Tianxia_TeaCulture.label>茶文化</HE_Tianxia_TeaCulture.label>
+  <HE_Tianxia_TeaCulture.description>睡前一杯茶，醒来一杯茶。心静则身安。
+
+传统：殖民者休息速度加快5%。
+
+除非这是你的传承，否则需要15点天下知识。</HE_Tianxia_TeaCulture.description>
+  <HE_Tianxia_Granary.label>常平仓</HE_Tianxia_Granary.label>
+  <HE_Tianxia_Granary.description>谷贱时买入，储存以备荒年：收成被精心打理。
+
+传统：殖民者从植物上多收获6%。
+
+除非这是你的传承，否则需要15点天下知识。</HE_Tianxia_Granary.description>
+  <HE_Tianxia_SilkRoad.label>丝绸之路</HE_Tianxia_SilkRoad.label>
+  <HE_Tianxia_SilkRoad.description>天下的商队从一片绿洲到另一片绿洲，把丝绸运往西方，把白银运往东方，他们知道每一样东西的价钱。
+
+传统：殖民者获得6%更好的交易价格。
+
+除非这是你的传承，否则需要20点天下知识。</HE_Tianxia_SilkRoad.description>
+  <HE_Tianxia_Guandao.label>御用武库</HE_Tianxia_Guandao.label>
+  <HE_Tianxia_Guandao.description>为禁军锻造沉重的关刀和札甲。
+
+除非这是你的传承，否则需要10点天下知识。</HE_Tianxia_Guandao.description>
+  <HE_Tianxia_Repeater.label>连弩</HE_Tianxia_Repeater.label>
+  <HE_Tianxia_Repeater.description>顶部装有弩箭匣的弩：拉动杠杆，射出，再拉。
+
+除非这是你的传承，否则需要15点天下知识。</HE_Tianxia_Repeater.description>
+  <HE_Tianxia_PorcelainKiln.label>瓷窑</HE_Tianxia_PorcelainKiln.label>
+  <HE_Tianxia_PorcelainKiln.description>以世上任何陶工都无法企及的高温烧制白瓷土，再以钴蓝彩绘。
+
+除非这是你的传承，否则需要15点天下知识。</HE_Tianxia_PorcelainKiln.description>
+  <HE_Tianxia_FireLance.label>火枪</HE_Tianxia_FireLance.label>
+  <HE_Tianxia_FireLance.description>绑在长矛上的一管黑火药。点燃后，它会向敌人喷出火焰和碎片。
+
+除非这是你的传承，否则需要30点天下知识。</HE_Tianxia_FireLance.description>
+  <HE_Tianxia_Physicians.label>御医</HE_Tianxia_Physicians.label>
+  <HE_Tianxia_Physicians.description>针灸、草药和号脉：宫廷御医几乎能治好一切病症。
+
+传统：殖民者治疗伤口的质量+10%，获得免疫力的速度加快8%。
+
+除非这是你的传承，否则需要25点天下知识。</HE_Tianxia_Physicians.description>
+  <HE_Tianxia_Examination.label>科举</HE_Tianxia_Examination.label>
+  <HE_Tianxia_Examination.description>人人都可参加科举，凡考中者皆可为官。所以人人都在读书。
+
+传统：殖民者学习速度加快10%。
+
+除非这是你的传承，否则需要35点天下知识。</HE_Tianxia_Examination.description>
+  <HE_Tianxia_FireArrows.label>火箭</HE_Tianxia_FireArrows.label>
+  <HE_Tianxia_FireArrows.description>弓手反复操练，直到齐射如一箭落下。敌阵在抵达城墙之前就已燃烧。
+
+传统：殖民者获得+2射击精度。
+
+除非这是你的传承，否则需要35点天下知识。</HE_Tianxia_FireArrows.description>
+  <HE_Tianxia_Porcelain.label>瓷艺精通</HE_Tianxia_Porcelain.label>
+  <HE_Tianxia_Porcelain.description>景德镇的窑烧一千件只留一件。每个工匠都学会了这种耐心。
+
+传统：制作的物品有6%的几率提高一个品质等级。
+
+除非这是你的传承，否则需要40点天下知识。</HE_Tianxia_Porcelain.description>
+  <HE_Tianxia_Harmony.label>和谐之国</HE_Tianxia_Harmony.label>
+  <HE_Tianxia_Harmony.description>天之玉玺归于其位，每户人家都在平静的秩序中劳作。
+
+传统：殖民者工作速度加快3%，精神崩溃阈值降低3%。
+
+除非这是你的传承，否则需要50点天下知识。
+
+完成该国的故事后解锁。</HE_Tianxia_Harmony.description>
+  <HE_Tianxia_FireArrowBattery.label>火箭车</HE_Tianxia_FireArrowBattery.label>
+  <HE_Tianxia_FireArrowBattery.description>一个装满管子的带轮箱子，每根管子里都有一支火箭。点燃一根引信，整窝“蜂群”便同时飞出。
+
+除非这是你的传承，否则需要40点天下知识。</HE_Tianxia_FireArrowBattery.description>
+  <HE_Tianxia_PowderArms.label>天下火器</HE_Tianxia_PowderArms.label>
+  <HE_Tianxia_PowderArms.description>天下制造火绳枪或燧发枪的方法：枪管、枪机、枪托，以及使用它们的操典。
+
+若非你的传承，只有在天下进入火药时代后才能研究。
+
+除非这是你的传承，否则需要30点天下知识。</HE_Tianxia_PowderArms.description>
+  <HE_Tianxia_SteamArmy.label>天下蒸汽军</HE_Tianxia_SteamArmy.label>
+  <HE_Tianxia_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时天下组建的军队。
+
+若非你的传承，只有在天下进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点天下知识。</HE_Tianxia_SteamArmy.description>
+  <HE_Tianxia_ElectricArmy.label>天下电气军</HE_Tianxia_ElectricArmy.label>
+  <HE_Tianxia_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时天下组建的军队。
+
+若非你的传承，只有在天下进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点天下知识。</HE_Tianxia_ElectricArmy.description>
+  <HE_Tianxia_Works.label>天下工程</HE_Tianxia_Works.label>
+  <HE_Tianxia_Works.description>天下的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在天下进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点天下知识。</HE_Tianxia_Works.description>
+</LanguageData>

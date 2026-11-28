@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Hoplon.label>圆盾陈列</HE_Hellas_Hoplon.label>
+  <HE_Hellas_Hoplon.description>一面巨大的青铜面圆盾，绘有同盟的猫头鹰，挂在宾客可以欣赏的地方。</HE_Hellas_Hoplon.description>
+  <HE_Hellas_Column.label>英雄柱</HE_Hellas_Column.label>
+  <HE_Hellas_Column.description>一根大理石凹槽柱，柱顶立着一位英雄的青铜雕像。希腊的每座城邦都有成片的英雄柱。</HE_Hellas_Column.description>
+  <HE_Hellas_Stage.label>剧场舞台</HE_Hellas_Stage.label>
+  <HE_Hellas_Stage.description>一座高起的木制舞台，背后是绘有柱廊的布景，上方挂着喜剧和悲剧面具。殖民者聚在台前观看和表演。</HE_Hellas_Stage.description>
+  <HE_Hellas_Lyceum.label>吕克昂卷轴柜</HE_Hellas_Lyceum.label>
+  <HE_Hellas_Lyceum.description>一个装满卷轴的雪松木柜，顶上放着一尊哲学家的大理石半身像。放在研究台附近时，研究速度加快6%。</HE_Hellas_Lyceum.description>
+  <HE_Hellas_Asclepion.label>医神祠</HE_Hellas_Asclepion.label>
+  <HE_Hellas_Asclepion.description>一座供奉医神的小型大理石祭坛，青铜碗中草药缓缓燃烧，旁边立着缠蛇杖。六格范围内的床位获得+4%治疗质量和+3%免疫获得速度。</HE_Hellas_Asclepion.description>
+  <HE_Hellas_Lithobolos_Gun.label>抛射臂</HE_Hellas_Lithobolos_Gun.label>
+  <HE_Hellas_Lithobolos_Gun.description>投石机的旋转顶部。</HE_Hellas_Lithobolos_Gun.description>
+  <HE_Hellas_Lithobolos.label>投石机</HE_Hellas_Lithobolos.label>
+  <HE_Hellas_Lithobolos.description>一座大理石平台上的扭力投石机。它的抛臂能掷出头颅大小的石块，打碎骨头和盾牌。它无法命中六格以内的目标，而且缓慢，但射程极远。给它填装石块：一块石料可做十颗石弹。</HE_Hellas_Lithobolos.description>
+  <HE_Hellas_Lithobolos.comps.1.fuelLabel>石弹</HE_Hellas_Lithobolos.comps.1.fuelLabel>
+  <HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>石弹</HE_Hellas_Lithobolos.comps.1.fuelGizmoLabel>
+  <HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>需要石块</HE_Hellas_Lithobolos.comps.1.outOfFuelMessage>
+  <HE_Hellas_Lectern.label>灯照讲台</HE_Hellas_Lectern.label>
+  <HE_Hellas_Lectern.description>一座高大的橄榄木讲台，配有电动阅读灯，一人朗读，其他人记笔记。放在研究台附近并通电时，研究速度加快6%。</HE_Hellas_Lectern.description>
+</LanguageData>

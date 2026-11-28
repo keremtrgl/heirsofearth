@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_Colonist.label>殖民者</HE_Hellas_Colonist.label>
+  <HE_Hellas_Hoplite.label>重装步兵</HE_Hellas_Hoplite.label>
+  <HE_Hellas_Hoplite.labelPlural>重装步兵</HE_Hellas_Hoplite.labelPlural>
+  <HE_Hellas_Ephebe.label>青年兵</HE_Hellas_Ephebe.label>
+  <HE_Hellas_Toxotes.label>弓箭手</HE_Hellas_Toxotes.label>
+  <HE_Hellas_Physician.label>医师</HE_Hellas_Physician.label>
+  <HE_Hellas_Strategos.label>将军</HE_Hellas_Strategos.label>
+  <HE_Hellas_Archon.label>执政官</HE_Hellas_Archon.label>
+  <HE_Hellas_Emporos.label>商人</HE_Hellas_Emporos.label>
+</LanguageData>

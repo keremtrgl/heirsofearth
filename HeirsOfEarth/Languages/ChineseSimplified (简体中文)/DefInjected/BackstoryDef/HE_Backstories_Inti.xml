@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_BS_TerraceFarmer.title>梯田农夫</HE_Inti_BS_TerraceFarmer.title>
+  <HE_Inti_BS_TerraceFarmer.titleShort>农夫</HE_Inti_BS_TerraceFarmer.titleShort>
+  <HE_Inti_BS_TerraceFarmer.description>[PAWN_nameDef]在山坡上耕种阶梯般的田地，顶上种土豆，底下种玉米，中间种藜麦。[PAWN_pronoun]一天之内就能重建一堵倒塌的梯田墙。</HE_Inti_BS_TerraceFarmer.description>
+  <HE_Inti_BS_Khipukamayuq.title>结绳官</HE_Inti_BS_Khipukamayuq.title>
+  <HE_Inti_BS_Khipukamayuq.titleShort>结绳官</HE_Inti_BS_Khipukamayuq.titleShort>
+  <HE_Inti_BS_Khipukamayuq.description>[PAWN_nameDef]掌管着一整个行省的结绳：每一头羊驼、每一袋玉米和每一名士兵，都系在彩色绳结里。[PAWN_pronoun]至今在黑暗中仍能凭触摸读出一根绳子。</HE_Inti_BS_Khipukamayuq.description>
+  <HE_Inti_BS_Stonemason.title>帝国石匠</HE_Inti_BS_Stonemason.title>
+  <HE_Inti_BS_Stonemason.titleShort>石匠</HE_Inti_BS_Stonemason.titleShort>
+  <HE_Inti_BS_Stonemason.description>[PAWN_nameDef]把石块雕琢得如此精确，无需灰浆就能拼合，用更硬的石头捶打花岗岩，直到接缝消失。</HE_Inti_BS_Stonemason.description>
+  <HE_Inti_BS_Chaski.title>查斯基信使</HE_Inti_BS_Chaski.title>
+  <HE_Inti_BS_Chaski.titleShort>跑腿</HE_Inti_BS_Chaski.titleShort>
+  <HE_Inti_BS_Chaski.description>[PAWN_nameDef]日夜奔跑在[PAWN_possessive]那段大道上，[PAWN_possessive]包里装着结绳，[PAWN_possessive]唇边贴着海螺。[PAWN_pronoun]从未让任何消息迟到过。</HE_Inti_BS_Chaski.description>
+  <HE_Inti_BS_Slinger.title>军队投石手</HE_Inti_BS_Slinger.title>
+  <HE_Inti_BS_Slinger.titleShort>投石手</HE_Inti_BS_Slinger.titleShort>
+  <HE_Inti_BS_Slinger.description>[PAWN_nameDef]在帝国军队的前排行军，手握投石索，腰挂一袋石头。[PAWN_pronoun]能在五十步外打裂一个葫芦。</HE_Inti_BS_Slinger.description>
+  <HE_Inti_BS_Herbalist.title>卡拉瓦亚医者</HE_Inti_BS_Herbalist.title>
+  <HE_Inti_BS_Herbalist.titleShort>医者</HE_Inti_BS_Herbalist.titleShort>
+  <HE_Inti_BS_Herbalist.description>[PAWN_nameDef]带着一袋草药从云雾森林走到高原，在沿途每个村庄接骨、治疗热病。</HE_Inti_BS_Herbalist.description>
+  <HE_Inti_BS_Weaver.title>阿克利亚织女</HE_Inti_BS_Weaver.title>
+  <HE_Inti_BS_Weaver.titleShort>织工</HE_Inti_BS_Weaver.titleShort>
+  <HE_Inti_BS_Weaver.description>[PAWN_nameDef]为宫廷织造精细的布料，织得紧密到能盛水，上面的托卡普图案只有少数人能读懂。</HE_Inti_BS_Weaver.description>
+  <HE_Inti_BS_Trader.title>羊驼商队商人</HE_Inti_BS_Trader.title>
+  <HE_Inti_BS_Trader.titleShort>商人</HE_Inti_BS_Trader.titleShort>
+  <HE_Inti_BS_Trader.description>[PAWN_nameDef]率领羊驼队从海岸走到山区，用鱼干和盐换取羊毛和土豆，靠[PAWN_possessive]三寸不烂之舌躲过了每一次埋伏。</HE_Inti_BS_Trader.description>
+  <HE_Inti_BS_LlamaChild.title>羊驼牧人</HE_Inti_BS_LlamaChild.title>
+  <HE_Inti_BS_LlamaChild.titleShort>牧人</HE_Inti_BS_LlamaChild.titleShort>
+  <HE_Inti_BS_LlamaChild.description>[PAWN_nameDef]在高原草地上放牧大羊驼和羊驼，一手拿着投石索驱赶狐狸。</HE_Inti_BS_LlamaChild.description>
+  <HE_Inti_BS_TerraceChild.title>梯田孩童</HE_Inti_BS_TerraceChild.title>
+  <HE_Inti_BS_TerraceChild.titleShort>梯田孩童</HE_Inti_BS_TerraceChild.titleShort>
+  <HE_Inti_BS_TerraceChild.description>[PAWN_nameDef]在[PAWN_pronoun]学会数数之前，就背着一篮篮泥土爬上梯田的台阶，种下种薯。</HE_Inti_BS_TerraceChild.description>
+  <HE_Inti_BS_KnotPupil.title>结绳学校学生</HE_Inti_BS_KnotPupil.title>
+  <HE_Inti_BS_KnotPupil.titleShort>学徒</HE_Inti_BS_KnotPupil.titleShort>
+  <HE_Inti_BS_KnotPupil.description>[PAWN_nameDef]被选入结绳官的学校，在一位严厉的老师手下花了多年时间打结、解结、计数。</HE_Inti_BS_KnotPupil.description>
+  <HE_Inti_BS_FisherChild.title>湖上渔家孩童</HE_Inti_BS_FisherChild.title>
+  <HE_Inti_BS_FisherChild.titleShort>渔家孩童</HE_Inti_BS_FisherChild.titleShort>
+  <HE_Inti_BS_FisherChild.description>[PAWN_nameDef]在一个寒冷高山湖泊的芦苇岛上长大，乘芦苇船捕鱼，每天傍晚都要修补它。</HE_Inti_BS_FisherChild.description>
+</LanguageData>

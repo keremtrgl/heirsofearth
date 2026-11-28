@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Spear.label>不死军长矛</HE_Pars_Spear.label>
+  <HE_Pars_Spear.description>一端是叶形矛刃、另一端是银石榴的长矛，王家卫队的武器。
+
+除非这是你的传承，否则需要5点波斯知识。</HE_Pars_Spear.description>
+  <HE_Pars_Kaftan.label>丝绸长袍</HE_Pars_Kaftan.label>
+  <HE_Pars_Kaftan.description>裁制宫廷的对襟长外衣，带里衬、绣花，以腰带系紧。
+
+除非这是你的传承，否则需要5点波斯知识。</HE_Pars_Kaftan.description>
+  <HE_Pars_Garden.label>天堂花园</HE_Pars_Garden.label>
+  <HE_Pars_Garden.description>围起一块方形土地，以水渠将其一分为四，种上玫瑰、柏树和果树。它的古称就是“天堂”。
+
+除非这是你的传承，否则需要5点波斯知识。</HE_Pars_Garden.description>
+  <HE_Pars_Bow.label>反曲弓</HE_Pars_Bow.label>
+  <HE_Pars_Bow.description>一张与箭矢一同装在弓箭囊中的短反曲弓，轻到可以在马鞍上射击。
+
+除非这是你的传承，否则需要5点波斯知识。</HE_Pars_Bow.description>
+  <HE_Pars_Pilaf.label>藏红花抓饭</HE_Pars_Pilaf.label>
+  <HE_Pars_Pilaf.description>米饭与藏红花、伏牛花和黄油一同蒸煮，直到锅底结成金黄的锅巴，那是最好吃的部分。
+
+除非这是你的传承，否则需要5点波斯知识。</HE_Pars_Pilaf.description>
+  <HE_Pars_GardenCulture.label>花园文化</HE_Pars_GardenCulture.label>
+  <HE_Pars_GardenCulture.description>每座房子都有庭院，每个庭院都有水池，每个水池旁都有长凳。波斯人走进花园来平息怒气。
+
+传统：殖民者的精神崩溃阈值降低3%。
+
+除非这是你的传承，否则需要15点波斯知识。</HE_Pars_GardenCulture.description>
+  <HE_Pars_SatrapLaw.label>总督之法</HE_Pars_SatrapLaw.label>
+  <HE_Pars_SatrapLaw.description>每个省份只有一部法律，成文、在集市上宣读，并由总督自己的人执行。人们知道自己的处境。
+
+传统：殖民者逮捕成功率提高15%，谈判能力提高5%。
+
+除非这是你的传承，否则需要15点波斯知识。</HE_Pars_SatrapLaw.description>
+  <HE_Pars_RoyalPost.label>王家驿站</HE_Pars_RoyalPost.label>
+  <HE_Pars_RoyalPost.description>每一天的路程设一座驿站，每座驿站都有一匹精神饱满的马，以及一位不因雪、雨、热或夜而停下的骑手。
+
+传统：商队移动速度加快10%，殖民者获得5%更好的交易价格。
+
+除非这是你的传承，否则需要20点波斯知识。</HE_Pars_RoyalPost.description>
+  <HE_Pars_Qanats.label>坎儿井</HE_Pars_Qanats.label>
+  <HE_Pars_Qanats.description>从山脚挖掘的地下渠道，把清凉干净的水送到每个村庄，不让一滴水被太阳蒸发。
+
+传统：殖民者获得免疫力的速度加快6%。
+
+除非这是你的传承，否则需要20点波斯知识。</HE_Pars_Qanats.description>
+  <HE_Pars_Akinakes.label>阿基纳克短剑</HE_Pars_Akinakes.label>
+  <HE_Pars_Akinakes.description>锻造卫队的直刃短剑，佩在右髋，装在金箍剑鞘中。
+
+除非这是你的传承，否则需要10点波斯知识。</HE_Pars_Akinakes.description>
+  <HE_Pars_CarpetLoom.label>地毯织机</HE_Pars_CarpetLoom.label>
+  <HE_Pars_CarpetLoom.description>一台立式织机、上百种颜色的羊毛，以及织工脑中的图案。一块好地毯要织一个季度，比织它的人活得还久。
+
+除非这是你的传承，否则需要15点波斯知识。</HE_Pars_CarpetLoom.description>
+  <HE_Pars_Polo.label>马球</HE_Pars_Polo.label>
+  <HE_Pars_Polo.description>骑手、球杖和一只木球，在一片长场地上。王子们打马球来学习骑术，马匹也在学习。
+
+传统：殖民者训练和驯服动物的成功率提高10%。
+
+除非这是你的传承，否则需要25点波斯知识。</HE_Pars_Polo.description>
+  <HE_Pars_Immortals.label>不死军</HE_Pars_Immortals.label>
+  <HE_Pars_Immortals.description>王家卫队的鳞甲外衣和带翼头盔。他们的人数从不减少：一人倒下，另一人便补上空位。
+
+除非这是你的传承，否则需要25点波斯知识。</HE_Pars_Immortals.description>
+  <HE_Pars_KingsEars.label>国王之耳</HE_Pars_KingsEars.label>
+  <HE_Pars_KingsEars.description>巡行各省、倾听所有人并只向宫廷汇报的官员。帕尔斯的使节总是知道自己在和谁说话。
+
+传统：殖民者谈判能力提高8%，社交影响力提高4%。
+
+除非这是你的传承，否则需要25点波斯知识。</HE_Pars_KingsEars.description>
+  <HE_Pars_TenThousand.label>万人之军</HE_Pars_TenThousand.label>
+  <HE_Pars_TenThousand.description>操练到阵线能自行坚守。受伤的卫兵会守住阵线，直到身后的人能接替位置。
+
+传统：殖民者多承受5%的疼痛，近战命中率+1。
+
+除非这是你的传承，否则需要35点波斯知识。</HE_Pars_TenThousand.description>
+  <HE_Pars_Jezail.label>杰撒伊长枪</HE_Pars_Jezail.label>
+  <HE_Pars_Jezail.description>一支长管燧发枪，枪托弯曲度很大，镶嵌着骨片和黄铜。山地射手对它推崇备至。
+
+除非这是你的传承，否则需要35点波斯知识。</HE_Pars_Jezail.description>
+  <HE_Pars_GrandBazaar.label>大巴扎</HE_Pars_GrandBazaar.label>
+  <HE_Pars_GrandBazaar.description>一条有上千家店铺的有顶街道，有它的行会、钱商和茶馆。一切都有价格，人人都心知肚明。
+
+传统：殖民者获得4%更好的交易价格，谈判能力提高3%。
+
+除非这是你的传承，否则需要45点波斯知识。</HE_Pars_GrandBazaar.description>
+  <HE_Pars_RoadOfKings.label>王者之路</HE_Pars_RoadOfKings.label>
+  <HE_Pars_RoadOfKings.description>西方之路重新开通后，波斯商队行进如驿马，波斯使节处处受到欢迎。
+
+传统：商队移动速度加快8%，殖民者谈判能力提高5%，社交影响力提高5%。
+
+除非这是你的传承，否则需要50点波斯知识。
+
+完成该国的故事后解锁。</HE_Pars_RoadOfKings.description>
+  <HE_Pars_NaftThrower.label>纳夫特喷射器</HE_Pars_NaftThrower.label>
+  <HE_Pars_NaftThrower.description>国王的工程师们学会了用青铜管泵送纳夫特油，并在管口点燃。
+
+除非这是你的传承，否则需要40点波斯知识。</HE_Pars_NaftThrower.description>
+  <HE_Pars_SteamArmy.label>波斯蒸汽军</HE_Pars_SteamArmy.label>
+  <HE_Pars_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时帕尔斯组建的军队。
+
+若非你的传承，只有在帕尔斯进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点波斯知识。</HE_Pars_SteamArmy.description>
+  <HE_Pars_ElectricArmy.label>波斯电气军</HE_Pars_ElectricArmy.label>
+  <HE_Pars_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时帕尔斯组建的军队。
+
+若非你的传承，只有在帕尔斯进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点波斯知识。</HE_Pars_ElectricArmy.description>
+  <HE_Pars_Works.label>波斯工程</HE_Pars_Works.label>
+  <HE_Pars_Works.description>帕尔斯的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在帕尔斯进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点波斯知识。</HE_Pars_Works.description>
+</LanguageData>

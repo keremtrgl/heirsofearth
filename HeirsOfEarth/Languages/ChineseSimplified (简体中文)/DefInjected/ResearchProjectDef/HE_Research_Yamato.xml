@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Yari.label>长枪</HE_Yamato_Yari.label>
+  <HE_Yamato_Yari.description>步兵的直刃长枪，长到足以让骑兵无法靠近。
+
+除非这是你的传承，否则需要5点大和知识。</HE_Yamato_Yari.description>
+  <HE_Yamato_Yumi.label>和弓</HE_Yamato_Yumi.label>
+  <HE_Yamato_Yumi.description>大和高大的不对称弓，握在中部以下，拉至耳边。
+
+除非这是你的传承，否则需要5点大和知识。</HE_Yamato_Yumi.description>
+  <HE_Yamato_Tatami.label>榻榻米与枯山水</HE_Yamato_Tatami.label>
+  <HE_Yamato_Tatami.description>铺设草编榻榻米，将白砾耙成静水般的纹样。
+
+除非这是你的传承，否则需要5点大和知识。</HE_Yamato_Tatami.description>
+  <HE_Yamato_Kimono.label>和服</HE_Yamato_Kimono.label>
+  <HE_Yamato_Kimono.description>缝制大和各阶层都穿的交襟束带长袍。
+
+除非这是你的传承，否则需要5点大和知识。</HE_Yamato_Kimono.description>
+  <HE_Yamato_Onigiri.label>饭团</HE_Yamato_Onigiri.label>
+  <HE_Yamato_Onigiri.description>压成三角形、裹上海苔的米饭：士兵和朝圣者的旅行食物。
+
+除非这是你的传承，否则需要5点大和知识。</HE_Yamato_Onigiri.description>
+  <HE_Yamato_Torii.label>鸟居</HE_Yamato_Torii.label>
+  <HE_Yamato_Torii.description>竖立红色鸟居，标志着从日常世界进入神圣之地。
+
+除非这是你的传承，否则需要5点大和知识。</HE_Yamato_Torii.description>
+  <HE_Yamato_Levy.label>足轻征召</HE_Yamato_Levy.label>
+  <HE_Yamato_Levy.description>每个农民都在门边放着一支长枪，知道鼓声响起时该往哪里跑。
+
+传统：殖民者移动速度加快3%。
+
+除非这是你的传承，否则需要15点大和知识。</HE_Yamato_Levy.description>
+  <HE_Yamato_Kyudo.label>弓道</HE_Yamato_Kyudo.label>
+  <HE_Yamato_Kyudo.description>弓之道：平静的呼吸、完美的姿势，箭是被释放而非射出。
+
+传统：殖民者获得+2射击精度。
+
+除非这是你的传承，否则需要20点大和知识。</HE_Yamato_Kyudo.description>
+  <HE_Yamato_Zen.label>禅意庭园</HE_Yamato_Zen.label>
+  <HE_Yamato_Zen.description>每天早晨围绕几块石头耙砾，让心像沙子一样沉静下来。
+
+传统：殖民者的精神崩溃阈值降低3%。
+
+除非这是你的传承，否则需要20点大和知识。</HE_Yamato_Zen.description>
+  <HE_Yamato_Tamahagane.label>玉钢</HE_Yamato_Tamahagane.label>
+  <HE_Yamato_Tamahagane.description>在黏土炉中冶炼玉钢，反复折叠锻打成刀背柔韧、刀刃坚硬的刀。
+
+除非这是你的传承，否则需要10点大和知识。</HE_Yamato_Tamahagane.description>
+  <HE_Yamato_TeaHouse.label>茶室</HE_Yamato_TeaHouse.label>
+  <HE_Yamato_TeaHouse.description>建造一张用于茶道的矮桌，以及照亮庭园小径的石灯笼。
+
+除非这是你的传承，否则需要15点大和知识。</HE_Yamato_TeaHouse.description>
+  <HE_Yamato_Dojo.label>道场</HE_Yamato_Dojo.label>
+  <HE_Yamato_Dojo.description>一座设有草靶桩和练习刀架的训练大厅。
+
+除非这是你的传承，否则需要15点大和知识。</HE_Yamato_Dojo.description>
+  <HE_Yamato_Yoroi.label>大铠</HE_Yamato_Yoroi.label>
+  <HE_Yamato_Yoroi.description>以丝绳编缀的漆札甲，以及武士带角的兜。
+
+除非这是你的传承，否则需要25点大和知识。</HE_Yamato_Yoroi.description>
+  <HE_Yamato_Ceremony.label>茶道</HE_Yamato_Ceremony.label>
+  <HE_Yamato_Ceremony.description>主人的每个动作都有定式且从容不迫。客人离开时比来时更轻松。
+
+传统：殖民者获得娱乐的速度加快15%。
+
+除非这是你的传承，否则需要25点大和知识。</HE_Yamato_Ceremony.description>
+  <HE_Yamato_Folds.label>千锤百炼</HE_Yamato_Folds.label>
+  <HE_Yamato_Folds.description>刀匠的耐心成为整个殖民地的习惯：量两次，敲一次。
+
+传统：殖民者进行一般劳动（锻造、制作、屠宰、切石）的速度加快10%。
+
+除非这是你的传承，否则需要30点大和知识。</HE_Yamato_Folds.description>
+  <HE_Yamato_Bushido.label>武士道</HE_Yamato_Bushido.label>
+  <HE_Yamato_Bushido.description>武士之道：义务重于生命，镇定胜于痛苦。
+
+传统：殖民者获得+3近战闪避率和+5%疼痛休克阈值。
+
+除非这是你的传承，否则需要40点大和知识。</HE_Yamato_Bushido.description>
+  <HE_Yamato_MasterCraft.label>匠心</HE_Yamato_MasterCraft.label>
+  <HE_Yamato_MasterCraft.description>大和工匠宁愿做一件完美的东西，也不愿做十件好东西。
+
+传统：制作的物品有12%的几率提高一个品质等级，但殖民者工作速度减慢5%。
+
+除非这是你的传承，否则需要45点大和知识。</HE_Yamato_MasterCraft.description>
+  <HE_Yamato_Mandate.label>天命</HE_Yamato_Mandate.label>
+  <HE_Yamato_Mandate.description>正统秩序得以恢复，大和的人民以平静的心工作和学习。
+
+传统：殖民者学习速度加快5%，精神崩溃阈值降低3%。
+
+除非这是你的传承，否则需要50点大和知识。
+
+完成该国的故事后解锁。</HE_Yamato_Mandate.description>
+  <HE_Yamato_Tanegashima.label>种子岛铳</HE_Yamato_Tanegashima.label>
+  <HE_Yamato_Tanegashima.description>仿照一位搁浅商人的枪制造的火绳枪，在堺的锻炉中不断改良，直到胜过原型。
+
+除非这是你的传承，否则需要35点大和知识。</HE_Yamato_Tanegashima.description>
+  <HE_Yamato_Sakai.label>堺之铳匠</HE_Yamato_Sakai.label>
+  <HE_Yamato_Sakai.description>三排铳手，一排射击，一排装填，一排上药。每个人都清楚自己的呼吸和节拍。
+
+传统：殖民者瞄准速度加快8%。
+
+除非这是你的传承，否则需要45点大和知识。</HE_Yamato_Sakai.description>
+  <HE_Yamato_Yagura.label>橹</HE_Yamato_Yagura.label>
+  <HE_Yamato_Yagura.description>筑城者学会在城墙拐角处建起箭楼，让弓手能沿墙射击。
+
+除非这是你的传承，否则需要40点大和知识。</HE_Yamato_Yagura.description>
+  <HE_Yamato_SteamArmy.label>大和蒸汽军</HE_Yamato_SteamArmy.label>
+  <HE_Yamato_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时大和组建的军队。
+
+若非你的传承，只有在大和进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点大和知识。</HE_Yamato_SteamArmy.description>
+  <HE_Yamato_ElectricArmy.label>大和电气军</HE_Yamato_ElectricArmy.label>
+  <HE_Yamato_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时大和组建的军队。
+
+若非你的传承，只有在大和进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点大和知识。</HE_Yamato_ElectricArmy.description>
+  <HE_Yamato_Works.label>大和工程</HE_Yamato_Works.label>
+  <HE_Yamato_Works.description>大和的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在大和进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点大和知识。</HE_Yamato_Works.description>
+</LanguageData>

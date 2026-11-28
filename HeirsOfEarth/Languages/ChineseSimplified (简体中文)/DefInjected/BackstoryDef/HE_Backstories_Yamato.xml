@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_BS_Ashigaru.title>足轻步卒</HE_Yamato_BS_Ashigaru.title>
+  <HE_Yamato_BS_Ashigaru.titleShort>步卒</HE_Yamato_BS_Ashigaru.titleShort>
+  <HE_Yamato_BS_Ashigaru.description>[PAWN_nameDef]本是农民之子，直到氏族的战鼓响起。[PAWN_pronoun]学会了在紧密的阵列中握住长枪，在箭雨落下时迅速挖掘掩体。</HE_Yamato_BS_Ashigaru.description>
+  <HE_Yamato_BS_Swordsmith.title>刀匠</HE_Yamato_BS_Swordsmith.title>
+  <HE_Yamato_BS_Swordsmith.titleShort>刀匠</HE_Yamato_BS_Swordsmith.titleShort>
+  <HE_Yamato_BS_Swordsmith.description>二十个冬天里，[PAWN_nameDef]在山中锻炉里折叠锤打玉钢。[PAWN_pronoun]宁可折断一把有瑕疵的刀，也不让它离开作坊。</HE_Yamato_BS_Swordsmith.description>
+  <HE_Yamato_BS_Ronin.title>无主武士</HE_Yamato_BS_Ronin.title>
+  <HE_Yamato_BS_Ronin.titleShort>浪人</HE_Yamato_BS_Ronin.titleShort>
+  <HE_Yamato_BS_Ronin.description>当[PAWN_possessive]主君倒下时，[PAWN_nameDef]选择了流浪而非屈辱的死亡。[PAWN_pronoun]把[PAWN_possessive]刀卖给出钱的人，并明白了荣誉填不饱饭碗。</HE_Yamato_BS_Ronin.description>
+  <HE_Yamato_BS_Monk.title>寺院僧人</HE_Yamato_BS_Monk.title>
+  <HE_Yamato_BS_Monk.titleShort>僧人</HE_Yamato_BS_Monk.titleShort>
+  <HE_Yamato_BS_Monk.description>[PAWN_nameDef]多年来清扫山寺的石阶，照料寺中的草药园，护理生病来访的旅人。[PAWN_pronoun]不会举手施暴。</HE_Yamato_BS_Monk.description>
+  <HE_Yamato_BS_TeaMaster.title>茶道师</HE_Yamato_BS_TeaMaster.title>
+  <HE_Yamato_BS_TeaMaster.titleShort>茶道师</HE_Yamato_BS_TeaMaster.titleShort>
+  <HE_Yamato_BS_TeaMaster.description>[PAWN_nameDef]为领主和将军们奉茶，倾听他们在茶杯旁说的每一句话。[PAWN_objective]的一句轻声话语平息的仇怨比任何刀剑都多。</HE_Yamato_BS_TeaMaster.description>
+  <HE_Yamato_BS_RiceFarmer.title>稻农</HE_Yamato_BS_RiceFarmer.title>
+  <HE_Yamato_BS_RiceFarmer.titleShort>农夫</HE_Yamato_BS_RiceFarmer.titleShort>
+  <HE_Yamato_BS_RiceFarmer.description>[PAWN_nameDef]每年春天都站在没过膝盖的水田里，一株一株地插秧。[PAWN_pronoun]能从清晨天空的颜色看出天气。</HE_Yamato_BS_RiceFarmer.description>
+  <HE_Yamato_BS_Hatamoto.title>将军的旗手</HE_Yamato_BS_Hatamoto.title>
+  <HE_Yamato_BS_Hatamoto.titleShort>旗手</HE_Yamato_BS_Hatamoto.titleShort>
+  <HE_Yamato_BS_Hatamoto.description>[PAWN_nameDef]在三场大战中站在将军的旗帜旁，从未后退一步。[PAWN_pronoun]发号施令言简意赅，并期望立即得到服从。</HE_Yamato_BS_Hatamoto.description>
+  <HE_Yamato_BS_Akindo.title>港口商人</HE_Yamato_BS_Akindo.title>
+  <HE_Yamato_BS_Akindo.titleShort>商人</HE_Yamato_BS_Akindo.titleShort>
+  <HE_Yamato_BS_Akindo.description>[PAWN_nameDef]在港口买进丝绸、清酒和漆器，再以两倍的价格在内陆卖出。[PAWN_pronoun]鞠躬很深，算账很快。</HE_Yamato_BS_Akindo.description>
+  <HE_Yamato_BS_DojoChild.title>道场弟子</HE_Yamato_BS_DojoChild.title>
+  <HE_Yamato_BS_DojoChild.titleShort>学徒</HE_Yamato_BS_DojoChild.titleShort>
+  <HE_Yamato_BS_DojoChild.description>[PAWN_nameDef]在一所剑术学校扫地长大，在草束上练习劈砍，直到[PAWN_possessive]手臂酸痛。</HE_Yamato_BS_DojoChild.description>
+  <HE_Yamato_BS_TempleChild.title>寺院沙弥</HE_Yamato_BS_TempleChild.title>
+  <HE_Yamato_BS_TempleChild.titleShort>沙弥</HE_Yamato_BS_TempleChild.titleShort>
+  <HE_Yamato_BS_TempleChild.description>[PAWN_nameDef]由僧人抚养长大，他们教[PAWN_objective]诵读古老的经文，静坐数小时，在寺院花园里种植草药。</HE_Yamato_BS_TempleChild.description>
+  <HE_Yamato_BS_FishingVillage.title>渔村孩童</HE_Yamato_BS_FishingVillage.title>
+  <HE_Yamato_BS_FishingVillage.titleShort>渔家孩童</HE_Yamato_BS_FishingVillage.titleShort>
+  <HE_Yamato_BS_FishingVillage.description>[PAWN_nameDef]在一片多风的海岸上长大，修补渔网、剖洗鱼，那里每户人家都分享自己的渔获。</HE_Yamato_BS_FishingVillage.description>
+  <HE_Yamato_BS_CastleTown.title>城下町孩童</HE_Yamato_BS_CastleTown.title>
+  <HE_Yamato_BS_CastleTown.titleShort>町中孩童</HE_Yamato_BS_CastleTown.titleShort>
+  <HE_Yamato_BS_CastleTown.description>[PAWN_nameDef]在领主城郭下拥挤的街道里长大，在工匠的铺子间奔跑，观看武士游行。</HE_Yamato_BS_CastleTown.description>
+</LanguageData>

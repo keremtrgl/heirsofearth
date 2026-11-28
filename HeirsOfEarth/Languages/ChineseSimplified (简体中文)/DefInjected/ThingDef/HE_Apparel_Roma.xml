@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Roma_Lorica.label>环片甲</HE_Roma_Lorica.label>
+  <HE_Roma_Lorica.description>层层相叠的铁片系在皮革背带上。能很好地挡开刀刃，不过穿戴者行走会稍慢一些。</HE_Roma_Lorica.description>
+  <HE_Roma_Galea.label>罗马头盔</HE_Roma_Galea.label>
+  <HE_Roma_Galea.description>一顶饰有青铜边的军团头盔，带有宽大的护颊和红色马鬃羽冠。</HE_Roma_Galea.description>
+  <HE_Roma_Tunica.label>罗马束腰外衣</HE_Roma_Tunica.label>
+  <HE_Roma_Tunica.description>一件及膝的羊毛束腰外衣，饰有窄边，腰间系带。每个公民都有两件。</HE_Roma_Tunica.description>
+  <HE_Roma_Toga.label>托加袍</HE_Roma_Toga.label>
+  <HE_Roma_Toga.description>一大块半圆形白色羊毛，裹住身体并搭过左肩。只有公民才能穿着；紫色镶边代表行政官员。</HE_Roma_Toga.description>
+  <HE_Roma_Laurel.label>月桂花环</HE_Roma_Laurel.label>
+  <HE_Roma_Laurel.description>一顶以黄金锤打成的月桂叶花环，凯旋将军的冠冕。曾有一名奴隶站在他身后低声提醒：他只是个凡人。</HE_Roma_Laurel.description>
+  <HE_Roma_FieldCoat.label>军团野战大衣</HE_Roma_FieldCoat.label>
+  <HE_Roma_FieldCoat.description>一件帝国深红色的双排扣长大衣，配有青铜纽扣，喉部挂着雄鹰护喉甲。</HE_Roma_FieldCoat.description>
+  <HE_Roma_SteelHelmet.label>军团钢盔</HE_Roma_SteelHelmet.label>
+  <HE_Roma_SteelHelmet.description>一顶窄檐钢盔，带有高耸的青铜盔脊，漆成深红色，正面饰有青铜雄鹰。</HE_Roma_SteelHelmet.description>
+  <HE_Roma_FieldUniform.label>军团野战军服</HE_Roma_FieldUniform.label>
+  <HE_Roma_FieldUniform.description>一件灰绿色野战上衣，配有深红色领章、青铜纽扣、交叉肩带和两个胸袋。</HE_Roma_FieldUniform.description>
+</LanguageData>

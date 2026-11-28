@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Helm.label>条箍盔</HE_Nord_Helm.label>
+  <HE_Nord_Helm.description>一顶由铆接铁板制成的圆顶铁盔，带有宽大的护鼻和眼镜状的护眼。</HE_Nord_Helm.description>
+  <HE_Nord_Byrnie.label>锁甲</HE_Nord_Byrnie.label>
+  <HE_Nord_Byrnie.description>一件穿在衬垫外衣外面、及膝的铆接铁环衫。沉重，但能挡住大多数劈砍。</HE_Nord_Byrnie.description>
+  <HE_Nord_FurCloak.label>毛皮斗篷</HE_Nord_FurCloak.label>
+  <HE_Nord_FurCloak.description>一件以青铜胸针扣住的厚毛皮重斗篷。没有什么比它更能挡住北风。</HE_Nord_FurCloak.description>
+  <HE_Nord_Tunic.label>羊毛束腰外衣</HE_Nord_Tunic.label>
+  <HE_Nord_Tunic.description>一件袖口和下摆饰有织带的厚羊毛束腰外衣。温暖、结实，还有点扎人。</HE_Nord_Tunic.description>
+  <HE_Nord_Circlet.label>雅尔头环</HE_Nord_Circlet.label>
+  <HE_Nord_Circlet.description>一条朴素的银环，饰有绳结纹，镶着一颗红宝石。雅尔不需要更华丽的王冠：他在庭议上的话就足够了。</HE_Nord_Circlet.description>
+  <HE_Nord_FieldCoat.label>北地大衣</HE_Nord_FieldCoat.label>
+  <HE_Nord_FieldCoat.description>一件厚重的灰蓝色大衣，配毛皮领和两排锡纽扣。为永无尽头的冬天而造。</HE_Nord_FieldCoat.description>
+  <HE_Nord_SteelHelmet.label>北地钢盔</HE_Nord_SteelHelmet.label>
+  <HE_Nord_SteelHelmet.description>一顶在颈后外展的深钢盔，带有凸起的鼻脊，侧面画着一只黑渡鸦。</HE_Nord_SteelHelmet.description>
+  <HE_Nord_FieldUniform.label>北地野战军服</HE_Nord_FieldUniform.label>
+  <HE_Nord_FieldUniform.description>一件长款原野灰野战上衣，配深绿色领子、锡纽扣和深下摆口袋。在雪地里很温暖。</HE_Nord_FieldUniform.description>
+</LanguageData>

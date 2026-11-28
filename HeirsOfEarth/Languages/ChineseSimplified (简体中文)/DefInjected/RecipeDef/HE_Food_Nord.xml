@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Nord_Skyr.label>烹饪冰岛酸奶碗</HE_Cook_Nord_Skyr.label>
+  <HE_Cook_Nord_Skyr.description>烹饪冰岛酸奶碗。</HE_Cook_Nord_Skyr.description>
+  <HE_Cook_Nord_Skyr.jobString>正在烹饪冰岛酸奶碗。</HE_Cook_Nord_Skyr.jobString>
+  <HE_Cook_Nord_HunterStew.label>烹饪猎人炖菜</HE_Cook_Nord_HunterStew.label>
+  <HE_Cook_Nord_HunterStew.description>烹饪猎人炖菜。</HE_Cook_Nord_HunterStew.description>
+  <HE_Cook_Nord_HunterStew.jobString>正在烹饪猎人炖菜。</HE_Cook_Nord_HunterStew.jobString>
+  <HE_Cook_Nord_Flatbread.label>烹饪蜂蜜薄饼</HE_Cook_Nord_Flatbread.label>
+  <HE_Cook_Nord_Flatbread.description>烹饪蜂蜜薄饼。</HE_Cook_Nord_Flatbread.description>
+  <HE_Cook_Nord_Flatbread.jobString>正在烹饪蜂蜜薄饼。</HE_Cook_Nord_Flatbread.jobString>
+</LanguageData>

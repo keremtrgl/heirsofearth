@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Yamato_Onigiri.label>烹饪饭团</HE_Cook_Yamato_Onigiri.label>
+  <HE_Cook_Yamato_Onigiri.description>烹饪饭团。</HE_Cook_Yamato_Onigiri.description>
+  <HE_Cook_Yamato_Onigiri.jobString>正在烹饪饭团。</HE_Cook_Yamato_Onigiri.jobString>
+  <HE_Cook_Yamato_Miso.label>烹饪味噌汤</HE_Cook_Yamato_Miso.label>
+  <HE_Cook_Yamato_Miso.description>烹饪味噌汤。</HE_Cook_Yamato_Miso.description>
+  <HE_Cook_Yamato_Miso.jobString>正在烹饪味噌汤。</HE_Cook_Yamato_Miso.jobString>
+  <HE_Cook_Yamato_Mochi.label>烹饪麻糬</HE_Cook_Yamato_Mochi.label>
+  <HE_Cook_Yamato_Mochi.description>烹饪麻糬。</HE_Cook_Yamato_Mochi.description>
+  <HE_Cook_Yamato_Mochi.jobString>正在烹饪麻糬。</HE_Cook_Yamato_Mochi.jobString>
+</LanguageData>

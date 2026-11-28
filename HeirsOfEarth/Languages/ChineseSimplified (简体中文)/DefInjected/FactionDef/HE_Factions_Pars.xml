@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Pars.label>帕尔斯总督国</HE_Faction_Pars.label>
+  <HE_Faction_Pars.description>帕尔斯总督国，殖民船“帕萨尔加德号”的继承者。它的各省靠御道和王家驿站联结在一起，它的宫廷买卖地毯、马匹、丝绸和人情，份量大致相当。</HE_Faction_Pars.description>
+  <HE_Faction_Pars.fixedName>帕尔斯总督国</HE_Faction_Pars.fixedName>
+  <HE_Faction_Pars.pawnSingular>波斯</HE_Faction_Pars.pawnSingular>
+  <HE_Faction_Pars.pawnsPlural>波斯人</HE_Faction_Pars.pawnsPlural>
+  <HE_Faction_Pars.leaderTitle>总督</HE_Faction_Pars.leaderTitle>
+  <HE_Player_Pars.label>波斯定居者</HE_Player_Pars.label>
+  <HE_Player_Pars.description>一小户波斯定居者，奉命在已知道路的边缘建立一座新驿站。</HE_Player_Pars.description>
+  <HE_Player_Pars.pawnSingular>殖民者</HE_Player_Pars.pawnSingular>
+  <HE_Player_Pars.pawnsPlural>殖民者</HE_Player_Pars.pawnsPlural>
+</LanguageData>

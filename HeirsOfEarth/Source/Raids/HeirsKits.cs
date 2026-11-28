@@ -66,6 +66,63 @@ namespace HeirsOfEarth
 
         private static PawnKindDef uniformKind;
         private static List<ThingDef> uniformRestore;
+        private static List<ThingDef> uniformWear;
+
+        /// <summary>The kit pieces of pawns still being generated, put on again once the pawn is done.</summary>
+        private static readonly Dictionary<Pawn, List<ThingDef>> pending = new Dictionary<Pawn, List<ThingDef>>();
+
+        /// <summary>
+        /// 4.3.2: after the clothes, Ideology gives a member the apparel its ideoligion desires (PreceptComp_Apparel_Desired), and
+        /// that took the steel helmet off a troop for the ideoligion's hat. Once the pawn is fully generated, the kit goes back on.
+        /// </summary>
+        public static void GeneratePawnPostfix(Pawn __result)
+        {
+            if (__result != null && pending.TryGetValue(__result, out List<ThingDef> wear))
+            {
+                pending.Remove(__result);
+                WearMissing(__result, wear);
+            }
+        }
+
+        /// <summary>
+        /// 4.3.2: the vanilla generator often drops a required piece of headgear (only about half of the steel helmets rolled were
+        /// worn). Whatever the kit rolled and the pawn did not get is made and put on here, in place of what it cannot be worn with.
+        /// </summary>
+        public static void WearMissing(Pawn pawn, List<ThingDef> wear)
+        {
+            if (pawn?.apparel == null || wear.NullOrEmpty())
+            {
+                return;
+            }
+            BodyDef body = pawn.RaceProps?.body ?? BodyDefOf.Human;
+            foreach (ThingDef def in wear)
+            {
+                if (pawn.apparel.WornApparel.Any(a => a.def == def) || !ApparelUtility.HasPartsToWear(pawn, def))
+                {
+                    continue;
+                }
+                try
+                {
+                    ThingDef stuff = def.MadeFromStuff ? GenStuff.RandomStuffByCommonalityFor(def) : null;
+                    if (def.MadeFromStuff && stuff == null)
+                    {
+                        continue;
+                    }
+                    var apparel = (Apparel)ThingMaker.MakeThing(def, stuff);
+                    apparel.TryGetComp<CompQuality>()?.SetQuality(QualityUtility.GenerateQualityGeneratingPawn(pawn.kindDef, def), ArtGenerationContext.Outsider);
+                    foreach (Apparel old in pawn.apparel.WornApparel.Where(a => !ApparelUtility.CanWearTogether(a.def, def, body)).ToList())
+                    {
+                        pawn.apparel.Remove(old);
+                        old.Destroy();
+                    }
+                    pawn.apparel.Wear(apparel, false);
+                }
+                catch (System.Exception e)
+                {
+                    Log.WarningOnce("[Heirs of Earth] could not dress " + pawn + " in " + def.defName + ": " + e.Message, def.shortHash ^ 0x4e1);
+                }
+            }
+        }
 
         public static void Prefix(Pawn pawn, out List<ThingStuffPair> __state)
         {
@@ -86,6 +143,7 @@ namespace HeirsOfEarth
                 // 4.2: in the age of steam an armed troop often wears the nation's uniform in place of the pieces it covers
                 uniformKind = pawn.kindDef;
                 uniformRestore = pawn.kindDef.apparelRequired;
+                uniformWear = kit.Where(d => uniformRestore == null || !uniformRestore.Contains(d)).ToList();
                 pawn.kindDef.apparelRequired = kit;
                 own = Build(pawn.kindDef, all, kit);
             }
@@ -101,13 +159,23 @@ namespace HeirsOfEarth
             pairsField.SetValue(null, own);
         }
 
-        public static System.Exception Finalizer(System.Exception __exception, List<ThingStuffPair> __state)
+        public static System.Exception Finalizer(System.Exception __exception, List<ThingStuffPair> __state, Pawn pawn)
         {
             if (uniformKind != null)
             {
                 uniformKind.apparelRequired = uniformRestore;
                 uniformKind = null;
                 uniformRestore = null;
+                if (__exception == null && pawn != null && uniformWear.Count > 0)
+                {
+                    WearMissing(pawn, uniformWear);
+                    if (pending.Count > 64)
+                    {
+                        pending.Clear();
+                    }
+                    pending[pawn] = uniformWear;
+                }
+                uniformWear = null;
             }
             if (__state != null)
             {
@@ -130,6 +198,8 @@ namespace HeirsOfEarth
                 System.Type k = typeof(HeirsKits);
                 harmony.Patch(HeirsPatches.Need(typeof(PawnApparelGenerator), "GenerateStartingApparelFor"),
                     prefix: new HarmonyLib.HarmonyMethod(k, nameof(Prefix)), finalizer: new HarmonyLib.HarmonyMethod(k, nameof(Finalizer)));
+                harmony.Patch(HeirsPatches.Need(typeof(PawnGenerator), "GeneratePawn", new[] { typeof(PawnGenerationRequest) }),
+                    postfix: new HarmonyLib.HarmonyMethod(k, nameof(GeneratePawnPostfix)));
             }
         }
     }

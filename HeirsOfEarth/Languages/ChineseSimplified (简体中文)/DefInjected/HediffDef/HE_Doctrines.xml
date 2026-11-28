@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Doctrine_Roma.label>龟甲阵操练</HE_Doctrine_Roma.label>
+  <HE_Doctrine_Roma.description>军团士兵紧密列阵，将盾牌锁成一片屋顶。挤在一起时他们能挡住箭矢和打击，但行军缓慢。
+
+三格内站立的同伴越多，效果越强。</HE_Doctrine_Roma.description>
+  <HE_Doctrine_Roma.stages.0.label>阵型破散</HE_Doctrine_Roma.stages.0.label>
+  <HE_Doctrine_Roma.stages.1.label>松散阵线</HE_Doctrine_Roma.stages.1.label>
+  <HE_Doctrine_Roma.stages.2.label>盾牌屋顶</HE_Doctrine_Roma.stages.2.label>
+  <HE_Doctrine_Hellas.label>方阵操练</HE_Doctrine_Hellas.label>
+  <HE_Doctrine_Hellas.description>重装步兵肩并肩作战，每面盾牌都护住左边的人。在阵列中他们难以被击中，也难以逃脱；单独一人时他们只是普通人。
+
+三格内站立的同伴越多，效果越强。</HE_Doctrine_Hellas.description>
+  <HE_Doctrine_Hellas.stages.0.label>阵线破散</HE_Doctrine_Hellas.stages.0.label>
+  <HE_Doctrine_Hellas.stages.1.label>松散方阵</HE_Doctrine_Hellas.stages.1.label>
+  <HE_Doctrine_Hellas.stages.2.label>密集方阵</HE_Doctrine_Hellas.stages.2.label>
+  <HE_Doctrine_Nord.label>海岸劫掠操练</HE_Doctrine_Nord.label>
+  <HE_Doctrine_Nord.description>海岸突袭：不围城，不等待。劫掠者用斧头劈开城墙，冲向敌人，迅猛、凶狠，疼痛也难以阻止他们。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Nord.description>
+  <HE_Doctrine_Nord.stages.0.label>劫掠者之怒</HE_Doctrine_Nord.stages.0.label>
+  <HE_Doctrine_Yamato.label>武士道操练</HE_Doctrine_Yamato.label>
+  <HE_Doctrine_Yamato.description>武士以小队从多个方向同时进攻，并谨慎地挑选目标。他们面对死亡镇定自若，负伤也会继续战斗。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Yamato.description>
+  <HE_Doctrine_Yamato.stages.0.label>武士之道</HE_Doctrine_Yamato.stages.0.label>
+  <HE_Doctrine_Tianxia.label>兵法操练</HE_Doctrine_Tianxia.label>
+  <HE_Doctrine_Tianxia.description>胜兵先胜而后求战。天下的军队在敌人够不着的地方集结，等待时机，然后以训练有素的弩箭齐射出击。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Tianxia.description>
+  <HE_Doctrine_Tianxia.stages.0.label>训练有素的齐射</HE_Doctrine_Tianxia.stages.0.label>
+  <HE_Doctrine_Albion.label>攻城炮队操练</HE_Doctrine_Albion.label>
+  <HE_Doctrine_Albion.description>阿尔比恩带着铁锹和大炮而来。它的军队常常在进攻前先挖掘工事、建起炮台，它的步枪手稳定而有节奏地齐射。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Albion.description>
+  <HE_Doctrine_Albion.stages.0.label>齐射火力</HE_Doctrine_Albion.stages.0.label>
+  <HE_Doctrine_Kemet.label>战车先锋操练</HE_Doctrine_Kemet.label>
+  <HE_Doctrine_Kemet.description>凯美特的进攻以速度开场：先锋像昔日的战车一样冲在前面，在守军准备好之前就已登上城墙。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Kemet.description>
+  <HE_Doctrine_Kemet.stages.0.label>先锋之速</HE_Doctrine_Kemet.stages.0.label>
+  <HE_Doctrine_Pars.label>骑兵双翼操练</HE_Doctrine_Pars.label>
+  <HE_Doctrine_Pars.description>帕尔斯的军队从两翼进攻：几支迅捷的队伍同时出击，惯于在马背上作战，迅速逼近。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Pars.description>
+  <HE_Doctrine_Pars.stages.0.label>骑手冲锋</HE_Doctrine_Pars.stages.0.label>
+  <HE_Doctrine_Inti.label>山地工兵操练</HE_Doctrine_Inti.label>
+  <HE_Doctrine_Inti.description>安第斯的筑路者宁愿穿过岩石也不绕行。印蒂袭击者会朝你的城墙挖掘，并以山中练就的准头投掷石块。
+
+只要袭击者仍在为这次袭击而战，效果就会持续。</HE_Doctrine_Inti.description>
+  <HE_Doctrine_Inti.stages.0.label>山地步伐</HE_Doctrine_Inti.stages.0.label>
+</LanguageData>

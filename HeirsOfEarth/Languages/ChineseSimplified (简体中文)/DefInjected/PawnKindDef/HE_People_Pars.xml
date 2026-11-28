@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Colonist.label>殖民者</HE_Pars_Colonist.label>
+  <HE_Pars_Sparabara.label>盾兵</HE_Pars_Sparabara.label>
+  <HE_Pars_Sparabara.labelPlural>盾兵</HE_Pars_Sparabara.labelPlural>
+  <HE_Pars_Archer.label>波斯弓手</HE_Pars_Archer.label>
+  <HE_Pars_Immortal.label>不死军</HE_Pars_Immortal.label>
+  <HE_Pars_Immortal.labelPlural>不死军</HE_Pars_Immortal.labelPlural>
+  <HE_Pars_Dabir.label>书记官</HE_Pars_Dabir.label>
+  <HE_Pars_Dabir.labelPlural>书记官</HE_Pars_Dabir.labelPlural>
+  <HE_Pars_Asvaran.label>重骑兵</HE_Pars_Asvaran.label>
+  <HE_Pars_Asvaran.labelPlural>重骑兵</HE_Pars_Asvaran.labelPlural>
+  <HE_Pars_Satrap.label>总督</HE_Pars_Satrap.label>
+  <HE_Pars_Bazaari.label>巴扎商人</HE_Pars_Bazaari.label>
+  <HE_Pars_Bazaari.labelPlural>巴扎商人</HE_Pars_Bazaari.labelPlural>
+</LanguageData>

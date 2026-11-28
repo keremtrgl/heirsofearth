@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Obelisk.label>方尖碑</HE_Kemet_Obelisk.label>
+  <HE_Kemet_Obelisk.description>一整根修整过的石针，刻满一列列符号，顶端是一个在日出时闪耀的镀金尖顶。</HE_Kemet_Obelisk.description>
+  <HE_Kemet_SenetTable.label>塞尼特棋桌</HE_Kemet_SenetTable.label>
+  <HE_Kemet_SenetTable.description>一张乌木和象牙制成的矮桌，桌面是一块三十格的棋盘，带一个放棋子的抽屉。两名殖民者坐在旁边对弈。</HE_Kemet_SenetTable.description>
+  <HE_Kemet_PapyrusWorkshop.label>莎草纸作坊</HE_Kemet_PapyrusWorkshop.label>
+  <HE_Kemet_PapyrusWorkshop.description>一张劈芦苇的桌子、一块捶打石和晾晒架。它把干草和芦苇做成莎草纸。</HE_Kemet_PapyrusWorkshop.description>
+  <HE_Kemet_Sphinx.label>狮身人面像</HE_Kemet_Sphinx.label>
+  <HE_Kemet_Sphinx.description>一头长着国王头颅、戴着条纹王家头巾的狮子，雕刻出来守卫大门或陵墓。凯美特人说，它的建造者仍在它的眼睛后面做梦。</HE_Kemet_Sphinx.description>
+  <HE_Kemet_LotusLamp.label>莲花灯</HE_Kemet_LotusLamp.label>
+  <HE_Kemet_LotusLamp.description>一座青铜灯架，顶端是一朵盛开的莲花，托着一簇油灯火焰。莲花夜合晨开，凯美特之光亦是如此。</HE_Kemet_LotusLamp.description>
+  <HE_Kemet_ArcherPylon_Gun.label>塔门弓</HE_Kemet_ArcherPylon_Gun.label>
+  <HE_Kemet_ArcherPylon_Gun.description>弓手塔门的旋转顶部。</HE_Kemet_ArcherPylon_Gun.description>
+  <HE_Kemet_ArcherPylon.label>弓手塔门</HE_Kemet_ArcherPylon.label>
+  <HE_Kemet_ArcherPylon.description>一座绘有蓝色纹带的倾斜砂岩塔顶，四张复合弓装在旋转架上一同射击。齐射迅速，但箭矢较轻。木材用于制作新箭：一根原木可做两支。</HE_Kemet_ArcherPylon.description>
+  <HE_Kemet_ArcherPylon.comps.1.fuelLabel>箭矢</HE_Kemet_ArcherPylon.comps.1.fuelLabel>
+  <HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>箭矢</HE_Kemet_ArcherPylon.comps.1.fuelGizmoLabel>
+  <HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>需要木材制作箭矢</HE_Kemet_ArcherPylon.comps.1.outOfFuelMessage>
+  <HE_Kemet_IrrigationPump.label>灌溉泵</HE_Kemet_IrrigationPump.label>
+  <HE_Kemet_IrrigationPump.description>一台电动水泵，从地下抽水，通过陶制水渠送到周围的田地。通电时，6格范围内的植物生长速度加快15%。</HE_Kemet_IrrigationPump.description>
+</LanguageData>

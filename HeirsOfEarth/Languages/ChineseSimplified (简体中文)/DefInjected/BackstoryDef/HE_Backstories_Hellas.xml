@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Hellas_BS_Hoplite.title>公民重装步兵</HE_Hellas_BS_Hoplite.title>
+  <HE_Hellas_BS_Hoplite.titleShort>重装步兵</HE_Hellas_BS_Hoplite.titleShort>
+  <HE_Hellas_BS_Hoplite.description>和每个自由公民一样，[PAWN_nameDef]自己买了[PAWN_possessive]盾牌和长矛，城邦召唤时便在阵列中站到[PAWN_possessive]位置上。战争间隙，[PAWN_pronoun]经营着一个种橄榄和大麦的小农场。</HE_Hellas_BS_Hoplite.description>
+  <HE_Hellas_BS_Physician.title>阿斯克勒庇俄斯医师</HE_Hellas_BS_Physician.title>
+  <HE_Hellas_BS_Physician.titleShort>医师</HE_Hellas_BS_Physician.titleShort>
+  <HE_Hellas_BS_Physician.description>[PAWN_nameDef]在一座医神庙中受训，病人在安静的大厅里睡眠，医师们记下每一个症状。[PAWN_pronoun]发誓不伤害病人，并一直恪守誓言。</HE_Hellas_BS_Physician.description>
+  <HE_Hellas_BS_Philosopher.title>游方哲学家</HE_Hellas_BS_Philosopher.title>
+  <HE_Hellas_BS_Philosopher.titleShort>哲学家</HE_Hellas_BS_Philosopher.titleShort>
+  <HE_Hellas_BS_Philosopher.description>[PAWN_nameDef]从一座城邦走到另一座，在集市上提出令人尴尬的问题。有人付钱来听，有人付钱请[PAWN_objective]离开。[PAWN_pronoun]仍然相信没有什么问题不该问。</HE_Hellas_BS_Philosopher.description>
+  <HE_Hellas_BS_Sculptor.title>神庙雕刻师</HE_Hellas_BS_Sculptor.title>
+  <HE_Hellas_BS_Sculptor.titleShort>雕刻师</HE_Hellas_BS_Sculptor.titleShort>
+  <HE_Hellas_BS_Sculptor.description>[PAWN_nameDef]在一座大神庙旁的大理石工场里度过多年，雕刻的神祇和运动员栩栩如生，参观者都会对它们说话。</HE_Hellas_BS_Sculptor.description>
+  <HE_Hellas_BS_Athlete.title>竞技会冠军</HE_Hellas_BS_Athlete.title>
+  <HE_Hellas_BS_Athlete.titleShort>冠军</HE_Hellas_BS_Athlete.titleShort>
+  <HE_Hellas_BS_Athlete.description>[PAWN_nameDef]在竞技会上赢得了长跑比赛，获得了一顶橄榄枝花环、一尊雕像和终身免费用餐。[PAWN_pronoun]至今每天黎明前都要训练。</HE_Hellas_BS_Athlete.description>
+  <HE_Hellas_BS_Orator.title>公民大会演说家</HE_Hellas_BS_Orator.title>
+  <HE_Hellas_BS_Orator.titleShort>演说家</HE_Hellas_BS_Orator.titleShort>
+  <HE_Hellas_BS_Orator.description>在公民大会上，[PAWN_nameDef]一场演讲就能扭转投票。[PAWN_pronoun]曾为战争辩护，为和平辩护，有一次还在同一个下午为两者辩护。</HE_Hellas_BS_Orator.description>
+  <HE_Hellas_BS_Strategos.title>民选将军</HE_Hellas_BS_Strategos.title>
+  <HE_Hellas_BS_Strategos.titleShort>将军</HE_Hellas_BS_Strategos.titleShort>
+  <HE_Hellas_BS_Strategos.description>公民们三次推选[PAWN_nameDef]为将军。[PAWN_pronoun]在方阵最前排领兵，从不要求任何人站在[PAWN_pronoun]自己不愿站的地方。</HE_Hellas_BS_Strategos.description>
+  <HE_Hellas_BS_Merchant.title>橄榄商人</HE_Hellas_BS_Merchant.title>
+  <HE_Hellas_BS_Merchant.titleShort>商人</HE_Hellas_BS_Merchant.titleShort>
+  <HE_Hellas_BS_Merchant.description>[PAWN_nameDef]在岛屿间运送橄榄油和葡萄酒，叫得出每个港务长的名字，[PAWN_possessive]一生中从未付过全额港口费。</HE_Hellas_BS_Merchant.description>
+  <HE_Hellas_BS_Gymnasium.title>体育馆学生</HE_Hellas_BS_Gymnasium.title>
+  <HE_Hellas_BS_Gymnasium.titleShort>学徒</HE_Hellas_BS_Gymnasium.titleShort>
+  <HE_Hellas_BS_Gymnasium.description>[PAWN_nameDef]把[PAWN_possessive]上午用来摔跤和跑步，[PAWN_possessive]下午则向一位严厉的老教师背诵诗歌。</HE_Hellas_BS_Gymnasium.description>
+  <HE_Hellas_BS_OliveGrove.title>橄榄园孩童</HE_Hellas_BS_OliveGrove.title>
+  <HE_Hellas_BS_OliveGrove.titleShort>农家孩童</HE_Hellas_BS_OliveGrove.titleShort>
+  <HE_Hellas_BS_OliveGrove.description>[PAWN_nameDef]在山坡农场长大，每年秋天从枝头打下橄榄，每年夏天踩踏葡萄。</HE_Hellas_BS_OliveGrove.description>
+  <HE_Hellas_BS_HarbourChild.title>港口孩童</HE_Hellas_BS_HarbourChild.title>
+  <HE_Hellas_BS_HarbourChild.titleShort>港口孩童</HE_Hellas_BS_HarbourChild.titleShort>
+  <HE_Hellas_BS_HarbourChild.description>[PAWN_nameDef]在一座港口城市繁忙的码头上跑腿，[PAWN_pronoun]还不会写字就学会了用三种方言讨价还价。</HE_Hellas_BS_HarbourChild.description>
+  <HE_Hellas_BS_TempleChild.title>神庙仆役</HE_Hellas_BS_TempleChild.title>
+  <HE_Hellas_BS_TempleChild.titleShort>神庙仆役</HE_Hellas_BS_TempleChild.titleShort>
+  <HE_Hellas_BS_TempleChild.description>[PAWN_nameDef]在一座医神庙中扫地长大，为病人打水，听医师们争论治疗方法。</HE_Hellas_BS_TempleChild.description>
+</LanguageData>

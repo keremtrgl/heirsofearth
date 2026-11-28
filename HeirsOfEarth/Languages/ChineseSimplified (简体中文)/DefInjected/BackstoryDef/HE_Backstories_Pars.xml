@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_BS_PostRider.title>王家驿骑</HE_Pars_BS_PostRider.title>
+  <HE_Pars_BS_PostRider.titleShort>骑手</HE_Pars_BS_PostRider.titleShort>
+  <HE_Pars_BS_PostRider.description>[PAWN_nameDef]从一座驿站到另一座传送王家邮件，在每一站换马，在马鞍上睡觉。[PAWN_pronoun]穿越整个总督国的次数多到[PAWN_pronoun]数不清。</HE_Pars_BS_PostRider.description>
+  <HE_Pars_BS_Weaver.title>地毯织工</HE_Pars_BS_Weaver.title>
+  <HE_Pars_BS_Weaver.titleShort>织工</HE_Pars_BS_Weaver.titleShort>
+  <HE_Pars_BS_Weaver.description>[PAWN_nameDef]在一间有二十台织机的作坊里编结地毯，一幅千花图案装在[PAWN_possessive]脑中。[PAWN_possessive]一块地毯挂在总督的大厅里。</HE_Pars_BS_Weaver.description>
+  <HE_Pars_BS_Gardener.title>天堂园丁</HE_Pars_BS_Gardener.title>
+  <HE_Pars_BS_Gardener.titleShort>园丁</HE_Pars_BS_Gardener.titleShort>
+  <HE_Pars_BS_Gardener.description>[PAWN_nameDef]照料一座王家花园：四块花床、四条水渠、一千株玫瑰，还有总督最喜爱的那棵石榴树，[PAWN_pronoun]会对它说话。</HE_Pars_BS_Gardener.description>
+  <HE_Pars_BS_Immortal.title>不死军卫士</HE_Pars_BS_Immortal.title>
+  <HE_Pars_BS_Immortal.titleShort>护手</HE_Pars_BS_Immortal.titleShort>
+  <HE_Pars_BS_Immortal.description>[PAWN_nameDef]曾在王家卫队中服役，是人数永不减少的万人之一。[PAWN_pronoun]学会了列阵作战、一言不发地服从，并在这一切中保持光彩夺目。</HE_Pars_BS_Immortal.description>
+  <HE_Pars_BS_Dabir.title>宫廷书记</HE_Pars_BS_Dabir.title>
+  <HE_Pars_BS_Dabir.titleShort>书记</HE_Pars_BS_Dabir.titleShort>
+  <HE_Pars_BS_Dabir.description>[PAWN_nameDef]用三种文字为总督写信，也读其他所有人的信。[PAWN_pronoun]知道哪位总督欠谁什么，却从不说出口。</HE_Pars_BS_Dabir.description>
+  <HE_Pars_BS_Qanat.title>坎儿井挖掘工</HE_Pars_BS_Qanat.title>
+  <HE_Pars_BS_Qanat.titleShort>挖掘工</HE_Pars_BS_Qanat.titleShort>
+  <HE_Pars_BS_Qanat.description>[PAWN_nameDef]借着灯光在山下挖掘水道，用铅垂线判断坡度，用火焰判断空气。[PAWN_pronoun]不怕黑暗，也不怕坚硬的岩石。</HE_Pars_BS_Qanat.description>
+  <HE_Pars_BS_Astronomer.title>宫廷天文学家</HE_Pars_BS_Astronomer.title>
+  <HE_Pars_BS_Astronomer.titleShort>天文学家</HE_Pars_BS_Astronomer.titleShort>
+  <HE_Pars_BS_Astronomer.description>[PAWN_nameDef]在宫殿屋顶上测量星辰、掌管历法，被要求预言未来的次数远比[PAWN_pronoun]希望的要多。</HE_Pars_BS_Astronomer.description>
+  <HE_Pars_BS_Merchant.title>大道商人</HE_Pars_BS_Merchant.title>
+  <HE_Pars_BS_Merchant.titleShort>商人</HE_Pars_BS_Merchant.titleShort>
+  <HE_Pars_BS_Merchant.description>[PAWN_nameDef]率领骆驼商队沿御道往来，丝绸运往一头，白银运往另一头，用两端之间的每一种语言讨价还价。</HE_Pars_BS_Merchant.description>
+  <HE_Pars_BS_BazaarChild.title>巴扎跑腿</HE_Pars_BS_BazaarChild.title>
+  <HE_Pars_BS_BazaarChild.titleShort>跑腿</HE_Pars_BS_BazaarChild.titleShort>
+  <HE_Pars_BS_BazaarChild.description>[PAWN_nameDef]在有顶巴扎里跑腿，在摊位之间传送茶水、零钱和闲话。</HE_Pars_BS_BazaarChild.description>
+  <HE_Pars_BS_HorseChild.title>牧马人</HE_Pars_BS_HorseChild.title>
+  <HE_Pars_BS_HorseChild.titleShort>牧人</HE_Pars_BS_HorseChild.titleShort>
+  <HE_Pars_BS_HorseChild.description>[PAWN_nameDef]在夏季牧场上与王家马群一同长大，[PAWN_pronoun]还没学会好好走路就会骑马了。</HE_Pars_BS_HorseChild.description>
+  <HE_Pars_BS_LoomChild.title>织机旁的孩子</HE_Pars_BS_LoomChild.title>
+  <HE_Pars_BS_LoomChild.titleShort>织机旁的孩子</HE_Pars_BS_LoomChild.titleShort>
+  <HE_Pars_BS_LoomChild.description>[PAWN_nameDef]坐在[PAWN_possessive]母亲身旁的织机边，剪线结，按名字学习图案。</HE_Pars_BS_LoomChild.description>
+  <HE_Pars_BS_CourtPage.title>宫廷侍童</HE_Pars_BS_CourtPage.title>
+  <HE_Pars_BS_CourtPage.titleShort>侍童</HE_Pars_BS_CourtPage.titleShort>
+  <HE_Pars_BS_CourtPage.description>[PAWN_nameDef]在总督的餐桌旁侍奉，学会了如何鞠躬、何时开口，以及如何倾听未说出口的话。</HE_Pars_BS_CourtPage.description>
+</LanguageData>

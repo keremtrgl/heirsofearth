@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Planks.label>劈板地板</HE_Nord_Planks.label>
+  <HE_Nord_Planks.description>从松木原木劈出的宽木板拼接而成。脚感温暖。</HE_Nord_Planks.description>
+  <HE_Nord_Slate.label>板岩石板</HE_Nord_Slate.label>
+  <HE_Nord_Slate.description>劈开的深色板岩像拼图一样拼合在一起。脚感冰冷，但永不腐烂，也不怕泥泞。</HE_Nord_Slate.description>
+  <HE_Nord_CarvedBoards.label>雕花木板</HE_Nord_CarvedBoards.label>
+  <HE_Nord_CarvedBoards.description>厚重的橡木板，大厅的工匠在漫长的冬季里在上面雕刻了绳结纹。</HE_Nord_CarvedBoards.description>
+</LanguageData>

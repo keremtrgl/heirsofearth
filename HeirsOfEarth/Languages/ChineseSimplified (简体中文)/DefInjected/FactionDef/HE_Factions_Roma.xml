@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Roma.label>新罗马共和国</HE_Faction_Roma.label>
+  <HE_Faction_Roma.description>新罗马的公民，殖民船“永恒号”的继承者。他们的军团步伐整齐，他们的道路笔直，他们的元老院从不忘记一次侮辱或一笔债。</HE_Faction_Roma.description>
+  <HE_Faction_Roma.fixedName>新罗马共和国</HE_Faction_Roma.fixedName>
+  <HE_Faction_Roma.pawnSingular>公民</HE_Faction_Roma.pawnSingular>
+  <HE_Faction_Roma.pawnsPlural>公民</HE_Faction_Roma.pawnsPlural>
+  <HE_Faction_Roma.leaderTitle>执政官</HE_Faction_Roma.leaderTitle>
+  <HE_Player_Roma.label>新罗马定居者</HE_Player_Roma.label>
+  <HE_Player_Roma.description>一小队新罗马公民，在远离元老院的地方建立一座新的殖民城。</HE_Player_Roma.description>
+  <HE_Player_Roma.pawnSingular>殖民者</HE_Player_Roma.pawnSingular>
+  <HE_Player_Roma.pawnsPlural>殖民者</HE_Player_Roma.pawnsPlural>
+</LanguageData>

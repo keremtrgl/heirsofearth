@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Sabre.label>骑兵马刀</HE_Albion_Sabre.label>
+  <HE_Albion_Sabre.description>一把带钢制篮式护手的弯曲单刃刀。劈砍迅速，并能保护持刀的手。</HE_Albion_Sabre.description>
+  <HE_Albion_Sabre.tools.0.label>护手</HE_Albion_Sabre.tools.0.label>
+  <HE_Albion_Sabre.tools.1.label>剑尖</HE_Albion_Sabre.tools.1.label>
+  <HE_Albion_Sabre.tools.2.label>剑刃</HE_Albion_Sabre.tools.2.label>
+  <HE_Albion_Musket.label>燧发滑膛枪</HE_Albion_Musket.label>
+  <HE_Albion_Musket.description>一支长滑膛燧发枪。装填缓慢，远距离乱飞，但沉重的铅弹能击倒任何被它命中的东西。</HE_Albion_Musket.description>
+  <HE_Albion_Musket.tools.0.label>枪托</HE_Albion_Musket.tools.0.label>
+  <HE_Albion_Musket.tools.1.label>枪管</HE_Albion_Musket.tools.1.label>
+  <HE_Albion_Rifle.label>线膛滑膛枪</HE_Albion_Rifle.label>
+  <HE_Albion_Rifle.description>一支配套管刺刀的前装步枪。它能在三百步外击中一人，火药用尽时仍能作战。</HE_Albion_Rifle.description>
+  <HE_Albion_Rifle.tools.0.label>枪托</HE_Albion_Rifle.tools.0.label>
+  <HE_Albion_Rifle.tools.1.label>刺刀</HE_Albion_Rifle.tools.1.label>
+  <HE_Albion_Blunderbuss.label>喇叭枪</HE_Albion_Blunderbuss.label>
+  <HE_Albion_Blunderbuss.description>一支枪口呈喇叭状的黄铜短枪，装着一把霰弹。隔着田野毫无用处，隔着房间则极其可怕。马车夫和船员们对它推崇备至。</HE_Albion_Blunderbuss.description>
+  <HE_Albion_Blunderbuss.tools.0.label>枪托</HE_Albion_Blunderbuss.tools.0.label>
+  <HE_Albion_Blunderbuss.tools.1.label>枪管</HE_Albion_Blunderbuss.tools.1.label>
+  <HE_Albion_FlintlockPistol.label>燧发手枪</HE_Albion_FlintlockPistol.label>
+  <HE_Albion_FlintlockPistol.description>一把带黄铜枪托帽的马鞍手枪：开一枪，然后当棍子用。军官们会带上一对。</HE_Albion_FlintlockPistol.description>
+  <HE_Albion_FlintlockPistol.tools.0.label>握把</HE_Albion_FlintlockPistol.tools.0.label>
+  <HE_Albion_FlintlockPistol.tools.1.label>枪管</HE_Albion_FlintlockPistol.tools.1.label>
+  <HE_Albion_Breechloader.label>后装步枪</HE_Albion_Breechloader.label>
+  <HE_Albion_Breechloader.description>一支落块式步枪：拉下杠杆，放入定装弹，合上，开火。训练有素的人一分钟能瞄准射击十发。</HE_Albion_Breechloader.description>
+  <HE_Albion_Breechloader.tools.0.label>枪托</HE_Albion_Breechloader.tools.0.label>
+  <HE_Albion_Breechloader.tools.1.label>刺刀</HE_Albion_Breechloader.tools.1.label>
+  <HE_Albion_LightMG.label>阿尔比恩轻机枪</HE_Albion_LightMG.label>
+  <HE_Albion_LightMG.description>一挺弹盘供弹的轻机枪，枪管外有冷却套，下方折叠着两脚架。沉重且举枪缓慢，但一发子弹的位置它能打出六发。阿尔比恩的工厂制造它时用的钢材比大多数同类枪更多，精细零件更少。</HE_Albion_LightMG.description>
+  <HE_Albion_LightMG.tools.0.label>枪托</HE_Albion_LightMG.tools.0.label>
+  <HE_Albion_LightMG.tools.1.label>枪管</HE_Albion_LightMG.tools.1.label>
+</LanguageData>

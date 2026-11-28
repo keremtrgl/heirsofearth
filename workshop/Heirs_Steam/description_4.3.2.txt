@@ -1,0 +1,68 @@
+[h1]Heirs of Earth[/h1]
+[i]The old nations live on.[/i]
+
+Centuries ago, nine colony ships left Earth. Their descendants founded nine heir nations on the Rim, each carrying the heritage of a real culture. They trade, study, marry, ally and go to war with each other, and with you. In the end, someone has to call them all to one table.
+
+[h2]The nine nations[/h2]
+[list]
+[*][b]Nova Roma[/b] (eagle) - legions, roads, aqueducts and the Pax Romana.
+[*][b]Yamato Shogunate[/b] (sakura) - samurai, ashigaru, tea houses and bushido.
+[*][b]Jarldom of Nordheim[/b] (raven) - raiders, skalds, longhouses and the sagas.
+[*][b]League of Hellas[/b] (owl) - hoplites, philosophers, theatre and the phalanx.
+[*][b]Celestial Tianxia[/b] (dragon) - crossbows, fire lances, porcelain and the imperial examination.
+[*][b]Commonwealth of Albion[/b] (lion) - muskets, redcoats, steam engines and the factory.
+[*][b]New Kemet[/b] (falcon) - river farmers, scribes, obelisks and the composite bow.
+[*][b]Satrapy of Pars[/b] (griffin) - the royal road, paradise gardens, carpets and the Immortals.
+[*][b]Inti Empire[/b] (condor) - mountain terraces, storehouses, slingers and the knotted quipu.
+[/list]
+
+[h2]What each nation brings[/h2]
+[list]
+[*]Its own research branch with seven or more traditions that change how your colony works (some with a price), up to the industrial age.
+[*]At least five weapons, five pieces of clothing and armour (including leader regalia such as the Roman laurel wreath, the Nordic jarl's circlet or the Parsian kidaris), five buildings, three dishes, three floors and trade goods, all with hand-made art.
+[*]Its own unpowered defensive structure, loaded with wood, stone, steel or chemfuel: the Roman scorpio, the Yamato yagura, the Nordic bow loft, the Hellenic lithobolos, the Tianxia fire-arrow battery, the Albion field cannon, the Kemet archer pylon, the Parsian naft thrower and the Inca sling stand.
+[*]Its own people: soldiers, specialists, leaders and traders, with their own backstories.
+[*]A start scenario with five colonists: begin as the heir of that nation.
+[*]Its own settlement icon on the world map.
+[*]A story chain that ends with a lost relic, a hard choice and a legendary artifact, and unlocks a capstone project.
+[/list]
+
+[h2]Art of war[/h2]
+Every nation raids in its own way: the Roman testudo, the Greek phalanx, Nordic shore raids, Yamato bushido, Tianxia's patient volleys, Albion's siege train, the Kemet chariot vanguard, Pars cavalry wings and Inti sappers, each with its own drill. Caravans walk with the nation's own animals, and every heir can build a manned counterweight trebuchet.
+
+[h2]Ages of progress[/h2]
+The nations do not stand still. As the years pass, each one moves from the [b]Age of Founding[/b] through the [b]Age of Powder[/b] and the [b]Age of Steam[/b] to the [b]Electric Age[/b], at its own pace: peace, allies, a scholarly ruler, many towns and treaties or trade with you speed it up; war, famine and plague hold it back. A letter tells you when a nation enters a new age. Each age brings the nation's own firearms (the Roman arquebus, the Tianxia bird gun, the Albion breech-loader, the Yamato sniper rifle, the Albion light machine gun and more), its uniform coat in the Age of Steam, and its steel helmet and field uniform in the Electric Age: its troops start carrying them, its traders start selling them, and you may research them once the nation has reached that age. The Heirs tab shows where every nation stands and why.
+
+In the Electric Age every nation also has one powered building of its own, from the Roman electric fountain and the Nordic electric forge to the Albion telegraph office, the Kemetic irrigation pump and the Inti cold store. The first nation to get there holds a [b]World Fair[/b]: send your best art piece, weapon or book and it comes back with silver, goodwill and knowledge, and perhaps the grand prize.
+
+[h2]Living politics and courts[/h2]
+The nations run their own politics in the background. They form alliances, declare wars, capture each other's towns, send envoys, ask for tribute, offer marriages, ask you to mediate, and can collapse. Every nation is ruled by a ruler with a temperament; crowns pass and policies change. Sign treaties of peace, trade, science and defence, build an embassy, earn each nation's highest honour, and take part in the Games, great fairs, famines and plagues.
+
+[h2]Sagas, books and errands[/h2]
+Every nation has two stories: a first chain that ends with a legendary artifact, and a second saga that ends with a lost original to return or keep. Eighteen classic books and nine great books teach culture knowledge as your colonists read, and friendly nations send small errands by letter.
+
+[h2]Sound and look[/h2]
+Every nation has its own music and a signature call, made for this mod. Heir weapons have their own firing sounds, and every heir garment has its own look when worn: hats, helmets, crowns and wreaths, and every tunic, robe, cloak and suit of armour on all five body types, from the Roman lorica and the samurai's do-maru to the Inca feather cape.
+
+[h2]Trade routes[/h2]
+Pay once to open a road to a friendly nation, and every 15 days a road caravan brings its goods and silver. Roads build relations and teach you the nation's culture, but caravans of nations at war may be raided, and a road closes when its nation turns on you.
+
+[h2]The World Council[/h2]
+Finish three nation stories, or keep three trade roads open for a year, and the nations begin to speak of a council. Build the council hall and call them to the table. Win by [b]unity[/b], when two thirds of the living nations vote for it, or by [b]dominion[/b], when every nation still standing has sworn fealty to you. The game goes on after your victory.
+
+[h2]Research browser and encyclopedia[/h2]
+The Heirs tab lists every heir research project in one place, filtered by nation, age and state, and tells you why a locked project is locked. The encyclopedia has a page for each nation: its story, ruler, relations, traditions and everything it makes, with full information cards.
+
+[h2]Start your way[/h2]
+Play as the heir of one nation, or as an independent colony that learns the knowledge of the others through trade, study, alliances and war.
+
+[h2]Details[/h2]
+[list]
+[*]Requires [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077]Harmony[/url].
+[*]RimWorld 1.6. Core only; no DLC needed. With Royalty, the heir crowns count as noble headwear.
+[*]English, Turkish and Simplified Chinese (简体中文). The Chinese translation is AI-assisted: corrections from native speakers are very welcome in the comments. A translation template is included for other languages.
+[*]Can be added to existing saves: nations that are missing arrive with their own settlements.
+[*]A fourth game speed button next to the other three (the game's own fastest speed, normally hidden), with its key 4. It can be turned off in the mod settings.
+[*]Relaxed, Standard and Hard presets in the mod settings set knowledge gain, research cost, raid strength, tribute and event frequency at once.
+[*]Politics, the ages, trade routes, the World Council, war doctrines, world events and the music can each be turned off in the mod settings, and so can every nation on its own.
+[/list]

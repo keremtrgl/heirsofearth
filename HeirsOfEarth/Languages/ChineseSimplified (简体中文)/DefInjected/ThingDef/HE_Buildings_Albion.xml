@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_SteamEngine.label>蒸汽机</HE_Albion_SteamEngine.label>
+  <HE_Albion_SteamEngine.description>一台以木材为燃料的锅炉，驱动一台横梁发动机和一台发电机。它比简易发电机产生更多电力，也产生大量噪音和烟雾。</HE_Albion_SteamEngine.description>
+  <HE_Albion_PubTable.label>酒馆桌</HE_Albion_PubTable.label>
+  <HE_Albion_PubTable.description>一张满是划痕的橡木长桌，上面有一杯杯麦芽酒、一局纸牌，柱子上挂着飞镖盘。殖民者聚在这里喝酒、争吵、玩飞镖输掉。</HE_Albion_PubTable.description>
+  <HE_Albion_TextileMill.label>纺织厂</HE_Albion_TextileMill.label>
+  <HE_Albion_TextileMill.description>一台带铁架、皮带轮和一卷布的动力织布机。它能把任何羊毛织成粗花呢，一种温暖耐磨的布料。</HE_Albion_TextileMill.description>
+  <HE_Albion_GasLamp.label>煤气灯</HE_Albion_GasLamp.label>
+  <HE_Albion_GasLamp.description>一盏带玻璃灯罩的铸铁路灯。在城市里，工厂的煤气让它整夜燃烧；在这里，一个由电网供能的小燃烧器起到同样作用。</HE_Albion_GasLamp.description>
+  <HE_Albion_GrandfatherClock.label>落地大摆钟</HE_Albion_GrandfatherClock.label>
+  <HE_Albion_GrandfatherClock.description>一座雕花橡木的高落地钟，配有黄铜钟摆，每周上一次发条。它缓慢的滴答声是一个井井有条之家的声音。</HE_Albion_GrandfatherClock.description>
+  <HE_Albion_FieldCannon_Gun.label>火炮</HE_Albion_FieldCannon_Gun.label>
+  <HE_Albion_FieldCannon_Gun.description>野战炮的旋转顶部。</HE_Albion_FieldCannon_Gun.description>
+  <HE_Albion_FieldCannon.label>野战炮</HE_Albion_FieldCannon.label>
+  <HE_Albion_FieldCannon.description>沙袋围成的环形工事后，一门装在木制炮架上的青铜大炮。每发炮弹在落点爆炸。它无法向八格以内的目标开火，炮手们需要时间清膛和装填。钢铁被铸成炮弹：四份钢铁做一发炮弹。</HE_Albion_FieldCannon.description>
+  <HE_Albion_FieldCannon.comps.1.fuelLabel>炮弹</HE_Albion_FieldCannon.comps.1.fuelLabel>
+  <HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>炮弹</HE_Albion_FieldCannon.comps.1.fuelGizmoLabel>
+  <HE_Albion_FieldCannon.comps.1.outOfFuelMessage>需要钢铁制作炮弹</HE_Albion_FieldCannon.comps.1.outOfFuelMessage>
+  <HE_Albion_TelegraphOffice.label>电报局</HE_Albion_TelegraphOffice.label>
+  <HE_Albion_TelegraphOffice.description>一张书桌，上面有黄铜电报键、发声器和一组电池，连到外面的一根天线杆上。通电时，它每季向其他国家发送问候：与每个非敌对的继承者国家好感度+1。只有一座电报局生效。</HE_Albion_TelegraphOffice.description>
+</LanguageData>

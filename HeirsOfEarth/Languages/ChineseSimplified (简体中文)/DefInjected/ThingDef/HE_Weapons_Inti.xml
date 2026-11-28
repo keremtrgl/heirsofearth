@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Sling.label>投石索</HE_Inti_Sling.label>
+  <HE_Inti_Sling.description>一条以黑白羊驼毛编成的投石索，带有编织的兜袋。便宜、轻便，在熟练的手中很危险。</HE_Inti_Sling.description>
+  <HE_Inti_Sling.tools.0.label>弩臂</HE_Inti_Sling.tools.0.label>
+  <HE_Inti_Champi.label>星锤</HE_Inti_Champi.label>
+  <HE_Inti_Champi.description>硬木杖上的一颗六角青铜星。它能同样砸碎头盔和绗缝护甲。</HE_Inti_Champi.description>
+  <HE_Inti_Champi.tools.0.label>斧柄</HE_Inti_Champi.tools.0.label>
+  <HE_Inti_Champi.tools.1.label>锤头</HE_Inti_Champi.tools.1.label>
+  <HE_Inti_Carbine.label>山地卡宾枪</HE_Inti_Carbine.label>
+  <HE_Inti_Carbine.description>一支轻短的卡宾枪，配皮背带，枪机上压印着一只秃鹰。在狭窄的岩架上举枪迅速。</HE_Inti_Carbine.description>
+  <HE_Inti_Carbine.tools.0.label>枪托</HE_Inti_Carbine.tools.0.label>
+  <HE_Inti_Carbine.tools.1.label>枪管</HE_Inti_Carbine.tools.1.label>
+  <HE_Inti_Chuki.label>丘基长枪</HE_Inti_Chuki.label>
+  <HE_Inti_Chuki.description>一支硬木长枪，带青铜叶形枪刃和一簇彩色羊毛。王家卫队在山路上用它守住阵线。</HE_Inti_Chuki.description>
+  <HE_Inti_Chuki.tools.0.label>矛杆</HE_Inti_Chuki.tools.0.label>
+  <HE_Inti_Chuki.tools.1.label>剑尖</HE_Inti_Chuki.tools.1.label>
+  <HE_Inti_Bolas.label>流星索</HE_Inti_Bolas.label>
+  <HE_Inti_Bolas.description>三颗缠绳的石头系在编织绳上。甩动后掷出，它们会缠住人或羊驼的腿，把他们打得喘不过气。</HE_Inti_Bolas.description>
+  <HE_Inti_Bolas.tools.0.label>弩臂</HE_Inti_Bolas.tools.0.label>
+  <HE_Inti_Arquebus.label>印蒂火绳枪</HE_Inti_Arquebus.label>
+  <HE_Inti_Arquebus.description>一支金箍火绳枪，枪托镶嵌着托卡普方格，标明制造它的作坊和它所侍奉的太阳。短小轻便，举枪瞄准比任何其他火器都快。</HE_Inti_Arquebus.description>
+  <HE_Inti_Arquebus.tools.0.label>枪托</HE_Inti_Arquebus.tools.0.label>
+  <HE_Inti_Arquebus.tools.1.label>枪管</HE_Inti_Arquebus.tools.1.label>
+  <HE_Inti_LightCarbine.label>印蒂轻卡宾枪</HE_Inti_LightCarbine.label>
+  <HE_Inti_LightCarbine.description>一支枪托饰有金色太阳的短卡宾枪，这个时代最轻、最便宜的枪。举枪迅速，翻越山口时便于携带。</HE_Inti_LightCarbine.description>
+  <HE_Inti_LightCarbine.tools.0.label>枪托</HE_Inti_LightCarbine.tools.0.label>
+  <HE_Inti_LightCarbine.tools.1.label>枪管</HE_Inti_LightCarbine.tools.1.label>
+</LanguageData>

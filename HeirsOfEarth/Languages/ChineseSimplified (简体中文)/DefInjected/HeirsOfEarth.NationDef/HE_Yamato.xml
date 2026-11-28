@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato.label>大和幕府</HE_Yamato.label>
+  <HE_Yamato.description>殖民船“高天原号”的后裔——大和各氏族重建了他们岛屿的旧秩序：一位沉默统治的天皇，一位以其名义执政的将军，以及受义务约束的武家。他们重技艺胜于财富，重耐心胜于速度，他们的刀匠是世上最好的。</HE_Yamato.description>
+  <HE_Yamato.rulerTitle>将军</HE_Yamato.rulerTitle>
+  <HE_Yamato.adjective>大和</HE_Yamato.adjective>
+  <HE_Yamato.doctrine.label>武士道</HE_Yamato.doctrine.label>
+  <HE_Yamato.doctrine.description>武士以小队从多个方向同时进攻，并谨慎地挑选目标。他们面对死亡镇定自若，负伤也会继续战斗。</HE_Yamato.doctrine.description>
+  <HE_Yamato.honoraryTitle>将军的贵宾</HE_Yamato.honoraryTitle>
+</LanguageData>

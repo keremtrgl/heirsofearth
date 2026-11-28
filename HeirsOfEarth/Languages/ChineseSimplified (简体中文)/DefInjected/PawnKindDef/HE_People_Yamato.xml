@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Yamato_Colonist.label>殖民者</HE_Yamato_Colonist.label>
+  <HE_Yamato_Ashigaru.label>足轻</HE_Yamato_Ashigaru.label>
+  <HE_Yamato_Ashigaru.labelPlural>足轻</HE_Yamato_Ashigaru.labelPlural>
+  <HE_Yamato_Samurai.label>武士</HE_Yamato_Samurai.label>
+  <HE_Yamato_Samurai.labelPlural>武士</HE_Yamato_Samurai.labelPlural>
+  <HE_Yamato_Yumitori.label>弓取</HE_Yamato_Yumitori.label>
+  <HE_Yamato_Monk.label>寺院僧人</HE_Yamato_Monk.label>
+  <HE_Yamato_Hatamoto.label>旗本</HE_Yamato_Hatamoto.label>
+  <HE_Yamato_Shogun.label>将军</HE_Yamato_Shogun.label>
+  <HE_Yamato_Akindo.label>商人</HE_Yamato_Akindo.label>
+</LanguageData>

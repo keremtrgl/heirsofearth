@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Renegades.label>叛徒团伙</HE_Renegades.label>
+  <HE_Renegades.description>来自各个古老国家的逃兵、流放者和背誓者，除了掠夺之外毫无羁绊。他们不遵守任何条约，也不代表任何民族。当一个古老国家无兵可派时，常常是叛徒们替它出手。</HE_Renegades.description>
+  <HE_Renegades.pawnSingular>叛徒</HE_Renegades.pawnSingular>
+  <HE_Renegades.pawnsPlural>叛徒</HE_Renegades.pawnsPlural>
+  <HE_Renegades.leaderTitle>军阀</HE_Renegades.leaderTitle>
+</LanguageData>

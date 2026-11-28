@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Colonist.label>殖民者</HE_Kemet_Colonist.label>
+  <HE_Kemet_Levy.label>大河征召兵</HE_Kemet_Levy.label>
+  <HE_Kemet_Levy.labelPlural>大河征召兵</HE_Kemet_Levy.labelPlural>
+  <HE_Kemet_Archer.label>复合弓手</HE_Kemet_Archer.label>
+  <HE_Kemet_Medjay.label>麦德查</HE_Kemet_Medjay.label>
+  <HE_Kemet_Medjay.labelPlural>麦德查</HE_Kemet_Medjay.labelPlural>
+  <HE_Kemet_Scribe.label>书吏</HE_Kemet_Scribe.label>
+  <HE_Kemet_Charioteer.label>战车队长</HE_Kemet_Charioteer.label>
+  <HE_Kemet_Pharaoh.label>法老</HE_Kemet_Pharaoh.label>
+  <HE_Kemet_Merchant.label>大河商人</HE_Kemet_Merchant.label>
+</LanguageData>

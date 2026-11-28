@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Tianxia_Dumplings.label>烹饪饺子</HE_Cook_Tianxia_Dumplings.label>
+  <HE_Cook_Tianxia_Dumplings.description>烹饪饺子。</HE_Cook_Tianxia_Dumplings.description>
+  <HE_Cook_Tianxia_Dumplings.jobString>正在烹饪饺子。</HE_Cook_Tianxia_Dumplings.jobString>
+  <HE_Cook_Tianxia_Congee.label>烹饪粥</HE_Cook_Tianxia_Congee.label>
+  <HE_Cook_Tianxia_Congee.description>烹饪粥。</HE_Cook_Tianxia_Congee.description>
+  <HE_Cook_Tianxia_Congee.jobString>正在烹饪粥。</HE_Cook_Tianxia_Congee.jobString>
+  <HE_Cook_Tianxia_Mooncake.label>烹饪月饼</HE_Cook_Tianxia_Mooncake.label>
+  <HE_Cook_Tianxia_Mooncake.description>烹饪月饼。</HE_Cook_Tianxia_Mooncake.description>
+  <HE_Cook_Tianxia_Mooncake.jobString>正在烹饪月饼。</HE_Cook_Tianxia_Mooncake.jobString>
+</LanguageData>

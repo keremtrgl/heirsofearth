@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Inti_Sling.label>投石索</HE_Inti_Sling.label>
+  <HE_Inti_Sling.description>一条编织羊毛投石索和一袋河卵石。好的投石手能在百步外打碎头盔。
+
+除非这是你的传承，否则需要5点印蒂知识。</HE_Inti_Sling.description>
+  <HE_Inti_Unku.label>温库长衫</HE_Inti_Unku.label>
+  <HE_Inti_Unku.description>用羊驼毛织成及膝长衫，上面的托卡普方格图案标明了穿着者的身份。
+
+除非这是你的传承，否则需要5点印蒂知识。</HE_Inti_Unku.description>
+  <HE_Inti_Terraces.label>梯田</HE_Inti_Terraces.label>
+  <HE_Inti_Terraces.description>把山坡切成台阶，每一级都用石头砌墙，再填入搬来的泥土。山坡变成了田地。
+
+除非这是你的传承，否则需要5点印蒂知识。</HE_Inti_Terraces.description>
+  <HE_Inti_Chaski.label>查斯基信使</HE_Inti_Chaski.label>
+  <HE_Inti_Chaski.description>沿每条道路驻守的接力跑者，用海螺号宣告自己，携带结绳。一条消息几天内就能穿越帝国。
+
+传统：殖民者移动速度加快3%。
+
+除非这是你的传承，否则需要15点印蒂知识。</HE_Inti_Chaski.description>
+  <HE_Inti_Pachamanca.label>土窑烤</HE_Inti_Pachamanca.label>
+  <HE_Inti_Pachamanca.description>在坑里加热石头，把肉、土豆和玉米放在上面，用草药和泥土覆盖一切，然后等待。
+
+除非这是你的传承，否则需要5点印蒂知识。</HE_Inti_Pachamanca.description>
+  <HE_Inti_Ayni.label>互助</HE_Inti_Ayni.label>
+  <HE_Inti_Ayni.description>今天我帮你挖田，明天你帮我盖屋顶。劳动是借出的，总会被偿还。
+
+传统：殖民者工作速度加快3%。
+
+除非这是你的传承，否则需要15点印蒂知识。</HE_Inti_Ayni.description>
+  <HE_Inti_Mita.label>米塔劳役</HE_Inti_Mita.label>
+  <HE_Inti_Mita.description>每户人家每年都要派人为国家劳动一段时间：道路、桥梁、神庙和仓库仿佛自己就建了起来。
+
+传统：殖民者建造速度加快5%，采矿速度加快5%。
+
+除非这是你的传承，否则需要20点印蒂知识。</HE_Inti_Mita.description>
+  <HE_Inti_Qullqa.label>库尔卡仓库</HE_Inti_Qullqa.label>
+  <HE_Inti_Qullqa.description>建在多风山坡上的圆形石仓，地面处开有通风口，屋顶盖着茅草。谷物和干粮在里面能保存多年。
+
+除非这是你的传承，否则需要10点印蒂知识。</HE_Inti_Qullqa.description>
+  <HE_Inti_HighAltitude.label>高原之子</HE_Inti_HighAltitude.label>
+  <HE_Inti_HighAltitude.description>宽阔的胸膛、古柯茶、羊毛和寒冷早晨的习惯。印蒂人能在低地人瑟瑟发抖的地方工作。
+
+传统：殖民者在低6°C的温度下仍感舒适。
+
+除非这是你的传承，否则需要20点印蒂知识。</HE_Inti_HighAltitude.description>
+  <HE_Inti_Champi.label>星锤</HE_Inti_Champi.label>
+  <HE_Inti_Champi.description>铸造一个六角青铜锤头，装在硬木杖上：帝国军队的星锤。
+
+除非这是你的传承，否则需要10点印蒂知识。</HE_Inti_Champi.description>
+  <HE_Inti_Quipu.label>结绳</HE_Inti_Quipu.label>
+  <HE_Inti_Quipu.description>彩色羊毛绳以十、百、千为单位打结，挂在一根主绳上。人口、贡赋和历史尽在一捆之中。
+
+除非这是你的传承，否则需要15点印蒂知识。</HE_Inti_Quipu.description>
+  <HE_Inti_MountainFarming.label>山地农业</HE_Inti_MountainFarming.label>
+  <HE_Inti_MountainFarming.description>上百种土豆，各有适合的海拔和季节，田地轮作，使土壤永不疲惫。
+
+传统：殖民者多收获5%，播种和收获速度加快3%。
+
+除非这是你的传承，否则需要25点印蒂知识。</HE_Inti_MountainFarming.description>
+  <HE_Inti_RoyalGuard.label>王家卫队</HE_Inti_RoyalGuard.label>
+  <HE_Inti_RoyalGuard.description>抬皇帝轿子的卫队所穿的绗缝战衣和羽饰头盔。
+
+除非这是你的传承，否则需要25点印蒂知识。</HE_Inti_RoyalGuard.description>
+  <HE_Inti_KnotKeepers.label>结绳守护者</HE_Inti_KnotKeepers.label>
+  <HE_Inti_KnotKeepers.description>结绳官，从小就接受打结和解读绳结的训练。帝国中被计数过的一切永远不会被遗忘。
+
+传统：殖民者研究速度加快6%。
+
+除非这是你的传承，否则需要25点印蒂知识。</HE_Inti_KnotKeepers.description>
+  <HE_Inti_Kallawaya.label>卡拉瓦亚医者</HE_Inti_Kallawaya.label>
+  <HE_Inti_Kallawaya.description>游方草药师，熟知山中和山下森林里的上千种植物。
+
+传统：殖民者治疗伤口和疾病的效果提高5%。
+
+除非这是你的传承，否则需要25点印蒂知识。</HE_Inti_Kallawaya.description>
+  <HE_Inti_Slingers.label>高原投石手</HE_Inti_Slingers.label>
+  <HE_Inti_Slingers.description>山里的男孩女孩先学会投石，后学会放牧。战斗中，石块像冰雹一样落下。
+
+传统：殖民者射击精度+1，瞄准速度加快4%。
+
+除非这是你的传承，否则需要35点印蒂知识。</HE_Inti_Slingers.description>
+  <HE_Inti_Carbine.label>山地卡宾枪</HE_Inti_Carbine.label>
+  <HE_Inti_Carbine.description>一支适合陡峭地形的轻短卡宾枪，配皮背带，枪机上压印着一只秃鹰。
+
+除非这是你的传承，否则需要35点印蒂知识。</HE_Inti_Carbine.description>
+  <HE_Inti_QhapaqNan.label>印加大道</HE_Inti_QhapaqNan.label>
+  <HE_Inti_QhapaqNan.description>沿山脊铺设的道路、横跨峡谷的绳桥，每一天的路程有一座歇脚屋。商队移动得和跑者一样快。
+
+传统：商队移动速度加快8%，殖民者建造速度加快3%。
+
+除非这是你的传承，否则需要45点印蒂知识。</HE_Inti_QhapaqNan.description>
+  <HE_Inti_CountedEmpire.label>被计数的帝国</HE_Inti_CountedEmpire.label>
+  <HE_Inti_CountedEmpire.description>哈通·库拉被重新清点之后，帝国对自己了如指掌，直到最后一头羊驼，规划起来仿佛能看见未来。
+
+传统：殖民者研究速度加快4%，学习速度加快5%，工作速度加快2%。
+
+除非这是你的传承，否则需要50点印蒂知识。
+
+完成该国的故事后解锁。</HE_Inti_CountedEmpire.description>
+  <HE_Inti_SlingStand.label>投石架</HE_Inti_SlingStand.label>
+  <HE_Inti_SlingStand.description>帝国的投石手教会山地堡垒不用手握绳索就能甩出石块。
+
+除非这是你的传承，否则需要40点印蒂知识。</HE_Inti_SlingStand.description>
+  <HE_Inti_PowderArms.label>印蒂火器</HE_Inti_PowderArms.label>
+  <HE_Inti_PowderArms.description>印蒂制造火绳枪或燧发枪的方法：枪管、枪机、枪托，以及使用它们的操典。
+
+若非你的传承，只有在印蒂进入火药时代后才能研究。
+
+除非这是你的传承，否则需要30点印蒂知识。</HE_Inti_PowderArms.description>
+  <HE_Inti_SteamArmy.label>印蒂蒸汽军</HE_Inti_SteamArmy.label>
+  <HE_Inti_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时印蒂组建的军队。
+
+若非你的传承，只有在印蒂进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点印蒂知识。</HE_Inti_SteamArmy.description>
+  <HE_Inti_ElectricArmy.label>印蒂电气军</HE_Inti_ElectricArmy.label>
+  <HE_Inti_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时印蒂组建的军队。
+
+若非你的传承，只有在印蒂进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点印蒂知识。</HE_Inti_ElectricArmy.description>
+  <HE_Inti_Works.label>印蒂工程</HE_Inti_Works.label>
+  <HE_Inti_Works.description>印蒂的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在印蒂进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点印蒂知识。</HE_Inti_Works.description>
+</LanguageData>

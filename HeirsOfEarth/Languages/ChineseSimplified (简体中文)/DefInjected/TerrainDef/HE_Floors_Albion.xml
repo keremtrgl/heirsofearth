@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Albion_Cobble.label>鹅卵石街道</HE_Albion_Cobble.label>
+  <HE_Albion_Cobble.description>紧密嵌在沙中的圆石。耐磨，走起来快，只是靴子踩上去会很响。</HE_Albion_Cobble.description>
+  <HE_Albion_Brick.label>砖铺地面</HE_Albion_Brick.label>
+  <HE_Albion_Brick.description>以人字形铺设的红砖。看起来温暖整洁。</HE_Albion_Brick.description>
+  <HE_Albion_Parquet.label>拼花地板</HE_Albion_Parquet.label>
+  <HE_Albion_Parquet.description>以人字形铺设并打蜡至温润光泽的橡木块，每个体面会客厅的地板。</HE_Albion_Parquet.description>
+</LanguageData>

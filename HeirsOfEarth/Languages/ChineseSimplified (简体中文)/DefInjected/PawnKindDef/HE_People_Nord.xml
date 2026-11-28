@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Nord_Colonist.label>殖民者</HE_Nord_Colonist.label>
+  <HE_Nord_Karl.label>自由民</HE_Nord_Karl.label>
+  <HE_Nord_Karl.labelPlural>自由民</HE_Nord_Karl.labelPlural>
+  <HE_Nord_Huscarl.label>亲卫</HE_Nord_Huscarl.label>
+  <HE_Nord_Hunter.label>猎人</HE_Nord_Hunter.label>
+  <HE_Nord_Berserker.label>狂战士</HE_Nord_Berserker.label>
+  <HE_Nord_Skald.label>吟游诗人</HE_Nord_Skald.label>
+  <HE_Nord_Jarl.label>雅尔</HE_Nord_Jarl.label>
+  <HE_Nord_Trader.label>琥珀商人</HE_Nord_Trader.label>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_CultureTable.label>文化研究</HE_CultureTable.label>
+  <HE_CultureTable.description>建造文化研究台，学者们在此研究继承者国家的物品以获得文化知识。</HE_CultureTable.description>
+  <HE_Translators.label>翻译官</HE_Translators.label>
+  <HE_Translators.description>训练殖民者阅读继承者国家的古老语言，让每件研究的物品都能教会更多。
+
+传统：研究文化物品获得的文化知识增加10%。</HE_Translators.description>
+  <HE_Envoys.label>使节</HE_Envoys.label>
+  <HE_Envoys.description>派遣使节携带礼物和书信前往古老的国家。商人们会记住你的名字，对你更加公道。
+
+传统：殖民者获得3%更好的交易价格。</HE_Envoys.description>
+  <HE_Academy.label>文化学院</HE_Academy.label>
+  <HE_Academy.description>一所学校，在这里每个继承者国家的知识都被抄录、比较并传授。
+
+传统：研究文化物品获得的文化知识增加15%，殖民者学习速度加快3%。</HE_Academy.description>
+  <HE_WorldCouncil.label>世界议会</HE_WorldCouncil.label>
+  <HE_WorldCouncil.description>一个常设议会，每个继承者国家都派出一个声音：一座大厅，一张桌子，九面旗帜。在这里，继承者们可以通过投票团结起来，或由一个强权号召他们宣誓效忠。
+
+完成3个国家的故事，或保持3条贸易之路开通一年后解锁。</HE_WorldCouncil.description>
+  <HE_Trebuchet.label>配重投石机</HE_Trebuchet.label>
+  <HE_Trebuchet.description>一根装在轴上的长臂，短端挂着一箱石头：箱子落下时，长端便将巨石抛过任何城墙。每个继承者国家都造过某种投石机。</HE_Trebuchet.description>
+  <HE_Embassies.label>使馆</HE_Embassies.label>
+  <HE_Embassies.description>常驻使节、密封的书信，以及一座以礼接待外国宾客的馆舍。解锁使馆，使科学交流和防御同盟成为可能。</HE_Embassies.description>
+</LanguageData>

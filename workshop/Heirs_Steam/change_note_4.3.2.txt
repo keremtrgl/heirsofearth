@@ -1,0 +1,5 @@
+Heirs of Earth 4.3.2 - Simplified Chinese and helmet fix
+
+- New: Simplified Chinese translation (简体中文). All of the mod's texts are translated: the nations, their research, items, buildings, stories, errands, treaties, the World Council, the ages and the settings. The translation is AI-assisted, so corrections from native speakers are very welcome in the comments.
+- Fixed: in the Electric Age, only about 3 in 10 armed troops of a heir nation wore their nation's steel helmet, instead of the intended 5 to 6 in 10. Two things took the helmet off: the game's own clothing step often dropped the helmet the mod had chosen, and with Ideology, a troop whose ideoligion desires a hat was handed that hat afterwards in place of the helmet. Troops now always get the helmet (and the field uniform) when they roll it, in place of any headgear it cannot be worn with; troops without a helmet still wear their ideoligion's desired hat as before.
+- Save compatible.

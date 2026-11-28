@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Faction_Yamato.label>大和幕府</HE_Faction_Yamato.label>
+  <HE_Faction_Yamato.description>大和各氏族，殖民船“高天原号”的继承者。他们的武家以坚定不移的忠诚侍奉将军，他们的刀匠将钢折叠成世上最好的刀。</HE_Faction_Yamato.description>
+  <HE_Faction_Yamato.fixedName>大和幕府</HE_Faction_Yamato.fixedName>
+  <HE_Faction_Yamato.pawnSingular>大和</HE_Faction_Yamato.pawnSingular>
+  <HE_Faction_Yamato.pawnsPlural>大和人</HE_Faction_Yamato.pawnsPlural>
+  <HE_Faction_Yamato.leaderTitle>将军</HE_Faction_Yamato.leaderTitle>
+  <HE_Player_Yamato.label>大和定居者</HE_Player_Yamato.label>
+  <HE_Player_Yamato.description>一小户大和定居者，为他们的氏族开垦新土地。</HE_Player_Yamato.description>
+  <HE_Player_Yamato.pawnSingular>殖民者</HE_Player_Yamato.pawnSingular>
+  <HE_Player_Yamato.pawnsPlural>殖民者</HE_Player_Yamato.pawnsPlural>
+</LanguageData>

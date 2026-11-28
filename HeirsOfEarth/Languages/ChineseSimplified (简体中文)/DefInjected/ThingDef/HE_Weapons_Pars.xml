@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Pars_Spear.label>不死军长矛</HE_Pars_Spear.label>
+  <HE_Pars_Spear.description>一支山茱萸木长矛，带宽阔的叶形矛刃，矛尾饰有银石榴，检阅时竖持，战斗时平端。</HE_Pars_Spear.description>
+  <HE_Pars_Spear.tools.0.label>矛尾</HE_Pars_Spear.tools.0.label>
+  <HE_Pars_Spear.tools.1.label>剑尖</HE_Pars_Spear.tools.1.label>
+  <HE_Pars_Akinakes.label>阿基纳克短剑</HE_Pars_Akinakes.label>
+  <HE_Pars_Akinakes.description>一把直刃短剑，带心形护手和双狮鹫头剑首。在混战中灵活迅速，每位卫队军官都佩带。</HE_Pars_Akinakes.description>
+  <HE_Pars_Akinakes.tools.0.label>剑首</HE_Pars_Akinakes.tools.0.label>
+  <HE_Pars_Akinakes.tools.1.label>剑刃</HE_Pars_Akinakes.tools.1.label>
+  <HE_Pars_Akinakes.tools.2.label>剑尖</HE_Pars_Akinakes.tools.2.label>
+  <HE_Pars_Bow.label>反曲弓</HE_Pars_Bow.label>
+  <HE_Pars_Bow.description>一张以角和筋腱制成、弓臂涂红漆的深反曲短弓。拉得快，轻到能在奔马上射击。</HE_Pars_Bow.description>
+  <HE_Pars_Bow.tools.0.label>弩臂</HE_Pars_Bow.tools.0.label>
+  <HE_Pars_Jezail.label>杰撒伊长枪</HE_Pars_Jezail.label>
+  <HE_Pars_Jezail.description>一支极长的燧发枪，枪托弯曲并镶嵌骨片。装填要花很长时间，但有耐心的射手能隔着山谷击中一人。</HE_Pars_Jezail.description>
+  <HE_Pars_Jezail.tools.0.label>枪托</HE_Pars_Jezail.tools.0.label>
+  <HE_Pars_Jezail.tools.1.label>枪管</HE_Pars_Jezail.tools.1.label>
+  <HE_Pars_Shamshir.label>波斯弯刀</HE_Pars_Shamshir.label>
+  <HE_Pars_Shamshir.description>一把以大马士革钢锻造的深弯马刀。它像狮爪一样划过目标，是每位波斯骑手的骄傲。</HE_Pars_Shamshir.description>
+  <HE_Pars_Shamshir.tools.0.label>剑柄</HE_Pars_Shamshir.tools.0.label>
+  <HE_Pars_Shamshir.tools.1.label>剑尖</HE_Pars_Shamshir.tools.1.label>
+  <HE_Pars_Shamshir.tools.2.label>剑刃</HE_Pars_Shamshir.tools.2.label>
+  <HE_Pars_Rifle.label>波斯步枪</HE_Pars_Rifle.label>
+  <HE_Pars_Rifle.description>一支栓动步枪，枪托以哈塔姆镶嵌工艺装饰，由数千颗骨、铜和木制成的小星星组成。一件能射击的珍宝，也是各国射程最远的步枪。</HE_Pars_Rifle.description>
+  <HE_Pars_Rifle.tools.0.label>枪托</HE_Pars_Rifle.tools.0.label>
+  <HE_Pars_Rifle.tools.1.label>枪管</HE_Pars_Rifle.tools.1.label>
+  <HE_Pars_LongRifle.label>波斯长步枪</HE_Pars_LongRifle.label>
+  <HE_Pars_LongRifle.description>一支极长的步枪，配哈塔姆镶嵌枪托和精致的黄铜瞄具。瞄准缓慢，射程比各国任何其他枪都远。</HE_Pars_LongRifle.description>
+  <HE_Pars_LongRifle.tools.0.label>枪托</HE_Pars_LongRifle.tools.0.label>
+  <HE_Pars_LongRifle.tools.1.label>枪管</HE_Pars_LongRifle.tools.1.label>
+</LanguageData>

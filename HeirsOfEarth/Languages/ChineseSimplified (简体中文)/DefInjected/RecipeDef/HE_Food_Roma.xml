@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Cook_Roma_Puls.label>烹饪麦粥</HE_Cook_Roma_Puls.label>
+  <HE_Cook_Roma_Puls.description>烹饪麦粥。</HE_Cook_Roma_Puls.description>
+  <HE_Cook_Roma_Puls.jobString>正在烹饪麦粥。</HE_Cook_Roma_Puls.jobString>
+  <HE_Cook_Roma_Lucanica.label>烹饪卢卡尼卡香肠配面包</HE_Cook_Roma_Lucanica.label>
+  <HE_Cook_Roma_Lucanica.description>烹饪卢卡尼卡香肠配面包。</HE_Cook_Roma_Lucanica.description>
+  <HE_Cook_Roma_Lucanica.jobString>正在烹饪卢卡尼卡香肠配面包。</HE_Cook_Roma_Lucanica.jobString>
+  <HE_Cook_Roma_Libum.label>烹饪祭饼</HE_Cook_Roma_Libum.label>
+  <HE_Cook_Roma_Libum.description>烹饪祭饼。</HE_Cook_Roma_Libum.description>
+  <HE_Cook_Roma_Libum.jobString>正在烹饪祭饼。</HE_Cook_Roma_Libum.jobString>
+</LanguageData>

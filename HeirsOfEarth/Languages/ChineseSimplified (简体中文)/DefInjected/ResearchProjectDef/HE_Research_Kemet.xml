@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <HE_Kemet_Spear.label>河岸长矛</HE_Kemet_Spear.label>
+  <HE_Kemet_Spear.description>一支带銎式青铜矛头的轻矛，每当洪水退去出征时，每个征召兵都会携带。
+
+除非这是你的传承，否则需要5点凯美特知识。</HE_Kemet_Spear.description>
+  <HE_Kemet_Kalasiris.label>卡拉西里斯长衣</HE_Kemet_Kalasiris.label>
+  <HE_Kemet_Kalasiris.description>将精细亚麻织成河谷炎热中所穿的长筒裙。
+
+除非这是你的传承，否则需要5点凯美特知识。</HE_Kemet_Kalasiris.description>
+  <HE_Kemet_Irrigation.label>灌溉</HE_Kemet_Irrigation.label>
+  <HE_Kemet_Irrigation.description>挖掘浅渠，把河中的黑色淤泥运到田里，剩下的交给水。
+
+除非这是你的传承，否则需要5点凯美特知识。</HE_Kemet_Irrigation.description>
+  <HE_Kemet_CompositeBow.label>复合弓</HE_Kemet_CompositeBow.label>
+  <HE_Kemet_CompositeBow.description>把角、木和筋腱胶合成一张短而带角度的弓，比普通弓射得更远。
+
+除非这是你的传承，否则需要5点凯美特知识。</HE_Kemet_CompositeBow.description>
+  <HE_Kemet_Bread.label>椰枣面包</HE_Kemet_Bread.label>
+  <HE_Kemet_Bread.description>在陶模中烤制二粒小麦和椰枣圆面包，配洋葱和软奶酪。
+
+除非这是你的传承，否则需要5点凯美特知识。</HE_Kemet_Bread.description>
+  <HE_Kemet_RiverSoil.label>大河的馈赠</HE_Kemet_RiverSoil.label>
+  <HE_Kemet_RiverSoil.description>每块田地在洪水后都会被测量，并在同一周内播种。在凯美特，没有什么是靠运气生长的。
+
+传统：殖民者从每株植物上多收获8%。
+
+除非这是你的传承，否则需要15点凯美特知识。</HE_Kemet_RiverSoil.description>
+  <HE_Kemet_Scribes.label>书吏之家</HE_Kemet_Scribes.label>
+  <HE_Kemet_Scribes.description>会写字的孩子被教导写得好、清点谷物，并一字不差地抄写古书。
+
+传统：殖民者学习速度加快7%。
+
+除非这是你的传承，否则需要15点凯美特知识。</HE_Kemet_Scribes.description>
+  <HE_Kemet_SunCalendar.label>太阳历</HE_Kemet_SunCalendar.label>
+  <HE_Kemet_SunCalendar.description>三季，每季四个月，以一颗亮星的升起来推算。播种和收获都在正确的日子进行。
+
+传统：殖民者播种和收获速度加快7%。
+
+除非这是你的传承，否则需要20点凯美特知识。</HE_Kemet_SunCalendar.description>
+  <HE_Kemet_Obelisk.label>方尖碑</HE_Kemet_Obelisk.label>
+  <HE_Kemet_Obelisk.description>开采一整根石针，用坡道和绳索竖起，顶端覆上能捕捉第一缕晨光的黄金。
+
+除非这是你的传承，否则需要10点凯美特知识。</HE_Kemet_Obelisk.description>
+  <HE_Kemet_Khopesh.label>镰形剑</HE_Kemet_Khopesh.label>
+  <HE_Kemet_Khopesh.description>锻造战车兵团的镰形剑，一种能把盾牌钩开、劈砍如斧的刀刃。
+
+除非这是你的传承，否则需要10点凯美特知识。</HE_Kemet_Khopesh.description>
+  <HE_Kemet_Papyrus.label>莎草纸作坊</HE_Kemet_Papyrus.label>
+  <HE_Kemet_Papyrus.description>劈开河边的芦苇，交叉铺放，捶平，在阳光下晒干：整个文明的书写用纸。
+
+除非这是你的传承，否则需要15点凯美特知识。</HE_Kemet_Papyrus.description>
+  <HE_Kemet_Stonemasons.label>王家石匠</HE_Kemet_Stonemasons.label>
+  <HE_Kemet_Stonemasons.description>铜锯、沙子和耐心。凯美特石匠把墙面修得如此平滑，连刀刃都插不进石块之间。
+
+传统：殖民者打磨石材速度加快20%，采矿速度加快5%。
+
+除非这是你的传承，否则需要25点凯美特知识。</HE_Kemet_Stonemasons.description>
+  <HE_Kemet_ChariotCorps.label>战车兵团</HE_Kemet_ChariotCorps.label>
+  <HE_Kemet_ChariotCorps.description>蓝色皮革战冠和战车兵的鳞甲胸衣，专为在移动中挡开箭矢而造。
+
+除非这是你的传承，否则需要25点凯美特知识。</HE_Kemet_ChariotCorps.description>
+  <HE_Kemet_ChildrenOfSun.label>太阳之子</HE_Kemet_ChildrenOfSun.label>
+  <HE_Kemet_ChildrenOfSun.description>亚麻衣、正午的阴凉、早晨的水和炎热时的午睡。凯美特人能在别人晕倒的地方工作。
+
+传统：殖民者在高5°C的温度下仍感舒适。
+
+除非这是你的传承，否则需要25点凯美特知识。</HE_Kemet_ChildrenOfSun.description>
+  <HE_Kemet_RoyalKitchens.label>王家御厨</HE_Kemet_RoyalKitchens.label>
+  <HE_Kemet_RoyalKitchens.description>干净的水、加盖的罐子和洗手的厨师。宫廷厨房供养千人而不毒倒一人。
+
+传统：殖民者烹饪的饭菜导致食物中毒的几率降低40%，殖民者烹饪速度加快5%。
+
+除非这是你的传承，否则需要25点凯美特知识。</HE_Kemet_RoyalKitchens.description>
+  <HE_Kemet_Medjay.label>麦德查巡逻队</HE_Kemet_Medjay.label>
+  <HE_Kemet_Medjay.description>能跑上一整天、腰间速射的沙漠斥候。他们守卫陵墓、道路和边境。
+
+传统：殖民者移动速度加快2%，瞄准速度加快5%。
+
+除非这是你的传承，否则需要35点凯美特知识。</HE_Kemet_Medjay.description>
+  <HE_Kemet_Senet.label>塞尼特棋</HE_Kemet_Senet.label>
+  <HE_Kemet_Senet.description>一块三十格的棋盘，每人五枚棋子和四根投掷棒。国王们下葬时都带着他们的棋具。
+
+除非这是你的传承，否则需要10点凯美特知识。</HE_Kemet_Senet.description>
+  <HE_Kemet_DesertRifle.label>沙漠步枪</HE_Kemet_DesertRifle.label>
+  <HE_Kemet_DesertRifle.description>一支配有纤细铜箍枪托的长步枪，瞄具为沙漠边缘的开阔距离而校准。
+
+除非这是你的传承，否则需要35点凯美特知识。</HE_Kemet_DesertRifle.description>
+  <HE_Kemet_NileEngineering.label>大河工程</HE_Kemet_NileEngineering.label>
+  <HE_Kemet_NileEngineering.description>水坝、水闸和蒸汽泵。古老的运河用铁重建，洪水按时刻表行事。
+
+传统：殖民者建造速度加快5%，工作速度加快2%。
+
+除非这是你的传承，否则需要45点凯美特知识。</HE_Kemet_NileEngineering.description>
+  <HE_Kemet_SecondSunrise.label>第二次日出</HE_Kemet_SecondSunrise.label>
+  <HE_Kemet_SecondSunrise.description>“伊特鲁号”从沙中被挖出后，王国想起了自己曾经的模样，开始像拥有世上所有时间一样建造。
+
+传统：殖民者多收获4%，建造速度加快5%，精神崩溃阈值降低2%。
+
+除非这是你的传承，否则需要50点凯美特知识。
+
+完成该国的故事后解锁。</HE_Kemet_SecondSunrise.description>
+  <HE_Kemet_ArcherPylon.label>弓手塔门</HE_Kemet_ArcherPylon.label>
+  <HE_Kemet_ArcherPylon.description>神庙大门变成了堡垒：塔门上的弓手能覆盖整条狮身人面像大道。
+
+除非这是你的传承，否则需要40点凯美特知识。</HE_Kemet_ArcherPylon.description>
+  <HE_Kemet_PowderArms.label>凯美特火器</HE_Kemet_PowderArms.label>
+  <HE_Kemet_PowderArms.description>新凯美特制造火绳枪或燧发枪的方法：枪管、枪机、枪托，以及使用它们的操典。
+
+若非你的传承，只有在新凯美特进入火药时代后才能研究。
+
+除非这是你的传承，否则需要30点凯美特知识。</HE_Kemet_PowderArms.description>
+  <HE_Kemet_SteamArmy.label>凯美特蒸汽军</HE_Kemet_SteamArmy.label>
+  <HE_Kemet_SteamArmy.description>定装弹、膛线枪管和一身军服：工厂到来时新凯美特组建的军队。
+
+若非你的传承，只有在新凯美特进入蒸汽时代后才能研究。
+
+除非这是你的传承，否则需要45点凯美特知识。</HE_Kemet_SteamArmy.description>
+  <HE_Kemet_ElectricArmy.label>凯美特电气军</HE_Kemet_ElectricArmy.label>
+  <HE_Kemet_ElectricArmy.description>机器制造的武器、钢盔和一身土褐色野战军服：电线到来时新凯美特组建的军队。
+
+若非你的传承，只有在新凯美特进入电气时代后才能研究。
+
+除非这是你的传承，否则需要60点凯美特知识。</HE_Kemet_ElectricArmy.description>
+  <HE_Kemet_Works.label>凯美特工程</HE_Kemet_Works.label>
+  <HE_Kemet_Works.description>新凯美特的第一批电气工程：一台令国家自豪的机器，按照它自己的品味建造。
+
+若非你的传承，只有在新凯美特进入电气时代后才能研究。
+
+除非这是你的传承，否则需要50点凯美特知识。</HE_Kemet_Works.description>
+</LanguageData>
